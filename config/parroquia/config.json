@@ -1,0 +1,322 @@
+{
+  "calendar": {
+    "events": {
+      "list": [
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "",
+          "duration": null,
+          "id": "evt-bd19b3e5-319f-4a4d-a125-a2880f207a33",
+          "image": "",
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "",
+          "type": "funeral"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "",
+          "duration": null,
+          "id": "evt-a4107b15-be8a-4fce-b3d2-45ae047fb30f",
+          "image": "",
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "",
+          "type": ""
+        },
+        {
+          "date": null,
+          "description": "",
+          "location": " San Francisco Javier",
+          "rrule": [
+            "su",
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "12:00",
+          "type": "mass"
+        },
+        {
+          "celebrants": [],
+          "date": null,
+          "description": "",
+          "duration": null,
+          "image": "",
+          "location": "Escolapios",
+          "rrule": [
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr"
+          ],
+          "times": "20:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "celebrants": [],
+          "date": null,
+          "description": "",
+          "duration": null,
+          "except": [
+            {
+              "celebrants": [],
+              "date": "2026-08-04",
+              "newPlace": "",
+              "newTime": "",
+              "place": "San Francisco Javier",
+              "takesPlace": true,
+              "time": "12:00"
+            }
+          ],
+          "image": "",
+          "location": " San Francisco Javier",
+          "rrule": [
+            "su",
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "12:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "celebrants": [],
+          "date": null,
+          "description": "",
+          "duration": null,
+          "except": [
+            {
+              "celebrants": [],
+              "date": "2026-08-03",
+              "newPlace": " San Francisco Javier",
+              "newTime": "",
+              "place": "San Antonio Padua (Capuchinos)",
+              "takesPlace": true,
+              "time": "10:30"
+            }
+          ],
+          "image": "",
+          "location": " San Antonio Padua (Capuchinos)",
+          "rrule": [
+            "su",
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "10:30",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "location": " San Antonio Padua (Capuchinos)",
+          "rrule": [
+            "su",
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "ve"
+          ],
+          "times": "18:30",
+          "type": "mass"
+        }
+      ],
+      "urls": []
+    }
+  },
+  "event-types": {
+    "list": [
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "Descanse en paz",
+          "duration": 45,
+          "image": "/media/undefined",
+          "location": "",
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": ""
+        },
+        "icon": "mdi:coffin",
+        "label": "Funeral",
+        "name": "469a9211-73f7-4ca0-b03c-562cc198afc3",
+        "protected": true
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": 45,
+          "image": "",
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "icon": "game-icons:jeweled-chalice",
+        "label": "Eucaristía",
+        "name": "a7e773a3-0726-4592-91a7-afafcd379c42",
+        "protected": "mass"
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": 45,
+          "image": "",
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "icon": "heroicons-solid:chat-bubble-bottom-center-text",
+        "label": "Confesiones",
+        "name": "150211d9-1bdd-4fd6-a364-6c9e7bf701c4",
+        "protected": true
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": 45,
+          "image": "",
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": "Catequesis"
+        },
+        "icon": "heroicons-solid:users",
+        "label": "Catequesis",
+        "name": "ef5f6296-5731-4ab8-89fe-9a1320103670",
+        "protected": true
+      }
+    ]
+  },
+  "info": {
+    "autodiscover": "",
+    "bank": [],
+    "collaborators": [],
+    "description": "",
+    "places": [
+      {
+        "geo": "42.813284, -1.636244",
+        "image": [],
+        "name": " San Francisco Javier"
+      },
+      {
+        "geo": "42.8126403, -1.6389535",
+        "image": [],
+        "name": " San Antonio Padua (Capuchinos)"
+      }
+    ],
+    "social": [],
+    "title": "Parroquia"
+  },
+  "pages": {
+    "languages": [
+      "Español:es",
+      "English:en"
+    ],
+    "list": [
+      {
+        "description": "",
+        "hideHero": false,
+        "image": "",
+        "protected": "Portada",
+        "sections": [
+          {
+            "links": [
+              "https://open.spotify.com/show/7LonKVvfQIsCp45TM58h7y?si=5974a35003ef4ecb"
+            ],
+            "tags": [],
+            "title": "",
+            "type": "video-podcast"
+          }
+        ],
+        "title": "Portada"
+      },
+      {
+        "description": "",
+        "image": "",
+        "protected": "Plantilla pueblos",
+        "sections": [
+          {
+            "filter": "{{name}}",
+            "order": [],
+            "tags": [],
+            "title": "Nuestras celebraciones",
+            "type": "calendar"
+          },
+          {
+            "filter": "",
+            "tags": [],
+            "title": "",
+            "type": "video-channel"
+          },
+          {
+            "geo": "{{geo}}",
+            "image": "",
+            "name": "{{name}}",
+            "tags": [],
+            "title": "Descubre {{name}}",
+            "type": "map"
+          },
+          {
+            "list": [],
+            "tags": [],
+            "title": "",
+            "type": "gallery"
+          }
+        ],
+        "title": "{{name}}"
+      }
+    ],
+    "nav": [],
+    "pageperlocatoin": true
+  },
+  "site": {
+    "bank": [],
+    "collaborators": [],
+    "description": "",
+    "icon": "",
+    "image": "/media/media--ltima_Cena_-_Juan_de_Juanes.webp",
+    "social": [],
+    "title": "47herri"
+  },
+  "theme": {
+    "accentColor": "#288518",
+    "accentPrimary": "#0000ff",
+    "bodyFont": "Montserrat",
+    "headingFont": "Montserrat",
+    "icon": "",
+    "image": "/media/media-IMG-20260801-WA0019.webp",
+    "navStyle": "",
+    "styles": []
+  }
+}

@@ -1,0 +1,2369 @@
+{
+  "calendar": {
+    "events": {
+      "list": [
+        {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": null,
+          "location": "Aldatz",
+          "rrule": [
+            "sa",
+            "su",
+            "mo,tu,we,th,fr"
+          ],
+          "times": "09:00",
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Aldatz"
+          ],
+          "rrule": [
+            "sa",
+            "week1"
+          ],
+          "times": [
+            "18:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Arano"
+          ],
+          "rrule": [
+            "su"
+          ],
+          "times": [
+            "11:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Areso"
+          ],
+          "rrule": [
+            "su"
+          ],
+          "times": [
+            "10:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Arrarats"
+          ],
+          "rrule": [
+            "su",
+            "week1"
+          ],
+          "times": [
+            "12:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Latasa"
+          ],
+          "rrule": [
+            "sa",
+            "week3"
+          ],
+          "times": [
+            "17:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Azkarate"
+          ],
+          "rrule": [
+            "sa",
+            "week1"
+          ],
+          "times": [
+            "17:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Azpirotz"
+          ],
+          "rrule": [
+            "su",
+            "week2"
+          ],
+          "times": [
+            "12:30"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Beruete"
+          ],
+          "rrule": [
+            "su"
+          ],
+          "times": [
+            "11:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Betelu"
+          ],
+          "rrule": [
+            "fr"
+          ],
+          "times": [
+            "11:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Betelu"
+          ],
+          "rrule": [
+            "su"
+          ],
+          "times": [
+            "12:30"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Eraso"
+          ],
+          "rrule": [
+            "sa",
+            "week2"
+          ],
+          "times": [
+            "17:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Erbiti"
+          ],
+          "rrule": [
+            "su",
+            "week5"
+          ],
+          "times": [
+            "12:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Errazkin"
+          ],
+          "rrule": [
+            "su",
+            "week1"
+          ],
+          "times": [
+            "12:30"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Etxaleku"
+          ],
+          "rrule": [
+            "su",
+            "week1"
+          ],
+          "times": [
+            "10:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Etxarri"
+          ],
+          "rrule": [
+            "sa",
+            "week3"
+          ],
+          "times": [
+            "18:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Gaintza"
+          ],
+          "rrule": [
+            "sa",
+            "week2"
+          ],
+          "times": [
+            "17:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Gartzaron"
+          ],
+          "rrule": [
+            "su",
+            "week4"
+          ],
+          "times": [
+            "12:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Goizueta"
+          ],
+          "rrule": [
+            "su"
+          ],
+          "times": [
+            "12:30"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Goldaratz"
+          ],
+          "rrule": [
+            "th",
+            "week1"
+          ],
+          "times": [
+            "12:30"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Gorriti"
+          ],
+          "rrule": [
+            "su",
+            "week3"
+          ],
+          "times": [
+            "12:30"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Igoa eta Aizarotz"
+          ],
+          "rrule": [
+            "su",
+            "week3"
+          ],
+          "times": [
+            "12:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Ihaben"
+          ],
+          "rrule": [
+            "su",
+            "week2"
+          ],
+          "times": [
+            "10:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Intza"
+          ],
+          "rrule": [
+            "sa",
+            "week4"
+          ],
+          "times": [
+            "17:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Itsaso"
+          ],
+          "rrule": [
+            "su",
+            "week3"
+          ],
+          "times": [
+            "10:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Jauntsarats"
+          ],
+          "rrule": [
+            "su",
+            "week4"
+          ],
+          "times": [
+            "10:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Leitza"
+          ],
+          "rrule": [
+            "mo,tu,we,th,fr",
+            "sa"
+          ],
+          "times": [
+            "19:30"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Leitza"
+          ],
+          "rrule": [
+            "su"
+          ],
+          "times": [
+            "09:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Leitza"
+          ],
+          "rrule": [
+            "su"
+          ],
+          "times": [
+            "11:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Lekunberri"
+          ],
+          "rrule": [
+            "mo,tu,we,th,fr",
+            "sa"
+          ],
+          "times": [
+            "18:30"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Lekunberri"
+          ],
+          "rrule": [
+            "su"
+          ],
+          "times": [
+            "09:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Lekunberri"
+          ],
+          "rrule": [
+            "su"
+          ],
+          "times": [
+            "11:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Orokieta"
+          ],
+          "rrule": [
+            "su",
+            "week2"
+          ],
+          "times": [
+            "12:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Oskotz"
+          ],
+          "rrule": [
+            "sa",
+            "week1"
+          ],
+          "times": [
+            "17:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Uitzi"
+          ],
+          "rrule": [
+            "su",
+            "week4"
+          ],
+          "times": [
+            "12:30"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Urritza"
+          ],
+          "rrule": [
+            "sa",
+            "week4"
+          ],
+          "times": [
+            "17:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Uztegi"
+          ],
+          "rrule": [
+            "sa",
+            "week3"
+          ],
+          "times": [
+            "17:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Iribas"
+          ],
+          "rrule": [
+            "sa",
+            "week5"
+          ],
+          "times": [
+            "18:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Baraibar"
+          ],
+          "rrule": [
+            "sa",
+            "week4"
+          ],
+          "times": [
+            "18:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Mugiro"
+          ],
+          "rrule": [
+            "sa",
+            "week2"
+          ],
+          "times": [
+            "18:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Arribe/Atallu"
+          ],
+          "notes": "Txandaka",
+          "rrule": [
+            "sa"
+          ],
+          "times": [
+            "18:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Muskitz"
+          ],
+          "rrule": [
+            "sa",
+            "week5"
+          ],
+          "times": [
+            "17:00"
+          ],
+          "title": "Misa",
+          "type": "mass"
+        },
+        {
+          "location": [
+            "Leitza"
+          ],
+          "rrule": [
+            "fr"
+          ],
+          "times": [
+            "16:00"
+          ],
+          "title": "Katekesia",
+          "type": "group"
+        },
+        {
+          "location": [
+            "Leitza"
+          ],
+          "rrule": [
+            "fr"
+          ],
+          "times": [
+            "18:00"
+          ],
+          "title": "Katekesia",
+          "type": "group"
+        },
+        {
+          "location": [
+            "Leitza"
+          ],
+          "rrule": [
+            "su"
+          ],
+          "times": [
+            "10:00"
+          ],
+          "title": "Katekesia",
+          "type": "group"
+        },
+        {
+          "location": [
+            "Lekunberri"
+          ],
+          "rrule": [
+            "we"
+          ],
+          "times": [
+            "15:45"
+          ],
+          "title": "Katekesia",
+          "type": "group"
+        },
+        {
+          "location": [
+            "Betelu"
+          ],
+          "rrule": [
+            "fr"
+          ],
+          "times": [
+            "19:00"
+          ],
+          "title": "Katekesia",
+          "type": "group"
+        },
+        {
+          "location": [
+            "Areso"
+          ],
+          "rrule": [
+            "mo"
+          ],
+          "times": [
+            "16:30"
+          ],
+          "title": "Katekesia",
+          "type": "group"
+        },
+        {
+          "location": [
+            "Areso"
+          ],
+          "rrule": [
+            "tu"
+          ],
+          "times": [
+            "15:45"
+          ],
+          "title": "Katekesia",
+          "type": "group"
+        },
+        {
+          "location": [
+            "Lekunberri"
+          ],
+          "rrule": [
+            "th"
+          ],
+          "times": [
+            "18:30"
+          ],
+          "title": "Adoración al Santísimo",
+          "type": "group"
+        },
+        {
+          "location": [
+            "Betelu",
+            "Leitza"
+          ],
+          "rrule": [
+            "sa",
+            "week3"
+          ],
+          "times": [
+            "20:00"
+          ],
+          "title": "Adoración al Santísimo",
+          "type": "group"
+        }
+      ],
+      "urls": [
+        "https://calendar.google.com/calendar/ical/bfae575354c7f6c2411c32f7d957eaa96bd1c413cfbc6ec80408a40904b533e9%40group.calendar.google.com/public/basic.ics"
+      ]
+    }
+  },
+  "dev": {
+    "goatcounter": "https://47herri.goatcounter.com/count",
+    "siteurl": "https://47herri.eus"
+  },
+  "event-types": {
+    "list": [
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": 45,
+          "image": "/media/mass.webp",
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "icon": "game-icons:jeweled-chalice",
+        "label": "Eucaristía",
+        "name": "mass",
+        "protected": true
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": null,
+          "image": "",
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "icon": "",
+        "label": "group",
+        "name": "group",
+        "protected": true
+      }
+    ]
+  },
+  "info": {
+    "autodiscover": "",
+    "bank": [
+      {
+        "account": "11995",
+        "title": "Bizum"
+      },
+      {
+        "account": "ES15 2100 4941 1222 0005 0326",
+        "title": "Caixa"
+      },
+      {
+        "account": "ES66 3035 0118 8811 8000 2943",
+        "title": "Laboral"
+      },
+      {
+        "account": "ES17 3008 0179 2436 5465 8818",
+        "title": "Rural"
+      }
+    ],
+    "collaborators": [
+      {
+        "image": "/media/20251129_093926.jpg",
+        "name": "David Galarza",
+        "phonenumber": "690 08 15 84",
+        "social": []
+      },
+      {
+        "image": "/media/Screenshot_20250404_192119_Gallery.webp",
+        "name": "Santi Garisoain",
+        "phonenumber": "648 77 22 11",
+        "social": []
+      },
+      {
+        "image": "/media/Screenshot_20250404_192754_Gallery.webp",
+        "name": "Jesús Mª Sotil",
+        "phonenumber": "638 73 95 75",
+        "social": []
+      }
+    ],
+    "description": "Nafarroako ipar-mendebaldeko hamar udalerrietako 47 parrokiek osatzen duten pastoral barruti katolikoa gara gu iruñako elizbarrutian.",
+    "icon": "/media/android-chrome-512x512.png",
+    "image": "/media/hero-bg.webp",
+    "places": [
+      {
+        "gallery": [
+          "/media/Screenshot_20250329_234618_YouTube.webp",
+          "/media/jmetayo/Albiasu12.webp"
+        ],
+        "geo": "43.00878, -1.93683",
+        "image": "/media/Screenshot_20250329_234613_YouTube-1.webp",
+        "name": "Albiasu",
+        "source": "./pages/albiasu.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "43.00957, -1.85974",
+        "image": "/media/Screenshot_20250329_235624_YouTube.webp",
+        "name": "Aldatz",
+        "source": "./pages/aldatz.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.99151, -1.89673",
+        "image": "/media/Screenshot_20250330_003103_YouTube.webp",
+        "name": "Alli",
+        "source": "./pages/alli.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "43.19951, -1.89462",
+        "image": "/media/arano.webp",
+        "name": "Arano",
+        "source": "./pages/arano.md",
+        "tags": [
+          "Urumea"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "43.08272, -1.95200",
+        "image": "/media/Screenshot_20250620_202222_Gallery.jpg",
+        "name": "Areso",
+        "source": "./pages/areso.md",
+        "tags": [
+          "Leitzaran"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/jmetayo/Zarrantz5.webp"
+        ],
+        "geo": "43.0374485, -1.8039478",
+        "image": "/media/Screenshot_20250330_003359_YouTube.webp",
+        "name": "Arrarats",
+        "source": "./pages/arrarats.md",
+        "tags": [
+          "Basaburua"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "43.03161, -1.98289",
+        "image": "/media/Screenshot_20250330_004022_YouTube.webp",
+        "name": "Arribe",
+        "source": "./pages/arribe.md",
+        "tags": [
+          "Araitz"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.98189, -1.85630",
+        "image": "/media/Screenshot_20250330_000339_YouTube.webp",
+        "name": "Arruitz",
+        "source": "./pages/arruitz.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.97074, -1.87838",
+        "image": "/media/Screenshot_20250330_004656_YouTube.webp",
+        "name": "Astitz",
+        "source": "./pages/astitz.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "43.04072, -1.98852",
+        "image": "/media/Screenshot_20250330_005419_YouTube.webp",
+        "name": "Atallu",
+        "source": "./pages/atallu.md",
+        "tags": [
+          "Araitz"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "43.03463, -2.01012",
+        "image": "/media/zarate-web-1.webp",
+        "name": "Azkarate",
+        "source": "./pages/azkarate.md",
+        "tags": [
+          "Araitz"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "43.02836, -1.93402",
+        "image": "/media/Screenshot_20250330_010046_YouTube.webp",
+        "name": "Azpirotz",
+        "source": "./pages/azpirotz.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/jmetayo/Baraibar.webp"
+        ],
+        "geo": "42.98953, -1.92347",
+        "image": "/media/Screenshot_20250405_181925_YouTube.webp",
+        "name": "Baraibar",
+        "source": "./pages/baraibar.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.980389, -1.822057",
+        "image": "/media/beramendi.webp",
+        "name": "Beramendi",
+        "source": "./pages/beramendi.md",
+        "tags": [
+          "Basaburua"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/jmetayo/Beruete04a.webp",
+          "/media/jmetayo/Beruete08a.webp",
+          "/media/jmetayo/Beruete10a.webp"
+        ],
+        "geo": "43.02656, -1.82590",
+        "image": "/media/640px-Beruete.webp",
+        "name": "Beruete",
+        "source": "./pages/beruete.md",
+        "tags": [
+          "Basaburua"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "43.02259, -1.97616",
+        "image": "/media/Screenshot_20250324_223949_YouTube-1.webp",
+        "name": "Betelu",
+        "source": "./pages/betelu.md",
+        "tags": [
+          "Araitz"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.9508406, -1.8054720",
+        "image": "/media/Screenshot_20250330_010441_YouTube.webp",
+        "name": "Eraso",
+        "source": "./pages/eraso.md",
+        "tags": [
+          "Imotz"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.9989472, -1.7669464",
+        "image": "/media/Screenshot_20250330_091555_YouTube.webp",
+        "name": "Erbiti",
+        "source": "./pages/erbiti.md",
+        "tags": [
+          "Basaburua"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/Screenshot_20250330_091910_YouTube.webp"
+        ],
+        "geo": "43.00658, -1.96063",
+        "image": "/media/Screenshot_20250330_092007_YouTube.webp",
+        "name": "Errazkin",
+        "source": "./pages/errazkin.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.96943, -1.79024",
+        "image": "/media/Screenshot_20250323_235734_Gallery.webp",
+        "name": "Etxaleku",
+        "source": "./pages/etxaleku.md",
+        "tags": [
+          "Imotz"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/jmetayo/Etxarri01a.webp",
+          "/media/jmetayo/Etxarri02a.webp",
+          "/media/jmetayo/Etxarri03a.webp",
+          "/media/jmetayo/Etxarri16a.webp"
+        ],
+        "geo": "43.00218, -1.87298",
+        "image": "/media/Screenshot_20250330_185413_Samsung Internet.webp",
+        "name": "Etxarri",
+        "source": "./pages/etxarri - larraun.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "43.0208511, -2.0096471",
+        "image": "/media/Screenshot_20250330_185501_YouTube.webp",
+        "name": "Gaintza",
+        "source": "./pages/gaintza.md",
+        "tags": [
+          "Araitz"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.99744, -1.77401",
+        "image": "/media/Screenshot_20250330_185731_YouTube.webp",
+        "name": "Gartzaron",
+        "source": "./pages/gartzaron.md",
+        "tags": [
+          "Basaburua"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/Escudo de Goizueta.svg"
+        ],
+        "geo": "43.21377, -1.79586",
+        "image": "/media/9c8ff55b1b3475c8cf767313ce6d7966.webp",
+        "name": "Goizueta",
+        "source": "./pages/goizueta.md",
+        "tags": [
+          "Urumea"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/jmetayo/Goldaraz2.webp",
+          "/media/jmetayo/Goldaraz4.webp",
+          "/media/jmetayo/Goldaraz6.webp",
+          "/media/jmetayo/Goldaraz7.webp"
+        ],
+        "geo": "42.9496774, -1.8359050",
+        "image": "/media/Screenshot_20250330_185836_YouTube.webp",
+        "name": "Goldaratz",
+        "source": "./pages/goldaratz.md",
+        "tags": [
+          "Imotz"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "43.05145, -1.95463",
+        "image": "/media/Iglesia de Gorriti copiar.webp",
+        "name": "Gorriti",
+        "source": "./pages/gorriti.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/jmetayo/Igoa01a.webp",
+          "/media/jmetayo/Igoa05a.webp"
+        ],
+        "geo": "43.0312209, -1.7858537",
+        "image": "/media/Screenshot_20250330_190717_YouTube.webp",
+        "name": "Igoa eta Aizarotz",
+        "source": "./pages/igoa-aizarotz.md",
+        "tags": [
+          "Basaburua"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.9871091, -1.8071447",
+        "image": "/media/Screenshot_20250330_190821_YouTube.webp",
+        "name": "Ihaben",
+        "source": "./pages/ihaben.md",
+        "tags": [
+          "Basaburua"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "43.01714, -1.99244",
+        "image": "/media/Screenshot_20250330_190929_YouTube.webp",
+        "name": "Intza",
+        "source": "./pages/intza.md",
+        "tags": [
+          "Araitz"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/jmetayo/Iribas.webp"
+        ],
+        "geo": "42.98863, -1.90418",
+        "image": "/media/Screenshot_20250405_182010_YouTube.webp",
+        "name": "Iribas",
+        "source": "./pages/iribas.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.99201, -1.83304",
+        "image": "/media/Screenshot_20250330_191241_YouTube.webp",
+        "name": "Itsaso",
+        "source": "./pages/itsaso.md",
+        "tags": [
+          "Basaburua"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/jmetayo/Jaunsaras2.webp",
+          "/media/jmetayo/Jaunsaras3.webp",
+          "/media/jmetayo/Jaunsaras4.webp"
+        ],
+        "geo": "43.00132, -1.80225",
+        "image": "/media/Screenshot_20250330_193829_YouTube.webp",
+        "name": "Jauntsarats",
+        "source": "./pages/jauntsarats.md",
+        "tags": [
+          "Basaburua"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.9544555, -1.8221520",
+        "image": "/media/Screenshot_20250330_193953_YouTube.webp",
+        "name": "Latasa",
+        "source": "./pages/latasa.md",
+        "tags": [
+          "Imotz"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/Screenshot_20250403_221152_YouTube.webp"
+        ],
+        "geo": "43.07797, -1.91260",
+        "image": "/media/f1.webp",
+        "name": "Leitza",
+        "source": "./pages/leitza.md",
+        "tags": [
+          "Leitzaran"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/Escudo de Lekunberri.svg",
+          "/media/IMG-20260403-WA0014.jpg"
+        ],
+        "geo": "43.00596, -1.89541",
+        "image": "/media/f0.webp",
+        "name": "Lekunberri",
+        "source": "./pages/lekunberri.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "",
+        "image": "/media/Screenshot_20250330_194842_YouTube.webp",
+        "name": "Lezaeta",
+        "source": "./pages/lezaeta.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/jmetayo/Madotz01.webp",
+          "/media/jmetayo/Madotz02.webp",
+          "/media/jmetayo/Madotz08.webp",
+          "/media/jmetayo/Madotz13.webp",
+          "/media/jmetayo/Madoz2.webp",
+          "/media/jmetayo/Madoz3.webp"
+        ],
+        "geo": "42.9378197, -1.8761211",
+        "image": "/media/Screenshot_20250330_195047_YouTube.webp",
+        "name": "Madotz",
+        "source": "./pages/madotz.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.99143, -1.88167",
+        "image": "/media/Screenshot_20250405_182111_YouTube.webp",
+        "name": "Mugiro",
+        "source": "./pages/mugiro.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/jmetayo/Muskiz1.webp",
+          "/media/jmetayo/Muskiz3.webp",
+          "/media/jmetayo/Muskiz7.webp"
+        ],
+        "geo": "42.9359167, -1.7493240",
+        "image": "/media/Screenshot_20250330_195129_YouTube.webp",
+        "name": "Muskitz",
+        "source": "./pages/muskitz.md",
+        "tags": [
+          "Imotz"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.9513991, -1.8715113",
+        "image": "/media/Screenshot_20250330_201915_YouTube.webp",
+        "name": "Oderitz",
+        "source": "./pages/oderitz.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "43.01357, -1.75797",
+        "image": "/media/Screenshot_20250330_202037_YouTube.webp",
+        "name": "Orokieta",
+        "source": "./pages/orokieta.md",
+        "tags": [
+          "Basaburua "
+        ]
+      },
+      {
+        "gallery": [
+          "/media/jmetayo/Oskoz10.webp",
+          "/media/jmetayo/Oskoz12.webp",
+          "/media/jmetayo/Oskoz15.webp",
+          "/media/jmetayo/Oskoz2.webp",
+          "/media/jmetayo/Oskoz4.webp"
+        ],
+        "geo": "42.95939, -1.78165",
+        "image": "/media/375115502.webp",
+        "name": "Oskotz",
+        "source": "./pages/oskotz.md",
+        "tags": [
+          "Imotz"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "42.97462, -1.82702",
+        "image": "/media/Screenshot_20250330_202150_YouTube.webp",
+        "name": "Udabe",
+        "source": "./pages/udabe.md",
+        "tags": [
+          "Basaburua"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "43.04080, -1.92649",
+        "image": "/media/Screenshot_20250330_091051_YouTube.webp",
+        "name": "Uitzi",
+        "source": "./pages/uitzi.md",
+        "tags": [
+          "Larraun"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "",
+        "image": "/media/Screenshot_20250330_205912_YouTube-1.webp",
+        "name": "Urritza",
+        "source": "./pages/urritza.md",
+        "tags": [
+          "Imotz"
+        ]
+      },
+      {
+        "gallery": [],
+        "geo": "",
+        "image": "/media/Screenshot_20250330_202431_YouTube.webp",
+        "name": "Uztegi",
+        "source": "./pages/uztegi.md",
+        "tags": [
+          "Araitz"
+        ]
+      },
+      {
+        "gallery": [
+          "/media/20250425_105832.webp",
+          "null",
+          "/media/jmetayo/Zarrantz5.webp"
+        ],
+        "geo": "",
+        "image": "/media/20250425_105840.webp",
+        "name": "Zarrantz",
+        "source": "./pages/zarrantz.md",
+        "tags": [
+          "Imotz"
+        ]
+      }
+    ],
+    "social": [
+      "https://www.youtube.com/@47herri"
+    ],
+    "title": "47 herri"
+  },
+  "pages": {
+    "filenameMode": "translated",
+    "languages": [
+      "Euskara:eu",
+      "Castellano:es",
+      "Català:ca",
+      "English:en",
+      "Français:fr",
+      "Deutsch:de",
+      "Italiano:it",
+      "Português:pt",
+      "Română:ro",
+      "العربية:ar",
+      "Български:bg"
+    ],
+    "list": [
+      {
+        "description": "",
+        "hideHero": false,
+        "image": "/media/hero-bg.webp",
+        "protected": "",
+        "sections": [
+          {
+            "_block": "calendar",
+            "filter": "byday:empty",
+            "order": [
+              "title",
+              "dates",
+              "skip",
+              "times",
+              "locations"
+            ],
+            "tags": [],
+            "title": "Próximas celebraciones"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "skip",
+              "locations",
+              "byday-weekday+byweek+notes"
+            ],
+            "tags": [],
+            "title": "Horario de Misas"
+          },
+          {
+            "_block": "calendar",
+            "filter": "!byday:empty&!mass",
+            "order": [
+              "title",
+              "locations",
+              "skip",
+              "times",
+              "byday+byweek+notes"
+            ],
+            "tags": [],
+            "title": "Otros eventos periódicos"
+          },
+          {
+            "_block": "video-channel",
+            "filter": "",
+            "tags": [],
+            "title": "Eguneroko Meza"
+          },
+          {
+            "_block": "gallery",
+            "list": [],
+            "tags": [],
+            "title": ""
+          },
+          {
+            "_block": "town",
+            "filters": [
+              "Todos",
+              "Larraun",
+              "Urumea",
+              "Leitzaran",
+              "Basaburua",
+              "Araitz",
+              "Imotz"
+            ],
+            "tags": [],
+            "title": "Gure herriak"
+          },
+          {
+            "_block": "team",
+            "tags": [],
+            "title": "Gure apezak"
+          },
+          {
+            "_block": "text",
+            "html": "2019an Iruña-Tuterako elizbarrutian pastoral barrutiak (erdaraz \"UAP\" direlakoak) eratu ziren, Nafarroako 700 parrokiak 36 pastoral barrutitan kontzentratuz. Berez helburua da pastoralki parroki bakarra osatuko balute bezala lan egitea. Apez talde bat egon beharko litzateke barruti osorako eta pastoral kontseilu bakarra sortu. Herri guztietako eliztarrek sentitu beharko lukete zirkunskripzio bereko partaide direla. Juridikoki eta ekonomikoki, ordea, parroki bakoitzak bere burujabetasuna mantentzen du.\n\nEklesiastikoki gure pastoral barrutia Iruñako elizbarrutian dago, Mendialdeko zonalde pastoralean eta Aralarko artziprestaldean hain zuzen ere. Lurralde antolakuntza zibilari dagokionez, Nafarroako hamar udalerrietan gaude: LEITZA, ARESO, GOIZUETA, ARANO, ARAITZ, BETELU, LARRAUN, LEKUNBERRI, BASABURUA ETA IMOTZ.\n\nUne honetan hiru parroko in solidum aritzen gara aipatutako pastoral barrutian: Jesus Mari Sotil, Santiago Garisoain eta David Galarza, eta asteburutan beste hiru apez etortzen zaizkigu mezak ematen laguntzera: Joxe Mari Aleman, Pako Beloki eta Peio Etxabarri. ![](/media/about-img.webp)",
+            "tags": [
+              "dark"
+            ],
+            "title": "Gure pastoral barrutia"
+          },
+          {
+            "_block": "map",
+            "geo": "",
+            "image": "",
+            "name": "",
+            "tags": [],
+            "title": "Conócenos"
+          }
+        ],
+        "slug": "index",
+        "source": "./pages/index.md",
+        "title": "Ongi etorri"
+      },
+      {
+        "description": "",
+        "hideHero": true,
+        "image": "/media/hero-bg.webp",
+        "protected": "",
+        "sections": [
+          {
+            "_block": "gospel",
+            "audio": false,
+            "basic": true,
+            "images": false,
+            "readings": false,
+            "tags": [
+              "twocols"
+            ],
+            "title": "Evangelio"
+          },
+          {
+            "_block": "video",
+            "links": [
+              "https://www.youtube.com/watch?v=Bpmam96GZno"
+            ],
+            "tags": [
+              "twocols",
+              "hidden"
+            ],
+            "title": "Gurutz bidea"
+          },
+          {
+            "_block": "video",
+            "links": [
+              "https://www.youtube.com/watch?v=W0PbRzsxue0"
+            ],
+            "tags": [
+              "twocols",
+              "hidden"
+            ],
+            "title": "Zeru lurren erregina"
+          },
+          {
+            "_block": "video",
+            "links": [
+              "https://www.youtube.com/watch?v=eDDOa-8RpzA"
+            ],
+            "tags": [
+              "twocols"
+            ],
+            "title": "Angelusa"
+          },
+          {
+            "_block": "video",
+            "links": [
+              "https://www.youtube.com/watch?v=h5mZdE6u274",
+              "https://www.youtube.com/watch?v=870YjOJqPek",
+              "https://www.youtube.com/watch?v=_xjJggHEpQI",
+              "https://www.youtube.com/watch?v=7zenKMOnsxs"
+            ],
+            "tags": [
+              "horizontal"
+            ],
+            "title": "Errosario Santua"
+          },
+          {
+            "_block": "video-channel",
+            "filter": "playlist",
+            "filters": [
+              "Guztiak",
+              "Imnoak",
+              "Ofertorioa",
+              "San Migel",
+              "Jesusen Bihotza",
+              "Ama Birjina",
+              "Hiletak",
+              "Pazkoa",
+              "Garizuma",
+              "Eguberrialdia",
+              "Abendualdia",
+              "Irteera",
+              "Jaunartzea",
+              "Bakea",
+              "Sanctus",
+              "Salmoak",
+              "Aintza",
+              "Sarrera"
+            ],
+            "query": true,
+            "tags": [
+              "horizontal"
+            ],
+            "title": "Mezako kantak"
+          },
+          {
+            "_block": "video-gospel",
+            "tags": [],
+            "title": "Itun Berria"
+          },
+          {
+            "_block": "video-podcast",
+            "links": [
+              "https://sallebarne.eus",
+              "https://open.spotify.com/show/7LonKVvfQIsCp45TM58h7y",
+              "https://open.spotify.com/show/1XWvEFBoCvahdELmEXgSfL",
+              "https://open.spotify.com/show/1zR5ODOgjx1lGObG2gJvox",
+              "https://open.spotify.com/show/2z0RRDpp9rP6urEwdBrGpe",
+              "https://youtube.com/playlist?list=PL2fBaIU3WZ23ahmPx34yYXDu3yrp-yASO",
+              "https://open.spotify.com/show/2stzE1aIR8elv3tEIHNosr",
+              "https://open.spotify.com/show/6FJFJ46Q4aPXIWWDKY9tYf"
+            ],
+            "tags": [
+              "horizontal"
+            ],
+            "title": "Beste baliabideak"
+          }
+        ],
+        "source": "./pages/recursos.md",
+        "title": "Baliabideak"
+      },
+      {
+        "description": "",
+        "hideHero": true,
+        "image": "/media/hero-bg.webp",
+        "protected": "",
+        "sections": [
+          {
+            "_block": "Text",
+            "html": "![](/media/uap.webp)\n2019an Iruña-Tuterako elizbarrutian pastoral barrutiak (erdaraz \"UAP\" direlakoak) eratu ziren, Nafarroako 700 parrokiak 36 pastoral barrutitan kontzentratuz. Berez helburua da pastoralki parroki bakarra osatuko balute bezala lan egitea. Apez talde bat egon beharko litzateke barruti osorako eta pastoral kontseilu bakarra sortu. Herri guztietako eliztarrek sentitu beharko lukete zirkunskripzio bereko partaide direla. Juridikoki eta ekonomikoki, ordea, parroki bakoitzak bere burujabetasuna mantentzen du.\nEklesiastikoki gure pastoral barrutia Iruñako elizbarrutian dago, Mendialdeko zonalde pastoralean eta Aralarko artziprestaldean hain zuzen ere. Lurralde antolakuntza zibilari dagokionez, Nafarroako hamar udalerrietan gaude: LEITZA, ARESO, GOIZUETA, ARANO, ARAITZ, BETELU, LARRAUN, LEKUNBERRI, BASABURUA ETA IMOTZ.\nUne honetan hiru parroko in solidum aritzen gara aipatutako pastoral barrutian: Jesus Mari Sotil, Santiago Garisoain eta David Galarza, eta asteburutan beste hiru apez etortzen zaizkigu mezak ematen laguntzera: Joxe Mari Aleman, Pako Beloki eta Peio Etxabarri.",
+            "title": "Nafarroako Pastoral Barrutiak"
+          },
+          {
+            "_block": "map",
+            "geo": "",
+            "image": "",
+            "name": "",
+            "tags": [],
+            "title": ""
+          },
+          {
+            "_block": "town",
+            "category": "pages",
+            "filters": [
+              "Todos",
+              "Larraun",
+              "Urumea",
+              "Leitzaran",
+              "Basaburua",
+              "Araitz",
+              "Imotz"
+            ],
+            "tags": [],
+            "title": "Gure herriak"
+          }
+        ],
+        "source": "./pages/parroquias.md",
+        "title": "Parrokiak"
+      },
+      {
+        "description": "",
+        "image": "",
+        "protected": "",
+        "sections": [
+          {
+            "_block": "legal",
+            "legal": "## 1. AVISO LEGAL\n\n### Datos identificativos\n\nEn cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSI-CE), se informa de los siguientes datos:\n\n**Titular del sitio web:**\n\n- Denominación: {{NOMBRE_PARROQUIA}}\n- CIF: {{CIF_PARROQUIA}}\n- Domicilio: {{DIRECCION_COMPLETA}}\n- Localidad: {{LOCALIDAD}} ({{PROVINCIA}})\n- Código Postal: {{CODIGO_POSTAL}}\n- Teléfono: {{TELEFONO}}\n- Email: {{EMAIL_CONTACTO}}\n- Diócesis: {{DIOCESIS}}\n\n### Objeto\n\nEl presente sitio web tiene como finalidad proporcionar información sobre las actividades pastorales, litúrgicas y sociales de {{NOMBRE_PARROQUIA}}, así como facilitar el contacto con los feligreses y la comunidad.\n\n### Condiciones de uso\n\nEl acceso y uso de este sitio web implica la aceptación de las presentes condiciones. El usuario se compromete a hacer un uso adecuado de los contenidos y servicios ofrecidos, respetando la legalidad vigente, las buenas costumbres y los derechos de terceros.\n\nQueda prohibido el uso del sitio web con fines ilícitos o que puedan dañar los derechos e intereses de terceros, o que de cualquier forma puedan deteriorar o impedir el normal funcionamiento del sitio.\n\n### Propiedad intelectual\n\nTodos los contenidos del sitio web (textos, imágenes, diseño, logotipos, estructura, fotografías, etc.) son propiedad de {{NOMBRE_PARROQUIA}} o se utilizan con la debida autorización, quedando protegidos por las leyes españolas de propiedad intelectual e industrial.\n\nQueda prohibida la reproducción, distribución, comunicación pública, transformación o cualquier otra forma de explotación de los contenidos sin autorización expresa y por escrito de {{NOMBRE_PARROQUIA}}.\n\n### Enlaces externos\n\nEste sitio web puede contener enlaces a sitios web de terceros. {{NOMBRE_PARROQUIA}} no se responsabiliza del contenido, políticas de privacidad o prácticas de estos sitios externos.\n\n### Limitación de responsabilidad\n\n{{NOMBRE_PARROQUIA}} se esfuerza por mantener la información actualizada y precisa, pero no garantiza la exactitud, exhaustividad o actualidad de los contenidos. El usuario utiliza el sitio web bajo su propia responsabilidad.\n\n{{NOMBRE_PARROQUIA}} no se hace responsable de los daños y perjuicios que pudieran derivarse de la falta de disponibilidad, continuidad o calidad del funcionamiento del sitio web y de sus servicios.\n\n### Modificaciones\n\n{{NOMBRE_PARROQUIA}} se reserva el derecho de modificar en cualquier momento las presentes condiciones de uso, así como los contenidos del sitio web, sin necesidad de previo aviso.\n\n### Legislación aplicable y jurisdicción\n\nLas presentes condiciones se rigen por la legislación española. Para la resolución de cualquier controversia que pudiera surgir, las partes se someten expresamente a los Juzgados y Tribunales de {{LOCALIDAD}}, renunciando a cualquier otro fuero que pudiera corresponderles.\n\n---\n\n## 2. POLÍTICA DE PRIVACIDAD\n\n### 1. Responsable del tratamiento\n\n**Identidad:** {{NOMBRE_PARROQUIA}}\n**CIF:** {{CIF_PARROQUIA}}\n**Dirección:** {{DIRECCION_COMPLETA}}, {{CODIGO_POSTAL}} {{LOCALIDAD}} ({{PROVINCIA}})\n**Teléfono:** {{TELEFONO}}\n**Email:** {{EMAIL_CONTACTO}}\n\n{{NOMBRE_PARROQUIA}} es el responsable del tratamiento de los datos personales que los usuarios faciliten a través de este sitio web, comprometiéndose al cumplimiento de la normativa vigente en materia de protección de datos personales, reflejada en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas (RGPD) y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD).\n\n### 2. Principios aplicables al tratamiento\n\nEl tratamiento de los datos personales se rige por los siguientes principios:\n\n- **Licitud, lealtad y transparencia:** Se requiere el consentimiento del usuario previa información completa.\n- **Limitación de la finalidad:** Los datos son recogidos con fines determinados, explícitos y legítimos.\n- **Minimización de datos:** Solo se solicitan los datos estrictamente necesarios.\n- **Exactitud:** Los datos deben ser exactos y estar actualizados.\n- **Limitación del plazo de conservación:** Los datos se conservan solo durante el tiempo necesario.\n- **Integridad y confidencialidad:** Tratamiento de forma que se garantice la seguridad.\n\n### 3. Finalidad del tratamiento de datos\n\nEn {{NOMBRE_PARROQUIA}} tratamos la información que nos facilitan las personas interesadas con las siguientes finalidades:\n\n**a) Formularios de contacto o consulta:**\n\n- **Finalidad:** Gestionar y responder a las consultas, sugerencias o solicitudes recibidas.\n- **Base legal:** Consentimiento del interesado y/o interés legítimo en responder a las solicitudes.\n- **Plazo de conservación:** Durante el tiempo necesario para atender la consulta y, posteriormente, durante los plazos legales de prescripción de responsabilidades.\n\n**b) Envío de comunicaciones parroquiales:**\n\n- **Finalidad:** Envío de boletines informativos, horarios de culto, eventos, actividades pastorales y comunicaciones de interés para la comunidad parroquial.\n- **Base legal:** Consentimiento expreso del interesado.\n- **Plazo de conservación:** Hasta que el interesado solicite la baja o retire el consentimiento.\n\n**c) Gestión de actividades y servicios parroquiales:**\n\n- **Finalidad:** Organización de eventos, catequesis, grupos pastorales y otros servicios parroquiales.\n- **Base legal:** Consentimiento del interesado y/o ejecución de la actividad solicitada.\n- **Plazo de conservación:** Durante la duración de la actividad y posteriormente durante los plazos legales establecidos.\n\n### 4. Datos recopilados\n\nDependiendo del servicio o formulario utilizado, podemos solicitar los siguientes datos:\n\n- Nombre y apellidos\n- Dirección de correo electrónico\n- Teléfono de contacto\n- Mensaje, consulta o información adicional necesaria para la finalidad específica\n\n**Veracidad de los datos:** El usuario garantiza que los datos personales facilitados son veraces y se hace responsable de comunicar cualquier modificación de los mismos.\n\n### 5. Destinatarios de los datos\n\nLos datos personales no serán cedidos a terceros, salvo que:\n\n- Exista obligación legal\n- Sea necesario para la prestación del servicio solicitado (por ejemplo, plataformas de envío de correos)\n- Se cuente con el consentimiento expreso del interesado\n\nEn caso de utilizar servicios de terceros (proveedores de hosting, servicios de correo electrónico, etc.), estos actuarán como encargados del tratamiento y estarán obligados contractualmente a cumplir con la normativa de protección de datos.\n\n### 6. Transferencias internacionales de datos\n\nEn la medida de lo posible, {{NOMBRE_PARROQUIA}} evita realizar transferencias internacionales de datos. En caso de ser necesario (por ejemplo, por el uso de servicios en la nube), se garantizará que dichas transferencias cumplen con los mecanismos legalmente establecidos (decisiones de adecuación, cláusulas contractuales tipo, etc.).\n\n### 7. Derechos del interesado\n\nCualquier persona tiene derecho a obtener confirmación sobre si {{NOMBRE_PARROQUIA}} está tratando datos personales que le conciernen y, en tal caso, tiene derecho a:\n\n- **Derecho de acceso:** Conocer qué datos personales estamos tratando.\n- **Derecho de rectificación:** Solicitar la corrección de datos inexactos o incompletos.\n- **Derecho de supresión:** Solicitar la eliminación de sus datos cuando ya no sean necesarios.\n- **Derecho de oposición:** Oponerse al tratamiento de sus datos.\n- **Derecho de limitación del tratamiento:** Solicitar la limitación del tratamiento en determinadas circunstancias.\n- **Derecho a la portabilidad:** Recibir sus datos en formato estructurado y transmitirlos a otro responsable.\n- **Derecho a no ser objeto de decisiones automatizadas:** Incluida la elaboración de perfiles.\n- **Derecho a retirar el consentimiento:** En cualquier momento, cuando el tratamiento esté basado en el consentimiento.\n\n**¿Cómo ejercer estos derechos?**\n\nPuede ejercer sus derechos mediante solicitud dirigida a {{NOMBRE_PARROQUIA}} por los siguientes medios:\n\n- Email: {{EMAIL_CONTACTO}}\n- Correo postal: {{DIRECCION_COMPLETA}}, {{CODIGO_POSTAL}} {{LOCALIDAD}} ({{PROVINCIA}})\n\nLa solicitud deberá incluir:\n\n- Fotocopia del DNI o documento identificativo equivalente\n- Descripción clara del derecho que desea ejercer\n- Dirección para notificaciones\n\n{{NOMBRE_PARROQUIA}} responderá a su solicitud en el plazo máximo de un mes desde la recepción, pudiendo prorrogarse dos meses más en caso de especial complejidad.\n\n### 8. Reclamaciones ante la autoridad de control\n\nSi considera que el tratamiento de sus datos personales vulnera la normativa vigente, tiene derecho a presentar una reclamación ante la Agencia Española de Protección de Datos:\n\n**Agencia Española de Protección de Datos (AEPD)**\n\n- Dirección: C/ Jorge Juan, 6, 28001 Madrid\n- Web: www.aepd.es\n- Teléfono: 901 100 099 / 91 266 35 17\n\n### 9. Medidas de seguridad\n\n{{NOMBRE_PARROQUIA}} ha adoptado las medidas técnicas y organizativas necesarias para garantizar la seguridad e integridad de los datos personales que trata, así como para evitar su alteración, pérdida, tratamiento o acceso no autorizado, teniendo en cuenta el estado de la tecnología, la naturaleza de los datos y los riesgos a los que están expuestos.\n\n### 10. Actualización de la política de privacidad\n\n{{NOMBRE_PARROQUIA}} se reserva el derecho de modificar la presente Política de Privacidad para adaptarla a novedades legislativas o jurisprudenciales, así como a prácticas de la industria. Cuando se produzcan cambios significativos, se informará a los usuarios mediante aviso en el sitio web.\n\n---\n\n## 3. POLÍTICA DE COOKIES Y ANALÍTICA WEB\n\n### 1. ¿Qué son las cookies?\n\nLas cookies son pequeños archivos de texto que los sitios web pueden almacenar en el dispositivo del usuario (ordenador, tableta, teléfono móvil) cuando lo visita. Permiten al sitio web recordar sus acciones y preferencias durante un período de tiempo.\n\n### 2. ¿Este sitio web utiliza cookies?\n\n**{{NOMBRE_PARROQUIA}} NO utiliza cookies en este sitio web.**\n\nPara el análisis estadístico de visitas utilizamos **GoatCounter**, una herramienta de analítica web diseñada específicamente para respetar la privacidad de los usuarios y que **no emplea cookies ni ningún tipo de almacenamiento local en el navegador**.\n\n### 3. Herramienta de análisis: GoatCounter\n\n**¿Qué es GoatCounter?**\n\nGoatCounter es una plataforma de analítica web de código abierto, orientada a la privacidad, que permite obtener estadísticas sobre el uso del sitio web sin comprometer la privacidad de los visitantes.\n\n**Características de privacidad de GoatCounter:**\n\n- ✅ **No utiliza cookies** de ningún tipo\n- ✅ **No utiliza almacenamiento local** (localStorage, sessionStorage)\n- ✅ **No recopila información personal identificable** (PII)\n- ✅ **No realiza seguimiento entre sitios** (cross-site tracking)\n- ✅ **No requiere consentimiento previo** según el RGPD (art. 6.1.f - interés legítimo) al ser completamente anónimo\n- ✅ **Cumple con la privacidad por diseño** establecida en el RGPD\n- ✅ **No requiere banner de consentimiento de cookies**\n\n**¿Qué información recopila GoatCounter?**\n\nGoatCounter recopila únicamente datos agregados y completamente anónimos:\n\n- URL de la página visitada\n- Referrer (página desde la que se accedió, si está disponible)\n- User-Agent del navegador (tipo de navegador y dispositivo, de forma genérica)\n- Tamaño de pantalla (resolución aproximada)\n- País de origen (aproximado, basado en la dirección IP, que NO se almacena)\n- Fecha y hora de la visita\n\n**Importante:** GoatCounter NO almacena direcciones IP, NO crea perfiles de usuario, NO permite reidentificar a visitantes individuales y NO comparte datos con terceros.\n\n**Base legal para el uso de GoatCounter:**\n\nEl uso de GoatCounter se basa en el **interés legítimo** de {{NOMBRE_PARROQUIA}} (art. 6.1.f del RGPD) para:\n\n- Conocer el rendimiento del sitio web\n- Mejorar la experiencia de los usuarios\n- Optimizar los contenidos ofrecidos\n\nDado que los datos recopilados son completamente anónimos y no permiten identificar a usuarios individuales, no se requiere consentimiento previo conforme a:\n\n- Considerando 26 del RGPD: \"No se aplica el presente Reglamento al tratamiento de datos personales de personas fallecidas ni a datos anónimos\"\n- Considerando 30 del RGPD: Excepción para identificadores en línea cuando no permitan identificación\n- Directrices del Comité Europeo de Protección de Datos sobre cookies\n\n**Más información sobre GoatCounter:**\n\n- Sitio web oficial: https://www.goatcounter.com\n- Política de privacidad: https://www.goatcounter.com/help/privacy\n- Código fuente: https://github.com/arp242/goatcounter\n\n### 4. Cookies técnicas esenciales\n\nEn caso de que en el futuro se implementen funcionalidades que requieran cookies estrictamente necesarias para el funcionamiento del sitio web (por ejemplo, cookies de sesión para formularios seguros, preferencias de idioma, o accesibilidad), estas estarán exentas del consentimiento previo según el artículo 22.2 de la LSSI-CE, ya que son imprescindibles para la prestación del servicio solicitado.\n\nSi esto ocurre, se actualizará esta política informando de su uso.\n\n### 5. ¿Cómo desactivar el seguimiento de GoatCounter?\n\nAunque GoatCounter es completamente anónimo y no requiere consentimiento, respetamos el deseo de aquellos usuarios que prefieran no ser contabilizados en las estadísticas.\n\n**Opción 1: Configuración Do Not Track (DNT)**\nGoatCounter respeta la señal \"Do Not Track\" de su navegador. Si activa esta opción, no se registrará su visita.\n\nPara activar Do Not Track:\n\n- **Chrome:** Configuración > Privacidad y seguridad > Enviar solicitud de \"No realizar seguimiento\"\n- **Firefox:** Opciones > Privacidad y seguridad > Enviar a los sitios web una señal de \"No rastrear\"\n- **Safari:** Preferencias > Privacidad > Solicitar a los sitios web que no hagan seguimiento\n- **Edge:** Configuración > Privacidad, búsqueda y servicios > Enviar solicitudes \"No realizar seguimiento\"\n\n**Opción 2: Bloqueadores de scripts**\nPuede utilizar extensiones del navegador como uBlock Origin, Privacy Badger o similar para bloquear el script de GoatCounter.\n\n### 6. Configuración del navegador\n\nAunque este sitio web no utiliza cookies, si desea gestionar o bloquear cookies de otros sitios que visite, puede configurar su navegador:\n\n- **Google Chrome:** Configuración > Privacidad y seguridad > Cookies y otros datos de sitios\n- **Mozilla Firefox:** Opciones > Privacidad y seguridad > Cookies y datos del sitio\n- **Safari:** Preferencias > Privacidad > Cookies y datos de sitios web\n- **Microsoft Edge:** Configuración > Cookies y permisos del sitio > Cookies y datos almacenados\n\n**Nota:** Bloquear todas las cookies puede afectar a la funcionalidad de otros sitios web que visite.\n\n### 7. Actualización de la política\n\n{{NOMBRE_PARROQUIA}} se reserva el derecho de modificar esta política de cookies si se implementan nuevas funcionalidades o servicios que lo requieran. En caso de cambios significativos, se informará adecuadamente a los usuarios.\n\n**Última actualización:** {{FECHA_ACTUALIZACION}}\n\n---\n\n## 4. INFORMACIÓN SOBRE PROTECCIÓN DE DATOS EN FORMULARIOS\n\n### Cláusula informativa para formularios de contacto\n\nIncluir antes de cada formulario y casilla de aceptación obligatoria:\n\n---\n\n**INFORMACIÓN BÁSICA SOBRE PROTECCIÓN DE DATOS**\n\n**Responsable:** {{NOMBRE_PARROQUIA}} (CIF: {{CIF_PARROQUIA}})\n\n**Finalidad:** Gestionar su consulta o solicitud y enviarle la información solicitada.\n\n**Legitimación:** Consentimiento del interesado al facilitar sus datos y enviar el formulario.\n\n**Destinatarios:** Los datos no se cederán a terceros, salvo obligación legal. Los datos facilitados se conservan en servidores ubicados en {{UBICACION_SERVIDOR}} (indicar si UE o terceros países con garantías adecuadas).\n\n**Derechos:** Tiene derecho a acceder, rectificar, suprimir, oponerse, limitar el tratamiento y a la portabilidad de sus datos, así como a retirar el consentimiento en cualquier momento, dirigiéndose a {{EMAIL_CONTACTO}}.\n\n**Información adicional:** Puede consultar información adicional y detallada sobre protección de datos en nuestra [Política de Privacidad](#enlace-politica-privacidad).\n\n---\n\n☐ He leído y acepto la [Política de Privacidad](#enlace-politica-privacidad) **(obligatorio)**\n\n☐ Acepto recibir comunicaciones sobre actividades y eventos de la parroquia _(opcional, solo si aplica)_\n\n---\n\n### Cláusula informativa para suscripción a boletín/comunicaciones\n\nSi tienes formulario de suscripción a newsletter o comunicaciones:\n\n---\n\n**INFORMACIÓN SOBRE PROTECCIÓN DE DATOS - SUSCRIPCIÓN**\n\n**Responsable:** {{NOMBRE_PARROQUIA}}\n\n**Finalidad:** Enviarle información sobre horarios de culto, eventos, actividades pastorales y comunicaciones de interés parroquial.\n\n**Legitimación:** Consentimiento expreso del interesado mediante la aceptación de la presente cláusula.\n\n**Destinatarios:** No se cederán datos a terceros, salvo obligación legal o proveedores necesarios para el envío de comunicaciones (encargados de tratamiento).\n\n**Derechos:** Puede ejercer sus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad en {{EMAIL_CONTACTO}}. Puede darse de baja en cualquier momento mediante el enlace incluido en cada comunicación.\n\n**Información adicional:** [Política de Privacidad](#enlace-politica-privacidad)\n\n---\n\n☐ Deseo suscribirme y acepto recibir comunicaciones de {{NOMBRE_PARROQUIA}} **(obligatorio para suscripción)**\n\n☐ He leído y acepto la [Política de Privacidad](#enlace-politica-privacidad) **(obligatorio)**\n\n---\n\n## 5. INFORMACIÓN SOBRE DATOS DE CONTACTO PÚBLICOS\n\nSi publicas en la web datos de contacto como dirección física, teléfono o email:\n\n---\n\n### Nota sobre información de contacto\n\nLos datos de contacto publicados en este sitio web (dirección postal, teléfono, correo electrónico) son de carácter público y se facilitan exclusivamente para permitir la comunicación con {{NOMBRE_PARROQUIA}} en relación con sus actividades pastorales y servicios.\n\n**Uso prohibido:** Queda expresamente prohibido el uso de estos datos para:\n\n- Envío de comunicaciones comerciales o publicitarias no solicitadas (SPAM)\n- Inclusión en bases de datos comerciales sin consentimiento\n- Cualquier finalidad ajena a la comunicación legítima con la parroquia\n\nEl uso indebido de estos datos puede constituir una infracción de la normativa de protección de datos (RGPD y LOPDGDD) y de la Ley de Servicios de la Sociedad de la Información (LSSI-CE).\n\n---\n\n### 4. Variables a reemplazar:\n\nAntes de publicar, reemplaza todas las `{{VARIABLES}}`:\n\n- `{{NOMBRE_PARROQUIA}}` → Nombre completo oficial\n- `{{CIF_PARROQUIA}}` → CIF de la entidad religiosa\n- `{{DIRECCION_COMPLETA}}` → Calle, número, etc.\n- `{{CODIGO_POSTAL}}` → Código postal\n- `{{LOCALIDAD}}` → Ciudad/pueblo\n- `{{PROVINCIA}}` → Provincia\n- `{{TELEFONO}}` → Teléfono de contacto\n- `{{EMAIL_CONTACTO}}` → Email de contacto\n- `{{DIOCESIS}}` → Diócesis a la que pertenece\n- `{{UBICACION_SERVIDOR}}` → Dónde está alojada la web (ej: \"la Unión Europea\", \"España\", etc.)\n- `{{FECHA_ACTUALIZACION}}` → Fecha de publicación/actualización (ej: \"14 de noviembre de 2025\")\n"
+          }
+        ],
+        "source": "./pages/aviso-legal.md",
+        "title": "Aviso legal y política de privacidad"
+      },
+      {
+        "description": "",
+        "image": "",
+        "protected": "",
+        "sections": [
+          {
+            "_block": "print",
+            "title": "Print"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Done Laurendi -  Albiasu (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Martin -  Aldatz (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Agustinas -  Aldatz (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Donibane eta Done Pauloren -  Alli (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Martin -  Arano (Urumea)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Andre Mariaren Jasokundea -  Areso (Leitzaran)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Pedro -  Arrarats (Basaburua)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Migel -  Arribe (Araitz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Kristobal -  Arruitz (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Pedro -  Astitz (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Juan Bataiatzailea -  Atallu (Araitz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Esteban -  Azkarate (Araitz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Esteban -  Azpirotz (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Migel -  Baraibar (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Migel -  Beramendi (Basaburua)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Joan Bataiatzailearen -  Beruete (Basaburua)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Pedro eliza -  Betelu (Araitz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Migel -  Eraso (Imotz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Mariaren Jaiotza -  Erbiti (Basaburua)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Martin -  Errazkin (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Esteban -  Etxaleku (Imotz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Migel -  Etxarri (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Martín -  Gaintza (Araitz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Jasokundearen -  Gartzaron (Basaburua)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Andre Mariaren Jasokundea -  Goizueta (Urumea)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Mariaren Jaiotza -  Goldaratz (Imotz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Bartolome -  Gorriti (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Mariaren Zeruratzea -  Igoa eta Aizarotz (Basaburua)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Mariaren Jaiotza -  Ihaben (Basaburua)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Santiago -  Intza (Araitz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Joan Bataiatzailearen -  Iribas (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Pedro -  Itsaso (Basaburua)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Jasokundearen -  Jauntsarats (Basaburua)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Esteban -  Latasa (Imotz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Done Mikel -  Leitza (Leitzaran)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Joan Bataiatzailea -  Lekunberri (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Komentu -  Lekunberri (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Lezaeta (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Juan Bautista -  Madotz (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Pedro -  Mugiro (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Martín -  Muskitz (Imotz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Lorentzo -  Oderitz (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Tiburtzio -  Orokieta (Basaburua )"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "San Pelayo -  Oskotz (Imotz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Arrosarioko Andre Mariadena -  Udabe (Basaburua)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Santa Engraziako -  Uitzi (Larraun)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Urritza (Imotz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Uztegi (Araitz)"
+          },
+          {
+            "_block": "calendar",
+            "filter": "mass",
+            "order": [
+              "weekday",
+              "times",
+              "",
+              "locations",
+              "byday-weekday+byweek+language-euskaraz+notes"
+            ],
+            "tags": [],
+            "title": "Zarrantz (Imotz)"
+          }
+        ],
+        "source": "./pages/imprimir.md",
+        "title": "Imprimir"
+      },
+      {
+        "description": "",
+        "hideHero": false,
+        "image": "{{image}}",
+        "protected": "Plantilla pueblos",
+        "sections": [
+          {
+            "filter": "{{name}}",
+            "order": [],
+            "tags": [],
+            "title": "",
+            "type": "calendar"
+          },
+          {
+            "filter": "{{name}}",
+            "tags": [],
+            "title": "",
+            "type": "video-channel"
+          },
+          {
+            "geo": "{{geo}}",
+            "image": "{{image}}",
+            "name": "{{name}}",
+            "tags": [],
+            "title": "",
+            "type": "map"
+          },
+          {
+            "list": "{{gallery}}",
+            "tags": [],
+            "title": "",
+            "type": "gallery"
+          }
+        ],
+        "tags": "{{tags}}",
+        "title": "{{name}}"
+      }
+    ],
+    "nav": [
+      {
+        "links": [
+          "0",
+          "1",
+          "2"
+        ],
+        "title": "Menu"
+      }
+    ],
+    "pageperlocatoin": true
+  },
+  "site": {
+    "bank": [
+      {
+        "account": "11995",
+        "title": "Bizum"
+      },
+      {
+        "account": "ES15 2100 4941 1222 0005 0326",
+        "title": "Caixa"
+      },
+      {
+        "account": "ES66 3035 0118 8811 8000 2943",
+        "title": "Laboral"
+      },
+      {
+        "account": "ES17 3008 0179 2436 5465 8818",
+        "title": "Rural"
+      }
+    ],
+    "collaborators": [
+      {
+        "image": "/media/20251129_093926.jpg",
+        "name": "David Galarza",
+        "phonenumber": "690 08 15 84"
+      },
+      {
+        "image": "/media/Screenshot_20250404_192119_Gallery.webp",
+        "name": "Santi Garisoain",
+        "phonenumber": "648 77 22 11"
+      },
+      {
+        "image": "/media/Screenshot_20250404_192754_Gallery.webp",
+        "name": "Jesús Mª Sotil",
+        "phonenumber": "638 73 95 75"
+      }
+    ],
+    "description": "Nafarroako ipar-mendebaldeko hamar udalerrietako 47 parrokiek osatzen duten pastoral barruti katolikoa gara gu iruñako elizbarrutian.",
+    "icon": "/media/android-chrome-512x512.png",
+    "image": "/media/hero-bg.webp",
+    "social": [
+      "https://www.youtube.com/@47herri"
+    ],
+    "title": "47 herri"
+  },
+  "theme": {
+    "accentColor": "#008e4a",
+    "accentPrimary": "white",
+    "bodyFont": "Open Sans",
+    "borderRadius": "1",
+    "borderWidth": "1.25",
+    "headingFont": "Basque Smile",
+    "icon": "",
+    "image": "",
+    "navStyle": "47herri",
+    "shadowDepth": "1.50",
+    "styles": []
+  }
+}

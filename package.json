@@ -1,0 +1,10 @@
+{
+  "name": "backup",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Backup repository for parroquia.app site configs",
+  "scripts": {
+    "backup": "node scripts/backup.mjs"
+  }
+}

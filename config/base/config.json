@@ -1,0 +1,37 @@
+{
+  "calendar": {
+    "events": {
+      "celebrants": [],
+      "defaults": {},
+      "list": []
+    }
+  },
+  "event-types": {
+    "list": []
+  },
+  "info": {
+    "autodiscover": "",
+    "bank": [],
+    "collaborators": [],
+    "description": "",
+    "places": [],
+    "social": [],
+    "title": ""
+  },
+  "pages": {
+    "languages": [],
+    "list": [],
+    "nav": [],
+    "pageperlocatoin": true
+  },
+  "theme": {
+    "accentColor": "",
+    "accentPrimary": "",
+    "bodyFont": "",
+    "headingFont": "",
+    "icon": "",
+    "image": "",
+    "navStyle": "",
+    "styles": []
+  }
+}

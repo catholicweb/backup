@@ -1,0 +1,962 @@
+{
+  "calendar": {
+    "events": {
+      "list": [],
+      "urls": []
+    }
+  },
+  "dev": {
+    "goatcounter": "https://vocacion.goatcounter.com/count",
+    "siteurl": "https://vocacion.iglesianavarra.org/"
+  },
+  "event-types": {
+    "list": []
+  },
+  "info": {
+    "autodiscover": "",
+    "bank": [],
+    "collaborators": [],
+    "description": "",
+    "places": [],
+    "social": [],
+    "title": ""
+  },
+  "pages": {
+    "languages": [
+      "Español:es",
+      "Euskara:eu",
+      "English:en"
+    ],
+    "list": [
+      {
+        "description": "",
+        "hideHero": false,
+        "image": "/media/Gemini_Generated_Image_1nlm3l1nlm3l1nlm.webp",
+        "name": "d825fd14-6541-43c5-8be5-321733419345",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## ¡Discierne tu vocación! Dios no te hizo por casualidad: **te soñó para algo grande**\n\n",
+            "tags": [],
+            "title": "",
+            "uuid": "41cd8ab3-41be-42c3-81fb-d8f463be8bce"
+          },
+          {
+            "_block": "links",
+            "links": [
+              "30bdc161-eab5-48b4-8f75-1e28e7a52917",
+              "74f6c457-09bb-45b0-9986-98aa1dc81359",
+              "dba27941-6cb3-4f47-9baa-d90049f2dfe2",
+              "8a359326-1e28-4e81-bb03-228faf817c87",
+              "481ad90f-dc32-48cb-b776-5feea1e7b057",
+              "3d7637eb-776b-4abe-b02c-d2dfed179aad"
+            ],
+            "tags": [],
+            "title": "",
+            "uuid": "08702fd4-2985-4827-aaf9-10c9fb9959a5"
+          },
+          {
+            "_block": "hero",
+            "description": "Pedir al dueño de la mies. Con rostros concretos",
+            "elements": [],
+            "image": "/media/cambio-batuta-carrera-relevos_70391-11.webp",
+            "title": "¡Busca el relevo!",
+            "uuid": "7c3fede4-53df-4c66-a9c1-d60ccd82b8d2"
+          },
+          {
+            "_block": "text",
+            "html": "Todos caminamos juntos y **lo que vivimos de Dios se transmite**.",
+            "tags": [],
+            "title": "",
+            "uuid": "7c851344-bc60-4257-910d-36dfe64311ec"
+          },
+          {
+            "_block": "links",
+            "links": [
+              "0f1ab9e7-7c3f-4539-b741-fa03f50af127",
+              "98e2cdea-c13b-49cc-a9f1-531ea7350561",
+              "d941bfe1-a314-4c2d-934c-8c43e497198c"
+            ],
+            "tags": [],
+            "title": "",
+            "uuid": "61013f1f-2d9a-46a4-b110-a2d9749ff625"
+          },
+          {
+            "_block": "hero",
+            "description": "Llevar a Cristo a todos los hombres ",
+            "elements": [],
+            "image": "/media/istockphoto-1464747649-612x612.webp",
+            "title": "¿Dios me está llamando al sacerdocio? ",
+            "uuid": "18703343-4f22-42ac-88f3-c037f3e62c7e"
+          },
+          {
+            "_block": "links",
+            "links": [
+              "41aeeff0-02c3-4559-81a0-a8e97d310a9e",
+              "7eee94e8-4950-4df1-bc02-492c43f0e8ca",
+              "372a9054-ee95-4ded-86cc-ffc77fdd440e"
+            ],
+            "tags": [],
+            "title": "",
+            "uuid": "5ea9d811-4c5a-4294-bd9b-65f2d4a11575"
+          },
+          {
+            "_block": "hero",
+            "description": "Llevar el mundo a Cristo ",
+            "elements": [],
+            "image": "/media/istockphoto-108270861-612x612.webp",
+            "title": "¿Y si Dios me llama a darle todo?",
+            "uuid": "d5c212e5-fe1e-4b2f-803f-484b261caca1"
+          },
+          {
+            "_block": "links",
+            "links": [
+              "d2931d7f-4fdf-4c9d-a1ab-f77bcf7673d2",
+              "8be13dc3-dad3-47bd-83a0-e9ed262b9ee3",
+              "f4563e15-e9c1-4d38-b9fc-3b4a4ad6aaf6"
+            ],
+            "tags": [],
+            "title": "",
+            "uuid": "728733ef-7ee3-4e7b-b552-7dbabbd64bb1"
+          },
+          {
+            "_block": "hero",
+            "description": "Ordenar todo a Cristo desde dentro ",
+            "elements": [],
+            "image": "/media/Los-Laicos-en-la-vida-publica.webp",
+            "title": "¿Llevar a Cristo a todas las partes de la sociedad?",
+            "uuid": "43c48e26-3fd2-4e45-bd17-da7b43ab66bc"
+          },
+          {
+            "_block": "links",
+            "links": [
+              "5677c270-c93b-42ea-accb-cc6ea4409ba2",
+              "5e859715-de85-4ca5-a55a-b384e27bd6cd"
+            ],
+            "tags": [],
+            "title": "",
+            "uuid": "7ca7b2a2-73d1-4e46-909d-ffd353c2ab9d"
+          }
+        ],
+        "slug": "index",
+        "source": "./pages/index.md",
+        "title": "Vocaciones Navarra",
+        "uuid": "be922b57-5859-4483-aa5a-0f7beaa7969b"
+      },
+      {
+        "description": "",
+        "image": "/media/abrio-libro-sagrada-biblia-sobre-fondo-oscuro_488220-43539.webp",
+        "name": "8a359326-1e28-4e81-bb03-228faf817c87",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "**¿Cómo conocer el plan de Dios para tu vida?**  \n¡Sigue estas recomendaciones y Dios te ayudará a comprender a qué te está llamando en tu vida!\n\n1.  **Oración**  \n    La oración es una conversación con Dios, no solo recitar oraciones, sino hablar con el Señor desde el corazón. Todos los días lee la Biblia y habla con Jesús como si fuera tu mejor amigo. Pídele que te revele Su plan: “Jesús, quiero querer lo que Tú quieres. Aquí estoy, Señor; vengo a hacer Tu voluntad.” Confía plenamente en que Dios tiene un plan para ti.\n\n    \n2.  **Sacramentos**  \n    El alma es la ventana por la que podemos ver a Dios y escuchar Su voz. Si la ventana está sucia por el pecado, debe limpiarse mediante la Confesión para poder estar en unión con Dios. Cuando recibas la Comunión, pídele a Jesús que te muestre tu vocación.\n\n    \n3.  **Buena información**  \n    Es imposible descubrir tu vocación sin buena información. ¿Qué significa tener un matrimonio cristiano y santo? ¿Qué hacen los sacerdotes? ¿Cómo es la vida de una hermana o un hermano religioso? Busca información confiable y luego lleva lo aprendido de vuelta a la oración.\n\n    \n4.  **La Santísima Virgen**  \n    María es el ejemplo máximo de apertura a la voluntad de Dios. ¿Estás abierto a la voluntad de Dios para ti? Reza tres Avemarías cada día, específicamente para conocer tu vocación y tener el valor de seguirla.\n\n    \n5.  **Ir de retiro**  \n    ¡Los milagros ocurren en los retiros! Una de las maneras más seguras de descubrir el plan de Dios para ti es entrar en el silencio y la oración durante un tiempo prolongado. Pide a personas de confianza que te ayuden a encontrar un buen retiro.\n\n    \n6.  **Pide consejo**  \n    No trates de discernir tu vocación solo, sin la ayuda de la Iglesia. Habla con una hermana, un sacerdote o un diácono en quien confíes.\n\n    \n\nCuando llegue el momento, ¡debes actuar! Muévete en la dirección que te indique tu corazón, con la confianza de que Dios nunca te enviará a un lugar donde Su gracia no pueda sostenerte.",
+            "tags": [],
+            "title": "",
+            "uuid": "04b18315-8526-4411-8fe1-fea3581bba81"
+          }
+        ],
+        "source": "./pages/5-pasos.md",
+        "title": "Las 6 formas de discernir",
+        "uuid": "a5230923-f2e7-4201-a1eb-592c593c785a"
+      },
+      {
+        "description": "",
+        "image": "/media/FuturoJovenesYMisionCompartida1.webp",
+        "name": "481ad90f-dc32-48cb-b776-5feea1e7b057",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## **Cada vocación es un misterio: cada hombre pasa por estas etapas de manera diferente.**\n\nAlgunos solo pasarán por las etapas para descubrir el sentido de su vida laical u otros para encontrar su vocación sacerdotal.\n\n## **1\\. La llamada**\n\nSi estás en la etapa 1 has experimentado recientemente una llamada a entregarte al Señor. Esta etapa inicial de discernimiento suele ocurrir durante la infancia, quizás en la Misa, por ejemplo de religiosos, viendo cristianos que aman radicalmente a Dios, gracias a catequistas comprometidos, con tus padres, en una clase de escuela católica o cuando un sacerdote te invita a considerar el sacerdocio.\n\nEsta atracción inicial y misteriosa por dárselo todo a Dios es misteriosa. Convertirse en sacerdote, entregarse a la vida religiosa, ser sal y luz en medio de todos los hombres…Es aún más misteriosa porque no se tiene casi ninguna información sobre la vocación o el discernimiento.\n\nLas emociones principales son emoción y asombro: “¿Realmente podría Dios llamarme a darme enteramente?”\n\n## **2\\. El Tiempo de dudas**\n\nPiensas en ello de vez en cuando, pero no todos los días. La idea aparece en la Misa, al rezar por la noche o cuando alguien lo menciona. Pero piensas: “Seguro que no es para mí”, “No me hace falta nada más” “Ya voy a misa y rezo algo”... “Ser laico no es una vocación” o “Me casaré como todos”\n\n## **3\\. Momento de rendirse**\n\nTe das cuenta de que esa llamada no desaparece, aunque lo intentes. Cedes y dejas de evitarla. Empiezas a orar más, a crecer en la fe y a buscar ayuda de un director espiritual. Asimismo, encuentras a Cristo en tu hermano yen los necesitados te abres a la entrega concreta a los demás. Comienzas a luchar la batalla espiritual de entregarse a la voluntad de Dios; algunos días ganas la batalla y otros días la pierdes. En esta etapa descubres una paz distinta, una que nace al profundizar en tu vida interior y al llevar a Cristo a cada aspecto de tu vida. Aquí aprendes a vencer miedos: el temor de perderte cosas, de no ser suficiente o de que te tachen de “santo”.\n\nIgual no encuentras todavía paz y confirmación, descubres que tus miedos son al sacerdocio o a la vida religiosa: celibato, soledad, hablar en público, ser un buen sacerdote… los afrontas y sientes la alegría de servir a Dios y a los demás. Tu deseo de servir a los demás crece y experimentas felicidad mientras sirves.\n\n## **4\\. Confirmación**\n\nVas avanzando hacia la entrega a la voluntad de Dios. Tras rezar, informarte y participar en retiros, sientes paz y confirmas la llamada de Dios a dejarlo todo.\n\nTu director espiritual te dice que tiene las señales y cualificaciones. El elemento esencial es comprender que el discernimiento no puede avanzar más fuera del seminario o del noviciado; estás simplemente dando vueltas en círculos.\n\n## **5\\. Viviendo la llamada.**\n\nEntras al seminario o al noviciado y vives rodeado de otros que también están discerniendo y tu vida gira en torno a la oración diaria, la Misa y el estudio serio de la fe.\n\nHabías descubierto la llamada de Dios a vivir como laico y empiezas a fijarte en quién podría ser tu pareja confiando en Dios. Empezáis a salir y vivir el noviazgo como discernimiento: conocimiento mutuo prudente y\n\nEs el momento de consolidar tu camino espiritual y vocacional.\n\n## **6\\. Paz constante**\n\nLlevas tiempo en el seminario y has crecido mucho en fe, oración y conocimiento. Conoces a Jesús de manera personal y estás listo para enseñar y servir. Ahora el trabajo duro es diario, pero sientes que seguramente serás sacerdote y sabes que puedes cumplir con esa responsabilidad.\n\nSi estás a punto de casarte, también puedes experimentar esta paz interior que nace de vivir tu vocación con entrega. Conoces a Jesús personalmente y estás listo para amar, enseñar y servir dentro de tu familia. El trabajo diario es constante: construir un hogar sólido, acompañar a tu pareja, educar a los hijos y vivir la fe juntos. Sientes que Dios te ha llamado a esta misión y sabes que, con su ayuda, puedes ordenar toda la vida social desde dentro y transformar el mundo a través del amor y la entrega de tu familia.",
+            "tags": [],
+            "title": "",
+            "uuid": "f795c375-8d80-48b2-ba46-5d8e01b8701d"
+          }
+        ],
+        "source": "./pages/7-pasos.md",
+        "title": "Los 6 pasos del discernimiento ",
+        "uuid": "ed70c6f1-1f5f-4f32-96fb-e00223ff331d"
+      },
+      {
+        "description": "",
+        "image": "",
+        "name": "691757e4-668b-4991-a27c-0edbcfa77044",
+        "sections": [
+          {
+            "_block": "legal",
+            "legal": "## 1. AVISO LEGAL\n\n### Datos identificativos\n\nEn cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico (LSSI-CE), se informa de los siguientes datos:\n\n**Titular del sitio web:**\n\n- Denominación: {{NOMBRE_PARROQUIA}}\n- CIF: {{CIF_PARROQUIA}}\n- Domicilio: {{DIRECCION_COMPLETA}}\n- Localidad: {{LOCALIDAD}} ({{PROVINCIA}})\n- Código Postal: {{CODIGO_POSTAL}}\n- Teléfono: {{TELEFONO}}\n- Email: {{EMAIL_CONTACTO}}\n- Diócesis: {{DIOCESIS}}\n\n### Objeto\n\nEl presente sitio web tiene como finalidad proporcionar información sobre las actividades pastorales, litúrgicas y sociales de {{NOMBRE_PARROQUIA}}, así como facilitar el contacto con los feligreses y la comunidad.\n\n### Condiciones de uso\n\nEl acceso y uso de este sitio web implica la aceptación de las presentes condiciones. El usuario se compromete a hacer un uso adecuado de los contenidos y servicios ofrecidos, respetando la legalidad vigente, las buenas costumbres y los derechos de terceros.\n\nQueda prohibido el uso del sitio web con fines ilícitos o que puedan dañar los derechos e intereses de terceros, o que de cualquier forma puedan deteriorar o impedir el normal funcionamiento del sitio.\n\n### Propiedad intelectual\n\nTodos los contenidos del sitio web (textos, imágenes, diseño, logotipos, estructura, fotografías, etc.) son propiedad de {{NOMBRE_PARROQUIA}} o se utilizan con la debida autorización, quedando protegidos por las leyes españolas de propiedad intelectual e industrial.\n\nQueda prohibida la reproducción, distribución, comunicación pública, transformación o cualquier otra forma de explotación de los contenidos sin autorización expresa y por escrito de {{NOMBRE_PARROQUIA}}.\n\n### Enlaces externos\n\nEste sitio web puede contener enlaces a sitios web de terceros. {{NOMBRE_PARROQUIA}} no se responsabiliza del contenido, políticas de privacidad o prácticas de estos sitios externos.\n\n### Limitación de responsabilidad\n\n{{NOMBRE_PARROQUIA}} se esfuerza por mantener la información actualizada y precisa, pero no garantiza la exactitud, exhaustividad o actualidad de los contenidos. El usuario utiliza el sitio web bajo su propia responsabilidad.\n\n{{NOMBRE_PARROQUIA}} no se hace responsable de los daños y perjuicios que pudieran derivarse de la falta de disponibilidad, continuidad o calidad del funcionamiento del sitio web y de sus servicios.\n\n### Modificaciones\n\n{{NOMBRE_PARROQUIA}} se reserva el derecho de modificar en cualquier momento las presentes condiciones de uso, así como los contenidos del sitio web, sin necesidad de previo aviso.\n\n### Legislación aplicable y jurisdicción\n\nLas presentes condiciones se rigen por la legislación española. Para la resolución de cualquier controversia que pudiera surgir, las partes se someten expresamente a los Juzgados y Tribunales de {{LOCALIDAD}}, renunciando a cualquier otro fuero que pudiera corresponderles.\n\n---\n\n## 2. POLÍTICA DE PRIVACIDAD\n\n### 1. Responsable del tratamiento\n\n**Identidad:** {{NOMBRE_PARROQUIA}}\n**CIF:** {{CIF_PARROQUIA}}\n**Dirección:** {{DIRECCION_COMPLETA}}, {{CODIGO_POSTAL}} {{LOCALIDAD}} ({{PROVINCIA}})\n**Teléfono:** {{TELEFONO}}\n**Email:** {{EMAIL_CONTACTO}}\n\n{{NOMBRE_PARROQUIA}} es el responsable del tratamiento de los datos personales que los usuarios faciliten a través de este sitio web, comprometiéndose al cumplimiento de la normativa vigente en materia de protección de datos personales, reflejada en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas (RGPD) y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD).\n\n### 2. Principios aplicables al tratamiento\n\nEl tratamiento de los datos personales se rige por los siguientes principios:\n\n- **Licitud, lealtad y transparencia:** Se requiere el consentimiento del usuario previa información completa.\n- **Limitación de la finalidad:** Los datos son recogidos con fines determinados, explícitos y legítimos.\n- **Minimización de datos:** Solo se solicitan los datos estrictamente necesarios.\n- **Exactitud:** Los datos deben ser exactos y estar actualizados.\n- **Limitación del plazo de conservación:** Los datos se conservan solo durante el tiempo necesario.\n- **Integridad y confidencialidad:** Tratamiento de forma que se garantice la seguridad.\n\n### 3. Finalidad del tratamiento de datos\n\nEn {{NOMBRE_PARROQUIA}} tratamos la información que nos facilitan las personas interesadas con las siguientes finalidades:\n\n**a) Formularios de contacto o consulta:**\n\n- **Finalidad:** Gestionar y responder a las consultas, sugerencias o solicitudes recibidas.\n- **Base legal:** Consentimiento del interesado y/o interés legítimo en responder a las solicitudes.\n- **Plazo de conservación:** Durante el tiempo necesario para atender la consulta y, posteriormente, durante los plazos legales de prescripción de responsabilidades.\n\n**b) Envío de comunicaciones parroquiales:**\n\n- **Finalidad:** Envío de boletines informativos, horarios de culto, eventos, actividades pastorales y comunicaciones de interés para la comunidad parroquial.\n- **Base legal:** Consentimiento expreso del interesado.\n- **Plazo de conservación:** Hasta que el interesado solicite la baja o retire el consentimiento.\n\n**c) Gestión de actividades y servicios parroquiales:**\n\n- **Finalidad:** Organización de eventos, catequesis, grupos pastorales y otros servicios parroquiales.\n- **Base legal:** Consentimiento del interesado y/o ejecución de la actividad solicitada.\n- **Plazo de conservación:** Durante la duración de la actividad y posteriormente durante los plazos legales establecidos.\n\n### 4. Datos recopilados\n\nDependiendo del servicio o formulario utilizado, podemos solicitar los siguientes datos:\n\n- Nombre y apellidos\n- Dirección de correo electrónico\n- Teléfono de contacto\n- Mensaje, consulta o información adicional necesaria para la finalidad específica\n\n**Veracidad de los datos:** El usuario garantiza que los datos personales facilitados son veraces y se hace responsable de comunicar cualquier modificación de los mismos.\n\n### 5. Destinatarios de los datos\n\nLos datos personales no serán cedidos a terceros, salvo que:\n\n- Exista obligación legal\n- Sea necesario para la prestación del servicio solicitado (por ejemplo, plataformas de envío de correos)\n- Se cuente con el consentimiento expreso del interesado\n\nEn caso de utilizar servicios de terceros (proveedores de hosting, servicios de correo electrónico, etc.), estos actuarán como encargados del tratamiento y estarán obligados contractualmente a cumplir con la normativa de protección de datos.\n\n### 6. Transferencias internacionales de datos\n\nEn la medida de lo posible, {{NOMBRE_PARROQUIA}} evita realizar transferencias internacionales de datos. En caso de ser necesario (por ejemplo, por el uso de servicios en la nube), se garantizará que dichas transferencias cumplen con los mecanismos legalmente establecidos (decisiones de adecuación, cláusulas contractuales tipo, etc.).\n\n### 7. Derechos del interesado\n\nCualquier persona tiene derecho a obtener confirmación sobre si {{NOMBRE_PARROQUIA}} está tratando datos personales que le conciernen y, en tal caso, tiene derecho a:\n\n- **Derecho de acceso:** Conocer qué datos personales estamos tratando.\n- **Derecho de rectificación:** Solicitar la corrección de datos inexactos o incompletos.\n- **Derecho de supresión:** Solicitar la eliminación de sus datos cuando ya no sean necesarios.\n- **Derecho de oposición:** Oponerse al tratamiento de sus datos.\n- **Derecho de limitación del tratamiento:** Solicitar la limitación del tratamiento en determinadas circunstancias.\n- **Derecho a la portabilidad:** Recibir sus datos en formato estructurado y transmitirlos a otro responsable.\n- **Derecho a no ser objeto de decisiones automatizadas:** Incluida la elaboración de perfiles.\n- **Derecho a retirar el consentimiento:** En cualquier momento, cuando el tratamiento esté basado en el consentimiento.\n\n**¿Cómo ejercer estos derechos?**\n\nPuede ejercer sus derechos mediante solicitud dirigida a {{NOMBRE_PARROQUIA}} por los siguientes medios:\n\n- Email: {{EMAIL_CONTACTO}}\n- Correo postal: {{DIRECCION_COMPLETA}}, {{CODIGO_POSTAL}} {{LOCALIDAD}} ({{PROVINCIA}})\n\nLa solicitud deberá incluir:\n\n- Fotocopia del DNI o documento identificativo equivalente\n- Descripción clara del derecho que desea ejercer\n- Dirección para notificaciones\n\n{{NOMBRE_PARROQUIA}} responderá a su solicitud en el plazo máximo de un mes desde la recepción, pudiendo prorrogarse dos meses más en caso de especial complejidad.\n\n### 8. Reclamaciones ante la autoridad de control\n\nSi considera que el tratamiento de sus datos personales vulnera la normativa vigente, tiene derecho a presentar una reclamación ante la Agencia Española de Protección de Datos:\n\n**Agencia Española de Protección de Datos (AEPD)**\n\n- Dirección: C/ Jorge Juan, 6, 28001 Madrid\n- Web: www.aepd.es\n- Teléfono: 901 100 099 / 91 266 35 17\n\n### 9. Medidas de seguridad\n\n{{NOMBRE_PARROQUIA}} ha adoptado las medidas técnicas y organizativas necesarias para garantizar la seguridad e integridad de los datos personales que trata, así como para evitar su alteración, pérdida, tratamiento o acceso no autorizado, teniendo en cuenta el estado de la tecnología, la naturaleza de los datos y los riesgos a los que están expuestos.\n\n### 10. Actualización de la política de privacidad\n\n{{NOMBRE_PARROQUIA}} se reserva el derecho de modificar la presente Política de Privacidad para adaptarla a novedades legislativas o jurisprudenciales, así como a prácticas de la industria. Cuando se produzcan cambios significativos, se informará a los usuarios mediante aviso en el sitio web.\n\n---\n\n## 3. POLÍTICA DE COOKIES Y ANALÍTICA WEB\n\n### 1. ¿Qué son las cookies?\n\nLas cookies son pequeños archivos de texto que los sitios web pueden almacenar en el dispositivo del usuario (ordenador, tableta, teléfono móvil) cuando lo visita. Permiten al sitio web recordar sus acciones y preferencias durante un período de tiempo.\n\n### 2. ¿Este sitio web utiliza cookies?\n\n**{{NOMBRE_PARROQUIA}} NO utiliza cookies en este sitio web.**\n\nPara el análisis estadístico de visitas utilizamos **GoatCounter**, una herramienta de analítica web diseñada específicamente para respetar la privacidad de los usuarios y que **no emplea cookies ni ningún tipo de almacenamiento local en el navegador**.\n\n### 3. Herramienta de análisis: GoatCounter\n\n**¿Qué es GoatCounter?**\n\nGoatCounter es una plataforma de analítica web de código abierto, orientada a la privacidad, que permite obtener estadísticas sobre el uso del sitio web sin comprometer la privacidad de los visitantes.\n\n**Características de privacidad de GoatCounter:**\n\n- ✅ **No utiliza cookies** de ningún tipo\n- ✅ **No utiliza almacenamiento local** (localStorage, sessionStorage)\n- ✅ **No recopila información personal identificable** (PII)\n- ✅ **No realiza seguimiento entre sitios** (cross-site tracking)\n- ✅ **No requiere consentimiento previo** según el RGPD (art. 6.1.f - interés legítimo) al ser completamente anónimo\n- ✅ **Cumple con la privacidad por diseño** establecida en el RGPD\n- ✅ **No requiere banner de consentimiento de cookies**\n\n**¿Qué información recopila GoatCounter?**\n\nGoatCounter recopila únicamente datos agregados y completamente anónimos:\n\n- URL de la página visitada\n- Referrer (página desde la que se accedió, si está disponible)\n- User-Agent del navegador (tipo de navegador y dispositivo, de forma genérica)\n- Tamaño de pantalla (resolución aproximada)\n- País de origen (aproximado, basado en la dirección IP, que NO se almacena)\n- Fecha y hora de la visita\n\n**Importante:** GoatCounter NO almacena direcciones IP, NO crea perfiles de usuario, NO permite reidentificar a visitantes individuales y NO comparte datos con terceros.\n\n**Base legal para el uso de GoatCounter:**\n\nEl uso de GoatCounter se basa en el **interés legítimo** de {{NOMBRE_PARROQUIA}} (art. 6.1.f del RGPD) para:\n\n- Conocer el rendimiento del sitio web\n- Mejorar la experiencia de los usuarios\n- Optimizar los contenidos ofrecidos\n\nDado que los datos recopilados son completamente anónimos y no permiten identificar a usuarios individuales, no se requiere consentimiento previo conforme a:\n\n- Considerando 26 del RGPD: \"No se aplica el presente Reglamento al tratamiento de datos personales de personas fallecidas ni a datos anónimos\"\n- Considerando 30 del RGPD: Excepción para identificadores en línea cuando no permitan identificación\n- Directrices del Comité Europeo de Protección de Datos sobre cookies\n\n**Más información sobre GoatCounter:**\n\n- Sitio web oficial: https://www.goatcounter.com\n- Política de privacidad: https://www.goatcounter.com/help/privacy\n- Código fuente: https://github.com/arp242/goatcounter\n\n### 4. Cookies técnicas esenciales\n\nEn caso de que en el futuro se implementen funcionalidades que requieran cookies estrictamente necesarias para el funcionamiento del sitio web (por ejemplo, cookies de sesión para formularios seguros, preferencias de idioma, o accesibilidad), estas estarán exentas del consentimiento previo según el artículo 22.2 de la LSSI-CE, ya que son imprescindibles para la prestación del servicio solicitado.\n\nSi esto ocurre, se actualizará esta política informando de su uso.\n\n### 5. ¿Cómo desactivar el seguimiento de GoatCounter?\n\nAunque GoatCounter es completamente anónimo y no requiere consentimiento, respetamos el deseo de aquellos usuarios que prefieran no ser contabilizados en las estadísticas.\n\n**Opción 1: Configuración Do Not Track (DNT)**\nGoatCounter respeta la señal \"Do Not Track\" de su navegador. Si activa esta opción, no se registrará su visita.\n\nPara activar Do Not Track:\n\n- **Chrome:** Configuración > Privacidad y seguridad > Enviar solicitud de \"No realizar seguimiento\"\n- **Firefox:** Opciones > Privacidad y seguridad > Enviar a los sitios web una señal de \"No rastrear\"\n- **Safari:** Preferencias > Privacidad > Solicitar a los sitios web que no hagan seguimiento\n- **Edge:** Configuración > Privacidad, búsqueda y servicios > Enviar solicitudes \"No realizar seguimiento\"\n\n**Opción 2: Bloqueadores de scripts**\nPuede utilizar extensiones del navegador como uBlock Origin, Privacy Badger o similar para bloquear el script de GoatCounter.\n\n### 6. Configuración del navegador\n\nAunque este sitio web no utiliza cookies, si desea gestionar o bloquear cookies de otros sitios que visite, puede configurar su navegador:\n\n- **Google Chrome:** Configuración > Privacidad y seguridad > Cookies y otros datos de sitios\n- **Mozilla Firefox:** Opciones > Privacidad y seguridad > Cookies y datos del sitio\n- **Safari:** Preferencias > Privacidad > Cookies y datos de sitios web\n- **Microsoft Edge:** Configuración > Cookies y permisos del sitio > Cookies y datos almacenados\n\n**Nota:** Bloquear todas las cookies puede afectar a la funcionalidad de otros sitios web que visite.\n\n### 7. Actualización de la política\n\n{{NOMBRE_PARROQUIA}} se reserva el derecho de modificar esta política de cookies si se implementan nuevas funcionalidades o servicios que lo requieran. En caso de cambios significativos, se informará adecuadamente a los usuarios.\n\n**Última actualización:** {{FECHA_ACTUALIZACION}}\n\n---\n\n## 4. INFORMACIÓN SOBRE PROTECCIÓN DE DATOS EN FORMULARIOS\n\n### Cláusula informativa para formularios de contacto\n\nIncluir antes de cada formulario y casilla de aceptación obligatoria:\n\n---\n\n**INFORMACIÓN BÁSICA SOBRE PROTECCIÓN DE DATOS**\n\n**Responsable:** {{NOMBRE_PARROQUIA}} (CIF: {{CIF_PARROQUIA}})\n\n**Finalidad:** Gestionar su consulta o solicitud y enviarle la información solicitada.\n\n**Legitimación:** Consentimiento del interesado al facilitar sus datos y enviar el formulario.\n\n**Destinatarios:** Los datos no se cederán a terceros, salvo obligación legal. Los datos facilitados se conservan en servidores ubicados en {{UBICACION_SERVIDOR}} (indicar si UE o terceros países con garantías adecuadas).\n\n**Derechos:** Tiene derecho a acceder, rectificar, suprimir, oponerse, limitar el tratamiento y a la portabilidad de sus datos, así como a retirar el consentimiento en cualquier momento, dirigiéndose a {{EMAIL_CONTACTO}}.\n\n**Información adicional:** Puede consultar información adicional y detallada sobre protección de datos en nuestra [Política de Privacidad](#enlace-politica-privacidad).\n\n---\n\n☐ He leído y acepto la [Política de Privacidad](#enlace-politica-privacidad) **(obligatorio)**\n\n☐ Acepto recibir comunicaciones sobre actividades y eventos de la parroquia _(opcional, solo si aplica)_\n\n---\n\n### Cláusula informativa para suscripción a boletín/comunicaciones\n\nSi tienes formulario de suscripción a newsletter o comunicaciones:\n\n---\n\n**INFORMACIÓN SOBRE PROTECCIÓN DE DATOS - SUSCRIPCIÓN**\n\n**Responsable:** {{NOMBRE_PARROQUIA}}\n\n**Finalidad:** Enviarle información sobre horarios de culto, eventos, actividades pastorales y comunicaciones de interés parroquial.\n\n**Legitimación:** Consentimiento expreso del interesado mediante la aceptación de la presente cláusula.\n\n**Destinatarios:** No se cederán datos a terceros, salvo obligación legal o proveedores necesarios para el envío de comunicaciones (encargados de tratamiento).\n\n**Derechos:** Puede ejercer sus derechos de acceso, rectificación, supresión, oposición, limitación y portabilidad en {{EMAIL_CONTACTO}}. Puede darse de baja en cualquier momento mediante el enlace incluido en cada comunicación.\n\n**Información adicional:** [Política de Privacidad](#enlace-politica-privacidad)\n\n---\n\n☐ Deseo suscribirme y acepto recibir comunicaciones de {{NOMBRE_PARROQUIA}} **(obligatorio para suscripción)**\n\n☐ He leído y acepto la [Política de Privacidad](#enlace-politica-privacidad) **(obligatorio)**\n\n---\n\n## 5. INFORMACIÓN SOBRE DATOS DE CONTACTO PÚBLICOS\n\nSi publicas en la web datos de contacto como dirección física, teléfono o email:\n\n---\n\n### Nota sobre información de contacto\n\nLos datos de contacto publicados en este sitio web (dirección postal, teléfono, correo electrónico) son de carácter público y se facilitan exclusivamente para permitir la comunicación con {{NOMBRE_PARROQUIA}} en relación con sus actividades pastorales y servicios.\n\n**Uso prohibido:** Queda expresamente prohibido el uso de estos datos para:\n\n- Envío de comunicaciones comerciales o publicitarias no solicitadas (SPAM)\n- Inclusión en bases de datos comerciales sin consentimiento\n- Cualquier finalidad ajena a la comunicación legítima con la parroquia\n\nEl uso indebido de estos datos puede constituir una infracción de la normativa de protección de datos (RGPD y LOPDGDD) y de la Ley de Servicios de la Sociedad de la Información (LSSI-CE).\n\n---\n\n### 4. Variables a reemplazar:\n\nAntes de publicar, reemplaza todas las `{{VARIABLES}}`:\n\n- `{{NOMBRE_PARROQUIA}}` → Nombre completo oficial\n- `{{CIF_PARROQUIA}}` → CIF de la entidad religiosa\n- `{{DIRECCION_COMPLETA}}` → Calle, número, etc.\n- `{{CODIGO_POSTAL}}` → Código postal\n- `{{LOCALIDAD}}` → Ciudad/pueblo\n- `{{PROVINCIA}}` → Provincia\n- `{{TELEFONO}}` → Teléfono de contacto\n- `{{EMAIL_CONTACTO}}` → Email de contacto\n- `{{DIOCESIS}}` → Diócesis a la que pertenece\n- `{{UBICACION_SERVIDOR}}` → Dónde está alojada la web (ej: \"la Unión Europea\", \"España\", etc.)\n- `{{FECHA_ACTUALIZACION}}` → Fecha de publicación/actualización (ej: \"14 de noviembre de 2025\")\n"
+          }
+        ],
+        "source": "./pages/aviso-legal.md",
+        "title": "Aviso legal y política de privacidad",
+        "uuid": "196db998-236b-46a1-9b5b-643638913a3f"
+      },
+      {
+        "description": "",
+        "image": "/media/crucifijo-metal-dorado-cristo-padre-espiritu-santo.webp",
+        "name": "15909150-f513-4650-a7da-49059b44466b",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## **Discerniendo el Celibato Sacerdotal**\n\n¿Algunos de estos pensamientos son los tuyos respecto al celibato?\n\n*   “¡Realmente me gustan las chicas!”\n*   “No siempre he vivido una vida casta. ¿Aun así puedo ser considerado para el seminario?”\n*   “Lucho con la pureza, así que no estoy seguro de tener la santidad necesaria para comprometerme al celibato.”\n*   “El celibato parece una vida de soledad… ¿seré feliz estando solo?”\n*   “Creo que todavía quiero ser padre.”\n\nEl requisito del celibato es, sin duda, una de las mayores fuentes de ansiedad y temor para un hombre que discierne el sacerdocio. Esto es especialmente cierto en una sociedad y cultura saturadas de sexo.\n\nEl mensaje que recibimos de los medios y de la cultura es muy claro: _ninguna persona puede ser feliz y plena si no tiene mucha actividad sexual._ Pero esto simplemente no es verdad.\n\nComo escribió el P. Benedict Groeschel:\n\n> “Los medios proclaman el mensaje de que el sexo trae felicidad. Si esto fuera cierto, viviríamos en un paraíso terrenal y el mundo sería un ‘valle feliz’.”\n\nLa buena noticia es que la gracia de Dios puede lograrlo todo. Con el poder de la cruz de Jesús, un hombre puede superar la lujuria sexual y vivir en paz dentro de su vocación. _Puede hacerse. Es posible. Hay mucha evidencia._\n\nPor ejemplo, existen aproximadamente **cuatrocientos mil sacerdotes católicos en todo el mundo.** La gran mayoría de ellos, en algún momento, pensaron o dijeron cosas como las mencionadas antes. Pues bien, esos cuatrocientos mil ahora son sacerdotes.\n\n**Dios nunca nos enviará a un lugar donde su gracia no pueda sostenernos.**\n\nAunque hoy luches con la castidad, Dios te ofrece la gracia para llegar a ser sexualmente puro. No permitas que una preocupación sobre el celibato te impida considerar el sacerdocio.\n\nSobre todo, es importante comprender que el celibato sacerdotal **no se trata de reprimir la sexualidad**, sino de proclamar que las mayores alegrías de la humanidad no se encuentran en los bienes terrenales, sino en la unión con Dios, en esta vida y en la eterna.\n\n* * *\n\n### **El celibato en la Sagrada Escritura**\n\n**Renunciar a la familia:**\n\n> “Y todo aquel que haya dejado casas, hermanos, hermanas, padre, madre, hijos o tierras por mi nombre, recibirá cien veces más y heredará la vida eterna.” _(Mateo 19, 29)_\n\n**Libertad para servir:**\n\n> “¿Estás libre de esposa? No busques casarte... Los que se casan tendrán tribulaciones en la carne, y yo quisiera evitárselas... El no casado se preocupa de las cosas del Señor, de cómo agradar al Señor. Pero el casado se preocupa de las cosas del mundo, de cómo agradar a su esposa, y está dividido.” _(1 Corintios 7, 27-34)_\n\n**Celibato por el Reino:**\n\n> “No todos pueden aceptar esta palabra, sino solo aquellos a quienes se les ha concedido. Algunos no pueden casarse porque nacieron así; otros, porque otros los hicieron así; y otros, porque renunciaron al matrimonio por el Reino de los Cielos. Quien pueda aceptar esto, que lo acepte.” _(Mateo 19, 11-12)_\n\nEl énfasis está en el carácter especial del celibato: no todos los hombres son aptos para él, pero es una vocación que da gloria al “Reino de Dios.”\n\n* * *\n\n### **Preguntas frecuentes sobre el celibato**\n\n**¿Se permite salir con alguien mientras se está en el seminario?** El seminario es como el período de compromiso para una pareja: no se sale con otros si se desea construir una relación verdadera con la persona elegida. Del mismo modo, para prepararse realmente y discernir el llamado al sacerdocio en el seminario, no se debe tener citas.\n\n**¿Y si he sido sexualmente activo en el pasado? ¿Significa eso que no puedo ser sacerdote?** No. Pero ahora debes estar en proceso de abrazar la castidad. San Agustín llevó una vida muy desordenada en su juventud, pero abandonó sus caminos impuros cuando decidió vivir plenamente como católico. Debe haber un período significativo de “sobriedad sexual” antes de ingresar al seminario, normalmente de al menos dos años.\n\n**Tengo miedo de no poder mantenerme casto.** Si se lo pides a Dios, Él te dará abundantes gracias para vivir una vida casta. Debes responder a esas gracias tomando decisiones castas. A medida que creces en castidad y esta se vuelve un hábito de tu vida, experimentarás fortaleza y facilidad para vivirla. El celibato es un compromiso serio que debe estar al centro del discernimiento; no es para todos, pero es posible para aquellos que son llamados.\n\n**Me parece antinatural vivir toda la vida sin sexo.** La mayoría de los hombres y mujeres son llamados naturalmente al matrimonio. Por eso, vivir una vida casta y célibe va más allá de lo ordinario; es, de hecho, un llamado sobrenatural de Dios a vivir un amor radical por la Iglesia. Sí, es un sacrificio, pero las recompensas son grandes. A lo largo de los siglos, muchos santos, religiosos, monjes, monjas y sacerdotes han vivido vidas muy plenas y felices.\n\n* * *\n\n### **¿Por qué los sacerdotes no pueden casarse?**\n\n> “Soy muy impaciente con algunos de los argumentos pragmáticos a favor del celibato —que libera tiempo y permite enfocarse en otras cosas—. Prefiero ver el celibato como una expresión irracional, desbordante, poética y simbólica del alma enamorada.” — P. Robert Barron\n\nLos sacerdotes del Rito Latino renuncian a su derecho natural al matrimonio “por el Reino de los Cielos”, como enseñó Jesús a sus discípulos (Mt 19, 12). Es un don de Dios que abre el corazón del hombre para abrazar a todos los hijos de Dios de una manera profunda. Su inclinación sana y santa hacia el matrimonio y la familia se transforma en una **paternidad sobrenatural**, que hace que su ministerio —si es fiel— sea **extraordinariamente fecundo.**\n\n* * *\n\n### **Otras realidades espirituales que el celibato significa**\n\n*   El celibato marca al sacerdote como un hombre **consagrado al servicio de Cristo y de la Iglesia.** Muestra, de manera concreta, que no es simplemente alguien que cumple funciones o desempeña un cargo, sino que ha sido transformado en su ser por el sacramento del Orden.\n*   El celibato **configura al sacerdote más estrechamente con Cristo**, el gran Sumo Sacerdote, que renunció al matrimonio terrenal por el Reino y para unirse más perfectamente a su Esposa celestial, la Iglesia.\n*   Es conveniente que el sacerdote que ofrece a este mismo Jesús en sacrificio al Padre, manifieste en su propia persona (aunque de modo imperfecto) la pureza y santidad de la Víctima inmaculada.\n*   El celibato **nos recuerda el cielo**, señalando la venida del Reino, cuando el matrimonio ya no existirá.",
+            "tags": [],
+            "title": "",
+            "uuid": "8e1c68d8-6847-4202-bfec-820f11c12c3b"
+          }
+        ],
+        "source": "./pages/celibato.md",
+        "title": "¿Por qué el celibato? ",
+        "uuid": "7c9ce2d8-4cbc-4e23-9c2e-b91c5d941d58"
+      },
+      {
+        "description": "",
+        "hideHero": false,
+        "image": "/media/dfe68572-ccf3-470d-94ef-62c1e235514f.webp",
+        "name": "0ba4f47e-c31b-41af-a7b6-d4008dd6293d",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## **Acompañar, rezar y sostener las vocaciones**\n\n### **Los seminaristas necesitan nuestra colaboración**\n\nLa Iglesia, a lo largo de los siglos, nunca ha carecido de vocaciones al ministerio sacerdotal. Algunas épocas fueron más fructíferas y otras menos. Pero hoy surge la pregunta: **¿Es realmente necesario el sacerdocio ministerial?** La respuesta es clara: **¡Sí!** \n\n<p style=\"text-align: center\">Se necesitan sacerdotes para que el mensaje de Cristo y su presencia en los Sacramentos continúen conformando la historia de salvación en la humanidad y en el Pueblo de Dios de todas las épocas.</p>\n\nNo podemos medir las vocaciones por la cantidad comparada con décadas pasadas. Las quejas no sirven de nada. Lo importante es **mirar con los ojos de Cristo**, salir a evangelizar y misionar incluso comunidades pequeñas. Quizá ha llegado la hora de **reinstaurar las pequeñas comunidades**, de ser **fermento**, aunque sea un fermento pequeño. Como nos recuerda Jesús:\n\n“El Reino de los Cielos es como la levadura que tomó una mujer y la mezcló con tres medidas de harina, hasta que fermentó todo” (Mt 13,33)\n\n<p style=\"text-align: center\">Cada cristiano, viviendo en el mundo sin desnaturalizarse, <strong>atrae con su ejemplo y su palabra a las personas para el Señor</strong>.</p>\n\n### **El ejemplo y el testimonio transforman vidas**\n\nMuchas veces los movimientos sociales y las tendencias culturales no facilitan una vida evangélica, pero eso **no debe impedir mostrar que la vida cristiana es la mejor herencia que podemos ofrecer**. El ejemplo y el testimonio hacen mella en quienes nos observan. Así lo vivió San Agustín:\n\n> Si isti et istae, cur non ego?” (Si estos y estas lo han hecho, ¿por qué yo no?)\n\nFue el testimonio de sus compañeros lo que lo hizo reflexionar, abandonar una vida disoluta y superficial, y abrazar con gozo la vida evangélica, llegando a ser sacerdote y, con el tiempo, Obispo.\n\n<p style=\"text-align: center\">Hoy ocurre lo mismo: <strong>el testimonio de vida atrae vocaciones</strong>. Por eso debemos <strong>animar a las familias, a los consagrados, a los sacerdotes y a todos los fieles del Pueblo de Dios</strong> a vivir con radicalidad el seguimiento de Jesús.</p>\n\nMuchos seminaristas nos cuentan su experiencia:\n\n*   “Me encontré con un sacerdote que me fascinó con su vida y me planteé vivir como él.”\n    \n*   “En mi familia rezábamos juntos todos los días, y leyendo el Evangelio sentí la llamada a ser sacerdote.”\n    \n*   “Vi a religiosas atendiendo a los más necesitados y quise ser como ellas.”\n    \n*   “Un día sentí un vacío después de una fiesta, entré en una iglesia y experimenté una alegría profunda. Ahora soy religiosa de clausura.”\n    \n*   “La vida en comunidad despertó mi entrega al sacerdocio.”\n    \n\nCuando se vive **desde las fuentes del Amor de Dios**, la llamada vocacional **atrae como un imán**.\n\n### **Cómo podemos colaborar**\n\nLa vocación nace cuando **se escucha a Dios en el silencio interior y en la oración diaria**. Por eso, el **primer paso** es \n\n<p style=\"text-align: center\"><strong>rezar por los seminaristas</strong>, nombrando incluso a personas concretas: un joven de tu familia, un amigo, un compañero de parroquia… Haz que tu oración sea personal y persistente.</p>\n\nLuego, **invita a los jóvenes a atreverse a plantearse su vocación**. Muéstrales la belleza de seguir a Cristo, comparte historias de generosidad y entrega, y acompáñalos con ejemplo y oración.\n\nPero la colaboración no termina en la oración. También podemos **apoyar económicamente su formación**. \n\nHoy es fácil y seguro hacerlo mediante \n\n*   Bizum al **04698** \n    \n*   Mediante transferencia a la cuenta: **ES00 0000 0000 0000 0000 00** _(reemplaza este número por el real)_.\n    \n\nCada aporte, grande o pequeño, ayuda a **formar a los futuros sacerdotes**, garantizar su bienestar y sostener su misión de servicio a todos nosotros. Con tu oración y tu colaboración, **ayudamos a que la semilla de la vocación crezca y dé fruto abundante**. ¡Dios nos premiará por cada esfuerzo y cada gesto generoso!",
+            "tags": [],
+            "title": "",
+            "uuid": "c90fbf70-4ee2-4921-9c50-24327a01253e"
+          }
+        ],
+        "source": "./pages/colabora-el-semianrio-es-de-todos.md",
+        "title": "Colabora, el seminario es de todos. ",
+        "uuid": "82525cc2-876e-4e85-adc4-cb93c9e0fddc"
+      },
+      {
+        "description": "Cómo elegir bien: amar con los ojos de Dios",
+        "image": "/media/jonathan-leppan-R6z01CiUS-0-unsplash.webp",
+        "name": "518632cd-fa80-4e99-8f0b-2779e65bde04",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## **Elegir con quién compartir la vida**\n\n**Elegir con quién compartir la vida** es una de las decisiones más importantes que un cristiano puede tomar.  \nNo se trata solo de **encontrar a alguien que te guste**, sino de **descubrir a la persona a la que Dios te llama a amar y servir toda la vida**.\n\n**Amar con los ojos de Dios** significa mirar más allá de la emoción y del impulso, y **aprender a decidir con el corazón y con la cabeza iluminados por la fe.**\n\n### **No te dejes cegar por los sentimientos**\n\nEl amor verdadero no es un _tsunami_ de emociones que te arrastra sin pensar.  \nEn las primeras fases —la atracción y el enamoramiento— hay una fuerte carga emocional y hormonal que puede nublar la razón. Es normal, pero hay que dejar que baje la ola para poder ver con claridad.\n\n> **“Cuando te preguntas ‘¿me conviene?’, vas por buen camino.”**  \n> No porque el amor sea cálculo, sino porque el amor maduro sabe discernir.\n\nEnamorarse no basta: **hay que decidir amar.**  \nO, como decimos a menudo: _te enamoras con el corazón, pero eliges con la cabeza._\n\n* * *\n\n### **No quemes etapas**\n\nHoy parece que las relaciones funcionan como en las series: dos se conocen, cenan, se gustan… y todo se precipita.  \nPero el amor **no crece a golpes de impulso.**\n\nLa **sexualidad** está pensada como un **lenguaje del amor conyugal**, y cuando se adelanta, **confunde.**  \nEl cuerpo promete lo que el alma aún no ha decidido entregar.\n\n> **“El sexo puede nublar el discernimiento: hace creer que hay unidad cuando aún no se ha construido.”**\n\nMuchos noviazgos se rompen porque **nunca se conocieron de verdad**, porque se habló poco y se tocó mucho.  \nPor eso el consejo sigue siendo válido y sabio:  \n**hablad mucho, rezad juntos y tocaos poco.**\n\nEl noviazgo **no es un “mini matrimonio”**: es un tiempo para **discernir si esa persona es con quien quieres compartir la vida.**  \nNo se trata solo de pasarlo bien, sino de **descubrir si juntos podéis crecer en santidad.**\n\n* * *\n\n### **El noviazgo: escuela de amor**\n\nEl **noviazgo cristiano** es una **escuela de amor**.  \nNo se trata de poseer, sino de **aprender a entregarse, a respetar, a comprender.**\n\nEn él, uno aprende a pasar del **enamoramiento —que es sentir— al amor —que es decidir—.**\n\nEs el momento de conocerse a fondo:\n\n*   Qué valores os mueven\n    \n*   Cómo vivís la fe\n    \n*   Qué sueños compartís\n    \n*   Cómo reaccionáis ante el dolor o la frustración\n    \n\n> **No basta con que la otra persona sea buena: hay que ver cómo sois juntos.**\n\n**Pregúntate:**\n\n*   ¿Cómo actuamos cuando hay desacuerdos?\n    \n*   ¿Sabemos pedir perdón y ceder?\n    \n*   ¿Compartimos una misma fe y proyecto de vida?\n    \n*   ¿Nos ayudamos a ser mejores o nos desgastamos?\n    \n*   ¿Nos amamos con libertad, sin depender emocionalmente?\n    \n\nEl amor cristiano **no busca la perfección del otro**, sino **caminar juntos hacia ella.**\n\n* * *\n\n### **Mira con los ojos de la fe**\n\nEn el discernimiento de pareja hay que mirar más allá de lo superficial.  \n**No se construye un hogar sobre la belleza o la simpatía, sino sobre el alma.**  \nLa apariencia pasa; el corazón y la fe permanecen.\n\nPrimero, que sea **cristiano, de verdad.**  \nNo solo bautizado, sino **creyente, practicante, alguien que vive su fe** y desea caminar contigo hacia Dios.\n\n> Muchos matrimonios sufren porque se unieron sin compartir la misma fe, esperando que el otro “cambiara”.  \n> **El amor no convierte por sí solo: solo la gracia y la libertad lo hacen.**\n\nTambién mira la **madurez**: cómo vive su familia, cómo trabaja, cómo enfrenta las dificultades, cómo gestiona el dinero, si es responsable, fiel y honesto.\n\nNo te fíes de los que **prometen mucho y viven poco.**  \nLos hábitos no cambian por arte de magia en el matrimonio.\n\n> **“Antes de viajar por tierra, ora; si es por mar, ora dos veces; y si te vas a casar, ora tres.”**  \n> — _Proverbio ruso_\n\nEl matrimonio no se construye sobre una sonrisa ni sobre un instante de ternura, sino sobre todo lo que eres: **pensamientos, sueños, heridas, esperanzas y fe.**\n\n* * *\n\n### **Un proyecto de vida compartido**\n\nCasarse no es simplemente “quererse mucho”.  \nEs **querer ser esposos**, formar una **comunidad de vida abierta a los hijos y a Dios.**\n\nPor eso, el noviazgo debe ser un **camino de preparación**, un proceso en el que se decide —con libertad y verdad— si ese amor puede llegar a ser **sacramento.**\n\nNo te fíes de los flechazos ni de las prisas.  \nTampoco de la apariencia o del atractivo.  \nBusca un amor **sólido, fundado en la fe, la virtud y la confianza.**\n\n**Elige con oración.**  \nEscucha a quienes te quieren: padres, sacerdotes, amigos de fe.  \nPide consejo, pero sobre todo **pide luz a Dios.**  \nÉl conoce tu corazón mejor que nadie.\n\n* * *\n\n### **Amar con los ojos de Dios**\n\n**Amar con los ojos de Dios** es mirar al otro como Él lo mira: con **verdad, ternura y exigencia.**  \nEs **desear el bien del otro más que el propio placer.**  \nEs **decidir amar incluso cuando no se siente**, y confiar en que el sentimiento volverá, purificado y más fuerte.\n\n> **“El amor humano es serio, grande y santo.”**\n\nPor eso hay que construirlo sobre cimientos sólidos:  \n**la oración, la castidad, la sinceridad, la fe y la voluntad de servir.**\n\n**Elegir bien no es tener suerte:**  \nes **saber mirar con el corazón en gracia.**",
+            "tags": [],
+            "title": "",
+            "uuid": "f2b6444e-4f52-4f23-bc09-4b126907ffd6"
+          }
+        ],
+        "source": "./pages/como-escoger-una-buena-pareja.md",
+        "title": "Cómo elegir bien: amar con los ojos de Dios",
+        "uuid": "2984805f-cd37-4a32-b179-7e8004f1667c"
+      },
+      {
+        "description": "",
+        "hideHero": false,
+        "image": "/media/seminario-pamplona-714741.webp",
+        "name": "e98dbae8-e494-4675-a946-0d0b7a589ab6",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "**Requisitos para ser sacerdote**\n\nPara llegar a ser sacerdote católico, un hombre debe cumplir tres requisitos básicos:\n\n1.  Tener el acceso a la universidad.\n    \n2.  Etapa Propedeutica: afianzar la vocación durante un año creciendo en oración y vida de comunidad.\n    \n3.  Etapa Discipular: crecer en la configuración con Cristo mientras se cursan **dos años de Filosofía**.\n    \n4.  Etapa Configuradora: **asimilar el corazón de Cristo Pastor y Siervo** cursando **tres años de Teología**.\n    \n\n* * *\n\n### **La vida diaria de un seminarista**\n\nEn una palabra: **intensa**, pero también **llena de vida**.  \nLas exigencias del sacerdocio son grandes, por eso la formación es rigurosa… pero en medio del estudio y la oración hay **tiempo para convivir, reír y compartir como hermanos**.\n\nAdemás de los estudios a nivel de maestría, los seminaristas:\n\n*   Rezán juntos al menos dos veces al día.\n    \n*   Participan en la **Misa diaria**.\n    \n*   Se reúnen con su **director espiritual**.\n    \n*   Realizan **prácticas pastorales** en parroquias locales.\n    \n\nY entre todo eso, hay momentos para **el deporte, las tertulias, las bromas en el comedor y las largas charlas entre amigos** que forjan una fraternidad auténtica.  \nPorque el seminario no solo forma sacerdotes: **forma hermanos que aprenden a vivir en comunidad, con alegría y con Cristo en el centro**.\n\n* * *\n\n### **Los cuatro pilares de la formación sacerdotal**\n\nSer sacerdote **no es un trabajo**, sino **una identidad nueva**: convertirse en _alter Christus_, otro Cristo.  \nPor eso, la Iglesia propone una formación exigente en **cuatro áreas fundamentales**:\n\n1.  **Formación humana:** cultivar una personalidad que sea un **puente hacia Cristo** y que permita ser un portavoz eficaz de la Iglesia.\n    \n2.  **Formación espiritual:** desarrollar una **relación profunda y madura con Cristo** mediante la oración y una vida virtuosa.\n    \n3.  **Formación intelectual:** conocer a fondo las **verdades de la fe** y adquirir las habilidades para enseñarlas a los demás.\n    \n4.  **Formación pastoral:** aprender a ser un verdadero **pastor de almas**, acompañando a los fieles en sus alegrías y sufrimientos.",
+            "tags": [],
+            "title": "",
+            "uuid": "b0faf67f-9d13-4c62-a906-3b31a7141bf7"
+          }
+        ],
+        "source": "./pages/como-funciona-el-seminario.md",
+        "title": "¿Cómo funciona el seminario? ",
+        "uuid": "dc2e6245-98be-43f2-9ccc-5775c4f97ffa"
+      },
+      {
+        "description": "https://app.pagescms.org/catholicweb/vocaciones/main/collection/pages",
+        "hideHero": false,
+        "image": "/media/seminaristas-1.webp",
+        "name": "d97c4b49-87bc-4079-9782-9c562f5950e9",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "El camino hacia el sacerdocio es una verdadera aventura de gracia: un **viaje donde el corazón aprende a escuchar, a servir y a amar como Cristo, el Buen Pastor**.  \nEn nuestro seminario, cada etapa de formación tiene su propio ritmo y belleza, ayudando a cada joven a crecer en libertad, madurez y entrega gozosa.\n\n### **1\\. Etapa Propedéutica**\n\nEs el **primer año**, un tiempo para **clarificar y afianzar la vocación sacerdotal**.  \nEs un año de **oración, convivencia y comunidad**, donde cada seminarista aprende a dejar atrás ideas propias sobre la vocación y abrir su corazón a la **voz de Dios**.  \nSe centra en **crear una vida de oración y fraternidad** que sostendrá todo el camino formativo. El año se vive en Alcalá de Henares, junto con seminaristas de Madrid y Alcalá, reforzando el discernimiento y la fraternidad.\n\nEn esta etapa contamos con **Nico y Alejandro**, dando sus primeros pasos en la fe y en la formación.\n\n![](/media/WhatsApp-Image-2025-10-30-at-15-59-39.webp\n\n![](/media/WhatsApp-Image-2025-10-30-at-15-59-39.webp\n\n* * *\n\n### **2\\. Etapa Discipular**\n\nNormalmente dura **dos años** y tiene como objetivo **verificar y fortalecer la opción vocacional** a través del discipulado.  \nAquí el seminarista **vive la vida interior desde el seguimiento de Jesús**, crece en virtudes, se dedica al **estudio de la Filosofía** y participa activamente en **actividades socio-caritativas**.\n\nEn esta etapa tenemos a **Álvaro y Carlos**, profundizando en la vida espiritual y pastoral.\n\n![](/media/Seminaristas.webp\n\n* * *\n\n### **3\\. Etapa Configuradora**\n\nNormalmente dura **tres años** y se dedica a la **asimilación e identificación con el ser y el ministerio del presbítero diocesano**.  \nEl seminarista se configura con Cristo, el Buen Pastor, integrando **todos los aspectos de su personalidad en la opción por el presbiterado**.  \nProfundiza en la oración, el trato con Dios, el **estudio de la Teología** y los fines de semana se entrega a la **pastoral en la parroquia** donde sea asignado.\n\nEn esta etapa contamos con **Andrés,** en tercer curso de seminario:\n\n![](/media/68b1b4c290c03-r_d-0-0-1897.webp\n\n**Diego, Xavi,** en cuarto curso\n\n![](/media/Gemini_Generated_Image_jixow0jixow0jixo-1.webp\n\nY **Andoni y Miguel**, en sexto curso, creciendo en experiencia y entrega pastoral.\n\n![](/media/pixverse_i2i_ori_d6211423-5061-4622-822c-109316aef1b1.webp\n\n* * *\n\n### **4\\. Etapa Pastoral**\n\nEs **el año de inserción pastoral** y de preparación definitiva para el presbiterado.  \nEs la **síntesis del camino formativo**, donde normalmente se reciben las **órdenes del diaconado** y, al final, el **sacerdocio**.  \nSe trata de **vivir la entrega total de la vida y del servicio a todos**, consolidando todo lo aprendido en las etapas anteriores.\n\nAquí tenemos a **David, Ion y Manu**, viviendo la misión de servir con corazón de pastor.\n\n![](/media/unnamed.webp",
+            "tags": [],
+            "title": "",
+            "uuid": "9a9e5b16-03b1-4323-ba3b-9d67487b2c7a"
+          }
+        ],
+        "source": "./pages/conoce-a-nuestros-seminaristas.md",
+        "title": "Conoce a nuestros seminaristas ",
+        "uuid": "384e2995-8adb-4a7c-a558-71874b33f9f6"
+      },
+      {
+        "description": "",
+        "hideHero": false,
+        "image": "/media/aute.webp",
+        "name": "74f6c457-09bb-45b0-9986-98aa1dc81359",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "### No se discierne solo: acompáñate en tu vocación\n\nDiscernir la llamada de Dios no es un camino que se recorra en soledad. En nuestra diócesis, existen **grupos de discernimiento** que se reúnen regularmente en el Seminario para acompañar a quienes sienten el llamado al sacerdocio. Allí se reflexiona, se ora y se recibe orientación de quienes ya viven esta vocación de cerca.\n\nContamos con un grupo de discernimiento amplío para jovenes y otro sacerdotal para jovenes varones. Estas reuniones ayudan a clarificar la propia vocación y a dar pasos concretos hacia ella.\n\nSi quieres informarte o unirte a alguno de estos grupos, ¡contacta con tu parroco! O habla con un sacerdote de tu confianza. Si no, puedes contactar con:\n\n**Iñigo Beunza** – Delegado de Pastoral Vocacional y Formador del Seminario  \n**Teléfono:** 660 36 39 53",
+            "tags": [],
+            "title": "",
+            "uuid": "82146fd6-bf52-44a7-ada8-870d894e8db9"
+          },
+          {
+            "_block": "gallery",
+            "list": [
+              "/media/ABRE-LOS-OJOS-STANDAR.webp",
+              "/media/ChatGPT-Image-5-feb-2026-18_53_33.webp"
+            ],
+            "tags": [],
+            "title": "",
+            "uuid": "59e9c713-f58c-46b4-a7de-2941efcb84f0"
+          }
+        ],
+        "source": "./pages/contacto.md",
+        "title": "Grupos de disciernimiento ",
+        "uuid": "eab4dbcc-66f6-40c9-8eb5-68a1cfa322af"
+      },
+      {
+        "description": "",
+        "image": "/media/unnamed-removebg-preview.webp",
+        "name": "dba27941-6cb3-4f47-9baa-d90049f2dfe2",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "Si sientes que Dios te llama o simplemente quieres **hablar sobre tu vocación**, la **Pastoral Vocacional de Navarra** está para acompañarte.\n\nPuedes contactar con:\n\n*   **Jesús Echeverz**, rector del Seminario. 620 58 26 31\n    \n*   **Iñigo Beunza Sola**, **sacerdote y encargado de Pastoral Vocacional**. 660 36 39 53\n    \n*   **Perdon**, **virgen consagrada y colaboradora en Pastoral Vocacional**. 680 58 13 89\n    \n\nEllos estarán **encantados de escucharte, orientarte y caminar contigo** en este camino de descubrimiento.",
+            "tags": [],
+            "title": "",
+            "uuid": "b432a1d1-e61b-47bd-ad4e-5efa9c06b62c"
+          }
+        ],
+        "source": "./pages/contacto-1.md",
+        "title": "Contacto ",
+        "uuid": "eb34421f-7168-43a6-b793-bc7468da1a0d"
+      },
+      {
+        "description": "",
+        "image": "/media/joven-cruza-calle_158595-889.webp",
+        "name": "5e859715-de85-4ca5-a55a-b384e27bd6cd",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "### **Desafíos actuales de la vocación laical**\n\nA pesar de esta vocación universal, **muchos bautizados aún no han tomado plena conciencia de su pertenencia a la Iglesia**. Muchos se consideran católicos, pero no experimentan la Iglesia como **un hogar que transforma su vida y su entorno**. Esto genera situaciones donde los valores cristianos son vistos como algo “opcional” o cultural, en lugar de ser **el fundamento de su identidad**.\n\nComo resultado:\n\n*   La vida profesional, política, económica, científica, artística y mediática **no siempre se guía por criterios evangélicos**.\n    \n*   Existe una **incoherencia entre la fe profesada y el compromiso real** en la vida cotidiana.\n    \n*   Los laicos no siempre reciben **acompañamiento adecuado por parte de los pastores**, lo que dificulta descubrir y madurar su vocación.\n    \n\n* * *\n\n### **Obstáculos en la formación y la acción laical**\n\nAlgunos desafíos vienen de **actitudes internas a la Iglesia**:\n\n*   Persistencia de una **mentalidad clerical**, que limita la iniciativa de los laicos en la acción evangelizadora.\n    \n*   Dedicación preferente de muchos laicos a **tareas intra-eclesiales**, sin proyectar su fe hacia la sociedad.\n    \n*   Deficiencias en la **formación integral**, que impiden responder con eficacia a los retos actuales de la sociedad.\n    \n\nEstos factores hacen necesario un **redescubrimiento profundo de la vocación laical**. Ser cristiano no es solo cumplir prácticas religiosas: **es tener vocación**, y ser laico significa **ordenar toda la vida social desde dentro**, desde las entrañas de la realidad actual, con la luz del Evangelio.",
+            "tags": [],
+            "title": "",
+            "uuid": "a98a444b-dcb8-42fc-94c1-7fa6eaefe683"
+          }
+        ],
+        "source": "./pages/desafios.md",
+        "title": "Desafíos para los laicos ",
+        "uuid": "5b88dd21-f4f9-47f8-856a-7e491807602e"
+      },
+      {
+        "description": "",
+        "image": "/media/684ff18bcf5dc.webp",
+        "name": "fe570936-3a84-473c-bca2-81e6be69d734",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "### **El diaconado permanente**\n\nEl **Concilio Vaticano II** restableció el **diaconado permanente** (LG 29) y lo definió como _“un grado propio y permanente dentro de la jerarquía”_. Puede conferirse a **hombres casados** que reciben el **sacramento del orden** en su **tercer grado**.\n\nLos diáconos son **fortalecidos por la imposición de manos** que viene desde los Apóstoles y se unen más estrechamente al **servicio del altar**, cumpliendo su ministerio con la **gracia del diaconado** (AG 16).\n\n* * *\n\n### **Ministerio y funciones**\n\nEl diácono está llamado a vivir la _diakonía_ —el **servicio**— que caracteriza su vocación. Su misión es triple: **servir la Palabra, la Liturgia y la Caridad**.\n\nEntre sus funciones se incluyen:\n\n*   Administrar los **sacramentos del Bautismo y del Matrimonio**.\n*   **Asistir al sacerdote** en la Eucaristía, **proclamar el Evangelio** y **distribuir la Comunión**, tanto en el templo como a los enfermos.\n*   **Predicar**, **dar catequesis** y **presidir funerales**.\n*   **Administrar parroquias** y coordinar obras de caridad.\n\nEl diácono no sustituye al sacerdote ni al laico, sino que tiene **una identidad y misión propias**, dentro del único servicio al Pueblo de Dios.\n\n* * *\n\n### **Fundamento evangélico**\n\nEl diaconado se apoya en el **Nuevo Testamento** y expresa el mandato de Cristo sobre el servicio:\n\n> “No he venido a que me sirvan, sino a servir” (cf. Lc 22,27).\n\nJesús se presenta como el **primer diácono**, el servidor por excelencia.\n\nEn los **Hechos de los Apóstoles**, los Doce eligen a **siete hombres de buena fama**, llenos del Espíritu Santo, para servir a las mesas y ayudar a los necesitados (Hch 6,1-6). Entre ellos destacan **Esteban**, primer mártir, y **Felipe**, llamado _“el evangelista”_ (Hch 21,8).\n\n* * *\n\n### **A lo largo de la historia**\n\nDesde los primeros siglos, el diaconado acompañó de cerca al obispo y tuvo gran importancia en la vida eclesial. El diácono **San Lorenzo**, patrono y ejemplo, fue administrador y limosnero de la Iglesia de Roma, modelo de entrega y fidelidad.\n\nEl **Concilio Vaticano II** recuperó el diaconado como ministerio estable, con **identidad y misión propias**, abriendo una nueva etapa en la vida de la Iglesia.\n\n* * *\n\n### **Hoy**\n\nEl diaconado permanente sigue creciendo como **respuesta del Espíritu Santo** a las necesidades actuales de la Iglesia. En nuestra diócesis, **tres hombres** han recibido este ministerio: **dos casados y uno célibe**. Cada uno, desde su estado de vida, vive el lema del diácono:\n\n> “Servir como Cristo servidor”.",
+            "tags": [],
+            "title": "",
+            "uuid": "a897649b-17fd-40e8-81c4-cfb10a05287f"
+          }
+        ],
+        "source": "./pages/diaconado-permanente.md",
+        "title": "¿Diaconado permanente?",
+        "uuid": "d2d78fbb-e850-46b4-9bd7-a7ccfbbc3a92"
+      },
+      {
+        "description": "",
+        "image": "/media/concept-sad-teenage-girl-depression-600nw-2253467887.webp",
+        "name": "c82f07c7-26b9-46a0-b786-c07a6369bfaf",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "### Dificultades y rupturas: cuando el amor también purifica\n\n**Amar no siempre es fácil.**  \nTodo amor verdadero pasa por momentos de prueba, dudas, heridas o incluso rupturas. Pero también ahí —en lo que duele— puede haber una llamada de Dios. El amor, cuando es auténtico, no solo hace felices: también purifica, enseña y transforma.\n\n### Las pruebas del amor\n\nEn el noviazgo surgen diferencias, decepciones, cansancio o miedo al futuro. A veces uno siente que no es correspondido como esperaba, o que la relación se ha enfriado. Es normal.  \nEl amor no es un camino recto, sino una escuela donde Dios nos enseña a **amar más allá de nosotros mismos**.\n\n> “El amor no consiste en mirarse el uno al otro, sino en mirar juntos en la misma dirección.”  \n> —Antoine de Saint-Exupéry\n\nLas dificultades pueden ser un espejo donde descubrimos nuestras debilidades, nuestro egoísmo o nuestras heridas. En vez de huir de ellas, es una oportunidad para crecer, para aprender a perdonar y a confiar más en Dios.\n\n### Cuando toca soltar\n\nA veces, el amor también se purifica en la **renuncia**. Hay relaciones que no están llamadas a continuar, y discernirlo con sinceridad y oración es también un acto de amor.  \nRomper no siempre significa fracasar: puede ser la forma más honesta y valiente de amar. Dios no bendice cualquier relación, sino aquella que nos conduce a la santidad y a la verdadera entrega.\n\n**Soltar con paz** es reconocer que el otro pertenece a Dios antes que a nosotros, y que la felicidad no se mide por conservar, sino por amar en libertad.\n\n> “Amar es querer el bien del otro, aunque ese bien no me incluya.”\n\n### Curar con fe\n\nDespués de una ruptura, pueden quedar heridas, sentimientos de culpa o vacío. Pero el corazón no está hecho para quedarse roto: **Dios puede sanar** lo que parecía perdido.  \nEs tiempo de silencio, oración y acompañamiento. De dejar que la gracia repare lo que el amor humano no logró.\n\nLos sacramentos, la dirección espiritual y la amistad son medicina. La Eucaristía sostiene, la confesión libera, la oración consuela. No se trata solo de “pasar página”, sino de **dejar que Dios escriba una nueva**.\n\n### El amor que madura\n\nLas pruebas del amor no son un obstáculo, sino una purificación. El amor maduro nace del dolor abrazado con fe. Cuando se entrega, perdona y aprende, el corazón se ensancha y ama mejor.\n\nPor eso, incluso las rupturas pueden ser parte del camino vocacional: ayudan a conocerse, a purificar los deseos y a disponerse para amar como Cristo, con verdad y sin miedo.\n\n### Para vivirlo\n\n*   No tengas miedo de pedir ayuda: hablar con un sacerdote o con un acompañante espiritual puede aclarar mucho.\n    \n*   No idealices ni te encierres: el noviazgo cristiano es un camino de libertad, no de dependencia.\n    \n*   No apagues la esperanza: si Dios ha permitido una herida, es porque quiere sacar de ella un amor más grande.",
+            "tags": [],
+            "title": "",
+            "uuid": "da9b9b79-d70b-40be-b650-8afd858f7945"
+          }
+        ],
+        "source": "./pages/dificultades-y-rupturas-cuando-el-amor-tambien-purifica.md",
+        "title": "Dificultades y rupturas: cuando el amor también purifica",
+        "uuid": "2c27021c-6111-4aed-b8e0-253ab28d9d29"
+      },
+      {
+        "description": "",
+        "hideHero": false,
+        "image": "/media/depositphotos_322263350-stock-photo-religious-young-man-praying-to.webp",
+        "name": "30bdc161-eab5-48b4-8f75-1e28e7a52917",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "La vocación es el compromiso profundo de seguir el llamado de Dios. Se requiere esfuerzo y cuidado para comprender verdaderamente esa llamada. Este proceso de descubrir la voluntad de Dios se conoce como **discernimiento vocacional**.\n\nEl discernimiento adecuado implica varios elementos clave:\n\n*   **Profundo autoconocimiento:** comprender tu personalidad, tus fortalezas y debilidades, tus inclinaciones, tu espiritualidad, tus capacidades mentales e incluso tu salud física.\n    \n*   **Un conocimiento sólido y un amor sincero por nuestra fe católica.**\n    \n*   **Familiaridad con las diferentes vocaciones**, lo que implican y la forma de vida que moldean en quienes las abrazan.\n    \n\nNaturalmente, este proceso no sucede de la noche a la mañana. El discernimiento vocacional es un **camino** que puede llevar meses o incluso años. Requiere estudio, oración y, sobre todo, paciencia.\n\n*   El discernimiento **no es algo que se pueda hacer en soledad**. La mejor manera de discernir es con la guía de la Iglesia, idealmente acompañado por un sacerdote o un director espiritual de confianza que te ayude a descubrir hacia dónde puede estar llamándote Dios.\n    \n*   Si buscas orientación —ya sea que tengas preguntas sencillas o necesites un acompañamiento más profundo—, **¡estamos aquí para ayudarte!**",
+            "tags": [],
+            "title": "",
+            "uuid": "10e31238-cc46-48c7-a691-9a2141698363"
+          }
+        ],
+        "source": "./pages/discierne.md",
+        "title": "¿Qué es el discernimiento?",
+        "uuid": "fec5b14b-fafc-455d-838c-180f95d99cc4"
+      },
+      {
+        "description": "",
+        "image": "/media/pareja-rezando-juntos-sosteniendo-rosario-mano_488220-5885.webp",
+        "name": "926445f1-4757-40c3-afca-81069c970a73",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "### El noviazgo como vocación y camino de entrega\n\n**El noviazgo no es un paréntesis en la vida cristiana, sino una verdadera llamada a amar como Cristo.**  \nDel mismo modo que el matrimonio es una vocación a la entrega incondicional, el noviazgo es un tiempo de discernimiento y maduración en el amor. Es la etapa donde dos personas se conocen, se descubren y se preparan para decidir si quieren entregarse el uno al otro para siempre.\n\n### Un tiempo de discernimiento y gracia\n\nCada cristiano está llamado a la santidad —también los novios—. Este tiempo no es una pausa, sino una oportunidad para crecer en fe y en virtud. Vivir el noviazgo con Dios en el centro significa dejar que Él dé sentido a la relación: ilumine los afectos, purifique las intenciones y haga fecundo el amor.\n\nCuando un amor te acerca más a Dios y te ayuda a amar mejor a los demás, ahí hay un noviazgo cristiano. Cuanto más se aman los novios entre sí, más capaces son de amar a Dios, y viceversa.\n\n> “El corazón ha sido creado para amar. Metamos, pues, a Cristo en todos los amores nuestros.”\n\n### Aprender a amar\n\nAmar no es solo sentir, sino aprender a darse. El noviazgo es una escuela de amor donde se forjan virtudes: respeto, paciencia, generosidad y fidelidad. Los pequeños gestos —escuchar, ceder, esperar— preparan para un amor que dura.\n\nTambién es un tiempo para **formarse y crecer juntos**. Leer, dialogar, compartir inquietudes sobre la fe y el matrimonio ayuda a construir sobre roca. Es importante dejarse acompañar, buscar consejo y aprender de quienes ya recorren ese camino.\n\n### Vivir el amor con delicadeza\n\nUn amor auténtico cuida y respeta. La castidad no es una negación del amor, sino su protección. Enseña a amar sin usar, a esperar para entregarse del todo, a descubrir la belleza de la persona amada como don. El noviazgo cristiano no se mide por la intensidad del deseo, sino por la profundidad del respeto y la verdad del compromiso.\n\n> Amar es ayudar al otro a ser santo, no ser obstáculo en su camino hacia Dios.\n\n### Alegría, amistad y misión\n\nEl noviazgo también es tiempo de **amistad, risas y vida compartida**. No se trata de encerrarse en la relación, sino de abrirse juntos al mundo: servir, hacer apostolado, vivir la fe con alegría. Una pareja cristiana no solo se ama: **es testimonio del amor de Dios en medio del mundo.**\n\n### La fuerza de los sacramentos\n\nLos novios que rezan juntos, que van a Misa, que se confiesan, que ponen a Dios en el centro, experimentan que su amor se hace más fuerte y más libre. En los sacramentos se encuentra la gracia para perdonarse, comprenderse y crecer en comunión.\n\nEl noviazgo es, en definitiva, **una vocación al amor verdadero**, una invitación a aprender a amar como Cristo ama a su Iglesia: con paciencia, con ternura y con entrega.",
+            "tags": [],
+            "title": "",
+            "uuid": "40557e68-bde5-4942-b20c-90325702d7da"
+          }
+        ],
+        "source": "./pages/el-noviazgo-como-vocacion-y-camino-de-entrega.md",
+        "title": "El noviazgo como vocación y camino de entrega",
+        "uuid": "f6af7ad6-c920-4e48-abba-8a525c4eefa5"
+      },
+      {
+        "description": "",
+        "image": "/media/FT3TuUxWIAEJAOF.webp",
+        "name": "d941bfe1-a314-4c2d-934c-8c43e497198c",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "### **El primer hogar de la vocación: la familia**\n\nToda vocación comienza en casa. No en un seminario, ni en un convento, sino **en el calor de una familia que reza, ama y sirve**.  \nAhí se aprende a decir “sí”, a mirar más allá de uno mismo, a descubrir que la vida se hace grande cuando se entrega.\n\n*   La familia es el **primer seminario del corazón**.\n    \n*   Donde se enseña a **hablar con Dios con naturalidad**.\n    \n*   Donde se aprende que la fe **no es teoría, sino vida compartida**.\n    \n\n### **La comunidad: cuna donde crece la llamada**\n\nNadie discierne solo.  \nLa **comunidad parroquial**, el grupo, el movimiento, son lugares donde la fe se hace experiencia viva.  \nAllí uno **descubre sus dones, comparte inquietudes y encuentra modelos concretos** de entrega.\n\n👉 La comunidad no sustituye la voz de Dios, pero **ayuda a reconocerla**.  \n👉 Acompaña, anima, sostiene… y **reza**.\n\n> _Una comunidad que reza por las vocaciones, las hace nacer._\n\n### **Una Iglesia de vocaciones**\n\nNecesitamos familias y comunidades que **vivan su propia vocación con alegría**, sabiendo que eso ya es testimonio.  \nCuando un matrimonio vive unido, cuando un sacerdote sirve con pasión, cuando una religiosa sonríe con fe, **están predicando con su vida**.\n\n### **Sembrar vocaciones en nuestros ambientes**\n\nLa vocación no es un tema del pasado ni solo para “otros”.  \nEs la **gran aventura de cada cristiano**: descubrir cómo Dios quiere amar al mundo a través de ti.\n\n🌾 **Padres, catequistas, sacerdotes, amigos…**  \nHablemos de vocación con naturalidad.  \nMiremos a nuestros jóvenes con ojos de fe:\n\n> “Este chico sería un buen sacerdote.”  \n> “Esa chica tiene un corazón grande para servir.”\n\nY no solo lo pensemos: **recemos por ellos**.  \nCada oración es una semilla en el campo de Dios.",
+            "tags": [],
+            "title": "",
+            "uuid": "0af61929-3bb2-4824-8468-60bc47912810"
+          }
+        ],
+        "source": "./pages/el-papel-de-la-familia-y-la-comunidad.md",
+        "title": "El papel de la familia y la comunidad",
+        "uuid": "c7b2fa3b-4034-4d6a-bd31-870c80698e41"
+      },
+      {
+        "description": "Vive tu familia como Iglesia: ama, entrega y sé faro del amor de Dios en el mundo.",
+        "image": "/media/g.webp",
+        "name": "c7bca6a4-a285-4182-9a83-b207640fe4e6",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## **La familia: Iglesia doméstica**\n\nCristo quiso nacer y crecer en la Sagrada Familia de José y María. Desde sus orígenes, la familia ha sido **el primer núcleo de vida cristiana**, donde la fe se enseña, se vive y se transmite. Cada hogar creyente es una **Iglesia doméstica**, un lugar donde se predica primero el amor de Dios a través de la entrega mutua y el ejemplo cotidiano.\n\n* * *\n\n### Padres y madres, primeros evangelizadores\n\nLos padres son los **primeros predicadores de la fe**. Con sus palabras y sobre todo con su ejemplo, enseñan a sus hijos a vivir en Dios.  \nFomentan vocaciones y ayudan a descubrir el llamado personal de cada miembro de la familia. La santidad se aprende en casa, en la paciencia, el perdón, el trabajo y la oración diaria.\n\n**Imagen sugerida:** Padres leyendo la Biblia a sus hijos, mostrando cercanía y unión.\n\n* * *\n\n#### **Comunidad de fe, esperanza y caridad**\n\nLa familia cristiana es **una comunión de personas**, que refleja la comunión que existe en Dios entre Padre, Hijo y Espíritu Santo.  \nA través de la oración, los sacramentos y la vida cotidiana, los miembros ejercitan **el sacerdocio bautismal**, ofreciendo su vida como signo de amor y entrega. Aquí se aprende a ser generosos, pacientes y a amar sin reservas.\n\n**Imagen sugerida:** Familia en oración conjunta, en actitud de recogimiento.\n\n* * *\n\n### Imagen de Dios Creador\n\nComo Dios crea y educa, la familia participa de su obra: **procrear, educar y formar en el amor**. Cada hogar es **imagen de Dios**, responsable de transmitir vida, amor y esperanza. La misión familiar comienza predicando primero el amor de Dios entre sus miembros, en la entrega diaria y el cuidado mutuo.\n\n**Imagen sugerida:** Familia abrazada en un paisaje natural, reflejando amor y creación.\n\n* * *\n\n#### Misión que ilumina el mundo\n\nVivir la fe en familia no es solo cuidar del propio hogar, es **ser faro para los demás**. Los actos cotidianos de amor y servicio enseñan a los hijos y muestran a quienes nos rodean que la vida cristiana es verdadera y hermosa. La familia evangeliza con su ejemplo, su compromiso y su entrega.\n\n**Imagen sugerida:** Familia participando en actividades parroquiales o servicio comunitario.\n\n* * *\n\n### Oración y vida cotidiana\n\nLa oración familiar **une y fortalece**. Leer la Palabra de Dios, rezar juntos y poner a Dios en el centro de la vida diaria marca la diferencia en las decisiones, los comportamientos y los vínculos afectivos.  \nSi el hogar solo gira en torno a lo mundano, se pierde la dimensión sagrada de la vida. Una familia que reza, permanece unida y transmite fe.\n\n**Imagen sugerida:** Familia rezando antes de la comida o en un momento cotidiano de unión.\n\n* * *\n\n## **Dignidad y responsabilidad**\n\nLa familia cristiana es **una Iglesia viva y presente en el mundo**, reflejo del amor de Dios. Cada miembro tiene la dignidad y la responsabilidad de **predicar primero con la vida y la entrega al otro**. El hogar no solo vive la fe, la irradia; forma, acompaña y evangeliza. Ser familia cristiana es **un llamado a amar sin límites, a superar el egoísmo y a vivir la entrega total**, como Dios nos ama.\n\n**Imagen sugerida al final:** Collage de familias cristianas en oración, celebraciones y servicio, mostrando unidad y diversidad.",
+            "tags": [],
+            "title": "",
+            "uuid": "4c51168a-5076-4fae-9b6c-dc6aa9edcf09"
+          }
+        ],
+        "source": "./pages/familia-iglesia-domestica.md",
+        "title": "Familia, iglesia doméstica ",
+        "uuid": "78a709f9-b418-4787-b8df-b7e909f8d095"
+      },
+      {
+        "description": "",
+        "image": "/media/acercamiento-al-sacerdote-hablando-persona_23-2149284615.webp",
+        "name": "6db7a1ec-6644-4a1a-89a4-cbd88e0fc389",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "1.  ¿Qué hace un sacerdote?  \n    El propósito de un sacerdote es llevar a las personas a Jesús y a Jesús a las personas. Lo hace principalmente predicando la Palabra y ofreciendo el Sacrificio de la Misa.\n\nSu vida diaria consiste en administrar los sacramentos —Bautismo, Confirmación, Eucaristía, Penitencia y Reconciliación, Unción de los Enfermos y Matrimonio (el Orden Sagrado lo administra el obispo)— y en atender las necesidades espirituales y humanas de su comunidad.\n\n* * *\n\n2.  ¿Qué es exactamente una “vocación”?  \n    Una vocación es un llamado de Dios para hacer algo específico por Él y por su Reino. La vocación principal de toda persona es ser santa: amar y servir a Dios, obedecer sus mandamientos y cooperar con Cristo en la obra de la redención amando y sirviendo a los demás.\n\nPero todos somos llamados también a una vocación secundaria, un “estado de vida” en el que debemos ser santos.\n\n* * *\n\n3.  ¿Cuáles son esas “vocaciones secundarias” a las que puedo ser llamado?  \n    Muchas personas son llamadas al matrimonio, pero es un error asumir automáticamente que esa es tu vocación. También puedes ser llamado al sacerdocio, a la vida religiosa como hermano o hermana, o al diaconado.\n\nFinalmente, algunos siguen a Cristo en el estado de vida célibe. Recuerda: es normal desear el matrimonio y la familia. Ese deseo no excluye que puedas tener vocación sacerdotal.\n\n* * *\n\n4.  ¿Cómo puedo saber a qué me llama Dios?  \n    Debes orar todos los días pidiendo a Dios que te revele su plan. No te preguntes: “¿Qué quiero hacer cuando sea mayor?”, sino: “Jesús, ¿qué quieres Tú que yo haga?”. ¡Y escucha la respuesta!\n\nEl lugar principal donde Dios habla es el corazón. Escucha con el corazón. Además, el discernimiento de la vocación sacerdotal se hace siempre con la Iglesia. El obispo local, asistido por la oficina vocacional y el seminario, es quien finalmente confirma la llamada.\n\n* * *\n\n5.  ¿Puedo ser feliz si no sigo el plan que Dios tiene para mí?  \n    Si no sigues la vocación para la que fuiste creado, puedes alcanzar cierta felicidad en esta vida y aun así salvarte, pero nunca serás tan plenamente feliz como si siguieras tu verdadera vocación.\n\nPor eso es tan importante discernir correctamente. Claro que en toda vocación hay pruebas y dificultades, pero también gran alegría al entregar la vida por Jesús.\n\n* * *\n\n6.  ¿Son felices la mayoría de los sacerdotes en su vocación?  \n    ¡La mayoría de los sacerdotes son muy felices! La vida sacerdotal es profundamente gratificante, tanto en esta vida como en la eterna.\n\nLos medios de comunicación a veces dan una imagen distorsionada de los sacerdotes, presentándolos como frustrados o infelices, o reduciéndolos a los escándalos de unos pocos. Eso simplemente no es verdad.\n\n* * *\n\n7.  ¿Por qué los sacerdotes no pueden casarse? ¿No es eso muy difícil?  \n    Los sacerdotes del Rito Romano no se casan para dedicarse por completo a Jesús y a su pueblo. Engendran “hijos espirituales” al llevar muchas almas a Cristo y ayudarlas a crecer en santidad.\n\nEl celibato es un signo poderoso para el mundo de que solo Jesús puede darnos la felicidad que todos anhelamos. Renunciar al matrimonio y a la familia muestra que Cristo es real y digno de entregar la vida por Él.\n\nToda vocación exige sacrificios, pero hay gran alegría en sacrificarse por amor. Como dijo un sacerdote: “Es verdad que nadie me llamará ‘papá’, pero miles me llaman ‘padre’”.\n\n* * *\n\n8.  ¿Alguna vez se permitirá que los sacerdotes se casen?  \n    El celibato siempre existirá en la Iglesia porque no es solo una ley, sino un carisma, un don espiritual y una fuente de fecundidad. Jesús fue célibe. San Pablo también.\n\nEl celibato ayuda al sacerdote a unirse más íntimamente con Cristo y a ser signo del Reino de Dios. Aunque existen algunos sacerdotes casados en la Iglesia católica, son casos excepcionales.\n\nSi alguna vez el Espíritu Santo quisiera un cambio, lo realizaría a través del Papa y los obispos. Pero sería un grave error ir al seminario “esperando” que eso ocurra.\n\n* * *\n\n9.  ¿Habría más sacerdotes si pudieran casarse?  \n    Tal vez, pero la cuestión es si eso sería lo mejor para la Iglesia. El celibato por el Reino es un testimonio poderoso de que Jesús es real y digno de toda entrega.\n\nAdemás, las vocaciones sacerdotales han crecido enormemente en las últimas décadas en África, Asia y América Latina, mientras que han disminuido en Europa y Estados Unidos. El problema no es el celibato, sino factores culturales y sociales más profundos.\n\n* * *\n\n10.  ¿Estaré solo si me hago sacerdote?  \n    La soledad forma parte de toda vocación, pero los sacerdotes rara vez están solos: acompañan a las personas en los momentos más importantes de su vida —nacimiento, sacramentos, matrimonio, muerte— y viven rodeados de su comunidad.\n\nCuando llega la soledad, Jesús llena ese vacío, como lo hace en toda vocación.\n\n* * *\n\n11.  ¿Los sacerdotes reciben salario?  \n    Sí, aunque llevan una vida sencilla. Reciben lo necesario para cubrir sus gastos, mantener un vehículo, descansar y realizar actividades normales. Además, la parroquia provee su alojamiento y comida, por lo que sus gastos son mínimos.\n\n* * *\n\n12.  ¿Pueden divertirse los sacerdotes?  \n    Por supuesto. Los sacerdotes pueden practicar deportes, ver películas, leer, viajar, ir al teatro, pescar, jugar al fútbol o al golf, siempre que sea coherente con la vida cristiana.\n\n* * *\n\n13.  Si me atrae el sacerdocio, ¿significa que tengo vocación?  \n    Posiblemente, pero no necesariamente. Es importante orar, ir a Misa, vivir cristianamente y hablar con un sacerdote o el director vocacional. Ellos pueden ayudarte a discernir con claridad.\n\n* * *\n\n14.  No soy muy “santo”. ¿Aun así puedo ser sacerdote?  \n    Sí. La santidad es un camino de toda la vida. Dios forma a sus sacerdotes poco a poco. Usa el sacramento de la Confesión, reza a diario y verás cómo Cristo te transforma.\n\n* * *\n\n15.  ¿Es fácil llegar a ser sacerdote?  \n    No. Se requiere una formación seria: cuatro años de universidad (incluyendo filosofía) y otros cuatro en el seminario para obtener la maestría en teología. Pero no te desanimes: el seminario es una experiencia maravillosa y Dios da la gracia necesaria.\n\n* * *\n\n16.  ¿Es necesaria tanta educación?  \n    Sí. El sacerdote debe estar bien formado en humanidades, teología y vida espiritual para servir con sabiduría y ser respetado por los fieles. Cada alma es preciosa y merece un pastor preparado.\n\n* * *\n\n17.  ¿Qué cualidades busca la Iglesia en un candidato?  \n    Debe ser un católico practicante, que rece cada día, viva los mandamientos, sirva a los demás, goce de buena salud física, mental y emocional, y tenga inteligencia promedio o superior. Sobre todo, debe estar abierto a la voluntad de Dios.\n\n* * *\n\n18.  Si entro al seminario “para probar”, ¿ya me comprometo de por vida?  \n    No. El seminario es precisamente el lugar para discernir. Muchos hombres entran, prueban un tiempo y después deciden otro camino. Y aun así, salen fortalecidos en su fe.\n\n* * *\n\n19.  ¿Es interesante la vida del sacerdote?  \n    ¡Mucho! Cada día es distinto. Hay desafíos, pero también una alegría profunda. Al final del día, el sacerdote puede decir: “Señor, hoy me he entregado por Ti”. No hay forma más plena de vivir.\n\n¿Responderás si Jesús te llama?",
+            "tags": [],
+            "title": "",
+            "uuid": "746aeacd-7b42-4a25-be80-718a0603eb3c"
+          }
+        ],
+        "source": "./pages/faq.md",
+        "title": "Preguntas frecuentes ",
+        "uuid": "01a84ced-fc20-4bdf-8d9d-8d3528ebbce8"
+      },
+      {
+        "description": "Todos rezamos por todos",
+        "hideHero": false,
+        "image": "/media/CARTEL_EDITADO.webp",
+        "name": "d5d2e943-9b1b-439e-afa5-325b3fe5216a",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## 🙏 Jornada Mundial de Oración por las Vocaciones\n\n### 🌍 Jornada de Vocaciones Nativas\n\nEn comunión con toda la Iglesia, celebramos una jornada especialmente dedicada a **orar por las vocaciones**. Un momento para volver a lo esencial: **escuchar la voz de Dios** que sigue llamando hoy, personalmente, a cada uno.\n\n💡 La vocación no es solo para unos pocos:  \nes una llamada concreta, real y única que Dios dirige a cada persona. Por eso, esta jornada es una invitación a:\n\n- 🙏 **Rezar juntos**, como Iglesia, por todas las vocaciones\n- ❤️ **Pedir por los jóvenes**, para que descubran su camino\n- 👂 **Disponernos interiormente** para escuchar a Jesucristo\n- 🔥 **Disfrutar de un concierto y celebrar,** Dios sigue llamando\n\n\n\n## 🔥 Un encuentro para jóvenes\n\nQueremos vivir este día **de forma concreta y comunitaria**, reuniéndonos para compartir la fe, la alegría y la búsqueda sincera de la voluntad de Dios.\n\n📍 **Lugar:** Seminario de Pamplona  \n🏟 **Espacio:** Pabellón del Sagrado Corazón\n\n🗓 **Fecha:** 24 de abril\n\n### ⏰ Horario:\n\n- 🕗 **20:00 – Oración**  \nUn tiempo fuerte para poner delante del Señor nuestra vida y escuchar su llamada.\n- 🍽 **21:00 – Cena compartida**  \nMomento de encuentro, amistad y comunidad.\n- 🎶 **22:00 – Concierto**  \nCelebramos con alegría que **cada vocación es un regalo para todos**.\n\n\n\n## 👥 ¿Para quién es?\n\nEste encuentro está dirigido a:\n\n- Jóvenes de **16 a 35 años**\n- De toda **Navarra**\n\nNo hace falta tenerlo todo claro.  \nSolo hace falta **estar dispuesto**.\n\n## 💛 Una llamada para todos\n\nEn esta jornada queremos recordar algo fundamental:\n\n👉 **Dios sigue llamando hoy**  \n👉 **Cada vocación construye la Iglesia**  \n👉 **Todos somos responsables de rezar por todos**\n\nPorque cuando uno descubre su vocación…  \n✨ **toda la Iglesia se alegra** ✨\n\n\n\n## 📝 Inscripción\n\nPara participar, inscríbete en el formulario:  \n👉 [https://forms.gle/Tj2f6GeWdq3sgw3R7](https://forms.gle/Tj2f6GeWdq3sgw3R7)\n\n---\n\n🙏 *Contamos contigo. Reza, ven, participa… y déjate sorprender por lo que Dios puede hacer.*  \n🔥 **¡Todos rezamos por todos!**",
+            "tags": [],
+            "title": "",
+            "uuid": "b649208d-219e-4eb8-8320-2539d851247b"
+          }
+        ],
+        "source": "./pages/jornada-de-oracion-por-las-vocaciones.md",
+        "title": "Jornada de Oración por las Vocaciones",
+        "uuid": "03f7ffc3-b01a-41c7-a6eb-8dd9cedcc05e"
+      },
+      {
+        "description": "",
+        "image": "/media/Gg4-1.webp",
+        "name": "f4563e15-e9c1-4d38-b9fc-3b4a4ad6aaf6",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## Los votos religiosos: pobreza, castidad y obediencia, camino de amor total\n\n**Por amor a Cristo, muchos hombres y mujeres en la Iglesia lo dejan todo.** No por desprecio del mundo, sino por amor al Reino que viene. En un tiempo marcado por la búsqueda del placer, la riqueza y la autonomía personal, los votos religiosos son una **luz profética** que muestra otro modo de vivir: el de **Jesús pobre, casto y obediente**.\n\n### ¿Qué es un voto?\n\nUn _voto_ es una **promesa hecha a Dios**. No es un simple propósito humano, sino un compromiso sagrado por el cual una persona se entrega al Señor con todo su ser. El **Código de Derecho Canónico** lo define como una “promesa libre y deliberada hecha a Dios de un bien posible y mejor” (cf. c. 1191).\n\nEntre todos los votos, destacan los **votos religiosos**, mediante los cuales los miembros de los institutos de vida consagrada se comprometen solemnemente a vivir los _consejos evangélicos_: **pobreza, castidad y obediencia**. Estos no son simples renuncias, sino **formas de amar más y mejor**, reproduciendo en la propia vida el estilo mismo de Jesucristo.\n\n> “Por medio de los votos de pobreza, castidad y obediencia, ustedes pueden ser portadores de luz para las mujeres y los hombres de nuestro tiempo.”  \n> — _Papa Francisco, Jornada Mundial de la Vida Consagrada_\n\n* * *\n\n### ✨ El voto de castidad: amar con corazón indiviso\n\nEl **canon 599** del Derecho Canónico enseña:\n\n> “El consejo evangélico de castidad asumido por el Reino de los Cielos, en cuanto signo del mundo futuro y fuente de una fecundidad más abundante en un corazón no dividido, lleva consigo la obligación de observar perfecta continencia en el celibato.”\n\nEl voto de castidad no es una simple abstención, sino un **modo de amar como Cristo amó**. Quien lo profesa se compromete a vivir con el corazón totalmente entregado a Dios, orientando toda su capacidad afectiva hacia Él y hacia el servicio de los demás.\n\nEn una sociedad donde el amor se mide por el deseo o la utilidad, la castidad consagrada recuerda que **el amor verdadero no posee, sino que se dona**. Es el amor que no exige, sino que acoge; que no usa, sino que **libera**.\n\n> “El amor casto muestra a los hombres y mujeres modernos un camino de sanación del aislamiento, en una forma de amar libre y liberadora.”  \n> — _Papa Francisco_\n\nEl consagrado vive la castidad no como represión, sino como **anticipación del cielo**, donde “ya no se casarán, sino que serán como los ángeles de Dios” (Mt 22,30). En su corazón late el amor eterno del Esposo divino, un amor que **abraza a todos sin dividirse**.\n\n* * *\n\n### 💧 El voto de pobreza: libre para amar\n\nEl **canon 600** indica:\n\n> “El consejo evangélico de pobreza, en seguimiento de Cristo que, siendo rico, se hizo pobre por nosotros, comporta además de una vida pobre de hecho y de espíritu, una dependencia y limitación en el uso y disposición de los bienes conforme al derecho propio de cada instituto.”\n\nVivir la pobreza evangélica no significa despreciar los bienes materiales, sino **ordenarlos según el amor**. El religioso renuncia a poseer, no porque los bienes sean malos, sino porque quiere que **su único tesoro sea Dios**.\n\nEn un mundo que idolatra el consumo y la comodidad, la pobreza consagrada recuerda que **“no sólo de pan vive el hombre” (Lc 4,4)**. Es una protesta silenciosa contra el egoísmo y una proclamación de libertad interior.\n\nSer pobre por amor es poder decir: _“Mi riqueza es Cristo”_. Es vivir desprendido, solidario, generoso. No es un vacío, sino una **plena disponibilidad para servir** y para compartir.\n\n> “La pobreza muestra cómo las cosas tienen valor en el orden del amor, y rechaza todo lo que puede ofuscar su belleza: el egoísmo, la codicia, la dependencia.”  \n> — _Papa Francisco_\n\n* * *\n\n### 🔥 El voto de obediencia: escuchar y seguir a Cristo\n\nDice el **canon 601**:\n\n> “El consejo evangélico de obediencia, asumido en espíritu de fe y amor en el seguimiento de Cristo obediente hasta la muerte, obliga a someter la voluntad a los superiores legítimos cuando mandan conforme a las constituciones del propio instituto.”\n\nLa obediencia es quizás el voto más exigente, porque toca lo más profundo del ser humano: su libertad. Pero es también el que **más transforma al alma en Cristo**.\n\nJesús mismo fue “obediente hasta la muerte y muerte de cruz” (Flp 2,8). El consagrado aprende de Él a confiar, a escuchar, a renunciar a sí mismo por amor. Obedecer no es someterse ciegamente, sino **reconocer la voz de Dios** en la mediación de la Iglesia y de los superiores.\n\n> “La obediencia es signo para nuestra sociedad porque se basa en escucharse unos a otros y luego actuar, aun a costa de renunciar a los propios gustos y preferencias.”  \n> — _Papa Francisco_\n\nEn una cultura que exalta la autonomía y el “yo hago lo que quiero”, el voto de obediencia proclama una verdad olvidada: **la verdadera libertad es hacer la voluntad de Dios**.\n\n* * *\n\n### Un amor que se hace comunidad\n\nLos votos no se viven en soledad. Cada consagrado y consagrada pertenece a una **comunidad**, donde se comparte la fe, la oración y la misión. Es un espacio donde se aprende a amar en lo concreto: en la vida fraterna, la paciencia, el perdón, el servicio.\n\nEl religioso no busca sólo su santificación, sino que **construye junto a otros una familia espiritual**. La comunidad se convierte así en el rostro visible del Reino de Dios, donde todos son hermanos y hermanas en Cristo.\n\nEn un mundo sediento de autenticidad, los religiosos y religiosas son **signos vivos de esperanza**, testigos de que vale la pena darlo todo por amor.\n\n**Seguir a Cristo pobre, casto y obediente no empobrece la vida… la colma de sentido.**",
+            "tags": [],
+            "title": "",
+            "uuid": "5f8db08d-fab2-4f18-bcc7-ed276fc5a54d"
+          }
+        ],
+        "source": "./pages/los-votos.md",
+        "title": "Los votos. Pobreza. Castidad. Obediencia ",
+        "uuid": "601e451b-5c28-4e63-8e45-7149a096a3f0"
+      },
+      {
+        "description": "",
+        "image": "/media/istockphoto-547436912-612x612.webp",
+        "name": "1f72295a-5422-4f03-9199-7a409d8496a7",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## **¿Cómo saber si Dios me llama? — Vencer el miedo**\n\nQuizá alguna vez haya pasado por tu mente la idea del sacerdocio, pero el miedo la aleja:\n\n*   Miedo al compromiso\n*   Miedo al celibato\n*   Miedo a no ser digno\n\nEstos temores son muy comunes, incluso entre los que ya están en el seminario. Pero literalmente miles de hombres han tenido las mismas dudas y, aun así, llegaron a ser sacerdotes santos y entregados.\n\nLa primera verdad que debes recordar es que **Dios no habla a través del miedo**. El miedo es un arma del Enemigo para apartarte de la voluntad de Dios; es como la mordida de un animal que paraliza a su presa para que no pueda moverse.\n\nUn hombre dominado por el miedo tendrá dificultad para avanzar hacia la voluntad de Dios.\n\nEntonces, ¿cómo superar el miedo? Aquí tienes **cinco ideas**:\n\n* * *\n\n### **1) Convierte tus miedos en preocupaciones.**\n\nPuedes tener preocupaciones legítimas sobre el celibato o la predicación, pero eso no es lo mismo que tener miedo. En lugar de dejarte dominar por el temor, mira las exigencias del sacerdocio con objetividad. Es verdad que el sacerdote necesita dominio propio, madurez afectiva y capacidad de hablar en público. Estas y otras áreas requieren un examen personal serio.\n\nSí, descubrirás cosas que debes mejorar, pero haz tu discernimiento con la mente serena, no con el corazón asustado.\n\n> “El amor perfecto expulsa el temor” (1 Jn 4,18).\n\nRecuerda que cuando Jesús llamó a Pedro (Lc 5,1-11), el primer Papa le dijo:\n\n> “Apártate de mí, Señor, que soy un pecador.”\n\nY Jesús le aseguró que no debía tener miedo de seguirlo. Del mismo modo, Jesús conoce tus debilidades y dificultades. Si confías en Él y “echas las redes mar adentro”, todo saldrá bien.\n\n* * *\n\n### **2) Reflexiona sobre el amor de Dios.**\n\nEl P. Brett Brannen, en su libro _Salvar mil almas_, recomienda esta meditación cuando un hombre siente miedo:\n\n> “Dios es infinito en poder y me ama infinitamente. Nadie puede arrebatarme de su mano. Dios nunca me enviará donde su gracia no pueda sostenerme. Si me pide algo difícil, como ser sacerdote, me dará la gracia para hacerlo. No fracasaré, porque Él está conmigo. Seré feliz porque hago su voluntad. Aunque no tenga todas las cualidades necesarias, Dios me ayudará a desarrollarlas. En su voluntad está mi paz.”\n\n* * *\n\n### **3) Confía tus miedos a la Virgen María.**\n\nRecuerda que, después de que el ángel le dijo “no temas”, María aceptó con prontitud la voluntad de Dios:\n\n> “He aquí la esclava del Señor; hágase en mí según tu palabra.”\n\nEntrégale tus temores a su intercesión: ella calmará tu corazón y te ayudará a descubrir la voluntad de su Hijo.\n\n* * *\n\n### **4) Recuerda para qué es el seminario.**\n\nDesde un punto de vista práctico, es consolador saber que, si Dios te llama al sacerdocio, la ordenación todavía está lejos. El seminario es un tiempo de formación intensa para afrontar las dudas, crecer en santidad y prepararse para un ministerio fecundo. **Ningún hombre entra al seminario estando ya listo para ser sacerdote.**\n\n* * *\n\n### **5) Busca consuelo en la Palabra de Dios.**\n\nSi tienes miedo al sacerdocio, no estás solo. Los profetas y apóstoles también sintieron temor cuando fueron llamados. Lee las siguientes citas bíblicas para ver cómo Dios los animó:\n\n*   **No soy lo bastante santo:** Is 6,1-9; Lc 5,1-11\n*   **Temo fracasar:** Ex 14,10-31; Lc 15\n*   **He pecado:** Jn 21,15-23; Mt 9,9-13; Lc 7,36-50\n*   **Soy demasiado joven:** 1 Sam 3,1-18; 1 Sam 16,1-13; Jer 1,4-10; Lc 1,26-38\n*   **No tengo talento suficiente:** 1 Sam 17,32-51; Lc 1,26-38\n*   **Quiero tener una familia:** Gn 12,1-3; Mt 12,46-50; Mc 10,28-30\n*   **Quiero “una buena vida”:** Mc 10,17-31; 1 Cor 2,9; Mt 13,44-46; Jn 10,10; Mt 16,24-27\n*   **Me da miedo comprometerme para siempre:** Rut 1,15-17; Mt 28,16-20; 1 Cor 12,5-10\n*   **Me asusta hablar en público:** Ex 4,10-17; Jer 1,4-10\n*   **No soy lo bastante inteligente:** 2 Cor 4,7-18; Ex 4,10-17\n*   **Temo estar solo:** Ex 3,4-22; Lc 1,28-38; Mt 28,20\n*   **Quiero ser feliz:** Sal 37,4; Mt 5,1-12; Jn 10,10; Mc 10,28-31; 1 Cor 2,9\n*   **Estoy lleno de miedo:** 1 Jn 4,18 “En el amor no hay temor; el amor perfecto expulsa el temor.”\n\nComo recordaba con frecuencia san Juan Pablo II: **¡No tengáis miedo!** No dejes que el miedo te paralice. Habla con un sacerdote en quien confíes sobre tus inquietudes.\n\nPermanece fiel a la oración diaria, confía en Dios y tu corazón estará en paz, sea cual sea tu vocación.",
+            "tags": [],
+            "title": "",
+            "uuid": "143e9c1e-8a94-4fa4-b0e3-1d58f74a0ff5"
+          }
+        ],
+        "source": "./pages/miedo.md",
+        "title": "¡Supera el miedo!",
+        "uuid": "13a16785-7fdf-4716-81e5-fc99245e6cd5"
+      },
+      {
+        "description": "",
+        "image": "/media/WhatsApp-Image-2025-03-11-at-11-46-12-800x900.webp",
+        "name": "01ab0ab0-dfd6-4894-880f-e492bac63b68",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## **Ministerios laicales: La Iglesia cuenta contigo**\n\n### **Todos estamos llamados. Todos podemos servir.**\n\nLa misión de la Iglesia no es sólo de los sacerdotes. Cada fiel bautizado tiene un lugar único en la historia de la salvación. A través de su fe, su entrega y su compromiso, los laicos participan en la misión de Cristo: **sacerdotal, profética y real**, cada uno según sus dones y circunstancias.\n\n### **El corazón de la vocación laical**\n\nSer laico no significa ser espectador. Significa **tomar la fe y vivirla en la vida diaria**. Los laicos son llamados a actuar como **luz en el mundo**, transformando, **desde el espíritu de Cristo**,\n\n*   la política\n    \n*   la economía\n    \n*   la cultura\n    \n*   la ciencia\n    \n*   la educación\n    \n*   los medios de comunicación\n    \n*   Sobre todo, la vida familiar y profesional.\n    \n\n> Cuantos más laicos compenetrados con el espíritu evangélico existan, más el mundo se abrirá al Reino de Dios.\n\n### **Ministerios litúrgicos y suplencias**\n\nLos laicos pueden participar directamente en la vida de la Iglesia de muchas maneras. **No es necesario ser sacerdote** para contribuir a la liturgia o al cuidado pastoral, siempre bajo la guía de los pastores.\n\n*   Dar catequesis\n    \n*   Presidir oraciones litúrgicas\n    \n*   Proclamar la Palabra de Dios en la eucaristía\n    \n*   Dar la Sagrada Comunión cuando los ministros no pueden\n    \n\nEstas tareas, aunque importantes, **no hacen del laico un sacerdote**. Su legitimidad proviene de la autoridad pastoral y su **raíz sacramental es el Bautismo y la Confirmación**, no la ordenación.\n\n### **Ministerios laicales: santos en lo cotidiano**\n\n<p style=\"text-align: center\">Cada lector, administrador de la Comunión, catequista o participante en cualquier ministerio laical <strong>no sólo cumple una función</strong>, sino que está llamado a <strong>ser santo en su servicio</strong>.</p>\n\nLa verdadera eficacia de su labor no depende únicamente de la técnica o del cumplimiento formal, sino de la **vida entregada y coherente con la fe**. Ser lector o catequista implica preparar el corazón, cultivar la oración y vivir el Evangelio para que cada palabra, cada gesto y cada encuentro **transmita la presencia de Cristo**.\n\n<p style=\"text-align: center\">El ministerio laical se convierte así en un <strong>camino de santificación personal</strong>: no es suficiente transmitir conocimientos, repartir la Eucaristía o guiar en la catequesis si antes no se vive la propia fe con autenticidad.</p>\n\nLa santidad del laico transforma su ministerio, convirtiéndolo en luz para los demás y apoyo verdadero para los sacerdotes. Cada acto de servicio, por pequeño que parezca, **es un testimonio vivo del amor de Dios** y un ejemplo que inspira a toda la comunidad.\n\n> Ser laico que sirve es ser santo en lo ordinario, reflejando el Evangelio no solo en la función, sino en toda la vida.",
+            "tags": [],
+            "title": "",
+            "uuid": "910c9cd2-284b-4326-afc0-016387a221b1"
+          }
+        ],
+        "source": "./pages/ministerios-laicales.md",
+        "title": "Catequistas, lectores... ¡Santos!",
+        "uuid": "7b21781a-585e-4128-bb49-2d27bccc89b9"
+      },
+      {
+        "description": "",
+        "hideHero": false,
+        "image": "/media/cerca-feliz-padre-maduro-hijo-adulto-abrazandose-acurrucandose-disfrutando-momento-tierno-pie-casa-sonriendo-joven-padre-mayor-gafas-divirtiendose-dos-generaciones-buena-relacion_650366-8997.webp",
+        "name": "98e2cdea-c13b-49cc-a9f1-531ea7350561",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## **No solo rezar, animar**\n\n### **La vocación no nace de la nada**\n\nA veces parece que las vocaciones —al sacerdocio, al matrimonio o a la vida consagrada— **surgen de la nada**, como si Dios llamara en secreto sin que nadie más tuviera parte.  \nPero no es así: **Dios llama a través de rostros concretos, de comunidades vivas, de personas que se interesan de verdad.**  \nPor eso, no basta con rezar por las vocaciones. **Hay que plantearlo con la vida.**\n\n* * *\n\n### **Rezar sí… pero con los ojos abiertos**\n\nJesús lo dijo con claridad: _“La mies es mucha y los obreros pocos; rogad, pues, al Dueño de la mies que envíe obreros a su mies”_ (Mt 9,37-38).  \nEsa oración no es pasiva ni teórica. Es una llamada a **convertirnos nosotros mismos en colaboradores de Dios**, en quienes ayudan a otros a descubrir su camino.\n\nRezar por las vocaciones significa **mirar alrededor**: a los jóvenes de tu parroquia, a tus amigos, a quien sirve con alegría, a quien escucha con paciencia, a quien vive la fe con coherencia.  \nCuando veas a alguien así, **no te calles**. Quizá sea momento de plantear, con sencillez y discreción:\n\n> “¿Has pensado a qué te llama Dios?”\n\nA veces una pregunta como esa, lanzada por un **sacerdote**, un **catequista** o un **amigo creyente**, despierta el discernimiento vocacional que ha podido quedarse desplazado por uno mismo.\n\n* * *\n\n### **Cada uno busca la santidad del otro**\n\nLa vocación no es un asunto privado. **Todos somos responsables de la santidad del otro.**  \nUn laico que anima, una madre que reza, un sacerdote que propone, una comunidad que acompaña… todos participan en el nacimiento de nuevas vocaciones.\n\nEl mundo necesita **buenos esposos**, **buenos sacerdotes**, **buenas consagradas**. Y eso empieza cuando cada uno es buen ejemplo de su vocación y se esfuerza en mostrar la alegría de la entrega.\n\n### **Apuntar, acompañar, orar**\n\nMira con atención. **Apunta en el corazón** los nombres de quienes transmiten alegría, esperanza, servicio.  \nAcompáñalos con tu amistad, con tu oración, con tu ejemplo.  \nY reza cada día:\n\n> “Señor, haz que cada uno descubra su camino, y que sepamos acompañarnos en el discernimiento.”\n\n* * *\n\n### **Una vocación que nace en comunidad**\n\nNinguna vocación florece en solitario. **Surge en una comunidad que ora, que escucha, que camina unida.**  \nLa sinodalidad —ese caminar juntos— no es solo un método pastoral: **es el modo mismo en que Dios llama**.  \nCada vocación, cada historia, es fruto de un pueblo que acompaña, propone y sostiene.",
+            "tags": [],
+            "title": "",
+            "uuid": "5e5459a1-094b-466b-abd8-e057879fc872"
+          }
+        ],
+        "source": "./pages/no-solo-rezar-buscar.md",
+        "title": "No solo rezar: animar",
+        "uuid": "fc4995ac-72e6-4bbe-b099-20bf636871f5"
+      },
+      {
+        "description": "",
+        "image": "/media/novios-1-q1wou655gh2da4crtefd1b102cuy0xy5thfk8hq0f4.webp",
+        "name": "54becd8a-6f85-411d-ae20-abd63f1225fc",
+        "sections": [
+          {
+            "_block": "links",
+            "links": [
+              "80c7b8c0-702a-4fd0-a3d2-17e7804033c5",
+              "926445f1-4757-40c3-afca-81069c970a73",
+              "c82f07c7-26b9-46a0-b786-c07a6369bfaf",
+              "0bbfa25e-37cd-4da9-8b61-efdb2a41b43e"
+            ],
+            "tags": [],
+            "title": "",
+            "uuid": "9c30ff30-b31e-498c-a47f-2c9e75ed93af"
+          }
+        ],
+        "source": "./pages/noviazgo.md",
+        "title": "Noviazgo ",
+        "uuid": "baeae02e-f156-43be-8088-68e34b968066"
+      },
+      {
+        "description": "",
+        "image": "/media/caminos-que-se-bifurcan.webp",
+        "name": "3d7637eb-776b-4abe-b02c-d2dfed179aad",
+        "sections": [
+          {
+            "_block": "links",
+            "links": [
+              "372a9054-ee95-4ded-86cc-ffc77fdd440e",
+              "54becd8a-6f85-411d-ae20-abd63f1225fc"
+            ],
+            "tags": [],
+            "title": "",
+            "uuid": "3a11a828-e34d-4ed3-b52b-c721f546a44c"
+          }
+        ],
+        "source": "./pages/noviazgo-y-seminario.md",
+        "title": "Noviazgo y Seminario. Épocas de discernimiento ",
+        "uuid": "c2128257-60e2-4636-a9da-81f96a2f48a8"
+      },
+      {
+        "description": "",
+        "image": "/media/premium_photo-1661821196004-0e36470a4dc5.webp",
+        "name": "0f1ab9e7-7c3f-4539-b741-fa03f50af127",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "### **La mies es mucha**\n\nJesús lo dijo con verdad: **hay mucho trabajo por hacer y pocas manos dispuestas a hacerlo.**  \nLas almas —esa es la mies— **esperan pastores que las acompañen, que las curen, que las conduzcan hacia Dios.**  \nPero si faltan sacerdotes, **faltan quienes lleven el Evangelio, quienes celebren los sacramentos, quienes anuncien el perdón y la misericordia de Cristo.**\n\nNo se trata solo de una escasez numérica: es una **urgencia del corazón de la Iglesia.**  \nHay hambre de Dios, sed de sentido, necesidad de pastores.  \nY el mismo Cristo nos ha dicho cómo responder: **pidiendo.**\n\n* * *\n\n### **Una llamada a orar**\n\nJesús no dijo “organizad más” o “buscad mejores métodos”. Dijo:\n\n> **“Rogad al Dueño de la mies.”**\n\nLa vocación sacerdotal **no nace de una estrategia, sino de la oración.**  \nDios sigue llamando, pero **espera que su pueblo interceda.**  \nCuando la Iglesia ora, el Espíritu Santo actúa; cuando una familia reza, un corazón puede escuchar la llamada.\n\nPor eso, **cada cristiano tiene una responsabilidad real:**  \n**pedir al Dueño de la mies que envíe obreros santos, generosos, alegres.**\n\n* * *\n\n### **Rezar con perseverancia**\n\nNo basta con pedir una vez. Jesús habló de **orar sin desfallecer.**  \nLas vocaciones sacerdotales nacen en una Iglesia que **reza con insistencia y confianza.**\n\nReza cada día, reza en familia, reza el Rosario pidiendo por los sacerdotes y por quienes podrían serlo.  \n**Cada Avemaría es una semilla.**  \nY cuántos sacerdotes, al contar su historia, lo confiesan:\n\n> “Mi abuela rezaba el Rosario por las vocaciones.”  \n> “Un grupo en mi parroquia pedía cada semana por nuevos sacerdotes.”  \n> “Alguien, en silencio, estaba orando por mí.”\n\n**Nada se pierde.** Cada oración mueve el corazón de Dios.\n\n* * *\n\n### **La generosidad de interceder**\n\nPedir vocaciones es un acto de fe, pero también de generosidad.  \nSignifica reconocer que **la Iglesia no nos pertenece**: pertenece a Cristo.  \nY Él quiere que su mies tenga obreros, que su pueblo tenga pastores.\n\nDedicar tiempo, oración, sacrificio, incluso ofrecer un Rosario o una comunión por las vocaciones, **es parte de nuestra misión como laicos, familias y comunidades.**  \nNo hay oración más fecunda que la que pide por quienes un día **llevarán la gracia de Dios a tantas almas.**\n\n* * *\n\n### **Una Iglesia que ora unida**\n\nLa vocación nace en una **comunidad que ora**, que camina unida, que vive la **sinodalidad** de saberse responsable de todos.  \nNo basta con esperar que “otros” recen.  \n**Cada uno cuenta.** Cada uno puede ser instrumento para que un joven escuche la voz de Cristo que llama:\n\n> “Ven y sígueme.”\n\n* * *\n\n### **Pedir con fe**\n\nLa mies es mucha. Las almas esperan.  \nY el Señor nos ha dado el camino: **pedir, confiar, insistir.**\n\nPide cada día al Dueño de la mies.  \nHazlo con fe, con constancia, con amor a la Iglesia.  \nPorque Dios escucha. Y cuando la Iglesia reza, **Él responde.**",
+            "tags": [],
+            "title": "",
+            "uuid": "29fb1f34-40a7-4111-aa55-f23f705b9766"
+          }
+        ],
+        "source": "./pages/pedid-al-dueno-de-la-mies.md",
+        "title": "Pedid al dueño de la mies",
+        "uuid": "6f335ec6-fa23-4d3a-9538-07ca6046ad72"
+      },
+      {
+        "description": "",
+        "image": "/media/web2-sister-lucia-marie-op-dominican-first-profession-jeffrey-bruno-005.webp",
+        "name": "d6a30819-9971-4761-a0a7-90c687c9a9d7",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## ¿Qué hacen las monjas?\n\n### Dos caminos, una misma entrega: la vida activa y la vida contemplativa\n\nCuando alguien pregunta _“¿qué hacen las monjas?”_, la respuesta más honesta sería:  \n**“aman, sirven y oran por el mundo”**.  \nPero detrás de esas tres palabras hay **una vida entera de entrega**.  \nAlgunas lo hacen **en silencio, entre muros**, y otras **en medio del ruido del mundo**.  \nAmbas formas son dos rostros de un mismo amor: **Cristo**.\n\n> “Las monjas son el rostro femenino de una Iglesia que ora, sirve y ama.”\n\n* * *\n\n## Monjas de clausura: el corazón oculto que sostiene a todos\n\nSon las **monjas contemplativas**, las que viven “escondidas con Cristo en Dios”.  \nDesde el silencio de sus monasterios, **rezan por todos**, por los que creen y por los que no, por los que sufren, por los que aman, por el mundo entero.\n\n### Así late su día\n\nSu vida está marcada por un ritmo sereno y constante:\n\n*   **Oración personal** desde el amanecer.\n    \n*   **Eucaristía** como centro de todo.\n    \n*   **Trabajo manual**: huerto, costura, dulces, iconos…\n    \n*   **Silencio**, que no es vacío, sino **encuentro con Dios**.\n    \n*   **Lectura espiritual** y momentos de comunidad.\n    \n\n> “El silencio no las separa del mundo, las une a él desde dentro.”\n\nAunque viven en clausura, **no están desconectadas**.  \nAcogen visitas en el locutorio, oran por intenciones concretas, y algunas elaboran productos que venden para sostener su comunidad.  \nEn un mundo que corre, ellas **se detienen para que el amor siga respirando**.\n\n* * *\n\n## Monjas de vida activa: las manos visibles del Evangelio\n\nMientras las contemplativas oran en el silencio, las **monjas de vida activa** salen al encuentro del mundo.  \nSon las que **enseñan, cuidan, acompañan, curan y evangelizan**.  \nSu oración se hace **acción**, su clausura es el **corazón del prójimo**.\n\nLas encontrarás:\n\n*   En **colegios y universidades**, formando mentes y corazones.\n    \n*   En **hospitales**, atendiendo enfermos con ternura.\n    \n*   En **barrios humildes**, compartiendo la vida con los más pobres.\n    \n*   En **misiones lejanas**, anunciando a Cristo con una sonrisa.\n    \n*   En **parroquias**, acompañando grupos, jóvenes, familias, ancianos.\n    \n\n> “Mientras unas oran por el mundo, otras lo abrazan con sus manos. Pero las dos lo aman con el mismo amor.”\n\n* * *\n\n## Dos caminos, un mismo amor\n\nAunque vivan de formas distintas, **todas las monjas tienen la misma misión**:  \n**seguir a Cristo más de cerca y hacer presente su amor.**  \nUnas lo hacen desde la contemplación; otras, desde la acción.  \nPero ambas son **pilares invisibles** que sostienen el cuerpo de la Iglesia.\n\n> “Si la Iglesia es un cuerpo, las monjas de clausura son el corazón que ora,  \n> y las de vida activa son las manos que sirven.”\n\nLas contemplativas recuerdan que Dios es el centro.  \nLas activas recuerdan que **el amor de Dios se traduce en obras**.  \nY juntas nos enseñan que **la fe no se entiende sin oración ni sin caridad**.\n\n* * *\n\n## 💬 ¿Por qué elegir una vida así?\n\nPorque en un mundo que busca éxito, ellas eligen **dar la vida**.  \nEn un tiempo de ruido, **escogen el silencio o el servicio**.  \nY en una sociedad que corre sin rumbo, **se detienen a mirar a Cristo**.\n\nSer monja —de clausura o de vida activa— es **una vocación de amor radical**:  \nun “sí” total a Dios, un compromiso de por vida con el Evangelio.\n\n> “No importa si oran o enseñan, si cocinan o misionan:  \n> todo en ellas grita que Dios vale la vida entera.”\n\n* * *\n\n## Dos estilos, una misma melodía\n\nEn los monasterios o en las calles,  \nen el silencio o entre los gritos del mundo,  \n**las monjas siguen siendo testigos de que Dios está vivo**.\n\nY mientras el mundo corre buscando sentido,  \nellas —con oración o con acción— nos recuerdan el secreto más profundo:  \n**la felicidad está en darse del todo.**",
+            "tags": [],
+            "title": "",
+            "uuid": "dd9038fa-7712-4b4c-8e59-3ad58eb44c30"
+          }
+        ],
+        "source": "./pages/porque-ser-monja.md",
+        "title": "¿Qué hace una monja? ",
+        "uuid": "f0bf6412-57a6-4b42-9f79-5ccdcd29bff7"
+      },
+      {
+        "description": "",
+        "image": "/media/Javier_Pastor.webp",
+        "name": "41aeeff0-02c3-4559-81a0-a8e97d310a9e",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "**Un Ministerio Sagrado al Pueblo de Dios** _\"Los fieles esperan de los sacerdotes solo una cosa: que sean especialistas en promover el encuentro entre el hombre y Dios. No se les pide que sean expertos en economía, construcción o política. Se espera que sean expertos en la vida espiritual.\"_ ~ Papa Benedicto XVI\n\n**¿Podría Dios estar llamándote a ser sacerdote?** Dios te hizo para un propósito único. Incluso antes de que nacieras, Él conocía tu vocación, tu misión en la vida. Y si eres un hombre católico fiel, Dios podría estar llamándote a un propósito más alto: convertirte en sacerdote católico.\n\nLos sacerdotes tienen una misión crucial: llevar a las personas a Jesús y llevar a Jesús a las personas. Son padres espirituales de miles de católicos. Predican el Evangelio y ofrecen el sacrificio de la Misa. En resumen, los sacerdotes son testigos vivos de Cristo en el mundo: hombres de carácter firme que destacan en nuestra cultura secular.\n\nUn buen sacerdote es un héroe espiritual, un hombre que se sacrifica por el pueblo de Dios. ¿Te está llamando Jesús a ser su sacerdote?\n\n**El sacerdocio es una vocación.** Cristo pide a algunos hombres el sacrificio de sus vidas para seguirlo como sus compañeros más íntimos. Desde toda la eternidad, ciertos hombres son llamados al sacerdocio.\n\nEs un llamado inscrito en su naturaleza y, por ello, es un llamado que les traerá plenitud.\n\n**Un sacerdote actúa In Persona Christi.** Los sacerdotes actúan _in persona Christi capitas_, que significa “en la persona de Cristo, cabeza de la Iglesia”. Por eso el sacerdote habla en primera persona en la Misa: “Este es mi cuerpo, entregado por ustedes.”\n\nComo escribió el Papa Juan Pablo II: _“El sacerdote ofrece su humanidad a Cristo, para que Cristo pueda usarlo como instrumento de salvación, haciéndolo, por así decirlo, en otro Cristo.”_\n\n**Un sacerdote posee un Poder Sagrado.** Cuando un sacerdote hace presentes los sacramentos, posee un poder sagrado otorgado por Dios, en latín, _sacra potestas_.\n\n**El alma de un sacerdote cambia para siempre.** En la ordenación, el alma de un hombre sufre un cambio ontológico—un cambio de ser—que marca su alma de manera indeleble para siempre. Una vez sacerdote, siempre sacerdote.",
+            "tags": [],
+            "title": "",
+            "uuid": "d88af31d-9967-459e-b293-3a130bb93098"
+          }
+        ],
+        "source": "./pages/porque-ser-sacerdote.md",
+        "title": "¿Por qué ser sacerdote?",
+        "uuid": "2408cbee-c986-4483-af7a-353b987184d0"
+      },
+      {
+        "description": "",
+        "image": "/media/depositphotos_316710272-stock-photo-smiling-young-couple-looking-each.webp",
+        "name": "80c7b8c0-702a-4fd0-a3d2-17e7804033c5",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## ¿Qué es el noviazgo cristiano?\n\nEl noviazgo es un tiempo para **conocerse, tratarse y respetarse**. No es una simple etapa previa al matrimonio, sino una oportunidad para aprender a amar de verdad. La Iglesia invita a vivirlo con profundidad y alegría, porque es el camino natural para discernir la vocación al amor conyugal y prepararse para una entrega total y fiel.\n\n* * *\n\n## Conocerse: descubrir al otro para amarlo mejor\n\nEl noviazgo es un tiempo de conocimiento mutuo. En él, dos personas se descubren poco a poco: su carácter, sus sueños, su fe, su manera de afrontar la vida. Quien ha sido llamado por Dios al matrimonio necesita conocer bien a la persona con la que va a compartir su vida. A mayor conocimiento, menor riesgo de equivocarse.\n\nPor eso, la Iglesia desea que antes del matrimonio haya un tiempo de noviazgo, para conocerse más y así amarse mejor. Este conocimiento no se reduce a datos externos, sino que implica descubrir el corazón del otro: su fe, sus valores, sus heridas y sus virtudes.\n\nAmar no es dejarse llevar solo por el sentimiento. El amor verdadero integra **sentimiento, inteligencia y voluntad**. El sentimiento enciende, la inteligencia ilumina y la voluntad sostiene. El amor no se improvisa: se aprende, se cultiva y se decide cada día.\n\n* * *\n\n## Tratarse: compartir la vida con sinceridad y fe\n\nNo se puede conocer sin trato, ni amar sin compartir. El trato entre los novios debe ser profundo y sincero, abarcando temas esenciales: la fe, la visión de la familia, los hijos, el trabajo, los valores… El noviazgo no puede basarse en apariencias o en emociones pasajeras, sino en la búsqueda de la verdad del otro.\n\nLos novios cristianos se tratan con respeto y paciencia, sabiendo que ambos son frágiles y que el amor exige perdón y comprensión. No se trata de esperar a que el otro cambie, sino de aprender a amarle tal como es, y discernir si ambos caminan en la misma dirección.\n\nEl trato también implica reconocer si hay **madurez afectiva**. La inmadurez se muestra cuando uno vive guiado por sus estados de ánimo, no sabe esperar, necesita llamar la atención o teme comprometerse. Un noviazgo cristiano ayuda a crecer en dominio de sí, a dejar espacio al otro y a cultivar una relación libre y sincera.\n\n* * *\n\n## Respetarse: amar con pureza y libertad\n\nRespetarse es reconocer que el otro es un don, no una posesión. El respeto mutuo se expresa en la delicadeza, la templanza y la castidad. La castidad no es una negación del amor, sino su defensa más noble: protege el corazón y enseña a amar sin usar al otro.\n\nEl Papa Francisco recuerda que el noviazgo es “un tiempo de espera y de preparación, que se ha de vivir en la castidad de los gestos y de las palabras”. Esa espera fortalece el amor, lo hace libre, maduro y capaz de entrega total. No se puede construir un amor para siempre sobre la búsqueda del placer inmediato.\n\nRespetarse es también cuidar la comunicación, evitar el chantaje emocional y no poner al otro en situaciones límite. El amor auténtico siempre busca el bien del amado, no la satisfacción propia. Así se aprende a amar como Cristo amó: con paciencia, con entrega y sin esperar nada a cambio.\n\n* * *\n\n## Las tres fases del amor\n\nPodemos decir que el amor humano tiene tres fases, que no se sustituyen, sino que se integran:\n\n1.  **Atracción:** surge espontáneamente. Alguien te resulta atractivo; nace el interés y el deseo de conocer.\n    \n2.  **Enamoramiento:** los sentimientos están a flor de piel. Se disfruta de la presencia del otro y se sueña con un futuro juntos.\n    \n3.  **Amor decidido:** es la fase más madura. Amar ya no es solo sentir, sino **querer amar**: decidir hacerlo cada día, incluso cuando cuesta.\n    \n\nEl sentimiento no se elige, pero el amor sí. Amar es una decisión que implica sacrificio, fidelidad y voluntad. Cuando se ama así, el sentimiento vuelve más fuerte y profundo, porque el amor gratuito —que se da sin esperar nada a cambio— genera alegría y plenitud.\n\n* * *\n\n## Un camino hacia el amor verdadero\n\nEl noviazgo cristiano es un camino para aprender a amar como Cristo: con libertad, ternura y entrega. No se trata de buscar la perfección, sino de caminar juntos hacia ella, apoyados en la gracia de Dios.\n\nVivir un noviazgo así es preparar los cimientos de un matrimonio sólido. Como dice el Papa Francisco, _“la convivencia es un arte, un camino paciente, hermoso y fascinante que tiene unas reglas que se resumen en tres palabras: ¿Puedo?, Gracias, Perdona.”_  \nTres palabras que también resumen un noviazgo santo: respeto, gratitud y reconciliación constante.",
+            "tags": [],
+            "title": "",
+            "uuid": "6e3f83ab-fcee-4f87-8b15-c49d6803bc85"
+          }
+        ],
+        "source": "./pages/que-es-el-noviazgo.md",
+        "title": "¿Qué es el noviazgo? ",
+        "uuid": "543687c3-bdf3-4baf-95c5-7a83a678bd35"
+      },
+      {
+        "description": "",
+        "hideHero": false,
+        "image": "/media/Imagen-452-scaled.webp",
+        "name": "6a82ab53-90b2-4c2a-b078-0c3bc966c347",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## ¿Qué hace un monje?\n\n**Ora et labora** —reza y trabaja—.  \nEsa es la fórmula que resume toda la vida del monje. Pero detrás de esas tres palabras hay un mundo: una forma de vida centrada en **la búsqueda de Dios**, en el silencio del monasterio y en la paz de una rutina que se ofrece como oración.\n\n* * *\n\n### Una vida centrada en Dios\n\nEl **monje** vive para **contemplar a Dios**. No huye del mundo, sino que lo abraza desde el corazón, intercediendo por las necesidades de todos los hombres.  \nCada día, su oración sostiene invisiblemente a la Iglesia.  \nSu vocación es **contemplativa**, pero no inútil: los monjes atraen la gracia sobre el mundo con su fidelidad silenciosa.\n\n* * *\n\n### El ritmo del día: oración, lectura y trabajo\n\nEl día del monje gira como un reloj sagrado entre tres ejes:\n\n1.  **Oración** – comunitaria y personal.  \n    Los monjes rezan el **Oficio Divino**, las “horas” litúrgicas que marcan el día:\n    \n    *   **Maitines o Vigilias**, al amanecer.\n        \n    *   **Laudes**, para ofrecer la jornada.\n        \n    *   **Tercia, Sexta y Nona**, en medio del trabajo.\n        \n    *   **Vísperas**, al caer la tarde.\n        \n    *   **Completas**, antes del descanso.\n        \n    \n    Y en el centro de todo: la **Eucaristía**, corazón vivo del monasterio.\n\n    \n2.  **Lectio divina** – la lectura orante de la Palabra.  \n    No es estudio académico, sino **escucha del Espíritu**. De ahí nacieron las grandes bibliotecas benedictinas que conservaron la cultura cristiana y grecorromana durante siglos.\n\n    \n3.  **Trabajo** – manual o intelectual, siempre ofrecido a Dios.  \n    En una abadía, puede haber panaderos, zapateros, jardineros, encuadernadores, músicos, bibliotecarios o maestros.  \n    Todo se hace en obediencia, en silencio y con amor.\n\n    \n\n* * *\n\n### Ora et labora: una oración hecha trabajo\n\nEn el monasterio **no hay horas vacías**. Cada cosa —cantar los salmos, reparar un zapato o copiar un libro— es una forma de oración.  \nEl trabajo sostiene al monasterio y permite obras de caridad.  \nEl equilibrio entre oración, trabajo y estudio mantiene al monje **en paz, sereno y centrado en Dios**.\n\n* * *\n\n### Los grandes guardianes de la cultura\n\nDe la atención amorosa a la **lectio divina**, los monjes pasaron naturalmente al **estudio**.  \nPor eso, las abadías medievales fueron **focos de luz** en tiempos oscuros:  \ncopiaron manuscritos, enseñaron a leer y sembraron la base de la cultura europea.\n\n* * *\n\n### Una vida comunitaria, no solitaria\n\nAunque “monje” viene del griego _monos_ (solo), el monje **no vive aislado**, sino **en comunidad**.  \nBajo la guía de un abad, todos buscan “**tener un solo corazón y una sola alma en Dios**”, como dice San Agustín.  \nEl monasterio es una familia donde cada hermano ayuda al otro a alcanzar el cielo.\n\n* * *\n\n### No todos los religiosos son monjes\n\nLos **monjes** viven según la **Regla de San Benito**, centrados en la contemplación.  \nLos **frailes** (franciscanos, dominicos, carmelitas…) también consagrados, salen al mundo a predicar y servir.  \nY los **clérigos regulares** (como los jesuitas) dedican su vida al apostolado y la enseñanza.  \nCada camino es distinto, pero todos buscan lo mismo: **Dios en todo**.\n\n* * *\n\n### En palabras de San Benito\n\n> “No antepongas nada al amor de Cristo.”  \n> — _Regla de San Benito, cap. 4_",
+            "tags": [],
+            "title": "",
+            "uuid": "969995a8-408f-4ab5-bd33-fd7761431a68"
+          }
+        ],
+        "source": "./pages/que-hace-un-monje.md",
+        "title": "¿Qué hace un monje? ",
+        "uuid": "4de59638-6a85-407f-9f19-59862c748e56"
+      },
+      {
+        "description": "",
+        "image": "/media/lavado-de-pies-2.webp",
+        "name": "7eee94e8-4950-4df1-bc02-492c43f0e8ca",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "**Los sacerdotes hacen mucho más que celebrar la Misa y rezar todo el día.**  \nLa vida de un sacerdote es activa, exigente, desafiante… y profundamente gratificante.\n\nExisten muchos ministerios especializados, como ser capellán, trabajar en las oficinas arquidiocesanas o enseñar en un seminario. Pero la mayoría de los sacerdotes sirven en parroquias.\n\nLa gran mayoría de los sacerdotes viven vidas felices y plenas. Aman a las personas a las que sirven y, a su vez, son amados por sus feligreses. Tradicionalmente, los sacerdotes se consideran quienes cumplen el papel bíblico de **sacerdote, profeta y rey.**\n\n* * *\n\n### **Enseñar**\n\nLos sacerdotes instruyen a otros en la fe.\n\n### **Apacentar (Guiar)**\n\nLos sacerdotes guían, unen y animan a sus feligreses.\n\n### **Santificar**\n\nLos sacerdotes administran los sacramentos y fomentan la santidad.\n\n* * *\n\n### **Las responsabilidades de un sacerdote incluyen:**\n\n*   Celebrar la Misa y predicar el Evangelio.\n    \n*   Dirigir una parroquia de católicos.\n    \n*   Incorporar nuevos miembros a la Iglesia mediante el Bautismo.\n    \n*   Escuchar confesiones y ofrecer dirección espiritual.\n    \n*   Ayudar a adolescentes y jóvenes adultos a conocer a Cristo.\n    \n*   Preparar a las parejas para el matrimonio y acompañarlas en su vida conyugal.\n    \n*   Enseñar a las personas a orar.\n    \n*   Alimentar a los pobres, visitar cárceles y promover la justicia.\n    \n*   Acompañar a quienes pasan por momentos difíciles.\n    \n*   Visitar a los enfermos en los hospitales y ungirlos para su sanación.\n    \n*   Celebrar funerales y dar sepultura a los difuntos.\n    \n*   Administrar los asuntos materiales de la parroquia.\n    \n*   Orar diariamente por el Pueblo de Dios.",
+            "tags": [],
+            "title": "",
+            "uuid": "5bdaf5dc-9018-42a2-960d-87f85a4a49de"
+          }
+        ],
+        "source": "./pages/que-hace-un-sacerdote.md",
+        "title": "¿Qué hace un sacerdote? ",
+        "uuid": "4078fb5f-b653-4e53-9055-80a47b4ae34e"
+      },
+      {
+        "description": "",
+        "image": "/media/sesion-pre-boda-joao-jimenez-fotografo_11_109884-164502837871748.webp",
+        "name": "0bbfa25e-37cd-4da9-8b61-efdb2a41b43e",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## Relaciones antes del matrimonio: amar sin poseer\n\nEl amor no se mide por la intensidad del deseo, sino por la verdad de la entrega.  \nEn una época que confunde amar con usar, y la pasión con felicidad, muchos corazones terminan rotos porque se saltan el plan de Dios. No porque Él quiera privarnos de algo, sino porque nos ama tanto que solo quiere darnos lo que verdaderamente nos hace libres, limpios y felices.\n\n* * *\n\n## Amar no es poseer\n\nMuchos piensan que el amor es tener al otro, hacerlo suyo, fundirse en todo lo posible. Pero el amor cristiano no busca poseer, sino **entregar y cuidar**. Querer es querer para mí; amar es querer el bien del otro, incluso por encima de mis deseos.\n\nCuando una relación se vuelve posesiva, cuando aparecen los celos, el control o la desconfianza, algo se ha torcido. El corazón humano fue hecho para amar en libertad, y donde hay miedo o dominio, el amor se marchita.\n\nLos celos son muchas veces la señal de una relación que ha perdido su pureza o su equilibrio: porque el cuerpo se entregó antes que el alma, o porque el amor se confundió con dependencia. Amar bien exige aprender a **esperar, respetar y confiar**.\n\n* * *\n\n## El amor se destruye cuando se adelanta\n\nLa sexualidad es un don precioso de Dios, pero tiene su lugar: el matrimonio. No porque el placer sea malo, sino porque el cuerpo tiene un lenguaje que dice “me entrego del todo, para siempre”. Cuando se pronuncia esa promesa sin que el alma esté lista, sin haberla sellado ante Dios, se rompe algo dentro.\n\n**El sexo antes del matrimonio no une: confunde.**  \nHace creer que hay intimidad donde aún no la hay, y deja heridas que se arrastran durante años: sentimientos de vacío, dolor, dependencia o desconfianza.\n\nEl cuerpo se entrega antes de que la voluntad esté madura, y entonces el alma se rebela, porque fue creada para una unión total y definitiva. Por eso tantas relaciones se desgastan, se apagan, o se convierten en tormento.\n\nDonde hay pecado, hay sufrimiento. No como castigo, sino como consecuencia. Porque el amor está hecho para la luz, no para la oscuridad.\n\n* * *\n\n## La castidad: la gran escuela del amor\n\nSer casto no es reprimir el amor, sino **aprender a amar de verdad**. La castidad ordena el corazón para que el amor sea limpio, alegre y fiel.\n\nLos novios que luchan por la pureza no viven menos amor: lo viven mejor. Su cariño es más fuerte, su alegría más pura, su confianza más sólida. No hay sombras, no hay miedo, no hay vergüenza.\n\nComo enseña el Catecismo de la Iglesia Católica:\n\n> “Los novios están llamados a vivir la castidad en la continencia. En esta prueba han de ver un descubrimiento del mutuo respeto y un aprendizaje de la fidelidad. Reservarán para el matrimonio las manifestaciones de ternura específicas del amor conyugal.”\n\nCada esfuerzo, cada renuncia, cada vez que uno dice “no” al impulso y “sí” a Dios, se siembra una semilla que dará fruto en el futuro matrimonio. **Se cosecha lo que se siembra.**\n\n* * *\n\n## Pureza: el guardián de la felicidad\n\nEl respeto es el guardián de la felicidad de los esposos. Cuanto más limpios llegan al altar, más profunda es su unión. Lo dicen los que lo han vivido: los novios que se vencen y se guardan, llegan con ilusión, frescura y ternura nuevas.\n\nLa pasión tiene su lugar, pero cuando se usa sin control, termina cansando. **Nada que se usa sin medida permanece bello.**  \nPor eso, aprender a esperar es la mejor inversión en el amor.\n\nEl noviazgo no es un matrimonio en pequeño. Todavía no hay derecho a la entrega total. Es un tiempo para conocerse, para crecer juntos, para preparar el alma y el corazón.\n\n* * *\n\n## Amar con cabeza y con fe\n\nEl amor no necesita probarse con el cuerpo, sino demostrarse con la fidelidad, el respeto, el cuidado y la oración. Quien ama de verdad, no presiona. Quien ama, espera.\n\nSi uno de los dos no está viviendo su fe o no comprende lo que significa ser hijo de Dios, hay que ayudarlo con paciencia, pero también con firmeza. Amar no es permitir lo que destruye, sino **invitar al otro a lo mejor de sí**.\n\nPuede que necesitéis un tiempo de distancia, para rezar, aclarar sentimientos y sanar. No pasa nada. Si el amor es verdadero, saldrá adelante; si no, es mejor dejarlo antes que perder la paz.\n\nY si necesitáis luz, **buscad consejo en un buen sacerdote**. Confesaros, orad juntos, recibid los sacramentos. Con la gracia de Dios, todo es posible. Sin ella, nada permanece.\n\n* * *\n\n## Elegancia, pudor y dignidad\n\nVivir la pureza también pasa por la forma de presentarse. No se trata de ir tapados ni de esconderse, sino de vestir con elegancia, con recato, con respeto hacia uno mismo y hacia el otro. La belleza está en la dignidad, no en la provocación.\n\nUna mirada, un gesto, una palabra pueden encender pasiones que no deben arder. Por eso hay que ser prudentes. Evitad lugares solitarios, momentos ambiguos, ambientes oscuros. La luz protege el amor.\n\n* * *\n\n## Si te cuesta, no te rindas\n\nSer puro no es fácil, pero es posible. Requiere voluntad, oración y sacramentos. Y el premio es grande: una paz interior que ningún placer puede igualar.\n\nHay novios que lo consiguen. Muchos. Que viven su amor con respeto y alegría, y que llegan al matrimonio con una felicidad limpia. Son testimonio de que **la pureza no quita el amor: lo eleva**.\n\nY si has caído, **no te quedes ahí**. Dios no se cansa de perdonar. Vuelve a empezar, confía, y deja que su misericordia renueve tu corazón.\n\n* * *\n\n## Pura hasta el altar\n\nTu novio no es todavía tu esposo. El amor total pertenece al matrimonio. No te dejes engañar por quienes te dicen que “da igual”, que “todo el mundo lo hace”. Amar con pureza es nadar contra corriente, pero quien lo hace, encuentra la verdadera alegría.\n\nDefiende tu castidad con entereza. Haz de tu historia de amor un testimonio bello y limpio, algo que puedas contar un día a tus hijos sin avergonzarte, con el corazón lleno de gratitud.\n\nTu pureza no es fragilidad, es fuerza.  \nTu cuerpo es templo del Espíritu Santo, no instrumento de deseo.  \nTu alma es para Dios.\n\nY recuerda: **más vale entrar sola en el Reino de los cielos, que acompañada en el camino equivocado.**\n\n* * *\n\n## María, modelo de pureza y ternura\n\nMira a María, Virgen y Madre. En Ella se unen la delicadeza y la fuerza, la ternura y la firmeza. María enseña que la pureza no es frialdad, sino amor verdadero.\n\nSu ejemplo ha sostenido a generaciones enteras de jóvenes que eligieron amar bien, a costa de todo. Mira también a los santos que defendieron su pureza con valentía: María Goretti, Josefina Vilaseca… Ellos son la prueba de que vale la pena.",
+            "tags": [],
+            "title": "",
+            "uuid": "08d068d6-ec20-42c2-8989-38e1becfcd86"
+          }
+        ],
+        "source": "./pages/relaciones-antes-del-matrimonio-amar-sin-poseer.md",
+        "title": "Relaciones antes del matrimonio: amar sin poseer",
+        "uuid": "de317eb5-c5a9-439e-adc6-28c983f8e7ff"
+      },
+      {
+        "description": "",
+        "hideHero": false,
+        "image": "/media/SEMINARIO-1.webp",
+        "name": "372a9054-ee95-4ded-86cc-ffc77fdd440e",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "¡La mejor formación que ofrece la Iglesia!\n\nEl **seminario** es el lugar donde un hombre es formado —mente, cuerpo y alma— a imagen de **Jesucristo**.  \nNo es un sitio donde los seminaristas caminan en silencio todo el día cantando en latín; al contrario, es un **lugar de alegría, fraternidad y profundo aprendizaje**.  \n¡Los seminaristas de hoy reciben la mejor formación que la Iglesia ofrece!\n\n> “La formación de los futuros sacerdotes… es considerada por la Iglesia como una de las tareas más exigentes e importantes para el futuro de la evangelización de la humanidad.”  \n> — _San Juan Pablo II, Pastores Dabo Vobis_\n\n* * *",
+            "tags": [],
+            "title": "",
+            "uuid": "f8b4cc2e-b165-43f9-ac70-7c91c30797c4"
+          },
+          {
+            "_block": "links",
+            "links": [
+              "e98dbae8-e494-4675-a946-0d0b7a589ab6",
+              "d97c4b49-87bc-4079-9782-9c562f5950e9",
+              "0ba4f47e-c31b-41af-a7b6-d4008dd6293d"
+            ],
+            "tags": [],
+            "title": "",
+            "uuid": "d416c72d-88d6-4cdd-92d4-39eee6636dcd"
+          },
+          {
+            "_block": "video",
+            "links": [
+              "https://www.youtube.com/watch?v=a5QwVPj8lQk",
+              "https://www.youtube.com/watch?v=dteZubaXCMQ",
+              "https://www.youtube.com/watch?v=R8PHD0p3XKs",
+              "https://www.youtube.com/watch?v=8B8KQtLhGHg",
+              "https://www.youtube.com/watch?v=ohzqScjzv5Y",
+              "https://www.youtube.com/watch?v=YGTbKkU8bPg",
+              "https://www.youtube.com/watch?v=dM1H3L8nBnE",
+              "https://www.youtube.com/watch?v=nyrqxY7PvbA"
+            ],
+            "tags": [],
+            "title": "RECURSOS",
+            "uuid": "cd92987c-8dc8-42fe-b230-79298260b51e"
+          }
+        ],
+        "source": "./pages/seminario.md",
+        "title": "Seminario ",
+        "uuid": "3d450ac6-048e-4ab3-91e0-a81ee226c110"
+      },
+      {
+        "description": "",
+        "image": "/media/MECANICOS-TALLER-1080x675.webp",
+        "name": "5677c270-c93b-42ea-accb-cc6ea4409ba2",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "### **El Pueblo de Dios y la Vocación Laical**\n\nEl **Pueblo de Dios** está compuesto, en su gran mayoría, por **fieles laicos**: todos los **bautizados que no han recibido el sacramento del orden ni han hecho votos religiosos**. Cristo los llama como **Iglesia**, no solo para ser destinatarios de la Buena Noticia de la Salvación, sino también para ser **agentes activos de evangelización** en el mundo. Cada bautizado está invitado a sembrar el Evangelio en la “viña de Dios”, que es la sociedad en la que vive, ejerciendo una **tarea evangelizadora indispensable**.\n\nComo nos recuerda el Señor en el Evangelio:\n\n> “Id también vosotros a mi viña” (Mt. 20,3-4)  \n> “Id por todo el mundo y proclamad la Buena Noticia a toda la creación” (Mc. 16,15; cf. ChL 33)\n\n* * *\n\n### **El Bautismo: Fuente de la Vocación Laical**\n\nA través del **Bautismo**, los fieles son **injertados en Cristo** y reciben una **vocación triple**:\n\n1.  **Sacerdotal**: ofrecer la propia vida como sacrificio espiritual, santificando la vida cotidiana a través de actos de amor y servicio.\n    \n2.  **Profética**: ser testigos de la verdad de Cristo en palabras y acciones, anunciando el Evangelio con coherencia en todos los ámbitos de la vida.\n    \n3.  **Real**: participar en la construcción de la sociedad según los valores del Reino de Dios, siendo fermento de justicia y paz en la vida pública.\n    \n\nSegún **Lumen Gentium**, los laicos están llamados a **buscar el Reino de Dios en su vida diaria**, ordenando los asuntos temporales según el espíritu de Jesucristo. Actúan como **“levadura” que santifica el mundo desde dentro**, participando de la misión de la Iglesia en la vida **social, familiar y profesional**. Esta vocación **debe ser fomentada de manera constante** por los pastores en las Iglesias particulares, ayudando a los laicos a descubrir su identidad y misión en el mundo.\n\n* * *\n\n* * *\n\n### **La vocación laical como misión**\n\nCada laico está llamado a **transformar su entorno**, llevando la fe a todas las dimensiones de la vida:\n\n*   En el **trabajo**, siendo testimonio de honestidad, excelencia y servicio.\n    \n*   En la **política y la economía**, promoviendo justicia, solidaridad y el bien común.\n    \n*   En la **ciencia, el arte y la cultura**, iluminando la creatividad con valores cristianos.\n    \n*   En la **familia y la comunidad**, sembrando amor, respeto y fraternidad.\n    \n\nSer laico no es secundario ni pasivo; es **una vocación activa y concreta**, que requiere formación, oración y compromiso. Cada cristiano, en su vida diaria, está llamado a **ser signo del Reino de Dios en el mundo**, cumpliendo su misión de evangelización desde su propia realidad y ejerciendo su triple función **sacerdotal, profética y real**, tal como enseña Lumen Gentium.",
+            "tags": [],
+            "title": "",
+            "uuid": "3a422e70-87ee-4baf-964d-a0911316ada2"
+          }
+        ],
+        "source": "./pages/ser-laico-es-una-vocacion.md",
+        "title": "¿Ser laico es una vocación?",
+        "uuid": "3b6b417d-4d41-4905-9b34-2dca5b5c595e"
+      },
+      {
+        "description": "",
+        "image": "/media/confession_1.webp",
+        "name": "f5e86768-6c48-4b90-ba6c-434ac73d03fa",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## **¿Cómo saber si Dios me está llamando?**\n\nSi alguna vez has pensado en ser sacerdote, estas señales pueden ayudarte a descubrir si Dios te llama a seguirlo más de cerca:\n\n* * *\n\n### **2\\. Dios ha puesto en tu corazón el deseo de ser sacerdote.**\n\nTal vez no sabes de dónde viene, pero la idea de ser sacerdote te ronda con frecuencia.  \nA veces la apartas, otras veces te atrae con fuerza… pero nunca desaparece del todo.  \nEsa inquietud constante puede ser una semilla que Dios ha plantado en tu corazón.  \nHáblalo! Con un sacerdote que admires o con quien sabes que te va ayudar y cuéntale lo que sientes.\n\n* * *\n\n### **2\\. Sientes un gran amor por Cristo, por la Iglesia y por su enseñanza.**\n\nTe entusiasma conocer más sobre la fe, leer sobre los santos, la doctrina o la vida de la Iglesia.  \nTe atraen las distintas vocaciones y carismas, y te ilusiona ver cómo todos sirven al mismo Señor.  \nUn hombre llamado al sacerdocio suele sentirse en casa dentro de la Iglesia y disfruta aprendiendo “todo lo católico”.\n\n* * *\n\n### **3\\. Otras personas te han dicho que serías un buen sacerdote.**\n\nA veces los demás ven algo en ti que tú mismo no alcanzas a notar.  \nCuando alguien te dice: “¿Has pensado en ser sacerdote? Creo que serías uno bueno”,  \npuede ser una forma en que Dios te habla a través de ellos.  \nMuchos sacerdotes cuentan que, tras escuchar ese comentario repetidas veces, decidieron dar el paso hacia el seminario.\n\n* * *\n\n### **4\\. Deseas vivir una vida de oración y crecer en virtud.**\n\nEl Papa Benedicto XVI decía que lo que se espera de un sacerdote es que sea un experto en la vida espiritual.  \nPor eso, quien siente el llamado procura asistir a Misa, rezar con frecuencia, confesarse, servir a los demás y crecer interiormente.\n\n* * *\n\n### **5\\. Quieres ayudar a los demás a acercarse a Jesús.**\n\nEl sacerdote lleva a Jesús a las personas y a las personas a Jesús.  \nSi sientes en tu corazón el deseo de acompañar, enseñar, consolar o guiar a otros en su fe,  \npuede que Dios te esté llamando a servir como sacerdote.  \nLa vocación sacerdotal consiste, en el fondo, en **conducir a otros al cielo.**\n\n* * *\n\nSi has pensado en el sacerdocio, pero no te ves con todas estas cualidades, **no te preocupes.**  \nNadie nace sacerdote: se llega a serlo con la ayuda de Dios y la formación que la Iglesia ofrece.\n\nHabla con tu **Director espiritual** o con un sacerdote de confianza.  \nEllos pueden ayudarte a discernir mejor lo que Dios te pide.  \nY recuerda: la verdadera felicidad y la paz se encuentran **solo siguiendo la voluntad de Dios.**\n\nSi Él te llama, **su gracia te llevará hasta el final.**",
+            "tags": [],
+            "title": "",
+            "uuid": "cb533cf0-48aa-4b5e-96b9-509c1d5f1614"
+          }
+        ],
+        "source": "./pages/signos.md",
+        "title": "Signos de vocación sacerdotal",
+        "uuid": "ba4793ea-e447-4d32-983b-ac68b5b0354b"
+      },
+      {
+        "description": "",
+        "hideHero": false,
+        "image": "/media/jc3b3venes-relig-de-iessu-comm.webp",
+        "name": "d2931d7f-4fdf-4c9d-a1ab-f77bcf7673d2",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "# La Vida Activa: servir al mundo desde la entrega total a Dios\n\nUna de las llamadas más importantes del **pontificado de Juan Pablo II** ha sido la **nueva evangelización**: un compromiso que requiere entusiasmo, dedicación y unidad de todo el pueblo de Dios. Sacerdotes, religiosos y laicos están convocados a esta tarea, que solo puede realizarse en **comunión auténtica**, respetando la diversidad de carismas y vocaciones.\n\nDentro de este panorama, los **religiosos de Vida Activa** constituyen un **potencial extraordinario** para la misión de la Iglesia:\n\n> “También en nuestros días los religiosos y las religiosas representan una fuerza evangelizadora y apostólica primordial en el continente latinoamericano… La presencia de la vida consagrada es un enorme potencial de personas y comunidades, de carismas e instituciones… para impregnar las culturas, defender los derechos humanos y promover integralmente a las personas”  \n> — _Carta apostólica a los religiosos de América Latina, 29 de junio de 1990, n. 3_\n\nLos religiosos de Vida Activa no solo **testifican la vida evangélica**, sino que la **hacen presente en medio de la sociedad**, llevando la luz de Cristo donde más se necesita.\n\n* * *\n\n## ¿Qué es la Vida Activa?\n\nLa **Vida Activa** se define como la forma de vida religiosa en la que los miembros se dedican principalmente **a obras de caridad y apostolado**. A diferencia de la Vida Contemplativa, centrada en la oración y la meditación, la Vida Activa busca vivir el Evangelio **a través de acciones concretas**, siguiendo el ejemplo de Jesús:\n\n*   Enseñanza y educación\n    \n*   Atención a enfermos y ancianos\n    \n*   Obras sociales y asistencia a los marginados\n    \n*   Evangelización y catequesis\n    \n\n> “El primer medio de evangelización para los religiosos es conformar cada vez más la propia vida a la persona y al mensaje de Jesucristo”  \n> — _Discurso a las superioras generales de Europa, 17 de noviembre de 1983_\n\n* * *\n\n## Características de las religiosas de Vida Activa\n\nQuienes optan por la Vida Activa poseen cualidades distintivas:\n\n**1\\. Compromiso con el servicio:**  \nViven entregadas a los demás, especialmente a los más necesitados.\n\n**2\\. Versatilidad apostólica:**  \nParticipan en diversas actividades según el apostolado de su congregación, desde educación hasta atención médica.\n\n**3\\. Vínculo comunitario:**  \nLa vida en comunidad fortalece la fraternidad, la oración compartida y el apoyo mutuo.\n\n**4\\. Espiritualidad activa:**  \nCombinan oración, vida sacramental y acción apostólica, equilibrando contemplación y servicio.\n\n> “La Iglesia espera de los religiosos y religiosas un impulso constante y decidido en la obra de la nueva evangelización, ya que están llamados cada uno según su carisma a difundir por todo el mundo la buena nueva de Cristo”  \n> — _Carta apostólica a los religiosos de América Latina, 29 de junio de 1990, n. 24_\n\n* * *\n\n## Formación de las religiosas de Vida Activa\n\nLa formación se realiza en etapas, buscando profundizar la vocación y discernir la entrega definitiva:\n\n*   **Postulantado:** Introducción a la vida comunitaria y al apostolado.\n    \n*   **Noviciado:** Formación más profunda en espiritualidad, carisma y reglas de la congregación.\n    \n*   **Profesión temporal:** Votos temporales renovables, mientras continúa el discernimiento.\n    \n*   **Profesión perpetua:** Votos de por vida, consagrando totalmente la existencia a Dios y al servicio del prójimo.\n    \n\nEsta formación garantiza que las religiosas puedan **responder a los desafíos de la nueva evangelización** con eficacia y coherencia.\n\n* * *\n\n## Estilo de vida y lugares de misión\n\nLas religiosas de Vida Activa viven en **comunidades abiertas**: conventos, parroquias o centros comunitarios, interactuando con la sociedad. Su día combina:\n\n*   **Oración:** Momentos de encuentro con Dios.\n    \n*   **Trabajo comunitario:** Tareas de la casa y vida fraterna.\n    \n*   **Servicio apostólico:** Educación, salud, asistencia social y evangelización.\n    \n\n> “La acción misionera depende de vuestra formación misionera… nadie atestigua más eficazmente los valores evangélicos que quienes hacen profesión de vida consagrada con donación total a Dios y disponibilidad para servir al hombre y a la sociedad”  \n> — _Redemptoris Missio, nn. 69-70_\n\n* * *\n\n## Funciones principales en la Iglesia\n\nLas religiosas de Vida Activa actúan **directamente en la sociedad**, llevando el Evangelio al mundo:\n\n*   **Educación:** Escuelas y colegios católicos.\n    \n*   **Salud:** Atención a enfermos y enfermería.\n    \n*   **Trabajo social:** Apoyo a los pobres y marginados.\n    \n*   **Evangelización:** Catequesis y misiones locales e internacionales.\n    \n\nSu labor es **complementaria a la Vida Contemplativa**, que sostiene la Iglesia desde la oración y la intercesión. Juntas permiten a la Iglesia cumplir su misión: **servir y evangelizar integralmente**.",
+            "tags": [],
+            "title": "",
+            "uuid": "86b27a62-617e-416b-a60b-c4f5f01cd9fe"
+          }
+        ],
+        "source": "./pages/vida-activa.md",
+        "title": "Vida activa",
+        "uuid": "ffb1b16e-0d38-408d-9f9a-9a7e6d44701e"
+      },
+      {
+        "description": "",
+        "hideHero": false,
+        "image": "/media/68f490dfba17c.webp",
+        "name": "8be13dc3-dad3-47bd-83a0-e9ed262b9ee3",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "## Vida Contemplativa: Amor, Adoración y Esperanza\n\nLa **vida contemplativa** no es solo oración: es un llamado a **amar por amor**. Es entregar la vida a Dios, reconocer su Amor como valor absoluto y dejar que llene cada momento de nuestra existencia. Como decía Santa Isabel de la Trinidad, el alma contemplativa busca fundirse con Dios: **ser invadida por Él, reflejar Su Vida** en cada gesto y pensamiento.\n\n### Orar y Adorar: El corazón de la contemplación\n\nLa contemplación no es solo interceder por otros; es **adoración total**. En la tradición bíblica, los holocaustos simbolizaban la entrega completa: lo ofrecido a Dios no se retenía para uno mismo. Así, la vida contemplativa parece “inútil” para el mundo, porque no busca reconocimiento ni recompensa, pero es un acto supremo de amor.\n\nSanta Teresa de Lisieux lo resumía así: _“En el Corazón de mi Madre, la Iglesia, yo seré el AMOR”_. Las contemplativas son ese corazón: su oración silenciosa se transforma en **gracia para todos**, aunque no vean el fruto de su entrega. Todo lo vivido, sufrido y ofrecido se convierte en fuerza que Dios derrama sobre el mundo.\n\n### Ritmo y comunidad\n\nEn los monasterios, la vida gira alrededor de la oración: _Ora et labora_ —rezar y trabajar— define cada jornada. Las comidas, el trabajo y el descanso se organizan en función de los momentos de oración.\n\nPero no es un aislamiento frío: la comunidad es **hermandad viva**. Se comparte alegría y pena, se acompaña en la fe, y se sostiene mutuamente. Los monasterios son también refugio y hogar abierto para quienes buscan a Dios, conscientes o no.\n\n### Esperanza que transforma\n\nLa **esperanza** es el motor de la vida contemplativa. No es solo desear, sino **creer con certeza** en el Amor de Dios, incluso cuando todo parece oscuro. Crece en los pequeños actos de oración, en la paciencia y en la constancia silenciosa.\n\nComo explica Hermana Patricia Noya, la esperanza no se queda en el claustro: **sale al mundo a través de la oración**, abraza los corazones, recoge las pequeñas esperanzas de cada persona y las ofrece a Dios. Así, la vida contemplativa se convierte en memoria viva de esperanza para todos.\n\n### Testimonio y misión\n\nSer contemplativo es **vivir para los demás desde el silencio**. Aunque parezca “invisible”, su influencia es enorme: sostiene la Iglesia, acompaña al mundo y recuerda que el Amor de Dios actúa siempre.\n\nMonjas y monjes, desde su entrega, muestran que la contemplación **no es huida del mundo**, sino un compromiso profundo y gozoso. Su oración diaria es un acto de amor que transforma la realidad, incluso sin que nadie lo vea.\n\nEn pocas palabras: la vida contemplativa es **amor entregado, adoración constante y esperanza que no muere**. Una llamada a vivir lo invisible para sostener lo visible. Porque donde hay contemplación, hay luz, hay gracia y hay esperanza para todos.",
+            "tags": [],
+            "title": "",
+            "uuid": "9fc2231e-c4f0-491c-af8f-8a7c30191d11"
+          }
+        ],
+        "source": "./pages/vida-contemplativa.md",
+        "title": "Vida contemplativa ",
+        "uuid": "8112dd11-3cc6-4c34-a22e-eb3b868520ae"
+      },
+      {
+        "description": "Cada matrimonio es reflejo del amor de Dios. ",
+        "image": "/media/Wedding_rings.webp",
+        "name": "d7ffd03f-3912-4869-ae3d-7536bbd1efd4",
+        "sections": [
+          {
+            "_block": "text",
+            "html": "### **La vocación al matrimonio: entrega total y santidad en la vida cotidiana**\n\nLa **vocación al matrimonio** es una llamada a vivir una **unión íntima, exclusiva y definitiva entre un hombre y una mujer**, que refleje el **amor de Dios** y participe de su **plan de amor**. Esta unión no es solo una convivencia, sino un **compromiso de toda la vida**, abierto a la transmisión de la vida, donde los esposos son invitados a la **santidad en lo cotidiano**, tanto en su relación como en la acogida y educación de sus hijos.\n\nEl matrimonio es, ante todo, **entrega al otro**. En la entrega total a la pareja, los esposos aprenden a **superarse, salir del egoísmo, estar al servicio del otro, sacrificarse y esforzarse por su felicidad**. Este don de sí mismo es un **signo del amor a Dios**, que encontrará su culminación en el cielo. Cada acto de entrega y sacrificio es un reflejo del **amor trinitario**: como el Padre ama al Hijo y ambos viven en una entrega continua del Espíritu, los esposos aprenden a vivir en unidad y apertura a la vida.\n\n* * *\n\n### **El matrimonio como signo y participación del amor de Dios**\n\nEl **matrimonio tiene la misión de custodiar, revelar y comunicar el amor**, siendo un **reflejo vivo y participación real del amor de Dios por la humanidad y del amor de Cristo por la Iglesia** (Amoris Laetitia, 67). Este amor conyugal no se reduce a afecto o sentimiento: **es entrega total, concreta en la vida diaria y camino de santificación**. Cada esposo se convierte, de manera única, en **signo e instrumento de la proximidad del Señor** (Amoris Laetitia, 221).\n\nLa **santidad se manifiesta en los pequeños actos de amor, generosidad y fidelidad**. En palabras del Papa Francisco:\n\n“Hay muchas formas de ser fieles al estilo de vida que Jesús propone para cada uno… esta santidad vivida en el matrimonio es un reflejo precioso de la fidelidad de Dios” (Gaudete et Exsultate, 14).\n\n* * *\n\n### **El matrimonio como alianza y sacramento**\n\nEl consentimiento matrimonial no es solo un acuerdo humano: **es una alianza elevada por Cristo a la dignidad de sacramento** (CIC 1601). Tiene **una gracia especial**, con efectos triples:\n\n1.  **Perfeccionamiento del amor natural**.\n    \n2.  **Confirmación de la unidad y la indisolubilidad**.\n    \n3.  **Santificación de los cónyuges**, según lo enseñado por el Concilio Vaticano II:\n    \n\n“El Señor se ha dignado sanar este amor, perfeccionarlo y elevarlo con el don especial de la gracia y la caridad” (GS 48).\n\nEl **“sí” del matrimonio** significa **entrega mutua, total y desinteresada**, en una unión que se expresa en respeto, acogida y ayuda recíproca. El matrimonio **excluye el egoísmo**, pues cada cónyuge deja de ser dueño exclusivo de sí mismo y pasa a pertenecer al otro tanto como a sí mismo. La identidad personal queda transformada por la relación con el otro, vinculándolos “hasta que la muerte los separe”. Esta unión de los esposos es la **más íntima que existe en la tierra**, y se manifiesta en la realidad de ser **“una sola carne”**.\n\n* * *\n\n### **Una vocación en toda la extensión de la palabra**\n\nEl matrimonio es **totalmente vocación**. Una vez nacido el vínculo, **ya no depende de la voluntad individual**, sino de la naturaleza y de Dios, que los ha unido. La libertad de cada cónyuge ya no se refiere a elegir ser esposo o esposa, sino **a vivir plenamente conforme a la verdad de lo que son**: compañeros de camino, colaboradores en la santidad y reflejo vivo del amor de Dios en el mundo.\n\nCada matrimonio es un **lugar de santificación**, un espacio donde el amor humano se convierte en **testimonio del amor divino**, y cada entrega cotidiana, cada acto de servicio y sacrificio, es un paso más en la participación de la vida trinitaria y en la construcción del Reino de Dios en la tierra.",
+            "tags": [],
+            "title": "",
+            "uuid": "494f846b-eadb-4aa1-b61a-a7f8093a1fa9"
+          }
+        ],
+        "source": "./pages/vocacion-matrimonial.md",
+        "title": "Vocación matrimonial ",
+        "uuid": "756dbfd7-9351-4005-98d2-57515e9fc663"
+      }
+    ],
+    "nav": [
+      {
+        "links": [
+          "30bdc161-eab5-48b4-8f75-1e28e7a52917",
+          "481ad90f-dc32-48cb-b776-5feea1e7b057",
+          "8a359326-1e28-4e81-bb03-228faf817c87",
+          "3d7637eb-776b-4abe-b02c-d2dfed179aad",
+          "6db7a1ec-6644-4a1a-89a4-cbd88e0fc389",
+          "1f72295a-5422-4f03-9199-7a409d8496a7",
+          "dba27941-6cb3-4f47-9baa-d90049f2dfe2",
+          "74f6c457-09bb-45b0-9986-98aa1dc81359"
+        ],
+        "title": "Disciernimiento",
+        "uuid": "7b01b8bd-5a2d-42bb-8dc7-9ee8a2b477d0"
+      },
+      {
+        "links": [
+          "41aeeff0-02c3-4559-81a0-a8e97d310a9e",
+          "7eee94e8-4950-4df1-bc02-492c43f0e8ca",
+          "15909150-f513-4650-a7da-49059b44466b",
+          "372a9054-ee95-4ded-86cc-ffc77fdd440e",
+          "fe570936-3a84-473c-bca2-81e6be69d734"
+        ],
+        "title": "Sacerdocio",
+        "uuid": "c0aa7995-0171-4b9c-9ffa-cac904487ca1"
+      },
+      {
+        "links": [
+          "5677c270-c93b-42ea-accb-cc6ea4409ba2",
+          "5e859715-de85-4ca5-a55a-b384e27bd6cd",
+          "d7ffd03f-3912-4869-ae3d-7536bbd1efd4",
+          "c7bca6a4-a285-4182-9a83-b207640fe4e6",
+          "fe570936-3a84-473c-bca2-81e6be69d734",
+          "01ab0ab0-dfd6-4894-880f-e492bac63b68",
+          "54becd8a-6f85-411d-ae20-abd63f1225fc"
+        ],
+        "title": "Vida laical y familia ",
+        "uuid": "15f07544-504e-44f7-b681-303c3fa4f45f"
+      },
+      {
+        "links": [
+          "f4563e15-e9c1-4d38-b9fc-3b4a4ad6aaf6",
+          "d6a30819-9971-4761-a0a7-90c687c9a9d7",
+          "6a82ab53-90b2-4c2a-b078-0c3bc966c347",
+          "d2931d7f-4fdf-4c9d-a1ab-f77bcf7673d2",
+          "8be13dc3-dad3-47bd-83a0-e9ed262b9ee3"
+        ],
+        "title": "Vida religiosa y misión",
+        "uuid": "cc8b338c-323f-423a-a89c-107efde6ada5"
+      }
+    ],
+    "pageperlocatoin": false
+  },
+  "site": {
+    "bank": [
+      {
+        "account": "https://www.donoamiiglesia.es/san/Home#!/donar/4960f4c9-3f65-eb11-8139-0050569a44c2",
+        "title": "Dono a mi Iglesia"
+      },
+      {
+        "account": "04698",
+        "title": "Bizum"
+      }
+    ],
+    "collaborators": [
+      {
+        "name": "Iñigo Beunza",
+        "phonenumber": "660 36 39 53"
+      }
+    ],
+    "description": "Dios te sueña a lo grande. ¿Y tú? ¿Cómo te sueñas? Atrévete a descubrir el sentido de tu vida.",
+    "icon": "/media/LOGO-P-V.webp",
+    "image": "/media/YESYES.webp",
+    "social": [
+      "https://www.youtube.com/@seminariopamplona"
+    ],
+    "title": "Llamados"
+  },
+  "theme": {
+    "accentColor": "orange",
+    "accentPrimary": "",
+    "bodyFont": "Quicksand",
+    "borderRadius": "1",
+    "borderWidth": "1.25",
+    "headingFont": "Story Script",
+    "icon": "",
+    "image": "",
+    "navStyle": "",
+    "shadowDepth": "1.50",
+    "styles": [
+      {
+        "cssClass": "opacity: 0;",
+        "scroll": true,
+        "selector": "blockquote",
+        "uuid": "1c990c57-68d1-4706-970f-c37b7f077f78"
+      },
+      {
+        "cssClass": "@apply hover:text-accent",
+        "scroll": false,
+        "selector": "h2",
+        "uuid": "4024674e-2a80-4af8-95ed-3a770c339434"
+      },
+      {
+        "cssClass": "opacity: 0.5; transform: scale(0.80);",
+        "scroll": true,
+        "selector": "li, ul",
+        "uuid": "e05c009d-7b6d-413f-8292-8f9e98f819c8"
+      },
+      {
+        "cssClass": "@apply hover:scale-110 hover:rotate-3",
+        "scroll": false,
+        "selector": ".card",
+        "uuid": "6f216034-85fc-4241-9fef-f0ec40a1f7ad"
+      }
+    ]
+  }
+}

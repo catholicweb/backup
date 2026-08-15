@@ -3,6 +3,10 @@
     "events": {
       "list": [
         {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": null,
           "location": [
             "Agustinas Aldatz"
           ],
@@ -14,7 +18,7 @@
           "times": [
             "09:00"
           ],
-          "title": "Misa",
+          "title": "",
           "type": "mass"
         },
         {
@@ -72,6 +76,7 @@
           "type": "mass"
         },
         {
+          "celebrants": [],
           "location": [
             "Latasa"
           ],
@@ -82,7 +87,7 @@
           "times": [
             "17:00"
           ],
-          "title": "Misa",
+          "title": "",
           "type": "mass"
         },
         {
@@ -362,6 +367,7 @@
           "type": "mass"
         },
         {
+          "celebrants": [],
           "location": [
             "Leitza"
           ],
@@ -372,7 +378,7 @@
           "times": [
             "19:30"
           ],
-          "title": "Misa",
+          "title": "",
           "type": "mass"
         },
         {
@@ -402,6 +408,7 @@
           "type": "mass"
         },
         {
+          "celebrants": [],
           "location": [
             "Lekunberri"
           ],
@@ -412,7 +419,7 @@
           "times": [
             "18:30"
           ],
-          "title": "Misa",
+          "title": "",
           "type": "mass"
         },
         {
@@ -660,6 +667,11 @@
           "type": "group"
         },
         {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": null,
+          "image": "",
           "location": [
             "Areso"
           ],
@@ -699,6 +711,23 @@
           ],
           "title": "Adoración al Santísimo",
           "type": "group"
+        },
+        {
+          "celebrants": [],
+          "except": [],
+          "id": "evt-f838bfb8-7aad-4b4f-b455-b167778b5099",
+          "location": [
+            "Leitza"
+          ],
+          "rrule": [
+            "mo,tu,we,th,fr",
+            "sa"
+          ],
+          "times": [
+            "19:30"
+          ],
+          "title": "",
+          "type": "mass"
         }
       ],
       "urls": [
@@ -715,19 +744,20 @@
       {
         "defaults": {
           "celebrants": [],
-          "date": "",
-          "description": "",
-          "duration": null,
+          "date": "2026-04-01",
+          "description": "Meza Santua",
+          "duration": 45,
           "image": "https://data.parroquia.app/47herri/mass.webp",
           "location": "",
           "rrule": [],
           "times": "",
-          "title": ""
+          "title": "Meza"
         },
-        "icon": "",
+        "icon": "game-icons:jeweled-chalice",
         "label": "Meza",
         "name": "mass",
-        "protected": "misa"
+        "protected": "misa",
+        "uuid": "81b14575-602f-493c-9442-ef1fd72f37cb"
       },
       {
         "defaults": {
@@ -744,7 +774,8 @@
         "icon": "",
         "label": "Hileta",
         "name": "funeral",
-        "protected": "funeral"
+        "protected": "funeral",
+        "uuid": "af0fa8e7-45fc-4531-ba06-46472fe2cdaf"
       },
       {
         "defaults": {
@@ -761,7 +792,25 @@
         "icon": "",
         "label": "Confesiones",
         "name": "confessions",
-        "protected": "confesiones"
+        "protected": "confesiones",
+        "uuid": "24c0753c-0749-46fc-817b-48b1c8315ce8"
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "Katekesia",
+          "duration": null,
+          "image": "https://images.unsplash.com/photo-1569845177077-2a37322a60c7?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Nnx8Y2F0aG9saWMlMjBDYXRlcXVlc2lzfGVufDB8fHx8MTc4NjQ2ODg1N3ww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format",
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": "Katekesia"
+        },
+        "icon": "heroicons-solid:user",
+        "label": "Katekesia",
+        "name": "6bdda7f3-0b8d-43a4-92c9-7e17a6bb2deb",
+        "uuid": "4e9cd41d-67d8-4b27-a247-d57d39ec32ba"
       }
     ]
   },
@@ -770,19 +819,23 @@
     "bank": [
       {
         "account": "11995",
-        "title": "Bizum"
+        "title": "Bizum",
+        "uuid": "285e27e0-703c-4ed0-ace6-ffd5b2aa1680"
       },
       {
         "account": "ES15 2100 4941 1222 0005 0326",
-        "title": "Caixa"
+        "title": "Caixa",
+        "uuid": "f5758c73-2db4-4f0a-9c86-68b51a1b9777"
       },
       {
         "account": "ES66 3035 0118 8811 8000 2943",
-        "title": "Laboral"
+        "title": "Laboral",
+        "uuid": "62d72dd6-affa-49a1-8e04-7d382e60dae0"
       },
       {
         "account": "ES17 3008 0179 2436 5465 8818",
-        "title": "Rural"
+        "title": "Rural",
+        "uuid": "65265c27-097e-487f-9e33-40c5bd49c481"
       }
     ],
     "collaborators": [
@@ -790,19 +843,22 @@
         "image": "https://data.parroquia.app/47herri/20251129_093926.jpg",
         "name": "David Galarza",
         "phonenumber": "690 08 15 84",
-        "social": []
+        "social": [],
+        "uuid": "b4000b56-a464-4fe7-a19c-a137d28705b8"
       },
       {
         "image": "https://data.parroquia.app/47herri/Screenshot_20250404_192119_Gallery.webp",
         "name": "Santi Garisoain",
         "phonenumber": "648 77 22 11",
-        "social": []
+        "social": [],
+        "uuid": "1bfb5512-d311-4fb0-ab92-b62cda610877"
       },
       {
         "image": "https://data.parroquia.app/47herri/Screenshot_20250404_192754_Gallery.webp",
         "name": "Jesús Mª Sotil",
         "phonenumber": "638 73 95 75",
-        "social": []
+        "social": [],
+        "uuid": "363dddf0-80f8-4c66-8fed-b9878d5e218c"
       }
     ],
     "description": "Nafarroako ipar-mendebaldeko hamar udalerrietako 47 parrokiek osatzen duten pastoral barruti katolikoa gara gu iruñako elizbarrutian.",
@@ -820,10 +876,17 @@
         "name": "Albiasu",
         "tags": [
           {
+            "key": "valle",
+            "uuid": "afc78530-c952-4994-9f3d-24c986efb419",
+            "value": "Larraun"
+          },
+          {
             "key": "video",
-            "value": "78jko98yhjkp098yhklp9u"
+            "uuid": "f358e689-e39f-41ee-b945-0902f84c9c32",
+            "value": "https://www.youtube.com/watch?v=1aoxA5TDyQI"
           }
-        ]
+        ],
+        "uuid": "63c0debb-3047-47bd-a2dc-bf3a5efc2207"
       },
       {
         "geo": "43.00957, -1.85974",
@@ -834,10 +897,17 @@
         "name": "Aldatz",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "f5767033-90fe-4c36-b08d-88440884d22a",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "ee456618-a40c-4808-9d71-35f509e27d12",
+            "value": "https://www.youtube.com/watch?v=UDePaBt8_ek"
           }
-        ]
+        ],
+        "uuid": "60d2f1c5-556f-471c-85b3-0a6105b85c4a"
       },
       {
         "geo": "42.99151, -1.89673",
@@ -848,10 +918,17 @@
         "name": "Alli",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "bd65d50e-2a05-48d4-a70f-636349a82711",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "4a7fb5b0-15b7-4784-ae77-4cfcaf55eba9",
+            "value": "https://www.youtube.com/watch?v=NPKCefEllNA"
           }
-        ]
+        ],
+        "uuid": "c26b69f9-8ce8-48aa-bf44-2562d5144d8f"
       },
       {
         "geo": "43.19951, -1.89462",
@@ -862,10 +939,17 @@
         "name": "Arano",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "da509f7d-59f4-4f29-9b91-b12e27741b37",
+            "value": "Urumea"
+          },
+          {
+            "key": "video",
+            "uuid": "433f42c2-6449-4930-bf2d-9445245e93b2",
+            "value": "https://www.youtube.com/watch?v=UdCfCIHmvaU"
           }
-        ]
+        ],
+        "uuid": "7ca74641-5e6d-4248-a80d-3d318905c0e2"
       },
       {
         "geo": "43.08272, -1.95200",
@@ -876,10 +960,17 @@
         "name": "Areso",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "916d70fa-b8f7-4553-8a8c-fbe64350664e",
+            "value": "Leitzaran"
+          },
+          {
+            "key": "video",
+            "uuid": "72e74ed0-1b66-429a-a4ad-787580e61260",
+            "value": "https://www.youtube.com/watch?v=6RONQJ-46eE"
           }
-        ]
+        ],
+        "uuid": "6c3c53ba-58fe-4bec-9d10-bbf59db20fc5"
       },
       {
         "geo": "43.0374485, -1.8039478",
@@ -891,10 +982,17 @@
         "name": "Arrarats",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "aefa9001-41dc-4d29-8475-2e67d17b7960",
+            "value": "Basaburua"
+          },
+          {
+            "key": "video",
+            "uuid": "6f9c0495-f215-4d25-8676-9e1de4822941",
+            "value": "https://www.youtube.com/watch?v=Rd0UfY7W8EI"
           }
-        ]
+        ],
+        "uuid": "7348f5db-9c98-4540-a10c-b436ba8d44ab"
       },
       {
         "geo": "43.03161, -1.98289",
@@ -905,10 +1003,17 @@
         "name": "Arribe",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "101cebd3-b84b-487a-9945-3f8ba6bf2c40",
+            "value": "Araitz"
+          },
+          {
+            "key": "video",
+            "uuid": "1ae9b912-2e94-4b5d-adee-c0be44c46cfe",
+            "value": "https://www.youtube.com/watch?v=853drMvd_2Q"
           }
-        ]
+        ],
+        "uuid": "b434ccdb-f240-4990-a42a-2dc51e11c788"
       },
       {
         "geo": "42.98189, -1.85630",
@@ -919,10 +1024,17 @@
         "name": "Arruitz",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "87b2b587-391c-49f0-9dc8-18b0928d303b",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "576179a5-3c87-4d05-ade1-657a11444025",
+            "value": "https://www.youtube.com/watch?v=WZ09T5UNXGU"
           }
-        ]
+        ],
+        "uuid": "7608abf6-9ccb-41b8-a1b9-1dc0eb78bf16"
       },
       {
         "geo": "42.97074, -1.87838",
@@ -933,10 +1045,17 @@
         "name": "Astitz",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "b7accd56-816b-41ab-ad1c-8dcc660a4937",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "e6215faa-effd-4f18-a906-c07ce23f6f14",
+            "value": "https://www.youtube.com/watch?v=FOXRrA3WGgk"
           }
-        ]
+        ],
+        "uuid": "4b51ae63-b7ac-4ea3-a673-67e24efdc9d1"
       },
       {
         "geo": "43.04072, -1.98852",
@@ -947,10 +1066,17 @@
         "name": "Atallu",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "803b5a45-d922-43be-b260-6ace52a3fd95",
+            "value": "Araitz"
+          },
+          {
+            "key": "video",
+            "uuid": "ceb6a7a3-ae42-47ad-9704-2244c4354b54",
+            "value": "https://www.youtube.com/watch?v=lkT9FGSPG04"
           }
-        ]
+        ],
+        "uuid": "0fac0dae-a727-4d8b-8620-e35770ff0193"
       },
       {
         "geo": "43.03463, -2.01012",
@@ -961,10 +1087,17 @@
         "name": "Azkarate",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "2acdba37-a5ee-4a14-94b1-efe9749f1777",
+            "value": "Araitz"
+          },
+          {
+            "key": "video",
+            "uuid": "3a2baec0-d0fa-4c23-858c-a0e353a9b442",
+            "value": "https://www.youtube.com/watch?v=bcuyvxWt-7A"
           }
-        ]
+        ],
+        "uuid": "eb7f6e13-ccca-4ad1-9ee1-fcf1d05e6dca"
       },
       {
         "geo": "43.02836, -1.93402",
@@ -975,10 +1108,17 @@
         "name": "Azpirotz",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "b125c684-67bd-45bf-aef3-2fd560180e2e",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "32552a93-92ef-4fe0-ae67-3d28d7e6acbc",
+            "value": "https://www.youtube.com/watch?v=8QZ-kf7qDps"
           }
-        ]
+        ],
+        "uuid": "46a0e5c6-5cf0-4e88-8d13-3e153bbfac4e"
       },
       {
         "geo": "42.98953, -1.92347",
@@ -990,10 +1130,17 @@
         "name": "Baraibar",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "e9c55be1-ed4f-445b-b787-0ab2ba851aec",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "af7444bd-575e-4037-847f-816f0f540f70",
+            "value": "https://www.youtube.com/watch?v=YhP9LnlKbTQ"
           }
-        ]
+        ],
+        "uuid": "f802c58f-08f4-4bcf-b148-12e4a27bc0b4"
       },
       {
         "geo": "42.980389, -1.822057",
@@ -1004,10 +1151,17 @@
         "name": "Beramendi",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "af393978-ecc7-4f31-a736-16cee6b8a355",
+            "value": "Basaburua"
+          },
+          {
+            "key": "video",
+            "uuid": "3538b7b0-e367-4f26-8ba4-61c678450600",
+            "value": "https://www.youtube.com/watch?v=NzMnlR-PaD8"
           }
-        ]
+        ],
+        "uuid": "c1d31cd5-4afd-4e7c-a6d1-be97a6ddaebc"
       },
       {
         "geo": "43.02656, -1.82590",
@@ -1021,10 +1175,17 @@
         "name": "Beruete",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "14748c38-cabe-4c1b-98a2-9df28b1b1d08",
+            "value": "Basaburua"
+          },
+          {
+            "key": "video",
+            "uuid": "079ca79c-ad67-4493-910a-52a953a25cf8",
+            "value": "https://www.youtube.com/watch?v=PmiNoRGv7hY"
           }
-        ]
+        ],
+        "uuid": "b145f105-4110-4e1f-b389-2788265a0101"
       },
       {
         "geo": "43.02259, -1.97616",
@@ -1035,10 +1196,17 @@
         "name": "Betelu",
         "tags": [
           {
+            "key": "valle",
+            "uuid": "37190e7d-26a9-4ad3-980f-a7c2458c9543",
+            "value": "Araitz"
+          },
+          {
             "key": "video",
-            "value": ""
+            "uuid": "72baf8af-e2d1-42f8-a239-c31e4c5c4f47",
+            "value": "https://www.youtube.com/watch?v=46Wos9wDdpw"
           }
-        ]
+        ],
+        "uuid": "9f66716d-9c97-4ae7-be2b-0b10a924772a"
       },
       {
         "geo": "42.9508406, -1.8054720",
@@ -1049,10 +1217,17 @@
         "name": "Eraso",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "d69ccfac-1c67-425f-8b90-cbf5b503e318",
+            "value": "Imotz"
+          },
+          {
+            "key": "video",
+            "uuid": "3c2fc5a4-14e2-4188-b436-0adbb89249a2",
+            "value": "https://www.youtube.com/watch?v=euzAq4NKPJ0"
           }
-        ]
+        ],
+        "uuid": "830ded67-d26c-40a2-8ab6-72509c1f8f5a"
       },
       {
         "geo": "42.9989472, -1.7669464",
@@ -1063,10 +1238,17 @@
         "name": "Erbiti",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "d439a5c9-e877-41b7-9f61-ebf3a58547c9",
+            "value": "Basaburua"
+          },
+          {
+            "key": "video",
+            "uuid": "04c2fde9-c950-457f-8496-29e3fd47a6f2",
+            "value": "https://www.youtube.com/watch?v=jdU6p_7YVU4"
           }
-        ]
+        ],
+        "uuid": "70aec0be-ce67-43dc-8329-117e47fe5188"
       },
       {
         "geo": "43.00658, -1.96063",
@@ -1078,10 +1260,17 @@
         "name": "Errazkin",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "33b13658-c360-4648-93df-72de737a4277",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "54d0616c-e1c4-4a5c-9165-7801e1686ad1",
+            "value": "https://www.youtube.com/watch?v=fBoeJCgbx9s"
           }
-        ]
+        ],
+        "uuid": "d39774df-8359-4289-8525-002b1f40d58c"
       },
       {
         "geo": "42.96943, -1.79024",
@@ -1092,10 +1281,17 @@
         "name": "Etxaleku",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "10317050-ee04-442b-b8f0-5b518966f18a",
+            "value": "Imotz"
+          },
+          {
+            "key": "video",
+            "uuid": "6d4029bc-e416-475f-b692-8d93f223c68a",
+            "value": "https://www.youtube.com/watch?v=nBXyg1L7vTk"
           }
-        ]
+        ],
+        "uuid": "9023a5b9-ba11-410d-abac-df5b5838d06f"
       },
       {
         "geo": "43.00218, -1.87298",
@@ -1110,10 +1306,17 @@
         "name": "Etxarri",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "fb999bed-887f-4fe8-a603-b74d071962fe",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "8c68a9f7-1af6-47d8-9291-e59e25fce39f",
+            "value": "https://www.youtube.com/watch?v=mhyvWRma7_M"
           }
-        ]
+        ],
+        "uuid": "15e40ab3-5f80-4f9a-bda0-167ab8beb5e0"
       },
       {
         "geo": "43.0208511, -2.0096471",
@@ -1124,10 +1327,17 @@
         "name": "Gaintza",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "b77ad224-7658-4810-801b-25784c9f0a3c",
+            "value": "Araitz"
+          },
+          {
+            "key": "video",
+            "uuid": "77206b0b-45b7-489d-b824-18f38b666bf6",
+            "value": "https://www.youtube.com/watch?v=G7g958WP8FU"
           }
-        ]
+        ],
+        "uuid": "7c638320-2ca3-4ae7-b9a4-faf0ceda4bb1"
       },
       {
         "geo": "42.99744, -1.77401",
@@ -1138,10 +1348,17 @@
         "name": "Gartzaron",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "1a427575-a515-4088-ab2e-7c493a4e3297",
+            "value": "Basaburua"
+          },
+          {
+            "key": "video",
+            "uuid": "1156fb04-09b1-4c91-b13d-bc207bb5657a",
+            "value": "https://www.youtube.com/watch?v=qDP56p2ZNnU"
           }
-        ]
+        ],
+        "uuid": "56f5a953-19ad-4f4b-8274-7e8ef7f48420"
       },
       {
         "geo": "43.21377, -1.79586",
@@ -1153,10 +1370,17 @@
         "name": "Goizueta",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "af2595bf-643c-418f-91fa-220211fcd7d2",
+            "value": "Urumea"
+          },
+          {
+            "key": "video",
+            "uuid": "71f46f89-2140-458e-902e-8e867a7049b7",
+            "value": "https://www.youtube.com/watch?v=7O7YqRdmgL8"
           }
-        ]
+        ],
+        "uuid": "c7767cb6-8dc4-487c-b0df-781653b1b165"
       },
       {
         "geo": "42.9496774, -1.8359050",
@@ -1171,10 +1395,17 @@
         "name": "Goldaratz",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "6fcfa0b8-e319-462d-a7c1-da9923740734",
+            "value": "Imotz"
+          },
+          {
+            "key": "video",
+            "uuid": "4cf4d237-8f64-4e9d-8fb5-bc01614b81ff",
+            "value": "https://www.youtube.com/watch?v=GSw3U5DNbvU"
           }
-        ]
+        ],
+        "uuid": "c0916a5d-c8af-425d-8400-6a81dcc88cbb"
       },
       {
         "geo": "43.05145, -1.95463",
@@ -1185,10 +1416,17 @@
         "name": "Gorriti",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "90a97adb-aa9e-435e-a672-6147876639c9",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "29709fd4-812b-4cb6-8e4d-e848bf837815",
+            "value": "https://www.youtube.com/watch?v=0YTZiyiZ1BM"
           }
-        ]
+        ],
+        "uuid": "66cba085-9a6a-4cd9-af42-deaa75045f63"
       },
       {
         "geo": "43.0312209, -1.7858537",
@@ -1201,10 +1439,17 @@
         "name": "Igoa eta Aizarotz",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "afd22373-9b5c-40d3-a475-e1a7eca1b242",
+            "value": "Basaburua"
+          },
+          {
+            "key": "video",
+            "uuid": "93eb738c-912f-4bec-873c-0a023f568989",
+            "value": "https://www.youtube.com/watch?v=A5xFxCW8NEs"
           }
-        ]
+        ],
+        "uuid": "098527eb-e9c8-468e-8719-6a65fabd831c"
       },
       {
         "geo": "42.9871091, -1.8071447",
@@ -1215,10 +1460,17 @@
         "name": "Ihaben",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "e166be69-6667-4cac-9e57-5f6f5177032d",
+            "value": "Basaburua"
+          },
+          {
+            "key": "video",
+            "uuid": "455b9ca1-e2fa-459c-b97a-d22d4521cff5",
+            "value": "https://www.youtube.com/watch?v=ffUAe8dUe-U"
           }
-        ]
+        ],
+        "uuid": "a36b2c1d-2ac6-4da2-ae8d-e946f9582dfa"
       },
       {
         "geo": "43.01714, -1.99244",
@@ -1229,10 +1481,17 @@
         "name": "Intza",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "c826f95c-d28a-4f3e-addb-6f15b3624969",
+            "value": "Araitz"
+          },
+          {
+            "key": "video",
+            "uuid": "ae4f557e-1245-4eb8-afad-d6b44db5158c",
+            "value": "https://www.youtube.com/watch?v=ed4vjo-bQVw"
           }
-        ]
+        ],
+        "uuid": "e4b7d839-e15d-486d-b1c0-c6ddeb8f2925"
       },
       {
         "geo": "42.98863, -1.90418",
@@ -1244,10 +1503,17 @@
         "name": "Iribas",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "b4a93cb3-8fd2-414e-b2b4-6780c66f3fc6",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "49f53f58-6db7-40c4-a3e2-10b987830d9b",
+            "value": "https://www.youtube.com/watch?v=ihDsCf3reeY"
           }
-        ]
+        ],
+        "uuid": "2a93939d-8435-42d5-bfc7-841ffed671a8"
       },
       {
         "geo": "42.99201, -1.83304",
@@ -1258,10 +1524,17 @@
         "name": "Itsaso",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "2f412291-1888-4eaf-963a-d2e51788b31c",
+            "value": "Basaburua"
+          },
+          {
+            "key": "video",
+            "uuid": "6322a414-4127-45da-8267-b88e46f22761",
+            "value": "https://www.youtube.com/watch?v=a90tyFzk-qk"
           }
-        ]
+        ],
+        "uuid": "7cf60c35-775a-423e-950d-41f2a9a40e8f"
       },
       {
         "geo": "43.00132, -1.80225",
@@ -1275,10 +1548,17 @@
         "name": "Jauntsarats",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "474875ed-0b6c-4f28-a9f5-3f4c36a19376",
+            "value": "Basaburua"
+          },
+          {
+            "key": "video",
+            "uuid": "8fdfdf91-b368-41dc-a4da-6f65cb967176",
+            "value": "https://www.youtube.com/watch?v=imRARVKWyTM"
           }
-        ]
+        ],
+        "uuid": "ed11e015-b7f8-4348-a650-9efda9f4afb9"
       },
       {
         "geo": "42.9544555, -1.8221520",
@@ -1289,10 +1569,17 @@
         "name": "Latasa",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "1fb3db06-f587-4efb-ba90-f3374823f583",
+            "value": "Imotz"
+          },
+          {
+            "key": "video",
+            "uuid": "addf6534-8a4f-421e-8fdc-0c76d285bdde",
+            "value": "https://www.youtube.com/watch?v=yiGnnMWP1f0"
           }
-        ]
+        ],
+        "uuid": "d76008a0-ea2b-4065-95d9-8bb7978414b3"
       },
       {
         "geo": "43.07797, -1.91260",
@@ -1304,10 +1591,17 @@
         "name": "Leitza",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "7130e4bb-d34e-4c6a-a86b-4f93ea3f9a09",
+            "value": "Leitzaran"
+          },
+          {
+            "key": "video",
+            "uuid": "aaf1bbe9-6cc6-41a6-b7f0-009a05079eb3",
+            "value": "https://www.youtube.com/watch?v=HdPgPOzptII"
           }
-        ]
+        ],
+        "uuid": "6914c0d4-1751-4afc-beb1-530b85b4d03b"
       },
       {
         "geo": "43.00596, -1.89541",
@@ -1320,10 +1614,17 @@
         "name": "Lekunberri",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "9d55ec58-0445-4df9-a77b-14eef5bde730",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "ef179f43-690c-4f41-9862-a69f75d588a2",
+            "value": "https://www.youtube.com/watch?v=2tkabr7el28"
           }
-        ]
+        ],
+        "uuid": "befe17d4-2024-4618-8ff6-180cb5bdfe6b"
       },
       {
         "geo": "",
@@ -1334,10 +1635,17 @@
         "name": "Lezaeta",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "5651ca60-550e-4bbc-8366-573a223e838b",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "841f7ed0-f0c5-4aa6-b97d-1b00d9163d30",
+            "value": "https://www.youtube.com/watch?v=RMKBH042zgA"
           }
-        ]
+        ],
+        "uuid": "d594b052-45f9-4f6a-8d97-4b4de346a62b"
       },
       {
         "geo": "42.9378197, -1.8761211",
@@ -1354,10 +1662,17 @@
         "name": "Madotz",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "ff401a60-45f0-4a1a-a1ba-690833b263ac",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "26622518-082d-4bd9-92f6-545d7e7f8823",
+            "value": "https://www.youtube.com/watch?v=S_glc18h9uE"
           }
-        ]
+        ],
+        "uuid": "449aeac8-d9a9-429b-b24f-406739aecb0b"
       },
       {
         "geo": "42.99143, -1.88167",
@@ -1368,10 +1683,17 @@
         "name": "Mugiro",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "2ff4aa12-ac29-4335-8887-0260d5587388",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "201e7b91-c60e-42af-94a3-5f3cdc248af4",
+            "value": "https://www.youtube.com/watch?v=DHwAmkBhea0"
           }
-        ]
+        ],
+        "uuid": "a523af19-3539-48b1-9d3b-663dc5a0e128"
       },
       {
         "geo": "42.9359167, -1.7493240",
@@ -1385,10 +1707,17 @@
         "name": "Muskitz",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "233409b6-86d2-4127-8dc1-7888265846a7",
+            "value": "Imotz"
+          },
+          {
+            "key": "video",
+            "uuid": "8a3026c0-9afa-487a-867d-00c277eae1a0",
+            "value": "https://www.youtube.com/watch?v=uLeTqOArA-g"
           }
-        ]
+        ],
+        "uuid": "bd1a0f8a-56eb-46a8-a6b0-6d73a4277170"
       },
       {
         "geo": "42.9513991, -1.8715113",
@@ -1399,10 +1728,17 @@
         "name": "Oderitz",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "8763e321-1ba4-4f05-b9cb-85ef1ab1e9d0",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "108e22fd-880a-4434-8826-2cc50eb5deaa",
+            "value": "https://www.youtube.com/watch?v=JBJbOYAKZik"
           }
-        ]
+        ],
+        "uuid": "5c63ce74-bc0b-4280-a58b-20dde3f51790"
       },
       {
         "geo": "43.01357, -1.75797",
@@ -1413,10 +1749,17 @@
         "name": "Orokieta",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "e4de93a8-7c98-4e7c-9eb2-7952b7798f8a",
+            "value": "Basaburua "
+          },
+          {
+            "key": "video",
+            "uuid": "df3c79a2-fb28-47b9-a759-57a95f72b47a",
+            "value": "https://www.youtube.com/watch?v=e88I50mz3Cc"
           }
-        ]
+        ],
+        "uuid": "12eb0302-50fc-430a-b925-9be51cfde233"
       },
       {
         "geo": "42.95939, -1.78165",
@@ -1432,10 +1775,17 @@
         "name": "Oskotz",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "63cef1e0-c290-40c7-b9cb-965b8b2fafa1",
+            "value": "Imotz"
+          },
+          {
+            "key": "video",
+            "uuid": "74c9e4da-5b30-4109-a950-9e3be210bcb3",
+            "value": "https://www.youtube.com/watch?v=ZQDbuAbIsRw"
           }
-        ]
+        ],
+        "uuid": "8673e580-852a-432f-b55d-e5f71ba04b55"
       },
       {
         "geo": "42.97462, -1.82702",
@@ -1446,10 +1796,17 @@
         "name": "Udabe",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "3e7c43b7-c605-48c8-acff-00159bad8e60",
+            "value": "Basaburua"
+          },
+          {
+            "key": "video",
+            "uuid": "be09284d-9ff8-4bef-8d60-6a0ffa8b0d35",
+            "value": "https://www.youtube.com/watch?v=bK5FMCXBrc4"
           }
-        ]
+        ],
+        "uuid": "915b2757-fa0b-49b0-974f-4123ba38af0f"
       },
       {
         "geo": "43.04080, -1.92649",
@@ -1460,10 +1817,17 @@
         "name": "Uitzi",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "8cc94ba1-890c-4205-8652-6a1d77aa8d4d",
+            "value": "Larraun"
+          },
+          {
+            "key": "video",
+            "uuid": "ede94ed1-28e3-4dd2-af65-e56fe033b10c",
+            "value": "https://www.youtube.com/watch?v=XRSbr_nzqb4"
           }
-        ]
+        ],
+        "uuid": "271975b9-f58b-4537-905b-881e736a643a"
       },
       {
         "geo": "",
@@ -1474,10 +1838,17 @@
         "name": "Urritza",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "36933ce8-f222-4978-a2af-db45089ef4aa",
+            "value": "Imotz"
+          },
+          {
+            "key": "video",
+            "uuid": "cd389513-e262-4379-99dc-3569ca821841",
+            "value": "https://www.youtube.com/watch?v=5XjcDZMuxV0"
           }
-        ]
+        ],
+        "uuid": "8777add9-a846-4f82-a822-6461648d9ad9"
       },
       {
         "geo": "",
@@ -1488,10 +1859,17 @@
         "name": "Uztegi",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "3810d20a-7ebd-4d92-ba4a-29100af5e48e",
+            "value": "Araitz"
+          },
+          {
+            "key": "video",
+            "uuid": "fa144c6b-408f-4dca-a0dc-bbb0194b05b1",
+            "value": "https://www.youtube.com/watch?v=dFtsDjJI1BY"
           }
-        ]
+        ],
+        "uuid": "7fb677b5-da32-4d1f-8784-99de26a01ff7"
       },
       {
         "geo": "",
@@ -1504,10 +1882,17 @@
         "name": "Zarrantz",
         "tags": [
           {
-            "key": "",
-            "value": ""
+            "key": "valle",
+            "uuid": "4b177f58-a19b-4b05-879f-dd297f11ee9b",
+            "value": "Imotz"
+          },
+          {
+            "key": "video",
+            "uuid": "683e7121-9925-4941-9d6c-b375835e3c7e",
+            "value": "https://www.youtube.com/watch?v=LWY0WzsAp74"
           }
-        ]
+        ],
+        "uuid": "47c51b04-9222-4e10-9434-c230a3f66146"
       }
     ],
     "social": [
@@ -1535,7 +1920,7 @@
         "description": "",
         "hideHero": false,
         "image": "https://data.parroquia.app/47herri/hero-bg.webp",
-        "name": "dcde291a-4304-49a1-8bbe-27b9faabff2a",
+        "name": "409863e7-83b9-4a59-babe-5db5364d64e8",
         "sections": [
           {
             "_block": "calendar",
@@ -1548,7 +1933,8 @@
               "locations"
             ],
             "tags": [],
-            "title": "Próximas celebraciones"
+            "title": "Próximas celebraciones",
+            "uuid": "59f9febe-c401-4ce0-8f36-8be931665c9d"
           },
           {
             "_block": "calendar",
@@ -1561,7 +1947,8 @@
               "byday-weekday+byweek+notes"
             ],
             "tags": [],
-            "title": "Horario de Misas"
+            "title": "Horario de Misas",
+            "uuid": "f7a10b3a-ff20-4b5f-a4e2-d8a0b880a7e9"
           },
           {
             "_block": "calendar",
@@ -1574,19 +1961,22 @@
               "byday+byweek+notes"
             ],
             "tags": [],
-            "title": "Otros eventos periódicos"
+            "title": "Otros eventos periódicos",
+            "uuid": "855e275b-533f-436d-b023-bc4743b7984a"
           },
           {
             "_block": "video-channel",
             "filter": "",
             "tags": [],
-            "title": "Eguneroko Meza"
+            "title": "Eguneroko Meza",
+            "uuid": "6377fd3c-5a44-4579-a769-262f1f045271"
           },
           {
             "_block": "gallery",
             "list": [],
             "tags": [],
-            "title": ""
+            "title": "",
+            "uuid": "386b942e-7061-4218-90de-c1c5bd24cef8"
           },
           {
             "_block": "town",
@@ -1600,12 +1990,14 @@
               "Imotz"
             ],
             "tags": [],
-            "title": "Gure herriak"
+            "title": "Gure herriak",
+            "uuid": "863ded00-f5c8-4cee-afef-3b94de0f021c"
           },
           {
             "_block": "team",
             "tags": [],
-            "title": "Gure apezak"
+            "title": "Gure apezak",
+            "uuid": "98e3c091-3749-452b-80b6-c715de1ff92d"
           },
           {
             "_block": "text",
@@ -1613,7 +2005,8 @@
             "tags": [
               "dark"
             ],
-            "title": "Gure pastoral barrutia"
+            "title": "Gure pastoral barrutia",
+            "uuid": "c48eeee3-dd2f-4b5e-8abf-349e67629e48"
           },
           {
             "_block": "map",
@@ -1621,17 +2014,19 @@
             "image": "",
             "name": "",
             "tags": [],
-            "title": "Conócenos"
+            "title": "Conócenos",
+            "uuid": "7f8b6806-05aa-48a8-9673-2a5558d88c41"
           }
         ],
         "slug": "index",
-        "title": "Ongi etorri"
+        "title": "Ongi etorri",
+        "uuid": "3f787a55-8765-4727-b32c-9433e9537108"
       },
       {
         "description": "",
         "hideHero": true,
         "image": "https://data.parroquia.app/47herri/hero-bg.webp",
-        "name": "74a6e481-e18a-4563-b8b7-a78e5889de93",
+        "name": "30c9c9f6-5615-4552-8ed4-5ba6110895e0",
         "sections": [
           {
             "_block": "gospel",
@@ -1642,7 +2037,8 @@
             "tags": [
               "twocols"
             ],
-            "title": "Evangelio"
+            "title": "Evangelio",
+            "uuid": "fc38553e-00f1-45a2-b3c0-855ff393a842"
           },
           {
             "_block": "video",
@@ -1653,7 +2049,8 @@
               "twocols",
               "hidden"
             ],
-            "title": "Gurutz bidea"
+            "title": "Gurutz bidea",
+            "uuid": "9b04baaa-79cd-4b4e-a793-7ea884b8e698"
           },
           {
             "_block": "video",
@@ -1664,7 +2061,8 @@
               "twocols",
               "hidden"
             ],
-            "title": "Zeru lurren erregina"
+            "title": "Zeru lurren erregina",
+            "uuid": "264f3a99-bf39-4415-b14f-53ae31e33b25"
           },
           {
             "_block": "video",
@@ -1674,7 +2072,8 @@
             "tags": [
               "twocols"
             ],
-            "title": "Angelusa"
+            "title": "Angelusa",
+            "uuid": "3cad3a5e-95ed-48c8-966b-cd1fbeab0fe3"
           },
           {
             "_block": "video",
@@ -1687,7 +2086,8 @@
             "tags": [
               "horizontal"
             ],
-            "title": "Errosario Santua"
+            "title": "Errosario Santua",
+            "uuid": "0c6c06a3-9c8a-4fda-b192-e464437f1f4f"
           },
           {
             "_block": "video-channel",
@@ -1716,12 +2116,14 @@
             "tags": [
               "horizontal"
             ],
-            "title": "Mezako kantak"
+            "title": "Mezako kantak",
+            "uuid": "39807bd1-e0d9-4a23-ba02-5be58566b979"
           },
           {
             "_block": "video-gospel",
             "tags": [],
-            "title": "Itun Berria"
+            "title": "Itun Berria",
+            "uuid": "6c61b224-0040-4b03-9efb-64fc324d6edc"
           },
           {
             "_block": "video-podcast",
@@ -1738,21 +2140,25 @@
             "tags": [
               "horizontal"
             ],
-            "title": "Beste baliabideak"
+            "title": "Beste baliabideak",
+            "uuid": "eedea187-b163-4aab-8785-cbfae94b4def"
           }
         ],
-        "title": "Baliabideak"
+        "title": "Baliabideak",
+        "uuid": "f8ddd77c-ed95-4d44-b53c-44d0693daa2e"
       },
       {
         "description": "",
         "hideHero": true,
         "image": "https://data.parroquia.app/47herri/hero-bg.webp",
-        "name": "8d051916-72d0-4511-af38-b2c54fb8c36b",
+        "name": "acd4f441-634c-416a-9660-8ae8b7180070",
         "sections": [
           {
-            "_block": "Text",
+            "_block": "text",
             "html": "![](https://data.parroquia.app/47herri/uap.webp)\n2019an Iruña-Tuterako elizbarrutian pastoral barrutiak (erdaraz \"UAP\" direlakoak) eratu ziren, Nafarroako 700 parrokiak 36 pastoral barrutitan kontzentratuz. Berez helburua da pastoralki parroki bakarra osatuko balute bezala lan egitea. Apez talde bat egon beharko litzateke barruti osorako eta pastoral kontseilu bakarra sortu. Herri guztietako eliztarrek sentitu beharko lukete zirkunskripzio bereko partaide direla. Juridikoki eta ekonomikoki, ordea, parroki bakoitzak bere burujabetasuna mantentzen du.\nEklesiastikoki gure pastoral barrutia Iruñako elizbarrutian dago, Mendialdeko zonalde pastoralean eta Aralarko artziprestaldean hain zuzen ere. Lurralde antolakuntza zibilari dagokionez, Nafarroako hamar udalerrietan gaude: LEITZA, ARESO, GOIZUETA, ARANO, ARAITZ, BETELU, LARRAUN, LEKUNBERRI, BASABURUA ETA IMOTZ.\nUne honetan hiru parroko in solidum aritzen gara aipatutako pastoral barrutian: Jesus Mari Sotil, Santiago Garisoain eta David Galarza, eta asteburutan beste hiru apez etortzen zaizkigu mezak ematen laguntzera: Joxe Mari Aleman, Pako Beloki eta Peio Etxabarri.",
-            "title": "Nafarroako Pastoral Barrutiak"
+            "tags": [],
+            "title": "Nafarroako Pastoral Barrutiak",
+            "uuid": "da05e825-3b9d-4652-be3c-5db63c2d5ab3"
           },
           {
             "_block": "map",
@@ -1760,7 +2166,8 @@
             "image": "",
             "name": "",
             "tags": [],
-            "title": ""
+            "title": "",
+            "uuid": "62a8e5d8-cbd0-4ec6-8673-3d66b8f4edaa"
           },
           {
             "_block": "town",
@@ -1775,17 +2182,19 @@
               "Imotz"
             ],
             "tags": [],
-            "title": "Gure herriak"
+            "title": "Gure herriak",
+            "uuid": "632290d6-6f6d-4962-aa02-fcba1a80b421"
           }
         ],
-        "title": "Parrokiak"
+        "title": "Parrokiak",
+        "uuid": "b955de2d-a864-4df1-ba66-408db9cb91a2"
       },
       {
         "description": "",
         "hideHero": false,
         "image": "{image}",
         "images": "{images}",
-        "name": "bdf456a1-191f-49c3-9248-d65cf03a2728",
+        "name": "90c0f27f-ab58-4cd8-8d98-5a7ea5d06aac",
         "protected": "Plantilla pueblos",
         "sections": [
           {
@@ -1794,41 +2203,47 @@
             ],
             "tags": [],
             "title": "Descubre {name}",
-            "type": "video"
+            "type": "video",
+            "uuid": "52d6fdb1-817b-4e0d-a1c6-0ed9ef4f9d0b"
           },
           {
             "filter": "{name}",
             "tags": [],
-            "title": "Azken ospakizunak",
-            "type": "video-channel"
+            "title": "",
+            "type": "video-channel",
+            "uuid": "a5fc8657-9962-443c-9413-fb5c7360c9fd"
           },
           {
             "geo": "{geo}",
             "image": "",
             "name": "{name}",
             "tags": [],
-            "title": "Non gaude",
-            "type": "map"
+            "title": "",
+            "type": "map",
+            "uuid": "31c96673-1762-4eb0-adf8-4bf45d73fad8"
           },
           {
             "list": "{images}",
             "tags": [],
-            "title": "Nuestro pueblo en imagenes",
-            "type": "gallery"
+            "title": "",
+            "type": "gallery",
+            "uuid": "68da5cdf-ae39-45d1-863d-42e025d52a2a"
           }
         ],
         "tags": "{tags}",
-        "title": "{name}"
+        "title": "{name}",
+        "uuid": "77f9e66e-916e-4017-9be2-4f17a6fc0604"
       }
     ],
     "nav": [
       {
         "links": [
-          "dcde291a-4304-49a1-8bbe-27b9faabff2a",
-          "74a6e481-e18a-4563-b8b7-a78e5889de93",
-          "8d051916-72d0-4511-af38-b2c54fb8c36b"
+          "409863e7-83b9-4a59-babe-5db5364d64e8",
+          "30c9c9f6-5615-4552-8ed4-5ba6110895e0",
+          "acd4f441-634c-416a-9660-8ae8b7180070"
         ],
-        "title": "Menu"
+        "title": "Menu",
+        "uuid": "fbe6c62a-de9e-4600-b617-2aef6e1f0a25"
       }
     ],
     "pageperlocatoin": true
@@ -1884,8 +2299,8 @@
     "borderRadius": "1",
     "borderWidth": "1.25",
     "headingFont": "Basque Smile",
-    "icon": "",
-    "image": "",
+    "icon": "https://data.parroquia.app/47herri/android-chrome-512x512.webp",
+    "image": "https://data.parroquia.app/47herri/hero-bg.webp",
     "navStyle": "47herri",
     "shadowDepth": "1.50",
     "styles": []

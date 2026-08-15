@@ -98,17 +98,7 @@
           "date": null,
           "description": "",
           "duration": null,
-          "except": [
-            {
-              "celebrants": [],
-              "date": "2026-08-03",
-              "newPlace": " San Francisco Javier",
-              "newTime": "",
-              "place": "San Antonio Padua (Capuchinos)",
-              "takesPlace": true,
-              "time": "10:30"
-            }
-          ],
+          "except": [],
           "image": "",
           "location": " San Antonio Padua (Capuchinos)",
           "rrule": [
@@ -163,7 +153,8 @@
         "icon": "mdi:coffin",
         "label": "Funeral",
         "name": "469a9211-73f7-4ca0-b03c-562cc198afc3",
-        "protected": true
+        "protected": true,
+        "uuid": "cc97b783-bbf1-4342-b4b0-5c2f3a79b3db"
       },
       {
         "defaults": {
@@ -180,7 +171,8 @@
         "icon": "game-icons:jeweled-chalice",
         "label": "Eucaristía",
         "name": "a7e773a3-0726-4592-91a7-afafcd379c42",
-        "protected": "mass"
+        "protected": "mass",
+        "uuid": "53d54a92-5c7d-4865-89bd-c6d634176924"
       },
       {
         "defaults": {
@@ -197,7 +189,8 @@
         "icon": "heroicons-solid:chat-bubble-bottom-center-text",
         "label": "Confesiones",
         "name": "150211d9-1bdd-4fd6-a364-6c9e7bf701c4",
-        "protected": true
+        "protected": true,
+        "uuid": "191b42b5-d5cc-4016-9ebd-9d358fd6573c"
       },
       {
         "defaults": {
@@ -214,7 +207,8 @@
         "icon": "heroicons-solid:users",
         "label": "Catequesis",
         "name": "ef5f6296-5731-4ab8-89fe-9a1320103670",
-        "protected": true
+        "protected": true,
+        "uuid": "b63e5c27-ab01-4b6b-8b9c-bdfc1384245f"
       }
     ]
   },
@@ -227,12 +221,16 @@
       {
         "geo": "42.813284, -1.636244",
         "image": [],
-        "name": " San Francisco Javier"
+        "name": " San Francisco Javier",
+        "tags": [],
+        "uuid": "8a5961d4-af52-4eef-98f2-5f19eee7a756"
       },
       {
         "geo": "42.8126403, -1.6389535",
         "image": [],
-        "name": " San Antonio Padua (Capuchinos)"
+        "name": " San Antonio Padua (Capuchinos)",
+        "tags": [],
+        "uuid": "6615bdaf-40f4-48bc-803a-21c7b6ac5380"
       }
     ],
     "social": [],
@@ -248,6 +246,7 @@
         "description": "",
         "hideHero": false,
         "image": "",
+        "name": "dd500974-fb1d-461c-9eef-019d8ea1773f",
         "protected": "Portada",
         "sections": [
           {
@@ -256,14 +255,24 @@
             ],
             "tags": [],
             "title": "",
-            "type": "video-podcast"
+            "type": "video-podcast",
+            "uuid": "f79923d2-68b0-468e-9a88-44d52c7916e0"
+          },
+          {
+            "html": "esto es algo de texto **ahora en negrita**, ahora en normal _pero al final, texto y solo texto_\n\n*   _esto es fero_\n*   _pero bueno_\n\n1.  _te pare [si, pero](page:dd500974-fb1d-461c-9eef-019d8ea1773f)_",
+            "tags": [],
+            "title": "pero",
+            "type": "text",
+            "uuid": "138b4a6e-2bd9-4042-9b56-849f50c5667e"
           }
         ],
-        "title": "Portada"
+        "title": "Portada",
+        "uuid": "71abe1fe-cd89-40f4-903c-371cf2adf24f"
       },
       {
         "description": "",
         "image": "",
+        "name": "a3106d50-6f59-4586-9656-23e133b8f6a4",
         "protected": "Plantilla pueblos",
         "sections": [
           {
@@ -271,13 +280,15 @@
             "order": [],
             "tags": [],
             "title": "Nuestras celebraciones",
-            "type": "calendar"
+            "type": "calendar",
+            "uuid": "bf9949c0-4bac-4c24-a84e-c11d780c0bbb"
           },
           {
             "filter": "",
             "tags": [],
             "title": "",
-            "type": "video-channel"
+            "type": "video-channel",
+            "uuid": "b8b508b5-d753-4b54-b5dc-5aa6af384197"
           },
           {
             "geo": "{{geo}}",
@@ -285,16 +296,19 @@
             "name": "{{name}}",
             "tags": [],
             "title": "Descubre {{name}}",
-            "type": "map"
+            "type": "map",
+            "uuid": "3470708e-5125-4584-afe5-162c0620a885"
           },
           {
             "list": [],
             "tags": [],
             "title": "",
-            "type": "gallery"
+            "type": "gallery",
+            "uuid": "3b3b561b-65f9-49e0-9c60-6831be073cf4"
           }
         ],
-        "title": "{{name}}"
+        "title": "{{name}}",
+        "uuid": "8a0660db-6ac9-4ff8-9bb3-5624253a98f7"
       }
     ],
     "nav": [],
@@ -315,7 +329,7 @@
     "bodyFont": "Montserrat",
     "headingFont": "Montserrat",
     "icon": "",
-    "image": "/media/media-IMG-20260801-WA0019.webp",
+    "image": "https://images.unsplash.com/photo-1569845177077-2a37322a60c7?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MXx8cm9zYXJpb3xlbnwwfHx8fDE3ODYzMTMzMDd8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format",
     "navStyle": "",
     "styles": []
   }

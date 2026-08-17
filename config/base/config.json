@@ -28,10 +28,14 @@
     "accentColor": "",
     "accentPrimary": "",
     "bodyFont": "",
+    "buttonStyle": "",
+    "footerStyle": "",
     "headingFont": "",
     "icon": "",
     "image": "",
     "navStyle": "",
+    "radius": "",
+    "shadow": "",
     "styles": []
   }
 }

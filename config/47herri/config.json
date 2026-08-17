@@ -754,10 +754,12 @@
           "title": "Meza"
         },
         "icon": "game-icons:jeweled-chalice",
+        "id": "81b14575-602f-493c-9442-ef1fd72f37cb",
         "label": "Meza",
         "name": "mass",
+        "page": false,
         "protected": "misa",
-        "uuid": "81b14575-602f-493c-9442-ef1fd72f37cb"
+        "uuid": "eaf7f753-7a4b-4f61-9179-396af1cc3913"
       },
       {
         "defaults": {
@@ -772,10 +774,12 @@
           "title": ""
         },
         "icon": "",
+        "id": "af0fa8e7-45fc-4531-ba06-46472fe2cdaf",
         "label": "Hileta",
         "name": "funeral",
+        "page": false,
         "protected": "funeral",
-        "uuid": "af0fa8e7-45fc-4531-ba06-46472fe2cdaf"
+        "uuid": "0fff1691-0d93-4c34-aa57-87679bf69e4a"
       },
       {
         "defaults": {
@@ -790,10 +794,12 @@
           "title": ""
         },
         "icon": "",
+        "id": "24c0753c-0749-46fc-817b-48b1c8315ce8",
         "label": "Confesiones",
         "name": "confessions",
+        "page": false,
         "protected": "confesiones",
-        "uuid": "24c0753c-0749-46fc-817b-48b1c8315ce8"
+        "uuid": "86e84207-f3d1-41ad-84d1-50aeab02e599"
       },
       {
         "defaults": {
@@ -808,9 +814,11 @@
           "title": "Katekesia"
         },
         "icon": "heroicons-solid:user",
+        "id": "6bdda7f3-0b8d-43a4-92c9-7e17a6bb2deb",
         "label": "Katekesia",
-        "name": "6bdda7f3-0b8d-43a4-92c9-7e17a6bb2deb",
-        "uuid": "4e9cd41d-67d8-4b27-a247-d57d39ec32ba"
+        "name": "54c2d5c9-7713-491b-aaf9-6f01a7aa1ade",
+        "page": false,
+        "uuid": "27fa2fe3-07f5-46fc-835e-127609db0f9f"
       }
     ]
   },
@@ -819,46 +827,53 @@
     "bank": [
       {
         "account": "11995",
+        "id": "285e27e0-703c-4ed0-ace6-ffd5b2aa1680",
         "title": "Bizum",
-        "uuid": "285e27e0-703c-4ed0-ace6-ffd5b2aa1680"
+        "uuid": "a65e1884-154c-4a2a-9994-1d086e60b508"
       },
       {
         "account": "ES15 2100 4941 1222 0005 0326",
+        "id": "f5758c73-2db4-4f0a-9c86-68b51a1b9777",
         "title": "Caixa",
-        "uuid": "f5758c73-2db4-4f0a-9c86-68b51a1b9777"
+        "uuid": "cbfaf7a1-840d-4eab-89da-65d4c08907d6"
       },
       {
         "account": "ES66 3035 0118 8811 8000 2943",
+        "id": "62d72dd6-affa-49a1-8e04-7d382e60dae0",
         "title": "Laboral",
-        "uuid": "62d72dd6-affa-49a1-8e04-7d382e60dae0"
+        "uuid": "ae912177-6e5e-4b45-a5fa-8fa34006072c"
       },
       {
         "account": "ES17 3008 0179 2436 5465 8818",
+        "id": "65265c27-097e-487f-9e33-40c5bd49c481",
         "title": "Rural",
-        "uuid": "65265c27-097e-487f-9e33-40c5bd49c481"
+        "uuid": "bb2a35d0-cfe1-48f5-9a76-0334d58ffd0e"
       }
     ],
     "collaborators": [
       {
-        "image": "https://data.parroquia.app/47herri/20251129_093926.jpg",
+        "id": "b4000b56-a464-4fe7-a19c-a137d28705b8",
+        "image": "https://data.parroquia.app/47herri/20251129_093926.webp",
         "name": "David Galarza",
         "phonenumber": "690 08 15 84",
         "social": [],
-        "uuid": "b4000b56-a464-4fe7-a19c-a137d28705b8"
+        "uuid": "08295d46-c2fc-433d-8f3d-f9199c2ada51"
       },
       {
+        "id": "1bfb5512-d311-4fb0-ab92-b62cda610877",
         "image": "https://data.parroquia.app/47herri/Screenshot_20250404_192119_Gallery.webp",
         "name": "Santi Garisoain",
         "phonenumber": "648 77 22 11",
         "social": [],
-        "uuid": "1bfb5512-d311-4fb0-ab92-b62cda610877"
+        "uuid": "f6a73f15-c7bd-4968-a4f5-7934fc90711f"
       },
       {
+        "id": "363dddf0-80f8-4c66-8fed-b9878d5e218c",
         "image": "https://data.parroquia.app/47herri/Screenshot_20250404_192754_Gallery.webp",
         "name": "Jesús Mª Sotil",
         "phonenumber": "638 73 95 75",
         "social": [],
-        "uuid": "363dddf0-80f8-4c66-8fed-b9878d5e218c"
+        "uuid": "41255e93-4f0a-4408-a4b0-2cc27faca022"
       }
     ],
     "description": "Nafarroako ipar-mendebaldeko hamar udalerrietako 47 parrokiek osatzen duten pastoral barruti katolikoa gara gu iruñako elizbarrutian.",
@@ -867,6 +882,7 @@
     "places": [
       {
         "geo": "43.00878, -1.93683",
+        "id": "63c0debb-3047-47bd-a2dc-bf3a5efc2207",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250329_234613_YouTube-1.webp",
@@ -876,20 +892,23 @@
         "name": "Albiasu",
         "tags": [
           {
+            "id": "afc78530-c952-4994-9f3d-24c986efb419",
             "key": "valle",
-            "uuid": "afc78530-c952-4994-9f3d-24c986efb419",
+            "uuid": "3be861bf-3bca-4f54-88e5-d4148c9822e1",
             "value": "Larraun"
           },
           {
+            "id": "f358e689-e39f-41ee-b945-0902f84c9c32",
             "key": "video",
-            "uuid": "f358e689-e39f-41ee-b945-0902f84c9c32",
+            "uuid": "629effbd-3928-4a97-a663-723bdee93f92",
             "value": "https://www.youtube.com/watch?v=1aoxA5TDyQI"
           }
         ],
-        "uuid": "63c0debb-3047-47bd-a2dc-bf3a5efc2207"
+        "uuid": "8405d9ba-e868-42e1-b97f-c34e0c7e07fb"
       },
       {
         "geo": "43.00957, -1.85974",
+        "id": "60d2f1c5-556f-471c-85b3-0a6105b85c4a",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250329_235624_YouTube.webp"
@@ -897,20 +916,23 @@
         "name": "Aldatz",
         "tags": [
           {
+            "id": "f5767033-90fe-4c36-b08d-88440884d22a",
             "key": "valle",
-            "uuid": "f5767033-90fe-4c36-b08d-88440884d22a",
+            "uuid": "e7a3bc13-9a95-465e-b2e4-d3cf318b8fd4",
             "value": "Larraun"
           },
           {
+            "id": "ee456618-a40c-4808-9d71-35f509e27d12",
             "key": "video",
-            "uuid": "ee456618-a40c-4808-9d71-35f509e27d12",
+            "uuid": "6057b191-f99c-432c-b9e9-2c2fef5b5aab",
             "value": "https://www.youtube.com/watch?v=UDePaBt8_ek"
           }
         ],
-        "uuid": "60d2f1c5-556f-471c-85b3-0a6105b85c4a"
+        "uuid": "d2aff9a5-364b-4335-b2d8-5af3c4087ba4"
       },
       {
         "geo": "42.99151, -1.89673",
+        "id": "c26b69f9-8ce8-48aa-bf44-2562d5144d8f",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_003103_YouTube.webp"
@@ -918,20 +940,23 @@
         "name": "Alli",
         "tags": [
           {
+            "id": "bd65d50e-2a05-48d4-a70f-636349a82711",
             "key": "valle",
-            "uuid": "bd65d50e-2a05-48d4-a70f-636349a82711",
+            "uuid": "636b30de-47a6-4690-881d-f28cf6b6beac",
             "value": "Larraun"
           },
           {
+            "id": "4a7fb5b0-15b7-4784-ae77-4cfcaf55eba9",
             "key": "video",
-            "uuid": "4a7fb5b0-15b7-4784-ae77-4cfcaf55eba9",
+            "uuid": "2ce57e4a-e046-42a2-856d-b6476dd4c115",
             "value": "https://www.youtube.com/watch?v=NPKCefEllNA"
           }
         ],
-        "uuid": "c26b69f9-8ce8-48aa-bf44-2562d5144d8f"
+        "uuid": "beef2751-b4c8-4c07-99d1-caa14b00d339"
       },
       {
         "geo": "43.19951, -1.89462",
+        "id": "7ca74641-5e6d-4248-a80d-3d318905c0e2",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/arano.webp"
@@ -939,20 +964,23 @@
         "name": "Arano",
         "tags": [
           {
+            "id": "da509f7d-59f4-4f29-9b91-b12e27741b37",
             "key": "valle",
-            "uuid": "da509f7d-59f4-4f29-9b91-b12e27741b37",
+            "uuid": "111aae3e-8654-41f0-a267-f646c8b29d71",
             "value": "Urumea"
           },
           {
+            "id": "433f42c2-6449-4930-bf2d-9445245e93b2",
             "key": "video",
-            "uuid": "433f42c2-6449-4930-bf2d-9445245e93b2",
+            "uuid": "096bb009-2b1d-44a6-8bff-e64b73215030",
             "value": "https://www.youtube.com/watch?v=UdCfCIHmvaU"
           }
         ],
-        "uuid": "7ca74641-5e6d-4248-a80d-3d318905c0e2"
+        "uuid": "e5d2685c-1060-4645-8863-728057c3d889"
       },
       {
         "geo": "43.08272, -1.95200",
+        "id": "6c3c53ba-58fe-4bec-9d10-bbf59db20fc5",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250620_202222_Gallery.jpg"
@@ -960,20 +988,23 @@
         "name": "Areso",
         "tags": [
           {
+            "id": "916d70fa-b8f7-4553-8a8c-fbe64350664e",
             "key": "valle",
-            "uuid": "916d70fa-b8f7-4553-8a8c-fbe64350664e",
+            "uuid": "b2c7d6b7-2d81-4bc7-80d9-7ee4bf09d593",
             "value": "Leitzaran"
           },
           {
+            "id": "72e74ed0-1b66-429a-a4ad-787580e61260",
             "key": "video",
-            "uuid": "72e74ed0-1b66-429a-a4ad-787580e61260",
+            "uuid": "39bbc58b-fb31-4a71-ae51-e397657f2704",
             "value": "https://www.youtube.com/watch?v=6RONQJ-46eE"
           }
         ],
-        "uuid": "6c3c53ba-58fe-4bec-9d10-bbf59db20fc5"
+        "uuid": "4e1a826a-e0db-4441-bfe8-4c57398f1bdf"
       },
       {
         "geo": "43.0374485, -1.8039478",
+        "id": "7348f5db-9c98-4540-a10c-b436ba8d44ab",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_003359_YouTube.webp",
@@ -982,20 +1013,23 @@
         "name": "Arrarats",
         "tags": [
           {
+            "id": "aefa9001-41dc-4d29-8475-2e67d17b7960",
             "key": "valle",
-            "uuid": "aefa9001-41dc-4d29-8475-2e67d17b7960",
+            "uuid": "1b97d5fb-e2d1-45f7-b9bf-bb4312b89bf4",
             "value": "Basaburua"
           },
           {
+            "id": "6f9c0495-f215-4d25-8676-9e1de4822941",
             "key": "video",
-            "uuid": "6f9c0495-f215-4d25-8676-9e1de4822941",
+            "uuid": "459fc04c-26ec-4c64-87a4-4d9eedbde8d8",
             "value": "https://www.youtube.com/watch?v=Rd0UfY7W8EI"
           }
         ],
-        "uuid": "7348f5db-9c98-4540-a10c-b436ba8d44ab"
+        "uuid": "6b188a39-41c2-48e7-871a-d3a082a0a349"
       },
       {
         "geo": "43.03161, -1.98289",
+        "id": "b434ccdb-f240-4990-a42a-2dc51e11c788",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_004022_YouTube.webp"
@@ -1003,20 +1037,23 @@
         "name": "Arribe",
         "tags": [
           {
+            "id": "101cebd3-b84b-487a-9945-3f8ba6bf2c40",
             "key": "valle",
-            "uuid": "101cebd3-b84b-487a-9945-3f8ba6bf2c40",
+            "uuid": "c00972db-999b-49a6-b17b-e35dcb0a14e9",
             "value": "Araitz"
           },
           {
+            "id": "1ae9b912-2e94-4b5d-adee-c0be44c46cfe",
             "key": "video",
-            "uuid": "1ae9b912-2e94-4b5d-adee-c0be44c46cfe",
+            "uuid": "04e21c4b-fe4f-40ab-baf5-c09c1ee801a9",
             "value": "https://www.youtube.com/watch?v=853drMvd_2Q"
           }
         ],
-        "uuid": "b434ccdb-f240-4990-a42a-2dc51e11c788"
+        "uuid": "f65feaf1-a82c-42db-b23c-48f0c2f738da"
       },
       {
         "geo": "42.98189, -1.85630",
+        "id": "7608abf6-9ccb-41b8-a1b9-1dc0eb78bf16",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_000339_YouTube.webp"
@@ -1024,20 +1061,23 @@
         "name": "Arruitz",
         "tags": [
           {
+            "id": "87b2b587-391c-49f0-9dc8-18b0928d303b",
             "key": "valle",
-            "uuid": "87b2b587-391c-49f0-9dc8-18b0928d303b",
+            "uuid": "e2cd24a0-09d4-4fbb-ad70-97590a9cbcbf",
             "value": "Larraun"
           },
           {
+            "id": "576179a5-3c87-4d05-ade1-657a11444025",
             "key": "video",
-            "uuid": "576179a5-3c87-4d05-ade1-657a11444025",
+            "uuid": "e4a24a6f-635c-4476-894d-67f4c20b5376",
             "value": "https://www.youtube.com/watch?v=WZ09T5UNXGU"
           }
         ],
-        "uuid": "7608abf6-9ccb-41b8-a1b9-1dc0eb78bf16"
+        "uuid": "a36b5a74-8923-43a8-a88c-3e45d7d576b1"
       },
       {
         "geo": "42.97074, -1.87838",
+        "id": "4b51ae63-b7ac-4ea3-a673-67e24efdc9d1",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_004656_YouTube.webp"
@@ -1045,20 +1085,23 @@
         "name": "Astitz",
         "tags": [
           {
+            "id": "b7accd56-816b-41ab-ad1c-8dcc660a4937",
             "key": "valle",
-            "uuid": "b7accd56-816b-41ab-ad1c-8dcc660a4937",
+            "uuid": "b4bab87d-2766-450e-905b-0ae6b17b3e94",
             "value": "Larraun"
           },
           {
+            "id": "e6215faa-effd-4f18-a906-c07ce23f6f14",
             "key": "video",
-            "uuid": "e6215faa-effd-4f18-a906-c07ce23f6f14",
+            "uuid": "90faa669-ef9b-4885-802a-5847610944cc",
             "value": "https://www.youtube.com/watch?v=FOXRrA3WGgk"
           }
         ],
-        "uuid": "4b51ae63-b7ac-4ea3-a673-67e24efdc9d1"
+        "uuid": "a8de94eb-ed17-45f0-b4e1-f47907b132b1"
       },
       {
         "geo": "43.04072, -1.98852",
+        "id": "0fac0dae-a727-4d8b-8620-e35770ff0193",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_005419_YouTube.webp"
@@ -1066,20 +1109,23 @@
         "name": "Atallu",
         "tags": [
           {
+            "id": "803b5a45-d922-43be-b260-6ace52a3fd95",
             "key": "valle",
-            "uuid": "803b5a45-d922-43be-b260-6ace52a3fd95",
+            "uuid": "5840d916-5427-4d64-b4b2-3d164017554e",
             "value": "Araitz"
           },
           {
+            "id": "ceb6a7a3-ae42-47ad-9704-2244c4354b54",
             "key": "video",
-            "uuid": "ceb6a7a3-ae42-47ad-9704-2244c4354b54",
+            "uuid": "29ee82ac-ebb8-4513-b2c2-4891ee741321",
             "value": "https://www.youtube.com/watch?v=lkT9FGSPG04"
           }
         ],
-        "uuid": "0fac0dae-a727-4d8b-8620-e35770ff0193"
+        "uuid": "97b846b5-976b-49c3-aba9-a5bc3e11b13e"
       },
       {
         "geo": "43.03463, -2.01012",
+        "id": "eb7f6e13-ccca-4ad1-9ee1-fcf1d05e6dca",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/zarate-web-1.webp"
@@ -1087,20 +1133,23 @@
         "name": "Azkarate",
         "tags": [
           {
+            "id": "2acdba37-a5ee-4a14-94b1-efe9749f1777",
             "key": "valle",
-            "uuid": "2acdba37-a5ee-4a14-94b1-efe9749f1777",
+            "uuid": "ec986d9d-32a4-404b-ae18-1d084a8ec286",
             "value": "Araitz"
           },
           {
+            "id": "3a2baec0-d0fa-4c23-858c-a0e353a9b442",
             "key": "video",
-            "uuid": "3a2baec0-d0fa-4c23-858c-a0e353a9b442",
+            "uuid": "cbd9e365-7d3e-4ff2-8205-da7b13b2d029",
             "value": "https://www.youtube.com/watch?v=bcuyvxWt-7A"
           }
         ],
-        "uuid": "eb7f6e13-ccca-4ad1-9ee1-fcf1d05e6dca"
+        "uuid": "a4e3990b-ad16-4cbc-9f6a-d8f2a23d9bfa"
       },
       {
         "geo": "43.02836, -1.93402",
+        "id": "46a0e5c6-5cf0-4e88-8d13-3e153bbfac4e",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_010046_YouTube.webp"
@@ -1108,20 +1157,23 @@
         "name": "Azpirotz",
         "tags": [
           {
+            "id": "b125c684-67bd-45bf-aef3-2fd560180e2e",
             "key": "valle",
-            "uuid": "b125c684-67bd-45bf-aef3-2fd560180e2e",
+            "uuid": "a38356e8-5472-4587-a7e5-6c7889b75c23",
             "value": "Larraun"
           },
           {
+            "id": "32552a93-92ef-4fe0-ae67-3d28d7e6acbc",
             "key": "video",
-            "uuid": "32552a93-92ef-4fe0-ae67-3d28d7e6acbc",
+            "uuid": "8c8ef392-bf5a-4370-9bad-53a24105df7f",
             "value": "https://www.youtube.com/watch?v=8QZ-kf7qDps"
           }
         ],
-        "uuid": "46a0e5c6-5cf0-4e88-8d13-3e153bbfac4e"
+        "uuid": "01707651-aec5-4ee9-8c38-3e46acccb562"
       },
       {
         "geo": "42.98953, -1.92347",
+        "id": "f802c58f-08f4-4bcf-b148-12e4a27bc0b4",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250405_181925_YouTube.webp",
@@ -1130,20 +1182,23 @@
         "name": "Baraibar",
         "tags": [
           {
+            "id": "e9c55be1-ed4f-445b-b787-0ab2ba851aec",
             "key": "valle",
-            "uuid": "e9c55be1-ed4f-445b-b787-0ab2ba851aec",
+            "uuid": "aea59958-7443-49d4-9ec7-5e93715c96ee",
             "value": "Larraun"
           },
           {
+            "id": "af7444bd-575e-4037-847f-816f0f540f70",
             "key": "video",
-            "uuid": "af7444bd-575e-4037-847f-816f0f540f70",
+            "uuid": "6fecaa8e-3dad-46f1-bc2d-49d594aadc84",
             "value": "https://www.youtube.com/watch?v=YhP9LnlKbTQ"
           }
         ],
-        "uuid": "f802c58f-08f4-4bcf-b148-12e4a27bc0b4"
+        "uuid": "66466831-a968-4afa-9cf3-2e362ee17919"
       },
       {
         "geo": "42.980389, -1.822057",
+        "id": "c1d31cd5-4afd-4e7c-a6d1-be97a6ddaebc",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/beramendi.webp"
@@ -1151,20 +1206,23 @@
         "name": "Beramendi",
         "tags": [
           {
+            "id": "af393978-ecc7-4f31-a736-16cee6b8a355",
             "key": "valle",
-            "uuid": "af393978-ecc7-4f31-a736-16cee6b8a355",
+            "uuid": "e14c1627-601d-47e9-91be-046777d7845b",
             "value": "Basaburua"
           },
           {
+            "id": "3538b7b0-e367-4f26-8ba4-61c678450600",
             "key": "video",
-            "uuid": "3538b7b0-e367-4f26-8ba4-61c678450600",
+            "uuid": "7f469a4d-1c0e-48af-adf5-1e381ee726a5",
             "value": "https://www.youtube.com/watch?v=NzMnlR-PaD8"
           }
         ],
-        "uuid": "c1d31cd5-4afd-4e7c-a6d1-be97a6ddaebc"
+        "uuid": "884649c4-f8d0-4398-81b4-054fe38e7b8d"
       },
       {
         "geo": "43.02656, -1.82590",
+        "id": "b145f105-4110-4e1f-b389-2788265a0101",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/640px-Beruete.webp",
@@ -1175,20 +1233,23 @@
         "name": "Beruete",
         "tags": [
           {
+            "id": "14748c38-cabe-4c1b-98a2-9df28b1b1d08",
             "key": "valle",
-            "uuid": "14748c38-cabe-4c1b-98a2-9df28b1b1d08",
+            "uuid": "8196534c-a6bb-422a-b97e-0ba9d29c123f",
             "value": "Basaburua"
           },
           {
+            "id": "079ca79c-ad67-4493-910a-52a953a25cf8",
             "key": "video",
-            "uuid": "079ca79c-ad67-4493-910a-52a953a25cf8",
+            "uuid": "4726da88-80f1-456e-97aa-60677c2e844b",
             "value": "https://www.youtube.com/watch?v=PmiNoRGv7hY"
           }
         ],
-        "uuid": "b145f105-4110-4e1f-b389-2788265a0101"
+        "uuid": "66aaf7df-aa2d-4c06-8cc1-1106783039c3"
       },
       {
         "geo": "43.02259, -1.97616",
+        "id": "9f66716d-9c97-4ae7-be2b-0b10a924772a",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250324_223949_YouTube-1.webp"
@@ -1196,20 +1257,23 @@
         "name": "Betelu",
         "tags": [
           {
+            "id": "37190e7d-26a9-4ad3-980f-a7c2458c9543",
             "key": "valle",
-            "uuid": "37190e7d-26a9-4ad3-980f-a7c2458c9543",
+            "uuid": "c56fd5d4-41cd-4633-a931-8277bbf85b98",
             "value": "Araitz"
           },
           {
+            "id": "72baf8af-e2d1-42f8-a239-c31e4c5c4f47",
             "key": "video",
-            "uuid": "72baf8af-e2d1-42f8-a239-c31e4c5c4f47",
+            "uuid": "db6799b5-b700-4ec7-a9b6-7a023eee4739",
             "value": "https://www.youtube.com/watch?v=46Wos9wDdpw"
           }
         ],
-        "uuid": "9f66716d-9c97-4ae7-be2b-0b10a924772a"
+        "uuid": "03262b65-614f-4b9b-ad6a-d192023e02a9"
       },
       {
         "geo": "42.9508406, -1.8054720",
+        "id": "830ded67-d26c-40a2-8ab6-72509c1f8f5a",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_010441_YouTube.webp"
@@ -1217,20 +1281,23 @@
         "name": "Eraso",
         "tags": [
           {
+            "id": "d69ccfac-1c67-425f-8b90-cbf5b503e318",
             "key": "valle",
-            "uuid": "d69ccfac-1c67-425f-8b90-cbf5b503e318",
+            "uuid": "1a0fecd4-bf4b-451e-8683-04f8d3767ee3",
             "value": "Imotz"
           },
           {
+            "id": "3c2fc5a4-14e2-4188-b436-0adbb89249a2",
             "key": "video",
-            "uuid": "3c2fc5a4-14e2-4188-b436-0adbb89249a2",
+            "uuid": "4da28868-6855-422c-b14e-0757e4bbba33",
             "value": "https://www.youtube.com/watch?v=euzAq4NKPJ0"
           }
         ],
-        "uuid": "830ded67-d26c-40a2-8ab6-72509c1f8f5a"
+        "uuid": "d4c70a31-db24-4c77-ad50-3a18a0256237"
       },
       {
         "geo": "42.9989472, -1.7669464",
+        "id": "70aec0be-ce67-43dc-8329-117e47fe5188",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_091555_YouTube.webp"
@@ -1238,20 +1305,23 @@
         "name": "Erbiti",
         "tags": [
           {
+            "id": "d439a5c9-e877-41b7-9f61-ebf3a58547c9",
             "key": "valle",
-            "uuid": "d439a5c9-e877-41b7-9f61-ebf3a58547c9",
+            "uuid": "4c4c7b1a-2e54-40f3-ad2c-0ea1435179a4",
             "value": "Basaburua"
           },
           {
+            "id": "04c2fde9-c950-457f-8496-29e3fd47a6f2",
             "key": "video",
-            "uuid": "04c2fde9-c950-457f-8496-29e3fd47a6f2",
+            "uuid": "07aa0559-c5f2-4ce6-bc50-79b2790a94a6",
             "value": "https://www.youtube.com/watch?v=jdU6p_7YVU4"
           }
         ],
-        "uuid": "70aec0be-ce67-43dc-8329-117e47fe5188"
+        "uuid": "8eee8964-453a-4b82-8e70-5ea486b20733"
       },
       {
         "geo": "43.00658, -1.96063",
+        "id": "d39774df-8359-4289-8525-002b1f40d58c",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_092007_YouTube.webp",
@@ -1260,20 +1330,23 @@
         "name": "Errazkin",
         "tags": [
           {
+            "id": "33b13658-c360-4648-93df-72de737a4277",
             "key": "valle",
-            "uuid": "33b13658-c360-4648-93df-72de737a4277",
+            "uuid": "6b4c0463-1e83-446e-9139-8309f532256b",
             "value": "Larraun"
           },
           {
+            "id": "54d0616c-e1c4-4a5c-9165-7801e1686ad1",
             "key": "video",
-            "uuid": "54d0616c-e1c4-4a5c-9165-7801e1686ad1",
+            "uuid": "e673d9ba-a8dd-455b-a780-6f64c750bfd1",
             "value": "https://www.youtube.com/watch?v=fBoeJCgbx9s"
           }
         ],
-        "uuid": "d39774df-8359-4289-8525-002b1f40d58c"
+        "uuid": "fbd12fd1-9f8d-41dd-9615-2684104e8a60"
       },
       {
         "geo": "42.96943, -1.79024",
+        "id": "9023a5b9-ba11-410d-abac-df5b5838d06f",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250323_235734_Gallery.webp"
@@ -1281,20 +1354,23 @@
         "name": "Etxaleku",
         "tags": [
           {
+            "id": "10317050-ee04-442b-b8f0-5b518966f18a",
             "key": "valle",
-            "uuid": "10317050-ee04-442b-b8f0-5b518966f18a",
+            "uuid": "9a341987-ab9b-40c8-ae28-729d598f5eb3",
             "value": "Imotz"
           },
           {
+            "id": "6d4029bc-e416-475f-b692-8d93f223c68a",
             "key": "video",
-            "uuid": "6d4029bc-e416-475f-b692-8d93f223c68a",
+            "uuid": "1e5a3365-c813-4ce5-ac6e-c6b057916aa7",
             "value": "https://www.youtube.com/watch?v=nBXyg1L7vTk"
           }
         ],
-        "uuid": "9023a5b9-ba11-410d-abac-df5b5838d06f"
+        "uuid": "d011fbf8-fa75-4152-ad9b-eb39c879efda"
       },
       {
         "geo": "43.00218, -1.87298",
+        "id": "15e40ab3-5f80-4f9a-bda0-167ab8beb5e0",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_185413_Samsung Internet.webp",
@@ -1306,20 +1382,23 @@
         "name": "Etxarri",
         "tags": [
           {
+            "id": "fb999bed-887f-4fe8-a603-b74d071962fe",
             "key": "valle",
-            "uuid": "fb999bed-887f-4fe8-a603-b74d071962fe",
+            "uuid": "301f8521-603a-4a39-96a2-06393370b209",
             "value": "Larraun"
           },
           {
+            "id": "8c68a9f7-1af6-47d8-9291-e59e25fce39f",
             "key": "video",
-            "uuid": "8c68a9f7-1af6-47d8-9291-e59e25fce39f",
+            "uuid": "d54d29f0-c82c-482c-8b1f-3bfb72e0e208",
             "value": "https://www.youtube.com/watch?v=mhyvWRma7_M"
           }
         ],
-        "uuid": "15e40ab3-5f80-4f9a-bda0-167ab8beb5e0"
+        "uuid": "4f2ea9f7-42ec-4bae-921e-ab46a5086d9f"
       },
       {
         "geo": "43.0208511, -2.0096471",
+        "id": "7c638320-2ca3-4ae7-b9a4-faf0ceda4bb1",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_185501_YouTube.webp"
@@ -1327,20 +1406,23 @@
         "name": "Gaintza",
         "tags": [
           {
+            "id": "b77ad224-7658-4810-801b-25784c9f0a3c",
             "key": "valle",
-            "uuid": "b77ad224-7658-4810-801b-25784c9f0a3c",
+            "uuid": "829c4ac9-0b9a-4c3b-a7e4-dcece3b84cc4",
             "value": "Araitz"
           },
           {
+            "id": "77206b0b-45b7-489d-b824-18f38b666bf6",
             "key": "video",
-            "uuid": "77206b0b-45b7-489d-b824-18f38b666bf6",
+            "uuid": "e33fe2ba-6738-4cfb-b29a-40cab02b8f7f",
             "value": "https://www.youtube.com/watch?v=G7g958WP8FU"
           }
         ],
-        "uuid": "7c638320-2ca3-4ae7-b9a4-faf0ceda4bb1"
+        "uuid": "4b2c1e26-d10e-4940-a8df-6ac7f0b38847"
       },
       {
         "geo": "42.99744, -1.77401",
+        "id": "56f5a953-19ad-4f4b-8274-7e8ef7f48420",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_185731_YouTube.webp"
@@ -1348,20 +1430,23 @@
         "name": "Gartzaron",
         "tags": [
           {
+            "id": "1a427575-a515-4088-ab2e-7c493a4e3297",
             "key": "valle",
-            "uuid": "1a427575-a515-4088-ab2e-7c493a4e3297",
+            "uuid": "ca8564b7-ca4f-47c8-923c-13f353e1e4c7",
             "value": "Basaburua"
           },
           {
+            "id": "1156fb04-09b1-4c91-b13d-bc207bb5657a",
             "key": "video",
-            "uuid": "1156fb04-09b1-4c91-b13d-bc207bb5657a",
+            "uuid": "d3d42306-6b6d-464c-8f71-8a6b06103e2e",
             "value": "https://www.youtube.com/watch?v=qDP56p2ZNnU"
           }
         ],
-        "uuid": "56f5a953-19ad-4f4b-8274-7e8ef7f48420"
+        "uuid": "12d80446-d251-4786-86fd-3b9680d47a5a"
       },
       {
         "geo": "43.21377, -1.79586",
+        "id": "c7767cb6-8dc4-487c-b0df-781653b1b165",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/9c8ff55b1b3475c8cf767313ce6d7966.webp",
@@ -1370,20 +1455,23 @@
         "name": "Goizueta",
         "tags": [
           {
+            "id": "af2595bf-643c-418f-91fa-220211fcd7d2",
             "key": "valle",
-            "uuid": "af2595bf-643c-418f-91fa-220211fcd7d2",
+            "uuid": "63efdb86-f9a8-4a86-ac24-04bb4d4c41c7",
             "value": "Urumea"
           },
           {
+            "id": "71f46f89-2140-458e-902e-8e867a7049b7",
             "key": "video",
-            "uuid": "71f46f89-2140-458e-902e-8e867a7049b7",
+            "uuid": "e9996fff-c326-46db-a581-5d6c9c2a62cc",
             "value": "https://www.youtube.com/watch?v=7O7YqRdmgL8"
           }
         ],
-        "uuid": "c7767cb6-8dc4-487c-b0df-781653b1b165"
+        "uuid": "fdad36b2-2776-4f82-9c34-9e2cf8cead02"
       },
       {
         "geo": "42.9496774, -1.8359050",
+        "id": "c0916a5d-c8af-425d-8400-6a81dcc88cbb",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_185836_YouTube.webp",
@@ -1395,20 +1483,23 @@
         "name": "Goldaratz",
         "tags": [
           {
+            "id": "6fcfa0b8-e319-462d-a7c1-da9923740734",
             "key": "valle",
-            "uuid": "6fcfa0b8-e319-462d-a7c1-da9923740734",
+            "uuid": "e19de0e0-d25d-41e0-92ce-e5f8f0f5685f",
             "value": "Imotz"
           },
           {
+            "id": "4cf4d237-8f64-4e9d-8fb5-bc01614b81ff",
             "key": "video",
-            "uuid": "4cf4d237-8f64-4e9d-8fb5-bc01614b81ff",
+            "uuid": "2f82059e-b0a6-4b64-a62f-b5b3b8e93321",
             "value": "https://www.youtube.com/watch?v=GSw3U5DNbvU"
           }
         ],
-        "uuid": "c0916a5d-c8af-425d-8400-6a81dcc88cbb"
+        "uuid": "0bf1740a-da5a-46af-a844-5ed175965144"
       },
       {
         "geo": "43.05145, -1.95463",
+        "id": "66cba085-9a6a-4cd9-af42-deaa75045f63",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Iglesia de Gorriti copiar.webp"
@@ -1416,20 +1507,23 @@
         "name": "Gorriti",
         "tags": [
           {
+            "id": "90a97adb-aa9e-435e-a672-6147876639c9",
             "key": "valle",
-            "uuid": "90a97adb-aa9e-435e-a672-6147876639c9",
+            "uuid": "e85ca2f8-ca18-4915-bc5f-2472843a99b0",
             "value": "Larraun"
           },
           {
+            "id": "29709fd4-812b-4cb6-8e4d-e848bf837815",
             "key": "video",
-            "uuid": "29709fd4-812b-4cb6-8e4d-e848bf837815",
+            "uuid": "63b1a597-78d3-4435-8315-9674c01b6603",
             "value": "https://www.youtube.com/watch?v=0YTZiyiZ1BM"
           }
         ],
-        "uuid": "66cba085-9a6a-4cd9-af42-deaa75045f63"
+        "uuid": "f4234aab-468b-4d41-b81f-43c70a09e744"
       },
       {
         "geo": "43.0312209, -1.7858537",
+        "id": "098527eb-e9c8-468e-8719-6a65fabd831c",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_190717_YouTube.webp",
@@ -1439,20 +1533,23 @@
         "name": "Igoa eta Aizarotz",
         "tags": [
           {
+            "id": "afd22373-9b5c-40d3-a475-e1a7eca1b242",
             "key": "valle",
-            "uuid": "afd22373-9b5c-40d3-a475-e1a7eca1b242",
+            "uuid": "99e0a645-23a3-414c-8d02-b05587ab2701",
             "value": "Basaburua"
           },
           {
+            "id": "93eb738c-912f-4bec-873c-0a023f568989",
             "key": "video",
-            "uuid": "93eb738c-912f-4bec-873c-0a023f568989",
+            "uuid": "38a33ed9-4ca8-49b9-9cac-2637adf711d4",
             "value": "https://www.youtube.com/watch?v=A5xFxCW8NEs"
           }
         ],
-        "uuid": "098527eb-e9c8-468e-8719-6a65fabd831c"
+        "uuid": "dfe26579-bfb3-428d-a3f9-dafba42a3bd5"
       },
       {
         "geo": "42.9871091, -1.8071447",
+        "id": "a36b2c1d-2ac6-4da2-ae8d-e946f9582dfa",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_190821_YouTube.webp"
@@ -1460,20 +1557,23 @@
         "name": "Ihaben",
         "tags": [
           {
+            "id": "e166be69-6667-4cac-9e57-5f6f5177032d",
             "key": "valle",
-            "uuid": "e166be69-6667-4cac-9e57-5f6f5177032d",
+            "uuid": "922e9507-ad89-43fe-96e1-cb72a03cbf93",
             "value": "Basaburua"
           },
           {
+            "id": "455b9ca1-e2fa-459c-b97a-d22d4521cff5",
             "key": "video",
-            "uuid": "455b9ca1-e2fa-459c-b97a-d22d4521cff5",
+            "uuid": "68264029-e55f-4410-a6ac-812c2061f75e",
             "value": "https://www.youtube.com/watch?v=ffUAe8dUe-U"
           }
         ],
-        "uuid": "a36b2c1d-2ac6-4da2-ae8d-e946f9582dfa"
+        "uuid": "4238cd8c-a1de-478f-8c39-35592855e70b"
       },
       {
         "geo": "43.01714, -1.99244",
+        "id": "e4b7d839-e15d-486d-b1c0-c6ddeb8f2925",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_190929_YouTube.webp"
@@ -1481,20 +1581,23 @@
         "name": "Intza",
         "tags": [
           {
+            "id": "c826f95c-d28a-4f3e-addb-6f15b3624969",
             "key": "valle",
-            "uuid": "c826f95c-d28a-4f3e-addb-6f15b3624969",
+            "uuid": "21a3142d-693e-41da-acb2-cd81cde1fa40",
             "value": "Araitz"
           },
           {
+            "id": "ae4f557e-1245-4eb8-afad-d6b44db5158c",
             "key": "video",
-            "uuid": "ae4f557e-1245-4eb8-afad-d6b44db5158c",
+            "uuid": "f7336360-a335-46f1-9d17-2bafc049f7fa",
             "value": "https://www.youtube.com/watch?v=ed4vjo-bQVw"
           }
         ],
-        "uuid": "e4b7d839-e15d-486d-b1c0-c6ddeb8f2925"
+        "uuid": "35985dd4-dd89-48db-8c8a-4f9be82693fd"
       },
       {
         "geo": "42.98863, -1.90418",
+        "id": "2a93939d-8435-42d5-bfc7-841ffed671a8",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250405_182010_YouTube.webp",
@@ -1503,20 +1606,23 @@
         "name": "Iribas",
         "tags": [
           {
+            "id": "b4a93cb3-8fd2-414e-b2b4-6780c66f3fc6",
             "key": "valle",
-            "uuid": "b4a93cb3-8fd2-414e-b2b4-6780c66f3fc6",
+            "uuid": "1a7eb313-1a6e-452e-812a-199c24aeaa42",
             "value": "Larraun"
           },
           {
+            "id": "49f53f58-6db7-40c4-a3e2-10b987830d9b",
             "key": "video",
-            "uuid": "49f53f58-6db7-40c4-a3e2-10b987830d9b",
+            "uuid": "e899fa5f-deba-47d8-8e11-ccebff62e9fc",
             "value": "https://www.youtube.com/watch?v=ihDsCf3reeY"
           }
         ],
-        "uuid": "2a93939d-8435-42d5-bfc7-841ffed671a8"
+        "uuid": "c6d2f905-0ca7-4c78-a9d8-21d72d1736e7"
       },
       {
         "geo": "42.99201, -1.83304",
+        "id": "7cf60c35-775a-423e-950d-41f2a9a40e8f",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_191241_YouTube.webp"
@@ -1524,20 +1630,23 @@
         "name": "Itsaso",
         "tags": [
           {
+            "id": "2f412291-1888-4eaf-963a-d2e51788b31c",
             "key": "valle",
-            "uuid": "2f412291-1888-4eaf-963a-d2e51788b31c",
+            "uuid": "8d8fcfc4-3e31-4566-9946-1635e7bd38e7",
             "value": "Basaburua"
           },
           {
+            "id": "6322a414-4127-45da-8267-b88e46f22761",
             "key": "video",
-            "uuid": "6322a414-4127-45da-8267-b88e46f22761",
+            "uuid": "83e460ca-e413-484e-9093-203977105a0b",
             "value": "https://www.youtube.com/watch?v=a90tyFzk-qk"
           }
         ],
-        "uuid": "7cf60c35-775a-423e-950d-41f2a9a40e8f"
+        "uuid": "9bd0e335-cd1d-4bd4-b66f-70d8306c6446"
       },
       {
         "geo": "43.00132, -1.80225",
+        "id": "ed11e015-b7f8-4348-a650-9efda9f4afb9",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_193829_YouTube.webp",
@@ -1548,20 +1657,23 @@
         "name": "Jauntsarats",
         "tags": [
           {
+            "id": "474875ed-0b6c-4f28-a9f5-3f4c36a19376",
             "key": "valle",
-            "uuid": "474875ed-0b6c-4f28-a9f5-3f4c36a19376",
+            "uuid": "275d21d6-7a2f-491d-8be5-8aa85639b979",
             "value": "Basaburua"
           },
           {
+            "id": "8fdfdf91-b368-41dc-a4da-6f65cb967176",
             "key": "video",
-            "uuid": "8fdfdf91-b368-41dc-a4da-6f65cb967176",
+            "uuid": "159eebfd-18a7-476c-9669-a070dfb680c9",
             "value": "https://www.youtube.com/watch?v=imRARVKWyTM"
           }
         ],
-        "uuid": "ed11e015-b7f8-4348-a650-9efda9f4afb9"
+        "uuid": "1ba575e7-e574-43d8-b584-96bf6dceaeed"
       },
       {
         "geo": "42.9544555, -1.8221520",
+        "id": "d76008a0-ea2b-4065-95d9-8bb7978414b3",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_193953_YouTube.webp"
@@ -1569,20 +1681,23 @@
         "name": "Latasa",
         "tags": [
           {
+            "id": "1fb3db06-f587-4efb-ba90-f3374823f583",
             "key": "valle",
-            "uuid": "1fb3db06-f587-4efb-ba90-f3374823f583",
+            "uuid": "ce09fa6d-018b-4b0c-98f7-02f423cea903",
             "value": "Imotz"
           },
           {
+            "id": "addf6534-8a4f-421e-8fdc-0c76d285bdde",
             "key": "video",
-            "uuid": "addf6534-8a4f-421e-8fdc-0c76d285bdde",
+            "uuid": "1e36df00-ba57-4ecd-ba7b-d014f510b129",
             "value": "https://www.youtube.com/watch?v=yiGnnMWP1f0"
           }
         ],
-        "uuid": "d76008a0-ea2b-4065-95d9-8bb7978414b3"
+        "uuid": "d97b0659-6d0b-4c12-bb4c-7210ff0309a3"
       },
       {
         "geo": "43.07797, -1.91260",
+        "id": "6914c0d4-1751-4afc-beb1-530b85b4d03b",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/f1.webp",
@@ -1591,20 +1706,23 @@
         "name": "Leitza",
         "tags": [
           {
+            "id": "7130e4bb-d34e-4c6a-a86b-4f93ea3f9a09",
             "key": "valle",
-            "uuid": "7130e4bb-d34e-4c6a-a86b-4f93ea3f9a09",
+            "uuid": "fc7b3eb9-4f15-4018-bf1c-add0574a331f",
             "value": "Leitzaran"
           },
           {
+            "id": "aaf1bbe9-6cc6-41a6-b7f0-009a05079eb3",
             "key": "video",
-            "uuid": "aaf1bbe9-6cc6-41a6-b7f0-009a05079eb3",
+            "uuid": "d3deef8c-39a7-40b1-8916-ad5f39b50545",
             "value": "https://www.youtube.com/watch?v=HdPgPOzptII"
           }
         ],
-        "uuid": "6914c0d4-1751-4afc-beb1-530b85b4d03b"
+        "uuid": "d2d7f87c-e872-4a2f-9cd6-607288862048"
       },
       {
         "geo": "43.00596, -1.89541",
+        "id": "befe17d4-2024-4618-8ff6-180cb5bdfe6b",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/f0.webp",
@@ -1614,20 +1732,23 @@
         "name": "Lekunberri",
         "tags": [
           {
+            "id": "9d55ec58-0445-4df9-a77b-14eef5bde730",
             "key": "valle",
-            "uuid": "9d55ec58-0445-4df9-a77b-14eef5bde730",
+            "uuid": "8ffec144-121d-40f9-9f59-881f64b57efa",
             "value": "Larraun"
           },
           {
+            "id": "ef179f43-690c-4f41-9862-a69f75d588a2",
             "key": "video",
-            "uuid": "ef179f43-690c-4f41-9862-a69f75d588a2",
+            "uuid": "bbda4db3-ea4e-4027-b0a2-88c912926189",
             "value": "https://www.youtube.com/watch?v=2tkabr7el28"
           }
         ],
-        "uuid": "befe17d4-2024-4618-8ff6-180cb5bdfe6b"
+        "uuid": "f4a454a8-7b1d-467a-b3ab-6d0c4666dfae"
       },
       {
         "geo": "",
+        "id": "d594b052-45f9-4f6a-8d97-4b4de346a62b",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_194842_YouTube.webp"
@@ -1635,20 +1756,23 @@
         "name": "Lezaeta",
         "tags": [
           {
+            "id": "5651ca60-550e-4bbc-8366-573a223e838b",
             "key": "valle",
-            "uuid": "5651ca60-550e-4bbc-8366-573a223e838b",
+            "uuid": "6e22c2d3-c90e-4025-a096-37bfc9a6be20",
             "value": "Larraun"
           },
           {
+            "id": "841f7ed0-f0c5-4aa6-b97d-1b00d9163d30",
             "key": "video",
-            "uuid": "841f7ed0-f0c5-4aa6-b97d-1b00d9163d30",
+            "uuid": "4afc1ab2-3be2-4c7d-8461-b9d7c11b25ff",
             "value": "https://www.youtube.com/watch?v=RMKBH042zgA"
           }
         ],
-        "uuid": "d594b052-45f9-4f6a-8d97-4b4de346a62b"
+        "uuid": "d900a4ba-d154-4f73-801f-0b0c72549061"
       },
       {
         "geo": "42.9378197, -1.8761211",
+        "id": "449aeac8-d9a9-429b-b24f-406739aecb0b",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_195047_YouTube.webp",
@@ -1662,20 +1786,23 @@
         "name": "Madotz",
         "tags": [
           {
+            "id": "ff401a60-45f0-4a1a-a1ba-690833b263ac",
             "key": "valle",
-            "uuid": "ff401a60-45f0-4a1a-a1ba-690833b263ac",
+            "uuid": "f47bb0b7-0b22-41bd-8224-69faa0f35ddd",
             "value": "Larraun"
           },
           {
+            "id": "26622518-082d-4bd9-92f6-545d7e7f8823",
             "key": "video",
-            "uuid": "26622518-082d-4bd9-92f6-545d7e7f8823",
+            "uuid": "94361b9f-eb77-415c-93e0-b216869018f7",
             "value": "https://www.youtube.com/watch?v=S_glc18h9uE"
           }
         ],
-        "uuid": "449aeac8-d9a9-429b-b24f-406739aecb0b"
+        "uuid": "d6d5dd95-6380-42f1-a8ea-9e9a6f9acbad"
       },
       {
         "geo": "42.99143, -1.88167",
+        "id": "a523af19-3539-48b1-9d3b-663dc5a0e128",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250405_182111_YouTube.webp"
@@ -1683,20 +1810,23 @@
         "name": "Mugiro",
         "tags": [
           {
+            "id": "2ff4aa12-ac29-4335-8887-0260d5587388",
             "key": "valle",
-            "uuid": "2ff4aa12-ac29-4335-8887-0260d5587388",
+            "uuid": "6792b075-391b-40ac-aae5-6ff41393af57",
             "value": "Larraun"
           },
           {
+            "id": "201e7b91-c60e-42af-94a3-5f3cdc248af4",
             "key": "video",
-            "uuid": "201e7b91-c60e-42af-94a3-5f3cdc248af4",
+            "uuid": "883c8aec-6f84-4465-a819-989021fc2904",
             "value": "https://www.youtube.com/watch?v=DHwAmkBhea0"
           }
         ],
-        "uuid": "a523af19-3539-48b1-9d3b-663dc5a0e128"
+        "uuid": "2fe20e11-1d48-42a3-9779-fa39e74bf671"
       },
       {
         "geo": "42.9359167, -1.7493240",
+        "id": "bd1a0f8a-56eb-46a8-a6b0-6d73a4277170",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_195129_YouTube.webp",
@@ -1707,20 +1837,23 @@
         "name": "Muskitz",
         "tags": [
           {
+            "id": "233409b6-86d2-4127-8dc1-7888265846a7",
             "key": "valle",
-            "uuid": "233409b6-86d2-4127-8dc1-7888265846a7",
+            "uuid": "55b77c02-9d02-4a09-b7dd-cde5d5df2b33",
             "value": "Imotz"
           },
           {
+            "id": "8a3026c0-9afa-487a-867d-00c277eae1a0",
             "key": "video",
-            "uuid": "8a3026c0-9afa-487a-867d-00c277eae1a0",
+            "uuid": "5dd63038-1859-4c72-9761-6748f172e77d",
             "value": "https://www.youtube.com/watch?v=uLeTqOArA-g"
           }
         ],
-        "uuid": "bd1a0f8a-56eb-46a8-a6b0-6d73a4277170"
+        "uuid": "dbfbd9bd-a736-495c-8017-1bbf88322ecb"
       },
       {
         "geo": "42.9513991, -1.8715113",
+        "id": "5c63ce74-bc0b-4280-a58b-20dde3f51790",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_201915_YouTube.webp"
@@ -1728,20 +1861,23 @@
         "name": "Oderitz",
         "tags": [
           {
+            "id": "8763e321-1ba4-4f05-b9cb-85ef1ab1e9d0",
             "key": "valle",
-            "uuid": "8763e321-1ba4-4f05-b9cb-85ef1ab1e9d0",
+            "uuid": "65c43fa4-b60c-46e8-b42e-e8e0295f0df2",
             "value": "Larraun"
           },
           {
+            "id": "108e22fd-880a-4434-8826-2cc50eb5deaa",
             "key": "video",
-            "uuid": "108e22fd-880a-4434-8826-2cc50eb5deaa",
+            "uuid": "a288cc02-59a3-47ca-bf5d-79300f756bf5",
             "value": "https://www.youtube.com/watch?v=JBJbOYAKZik"
           }
         ],
-        "uuid": "5c63ce74-bc0b-4280-a58b-20dde3f51790"
+        "uuid": "f249b9de-d5b2-461d-92aa-6f0e10a8460c"
       },
       {
         "geo": "43.01357, -1.75797",
+        "id": "12eb0302-50fc-430a-b925-9be51cfde233",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_202037_YouTube.webp"
@@ -1749,20 +1885,23 @@
         "name": "Orokieta",
         "tags": [
           {
+            "id": "e4de93a8-7c98-4e7c-9eb2-7952b7798f8a",
             "key": "valle",
-            "uuid": "e4de93a8-7c98-4e7c-9eb2-7952b7798f8a",
+            "uuid": "8a80bd4c-a86b-4518-8aae-568c93e1b262",
             "value": "Basaburua "
           },
           {
+            "id": "df3c79a2-fb28-47b9-a759-57a95f72b47a",
             "key": "video",
-            "uuid": "df3c79a2-fb28-47b9-a759-57a95f72b47a",
+            "uuid": "724aa8d8-c7b5-4577-b4a7-a28874a520c2",
             "value": "https://www.youtube.com/watch?v=e88I50mz3Cc"
           }
         ],
-        "uuid": "12eb0302-50fc-430a-b925-9be51cfde233"
+        "uuid": "cd7fe7a9-1344-41a8-a025-77c35c194ec5"
       },
       {
         "geo": "42.95939, -1.78165",
+        "id": "8673e580-852a-432f-b55d-e5f71ba04b55",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/375115502.webp",
@@ -1775,20 +1914,23 @@
         "name": "Oskotz",
         "tags": [
           {
+            "id": "63cef1e0-c290-40c7-b9cb-965b8b2fafa1",
             "key": "valle",
-            "uuid": "63cef1e0-c290-40c7-b9cb-965b8b2fafa1",
+            "uuid": "fcfe54cd-d940-4281-9c02-d92575cb5e9b",
             "value": "Imotz"
           },
           {
+            "id": "74c9e4da-5b30-4109-a950-9e3be210bcb3",
             "key": "video",
-            "uuid": "74c9e4da-5b30-4109-a950-9e3be210bcb3",
+            "uuid": "925e6ec3-151f-4f55-8f01-c79be8330a4f",
             "value": "https://www.youtube.com/watch?v=ZQDbuAbIsRw"
           }
         ],
-        "uuid": "8673e580-852a-432f-b55d-e5f71ba04b55"
+        "uuid": "de5ad6de-8331-4fe0-b6d3-4defd6d99f27"
       },
       {
         "geo": "42.97462, -1.82702",
+        "id": "915b2757-fa0b-49b0-974f-4123ba38af0f",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_202150_YouTube.webp"
@@ -1796,20 +1938,23 @@
         "name": "Udabe",
         "tags": [
           {
+            "id": "3e7c43b7-c605-48c8-acff-00159bad8e60",
             "key": "valle",
-            "uuid": "3e7c43b7-c605-48c8-acff-00159bad8e60",
+            "uuid": "5c0a7a37-7608-4c38-baac-d931c67f337b",
             "value": "Basaburua"
           },
           {
+            "id": "be09284d-9ff8-4bef-8d60-6a0ffa8b0d35",
             "key": "video",
-            "uuid": "be09284d-9ff8-4bef-8d60-6a0ffa8b0d35",
+            "uuid": "19b255ab-ec9d-47bd-8f81-53f0a7d7f68f",
             "value": "https://www.youtube.com/watch?v=bK5FMCXBrc4"
           }
         ],
-        "uuid": "915b2757-fa0b-49b0-974f-4123ba38af0f"
+        "uuid": "b293e650-a217-43dc-b725-2c5ff24d21b2"
       },
       {
         "geo": "43.04080, -1.92649",
+        "id": "271975b9-f58b-4537-905b-881e736a643a",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_091051_YouTube.webp"
@@ -1817,20 +1962,23 @@
         "name": "Uitzi",
         "tags": [
           {
+            "id": "8cc94ba1-890c-4205-8652-6a1d77aa8d4d",
             "key": "valle",
-            "uuid": "8cc94ba1-890c-4205-8652-6a1d77aa8d4d",
+            "uuid": "2092d79a-eb61-45a4-8e32-e6b4d2231019",
             "value": "Larraun"
           },
           {
+            "id": "ede94ed1-28e3-4dd2-af65-e56fe033b10c",
             "key": "video",
-            "uuid": "ede94ed1-28e3-4dd2-af65-e56fe033b10c",
+            "uuid": "a8946175-e0d1-4813-adc9-f2672ca6e5f5",
             "value": "https://www.youtube.com/watch?v=XRSbr_nzqb4"
           }
         ],
-        "uuid": "271975b9-f58b-4537-905b-881e736a643a"
+        "uuid": "0d6340cf-1811-47f9-b8f9-8c78dca7091c"
       },
       {
         "geo": "",
+        "id": "8777add9-a846-4f82-a822-6461648d9ad9",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_205912_YouTube-1.webp"
@@ -1838,20 +1986,23 @@
         "name": "Urritza",
         "tags": [
           {
+            "id": "36933ce8-f222-4978-a2af-db45089ef4aa",
             "key": "valle",
-            "uuid": "36933ce8-f222-4978-a2af-db45089ef4aa",
+            "uuid": "b4e2c993-dca5-4e1b-a5ee-9d3cd463c6ce",
             "value": "Imotz"
           },
           {
+            "id": "cd389513-e262-4379-99dc-3569ca821841",
             "key": "video",
-            "uuid": "cd389513-e262-4379-99dc-3569ca821841",
+            "uuid": "ae6adca9-4914-4bae-980e-35ce2073f2f5",
             "value": "https://www.youtube.com/watch?v=5XjcDZMuxV0"
           }
         ],
-        "uuid": "8777add9-a846-4f82-a822-6461648d9ad9"
+        "uuid": "faf2b0e6-d266-4f84-ad37-61c154dfbc91"
       },
       {
         "geo": "",
+        "id": "7fb677b5-da32-4d1f-8784-99de26a01ff7",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/Screenshot_20250330_202431_YouTube.webp"
@@ -1859,20 +2010,23 @@
         "name": "Uztegi",
         "tags": [
           {
+            "id": "3810d20a-7ebd-4d92-ba4a-29100af5e48e",
             "key": "valle",
-            "uuid": "3810d20a-7ebd-4d92-ba4a-29100af5e48e",
+            "uuid": "579e25fe-ae0e-42a5-9672-df5f430323b7",
             "value": "Araitz"
           },
           {
+            "id": "fa144c6b-408f-4dca-a0dc-bbb0194b05b1",
             "key": "video",
-            "uuid": "fa144c6b-408f-4dca-a0dc-bbb0194b05b1",
+            "uuid": "07f74f2a-fb9b-46fc-9ace-33eb6c10c969",
             "value": "https://www.youtube.com/watch?v=dFtsDjJI1BY"
           }
         ],
-        "uuid": "7fb677b5-da32-4d1f-8784-99de26a01ff7"
+        "uuid": "178d9538-7bce-448b-8562-0f093e9115f3"
       },
       {
         "geo": "",
+        "id": "47c51b04-9222-4e10-9434-c230a3f66146",
         "image": [],
         "images": [
           "https://data.parroquia.app/47herri/20250425_105840.webp",
@@ -1882,17 +2036,19 @@
         "name": "Zarrantz",
         "tags": [
           {
+            "id": "4b177f58-a19b-4b05-879f-dd297f11ee9b",
             "key": "valle",
-            "uuid": "4b177f58-a19b-4b05-879f-dd297f11ee9b",
+            "uuid": "cdcfb0bd-c7e8-4cf2-99c4-8cc4cf454f15",
             "value": "Imotz"
           },
           {
+            "id": "683e7121-9925-4941-9d6c-b375835e3c7e",
             "key": "video",
-            "uuid": "683e7121-9925-4941-9d6c-b375835e3c7e",
+            "uuid": "7fc6e08d-4bad-4df6-a9cb-5fbe87183b1e",
             "value": "https://www.youtube.com/watch?v=LWY0WzsAp74"
           }
         ],
-        "uuid": "47c51b04-9222-4e10-9434-c230a3f66146"
+        "uuid": "f54dae1e-6a20-4ad0-9384-5d2dbf4a66e3"
       }
     ],
     "social": [
@@ -1919,12 +2075,14 @@
       {
         "description": "",
         "hideHero": false,
+        "id": "409863e7-83b9-4a59-babe-5db5364d64e8",
         "image": "https://data.parroquia.app/47herri/hero-bg.webp",
-        "name": "409863e7-83b9-4a59-babe-5db5364d64e8",
+        "name": "bbdf16fb-8d99-428c-be3c-34eb682eb2ef",
         "sections": [
           {
             "_block": "calendar",
             "filter": "byday:empty",
+            "id": "59f9febe-c401-4ce0-8f36-8be931665c9d",
             "order": [
               "title",
               "dates",
@@ -1934,11 +2092,12 @@
             ],
             "tags": [],
             "title": "Próximas celebraciones",
-            "uuid": "59f9febe-c401-4ce0-8f36-8be931665c9d"
+            "uuid": "e4282f6e-e8ac-4f1a-9419-dda0347a1a5b"
           },
           {
             "_block": "calendar",
             "filter": "mass",
+            "id": "f7a10b3a-ff20-4b5f-a4e2-d8a0b880a7e9",
             "order": [
               "weekday",
               "times",
@@ -1948,11 +2107,12 @@
             ],
             "tags": [],
             "title": "Horario de Misas",
-            "uuid": "f7a10b3a-ff20-4b5f-a4e2-d8a0b880a7e9"
+            "uuid": "eebb7b6c-1ddf-48b3-90de-7b0ac37aed56"
           },
           {
             "_block": "calendar",
             "filter": "!byday:empty&!mass",
+            "id": "855e275b-533f-436d-b023-bc4743b7984a",
             "order": [
               "title",
               "locations",
@@ -1962,21 +2122,23 @@
             ],
             "tags": [],
             "title": "Otros eventos periódicos",
-            "uuid": "855e275b-533f-436d-b023-bc4743b7984a"
+            "uuid": "4e3a373e-3b04-4967-9bd7-1450b7066005"
           },
           {
             "_block": "video-channel",
             "filter": "",
+            "id": "6377fd3c-5a44-4579-a769-262f1f045271",
             "tags": [],
             "title": "Eguneroko Meza",
-            "uuid": "6377fd3c-5a44-4579-a769-262f1f045271"
+            "uuid": "52d16c9e-926d-4d40-b5e9-d7599b3bfec9"
           },
           {
             "_block": "gallery",
+            "id": "386b942e-7061-4218-90de-c1c5bd24cef8",
             "list": [],
             "tags": [],
             "title": "",
-            "uuid": "386b942e-7061-4218-90de-c1c5bd24cef8"
+            "uuid": "dd9e384b-bb6b-4c48-a1a5-ea9aae8e1326"
           },
           {
             "_block": "town",
@@ -1989,59 +2151,66 @@
               "Araitz",
               "Imotz"
             ],
+            "id": "863ded00-f5c8-4cee-afef-3b94de0f021c",
             "tags": [],
             "title": "Gure herriak",
-            "uuid": "863ded00-f5c8-4cee-afef-3b94de0f021c"
+            "uuid": "5882baa9-94c1-41dc-b33e-57ca8a39ddba"
           },
           {
             "_block": "team",
+            "id": "98e3c091-3749-452b-80b6-c715de1ff92d",
             "tags": [],
             "title": "Gure apezak",
-            "uuid": "98e3c091-3749-452b-80b6-c715de1ff92d"
+            "uuid": "9cdf9304-4780-46f3-9cb9-95aa22a16dba"
           },
           {
             "_block": "text",
             "html": "2019an Iruña-Tuterako elizbarrutian pastoral barrutiak (erdaraz \"UAP\" direlakoak) eratu ziren, Nafarroako 700 parrokiak 36 pastoral barrutitan kontzentratuz. Berez helburua da pastoralki parroki bakarra osatuko balute bezala lan egitea. Apez talde bat egon beharko litzateke barruti osorako eta pastoral kontseilu bakarra sortu. Herri guztietako eliztarrek sentitu beharko lukete zirkunskripzio bereko partaide direla. Juridikoki eta ekonomikoki, ordea, parroki bakoitzak bere burujabetasuna mantentzen du.\n\nEklesiastikoki gure pastoral barrutia Iruñako elizbarrutian dago, Mendialdeko zonalde pastoralean eta Aralarko artziprestaldean hain zuzen ere. Lurralde antolakuntza zibilari dagokionez, Nafarroako hamar udalerrietan gaude: LEITZA, ARESO, GOIZUETA, ARANO, ARAITZ, BETELU, LARRAUN, LEKUNBERRI, BASABURUA ETA IMOTZ.\n\nUne honetan hiru parroko in solidum aritzen gara aipatutako pastoral barrutian: Jesus Mari Sotil, Santiago Garisoain eta David Galarza, eta asteburutan beste hiru apez etortzen zaizkigu mezak ematen laguntzera: Joxe Mari Aleman, Pako Beloki eta Peio Etxabarri. ![](https://data.parroquia.app/47herri/about-img.webp)",
+            "id": "c48eeee3-dd2f-4b5e-8abf-349e67629e48",
             "tags": [
               "dark"
             ],
             "title": "Gure pastoral barrutia",
-            "uuid": "c48eeee3-dd2f-4b5e-8abf-349e67629e48"
+            "uuid": "229b0a6a-7e56-48bd-b733-3626abc58027"
           },
           {
             "_block": "map",
             "geo": "",
+            "id": "7f8b6806-05aa-48a8-9673-2a5558d88c41",
             "image": "",
             "name": "",
             "tags": [],
             "title": "Conócenos",
-            "uuid": "7f8b6806-05aa-48a8-9673-2a5558d88c41"
+            "uuid": "873bdce2-4be9-4adf-ba21-aeefe3f6e492"
           }
         ],
         "slug": "index",
         "title": "Ongi etorri",
-        "uuid": "3f787a55-8765-4727-b32c-9433e9537108"
+        "uuid": "0edd2911-6bef-4dff-a425-4bb202261e49"
       },
       {
         "description": "",
         "hideHero": true,
+        "id": "30c9c9f6-5615-4552-8ed4-5ba6110895e0",
         "image": "https://data.parroquia.app/47herri/hero-bg.webp",
-        "name": "30c9c9f6-5615-4552-8ed4-5ba6110895e0",
+        "name": "022d3a64-4b97-4df2-8431-03069f69675d",
         "sections": [
           {
             "_block": "gospel",
             "audio": false,
             "basic": true,
+            "id": "fc38553e-00f1-45a2-b3c0-855ff393a842",
             "images": false,
             "readings": false,
             "tags": [
               "twocols"
             ],
             "title": "Evangelio",
-            "uuid": "fc38553e-00f1-45a2-b3c0-855ff393a842"
+            "uuid": "d0602174-2c1d-487a-888b-d9909eb1bd63"
           },
           {
             "_block": "video",
+            "id": "9b04baaa-79cd-4b4e-a793-7ea884b8e698",
             "links": [
               "https://www.youtube.com/watch?v=Bpmam96GZno"
             ],
@@ -2050,10 +2219,11 @@
               "hidden"
             ],
             "title": "Gurutz bidea",
-            "uuid": "9b04baaa-79cd-4b4e-a793-7ea884b8e698"
+            "uuid": "028457d1-ef3b-48cf-be6f-7758ddab5139"
           },
           {
             "_block": "video",
+            "id": "264f3a99-bf39-4415-b14f-53ae31e33b25",
             "links": [
               "https://www.youtube.com/watch?v=W0PbRzsxue0"
             ],
@@ -2062,10 +2232,11 @@
               "hidden"
             ],
             "title": "Zeru lurren erregina",
-            "uuid": "264f3a99-bf39-4415-b14f-53ae31e33b25"
+            "uuid": "adbb0c89-ed2b-43fc-9e19-0df2e84b770a"
           },
           {
             "_block": "video",
+            "id": "3cad3a5e-95ed-48c8-966b-cd1fbeab0fe3",
             "links": [
               "https://www.youtube.com/watch?v=eDDOa-8RpzA"
             ],
@@ -2073,10 +2244,11 @@
               "twocols"
             ],
             "title": "Angelusa",
-            "uuid": "3cad3a5e-95ed-48c8-966b-cd1fbeab0fe3"
+            "uuid": "5fe9fd89-7a04-4c0a-ae7c-c0793b7cb413"
           },
           {
             "_block": "video",
+            "id": "0c6c06a3-9c8a-4fda-b192-e464437f1f4f",
             "links": [
               "https://www.youtube.com/watch?v=h5mZdE6u274",
               "https://www.youtube.com/watch?v=870YjOJqPek",
@@ -2087,7 +2259,7 @@
               "horizontal"
             ],
             "title": "Errosario Santua",
-            "uuid": "0c6c06a3-9c8a-4fda-b192-e464437f1f4f"
+            "uuid": "d4ab58df-3b86-400f-bfa6-6fb28283b1cf"
           },
           {
             "_block": "video-channel",
@@ -2112,21 +2284,24 @@
               "Aintza",
               "Sarrera"
             ],
+            "id": "39807bd1-e0d9-4a23-ba02-5be58566b979",
             "query": true,
             "tags": [
               "horizontal"
             ],
             "title": "Mezako kantak",
-            "uuid": "39807bd1-e0d9-4a23-ba02-5be58566b979"
+            "uuid": "9cdf64ff-6591-487d-8005-79eea6f887f0"
           },
           {
             "_block": "video-gospel",
+            "id": "6c61b224-0040-4b03-9efb-64fc324d6edc",
             "tags": [],
             "title": "Itun Berria",
-            "uuid": "6c61b224-0040-4b03-9efb-64fc324d6edc"
+            "uuid": "9aefcfbf-8001-413d-887f-9c675cd8d7c3"
           },
           {
             "_block": "video-podcast",
+            "id": "eedea187-b163-4aab-8785-cbfae94b4def",
             "links": [
               "https://sallebarne.eus",
               "https://open.spotify.com/show/7LonKVvfQIsCp45TM58h7y",
@@ -2141,33 +2316,36 @@
               "horizontal"
             ],
             "title": "Beste baliabideak",
-            "uuid": "eedea187-b163-4aab-8785-cbfae94b4def"
+            "uuid": "77d044b1-b4f4-41ba-88a9-8688b4183bcc"
           }
         ],
         "title": "Baliabideak",
-        "uuid": "f8ddd77c-ed95-4d44-b53c-44d0693daa2e"
+        "uuid": "3944a177-ecad-4731-a96f-20cf09cfbece"
       },
       {
         "description": "",
         "hideHero": true,
+        "id": "acd4f441-634c-416a-9660-8ae8b7180070",
         "image": "https://data.parroquia.app/47herri/hero-bg.webp",
-        "name": "acd4f441-634c-416a-9660-8ae8b7180070",
+        "name": "f9c05291-f308-4e7a-9b03-1a82b84256a2",
         "sections": [
           {
             "_block": "text",
             "html": "![](https://data.parroquia.app/47herri/uap.webp)\n2019an Iruña-Tuterako elizbarrutian pastoral barrutiak (erdaraz \"UAP\" direlakoak) eratu ziren, Nafarroako 700 parrokiak 36 pastoral barrutitan kontzentratuz. Berez helburua da pastoralki parroki bakarra osatuko balute bezala lan egitea. Apez talde bat egon beharko litzateke barruti osorako eta pastoral kontseilu bakarra sortu. Herri guztietako eliztarrek sentitu beharko lukete zirkunskripzio bereko partaide direla. Juridikoki eta ekonomikoki, ordea, parroki bakoitzak bere burujabetasuna mantentzen du.\nEklesiastikoki gure pastoral barrutia Iruñako elizbarrutian dago, Mendialdeko zonalde pastoralean eta Aralarko artziprestaldean hain zuzen ere. Lurralde antolakuntza zibilari dagokionez, Nafarroako hamar udalerrietan gaude: LEITZA, ARESO, GOIZUETA, ARANO, ARAITZ, BETELU, LARRAUN, LEKUNBERRI, BASABURUA ETA IMOTZ.\nUne honetan hiru parroko in solidum aritzen gara aipatutako pastoral barrutian: Jesus Mari Sotil, Santiago Garisoain eta David Galarza, eta asteburutan beste hiru apez etortzen zaizkigu mezak ematen laguntzera: Joxe Mari Aleman, Pako Beloki eta Peio Etxabarri.",
+            "id": "da05e825-3b9d-4652-be3c-5db63c2d5ab3",
             "tags": [],
             "title": "Nafarroako Pastoral Barrutiak",
-            "uuid": "da05e825-3b9d-4652-be3c-5db63c2d5ab3"
+            "uuid": "8bda97b4-19a0-4fb6-93ce-5f46e68085c1"
           },
           {
             "_block": "map",
             "geo": "",
+            "id": "62a8e5d8-cbd0-4ec6-8673-3d66b8f4edaa",
             "image": "",
             "name": "",
             "tags": [],
             "title": "",
-            "uuid": "62a8e5d8-cbd0-4ec6-8673-3d66b8f4edaa"
+            "uuid": "4d3ee0b5-8d86-46fa-b4c9-8ae27b1708e6"
           },
           {
             "_block": "town",
@@ -2181,69 +2359,76 @@
               "Araitz",
               "Imotz"
             ],
+            "id": "632290d6-6f6d-4962-aa02-fcba1a80b421",
             "tags": [],
             "title": "Gure herriak",
-            "uuid": "632290d6-6f6d-4962-aa02-fcba1a80b421"
+            "uuid": "13293ce2-acf0-40fb-8619-666e2eb80ec7"
           }
         ],
         "title": "Parrokiak",
-        "uuid": "b955de2d-a864-4df1-ba66-408db9cb91a2"
+        "uuid": "6ef19974-b0e3-4499-b1b3-8bf7203f093b"
       },
       {
         "description": "",
         "hideHero": false,
+        "id": "90c0f27f-ab58-4cd8-8d98-5a7ea5d06aac",
         "image": "{image}",
         "images": "{images}",
-        "name": "90c0f27f-ab58-4cd8-8d98-5a7ea5d06aac",
+        "name": "48e5d91a-b7c3-4182-8d04-520f423d90b6",
         "protected": "Plantilla pueblos",
         "sections": [
           {
+            "id": "52d6fdb1-817b-4e0d-a1c6-0ed9ef4f9d0b",
             "links": [
               "{video}"
             ],
             "tags": [],
             "title": "Descubre {name}",
             "type": "video",
-            "uuid": "52d6fdb1-817b-4e0d-a1c6-0ed9ef4f9d0b"
+            "uuid": "8e203e3e-abd6-43f3-a42d-48928dab453a"
           },
           {
             "filter": "{name}",
+            "id": "a5fc8657-9962-443c-9413-fb5c7360c9fd",
             "tags": [],
             "title": "",
             "type": "video-channel",
-            "uuid": "a5fc8657-9962-443c-9413-fb5c7360c9fd"
+            "uuid": "8bfe4cd4-e529-4671-98ac-fbdca8d53d37"
           },
           {
             "geo": "{geo}",
+            "id": "31c96673-1762-4eb0-adf8-4bf45d73fad8",
             "image": "",
             "name": "{name}",
             "tags": [],
             "title": "",
             "type": "map",
-            "uuid": "31c96673-1762-4eb0-adf8-4bf45d73fad8"
+            "uuid": "123b3366-8430-4307-8df6-b4ee5dde03b6"
           },
           {
+            "id": "68da5cdf-ae39-45d1-863d-42e025d52a2a",
             "list": "{images}",
             "tags": [],
             "title": "",
             "type": "gallery",
-            "uuid": "68da5cdf-ae39-45d1-863d-42e025d52a2a"
+            "uuid": "80bdb32c-225f-4c63-89fa-8938d94724ce"
           }
         ],
         "tags": "{tags}",
         "title": "{name}",
-        "uuid": "77f9e66e-916e-4017-9be2-4f17a6fc0604"
+        "uuid": "e1a077a7-f0a8-4ff5-b8d2-2a38708ea62f"
       }
     ],
     "nav": [
       {
+        "id": "fbe6c62a-de9e-4600-b617-2aef6e1f0a25",
         "links": [
           "409863e7-83b9-4a59-babe-5db5364d64e8",
           "30c9c9f6-5615-4552-8ed4-5ba6110895e0",
           "acd4f441-634c-416a-9660-8ae8b7180070"
         ],
         "title": "Menu",
-        "uuid": "fbe6c62a-de9e-4600-b617-2aef6e1f0a25"
+        "uuid": "a0b7e1da-8e05-458b-9861-76ae6304a766"
       }
     ],
     "pageperlocatoin": true
@@ -2298,10 +2483,14 @@
     "bodyFont": "Open Sans",
     "borderRadius": "1",
     "borderWidth": "1.25",
+    "buttonStyle": "",
+    "footerStyle": "",
     "headingFont": "Basque Smile",
     "icon": "https://data.parroquia.app/47herri/android-chrome-512x512.webp",
     "image": "https://data.parroquia.app/47herri/hero-bg.webp",
     "navStyle": "47herri",
+    "radius": "",
+    "shadow": "",
     "shadowDepth": "1.50",
     "styles": []
   }

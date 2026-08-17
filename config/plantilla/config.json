@@ -118,7 +118,50 @@
         "description": "",
         "image": "",
         "name": "1071e408-9e81-4425-9a7b-aa6c39ac8c2d",
-        "protected": "Plantilla pueblos",
+        "protected": "Plantilla templos",
+        "sections": [
+          {
+            "filter": "{{name}}",
+            "order": [],
+            "tags": [],
+            "title": "Nuestras celebraciones",
+            "type": "calendar"
+          },
+          {
+            "geo": "{{geo}}",
+            "image": "",
+            "name": "{{name}}}",
+            "tags": [],
+            "title": "Descubre {{name}}",
+            "type": "map"
+          },
+          {
+            "list": [],
+            "tags": [],
+            "title": "",
+            "type": "gallery"
+          },
+          {
+            "action": "Donar",
+            "description": "",
+            "goal": null,
+            "image": "",
+            "name": "",
+            "raised": null,
+            "tags": [
+              "3d"
+            ],
+            "title": "",
+            "type": "fundraising"
+          }
+        ],
+        "title": "{{name}}"
+      },
+      {
+        "description": "",
+        "image": "",
+        "name": "2071e408-9e81-4425-9a7b-aa6c39ac8c20",
+        "protected": "Plantilla eventos",
         "sections": [
           {
             "filter": "{{name}}",

@@ -35,6 +35,9 @@
     "social": [],
     "title": ""
   },
+  "nerdy": {
+    "rawJson": ""
+  },
   "pages": {
     "languages": [
       "Español:es",
@@ -869,6 +872,7 @@
         "title": "Vida religiosa y misión"
       }
     ],
+    "pageperevent": [],
     "pageperlocatoin": false
   },
   "site": {
@@ -908,6 +912,7 @@
     "icon": "",
     "image": "",
     "navStyle": "default",
+    "preview": "",
     "radius": "",
     "shadow": "",
     "shadowDepth": "1.50",

@@ -711,23 +711,6 @@
           ],
           "title": "Adoración al Santísimo",
           "type": "group"
-        },
-        {
-          "celebrants": [],
-          "except": [],
-          "id": "evt-f838bfb8-7aad-4b4f-b455-b167778b5099",
-          "location": [
-            "Leitza"
-          ],
-          "rrule": [
-            "mo,tu,we,th,fr",
-            "sa"
-          ],
-          "times": [
-            "19:30"
-          ],
-          "title": "",
-          "type": "mass"
         }
       ],
       "urls": [
@@ -737,7 +720,11 @@
   },
   "dev": {
     "goatcounter": "https://47herri.goatcounter.com/count",
-    "siteurl": "https://47herri.eus"
+    "siteurl": "https://47herri.eus",
+    "subscribedto": [
+      "47herri",
+      "UCYibdEdQAPs55xBnIElKLkQ"
+    ]
   },
   "event-types": {
     "list": [
@@ -2056,6 +2043,9 @@
     ],
     "title": "47 herri"
   },
+  "nerdy": {
+    "rawJson": ""
+  },
   "pages": {
     "filenameMode": "translated",
     "languages": [
@@ -2090,6 +2080,11 @@
               "times",
               "locations"
             ],
+            "orderColumna": "",
+            "orderFila": "",
+            "orderNotas": "",
+            "orderSubfila": "",
+            "orderTabla": "",
             "tags": [],
             "title": "Próximas celebraciones",
             "uuid": "e4282f6e-e8ac-4f1a-9419-dda0347a1a5b"
@@ -2105,6 +2100,11 @@
               "locations",
               "byday-weekday+byweek+notes"
             ],
+            "orderColumna": "",
+            "orderFila": "",
+            "orderNotas": "",
+            "orderSubfila": "",
+            "orderTabla": "",
             "tags": [],
             "title": "Horario de Misas",
             "uuid": "eebb7b6c-1ddf-48b3-90de-7b0ac37aed56"
@@ -2120,6 +2120,11 @@
               "times",
               "byday+byweek+notes"
             ],
+            "orderColumna": "",
+            "orderFila": "",
+            "orderNotas": "",
+            "orderSubfila": "",
+            "orderTabla": "",
             "tags": [],
             "title": "Otros eventos periódicos",
             "uuid": "4e3a373e-3b04-4967-9bd7-1450b7066005"
@@ -2431,6 +2436,7 @@
         "uuid": "a0b7e1da-8e05-458b-9861-76ae6304a766"
       }
     ],
+    "pageperevent": [],
     "pageperlocatoin": true
   },
   "site": {
@@ -2489,6 +2495,7 @@
     "icon": "https://data.parroquia.app/47herri/android-chrome-512x512.webp",
     "image": "https://data.parroquia.app/47herri/hero-bg.webp",
     "navStyle": "47herri",
+    "preview": "",
     "radius": "",
     "shadow": "",
     "shadowDepth": "1.50",

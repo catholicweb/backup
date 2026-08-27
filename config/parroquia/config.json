@@ -136,34 +136,52 @@
     "social": [],
     "title": "Parroquia"
   },
+  "nerdy": {
+    "rawJson": ""
+  },
   "pages": {
     "languages": [
       "Español:es",
-      "English:en"
+      "English:en",
+      "Català:ca",
+      "Galego:gl",
+      "Euskara:eu",
+      "Français:fr"
     ],
     "list": [
       {
         "description": "",
         "hideHero": false,
         "id": "dd500974-fb1d-461c-9eef-019d8ea1773f",
-        "image": "",
+        "image": "https://images.unsplash.com/photo-1607539692943-80772d90613d?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8M3x8TWFyeXxlbnwwfHx8fDE3ODc2MDk5Nzd8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Josh%20Applegate",
         "protected": "Portada",
         "sections": [
           {
             "id": "f79923d2-68b0-468e-9a88-44d52c7916e0",
             "links": [
-              "https://open.spotify.com/show/7LonKVvfQIsCp45TM58h7y?si=5974a35003ef4ecb"
+              "https://open.spotify.com/show/7LonKVvfQIsCp45TM58h7y?si=5974a35003ef4ecb",
+              "https://open.spotify.com/show/1sq2MYlTyXKwVvMDqpA3uF?si=f94300ed0c2d498d",
+              "https://youtube.com/playlist?list=PLco5FD9I9WmIbbQTBKMqaMq1kjwiZoO6B",
+              "https://open.spotify.com/show/6y1J3OXyuHGivMhIy7LB4Q?si=23fdbfd73b6645c7",
+              "https://open.spotify.com/show/2stzE1aIR8elv3tEIHNosr?si=f5f8c6b65d82421a",
+              "https://open.spotify.com/show/1zR5ODOgjx1lGObG2gJvox",
+              "https://open.spotify.com/show/6FJFJ46Q4aPXIWWDKY9tYf?si=c17c97479bbb4fbe",
+              "https://open.spotify.com/show/2z0RRDpp9rP6urEwdBrGpe?si=256c183f69e0457f",
+              "https://youtube.com/playlist?list=PL2fBaIU3WZ23ahmPx34yYXDu3yrp-yASO",
+              "https://open.spotify.com/show/1OUhu57FCAscICoEMwyONY?si=5f7ea6ad49394828"
             ],
             "tags": [],
-            "title": "",
+            "title": "Añade podcast de distintas fuentes ",
             "type": "video-podcast"
           },
           {
-            "html": "esto es algo de texto **ahora en negrita**, ahora en normal _pero al final, texto y solo texto_\n\n*   _esto es fero_\n*   _pero bueno_\n\n1.  _te pare [si, pero](page:dd500974-fb1d-461c-9eef-019d8ea1773f)_",
-            "id": "138b4a6e-2bd9-4042-9b56-849f50c5667e",
+            "audio": false,
+            "id": "4fe818c9-1f39-4516-a347-ac64f936500a",
+            "images": true,
+            "readings": false,
             "tags": [],
-            "title": "pero",
-            "type": "text"
+            "title": "",
+            "type": "gospel"
           }
         ],
         "title": "Portada"
@@ -178,6 +196,11 @@
             "filter": "{{name}}",
             "id": "bf9949c0-4bac-4c24-a84e-c11d780c0bbb",
             "order": [],
+            "orderColumna": "",
+            "orderFila": "",
+            "orderNotas": "",
+            "orderSubfila": "",
+            "orderTabla": "",
             "tags": [],
             "title": "Nuestras celebraciones",
             "type": "calendar"
@@ -207,9 +230,25 @@
           }
         ],
         "title": "{{name}}"
+      },
+      {
+        "description": "",
+        "id": "0a5307bf-18c0-410a-b767-4bfbaab99f39",
+        "image": "",
+        "sections": [
+          {
+            "id": "91d0bfbc-e530-424a-aa64-d478ad364760",
+            "list": [],
+            "tags": [],
+            "title": "",
+            "type": "gallery"
+          }
+        ],
+        "title": "Estilos personalizados"
       }
     ],
     "nav": [],
+    "pageperevent": [],
     "pageperlocatoin": true
   },
   "site": {
@@ -226,9 +265,9 @@
     "accentPrimary": "#0000ff",
     "bodyFont": "Montserrat",
     "buttonStyle": "",
-    "footerStyle": "",
+    "footerStyle": "auto",
     "headingFont": "Montserrat",
-    "icon": "",
+    "icon": "https://data.parroquia.app/parroquia/media-IMG-20260801-WA0019.webp",
     "image": "https://images.unsplash.com/photo-1569845177077-2a37322a60c7?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MXx8cm9zYXJpb3xlbnwwfHx8fDE3ODYzMTMzMDd8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format",
     "navStyle": "",
     "radius": "",

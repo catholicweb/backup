@@ -1,7 +1,21 @@
 {
   "calendar": {
     "events": {
-      "list": [],
+      "list": [
+        {
+          "celebrants": "",
+          "date": "2026-08-30",
+          "description": "## Nos vamos de campamento!!\n\n  \n\nQue traer:\n\n1.  Botella de agua\n2.  Saco de dormir\n3.  Ganas de pasarlo bien\n\n  \n\n  \n\n[Portada](page:cf950b52-9b46-4da4-a4b9-2d9415b4d393)\n\n![](https://images.pexels.com/photos/26559606/pexels-photo-26559606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Budget+Bizar&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fcloseup-of-stone-statue-of-holy-mary-26559606%2F)",
+          "duration": null,
+          "id": "evt-5dc155c5-d3e0-4a18-8cc4-9532d3ac3b1b",
+          "image": "",
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "Nos vamos de campamento!",
+          "type": "special"
+        }
+      ],
       "urls": []
     }
   },
@@ -22,6 +36,7 @@
           "title": ""
         },
         "icon": "mdi:coffin",
+        "id": "funeral",
         "label": "Funeral",
         "name": "funeral",
         "protected": "funeral"
@@ -39,6 +54,7 @@
           "title": ""
         },
         "icon": "game-icons:jeweled-chalice",
+        "id": "mass",
         "label": "Eucaristía",
         "name": "mass",
         "protected": "eucaristía"
@@ -56,6 +72,7 @@
           "title": ""
         },
         "icon": "heroicons-solid:chat-bubble-bottom-center-text",
+        "id": "confessions",
         "label": "Confesiones",
         "name": "confessions",
         "protected": "confesiones"
@@ -73,62 +90,156 @@
           "title": "Catequesis"
         },
         "icon": "heroicons-solid:users",
+        "id": "catechism",
         "label": "Catequesis",
         "name": "catechism",
-        "protected": true
+        "protected": "catequesis"
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": null,
+          "image": "",
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "icon": "ph:star-four",
+        "id": "special",
+        "label": "Especial",
+        "protected": "especial"
       }
     ]
   },
   "info": {
     "autodiscover": "",
-    "bank": [],
+    "bank": [
+      {
+        "account": "https://www.donoamiiglesia.es",
+        "id": "c2ea92a2-f4a9-4bc5-a90d-1a7842dc58bb",
+        "title": "Dono a mi Iglesia "
+      }
+    ],
     "collaborators": [],
     "description": "",
     "places": [],
     "social": [],
     "title": ""
   },
+  "nerdy": {
+    "rawJson": ""
+  },
   "pages": {
     "languages": [
       "Español:es",
       "Euskara:eu",
-      "English:en",
-      "Català:ca"
+      "English:en"
     ],
     "list": [
       {
         "description": "",
         "hideHero": false,
+        "id": "cf950b52-9b46-4da4-a4b9-2d9415b4d393",
         "image": "",
-        "name": "81db3baf-2c1b-4981-9d4b-9a224103bcb5",
         "protected": "Portada",
         "sections": [
           {
-            "links": [
-              "https://open.spotify.com/show/7LonKVvfQIsCp45TM58h7y?si=5974a35003ef4ecb"
+            "filter": "",
+            "id": "b3a2bb8b-6014-4ff4-a7ba-a277b4197885",
+            "order": [
+              "title"
             ],
+            "orderColumna": "dates",
+            "orderFila": "title",
+            "orderNotas": "",
+            "orderSubfila": "empty",
+            "orderTabla": "empty",
             "tags": [],
-            "title": "",
+            "title": "Nuestros eventos",
+            "type": "calendar"
+          },
+          {
+            "audio": true,
+            "id": "6a755e1a-7410-4221-a157-705fff6b69f4",
+            "images": true,
+            "readings": false,
+            "tags": [],
+            "title": "Evangelio de cada día",
+            "type": "gospel"
+          },
+          {
+            "id": "24922a34-8536-4681-872b-bb5a93ffa54b",
+            "links": [
+              "https://open.spotify.com/show/7LonKVvfQIsCp45TM58h7y?si=5974a35003ef4ecb",
+              "https://open.spotify.com/show/1sq2MYlTyXKwVvMDqpA3uF?si=f94300ed0c2d498d",
+              "https://youtube.com/playlist?list=PLco5FD9I9WmIbbQTBKMqaMq1kjwiZoO6B",
+              "https://open.spotify.com/show/1oX36lcEOra7ADQCUlE2LY?si=e177f860f0164661",
+              "https://open.spotify.com/show/6y1J3OXyuHGivMhIy7LB4Q?si=23fdbfd73b6645c7",
+              "https://open.spotify.com/show/2stzE1aIR8elv3tEIHNosr?si=f5f8c6b65d82421a",
+              "https://open.spotify.com/show/1zR5ODOgjx1lGObG2gJvox",
+              "https://youtube.com/playlist?list=PL2fBaIU3WZ23ahmPx34yYXDu3yrp-yASO",
+              "https://open.spotify.com/show/2z0RRDpp9rP6urEwdBrGpe?si=256c183f69e0457f",
+              "https://open.spotify.com/show/6FJFJ46Q4aPXIWWDKY9tYf?si=c17c97479bbb4fbe",
+              "https://open.spotify.com/show/1OUhu57FCAscICoEMwyONY?si=5f7ea6ad49394828",
+              "https://open.spotify.com/show/6mpihPJzRA61GEdomhzGqq?si=b59a6acf96104988",
+              "https://open.spotify.com/show/1XWvEFBoCvahdELmEXgSfL",
+              "https://sallebarne.eus"
+            ],
+            "tags": [
+              "masonry"
+            ],
+            "title": "Profundiza en tú fe",
             "type": "video-podcast"
+          },
+          {
+            "id": "8e96559d-3d3c-4aa6-9c3e-c097eccb5dcb",
+            "tags": [],
+            "title": "Nuestro equipo parroquial",
+            "type": "team"
+          },
+          {
+            "geo": "",
+            "id": "e4439fa1-3b8f-4037-8429-771bb61547fe",
+            "image": "",
+            "name": "",
+            "tags": [],
+            "title": "Ven a conocernos",
+            "type": "map"
+          },
+          {
+            "id": "56ffb5b4-ea6e-4071-bf50-44ded2b8621a",
+            "tags": [],
+            "title": "Audios del nuevo testamento",
+            "type": "video-gospel"
           }
         ],
         "title": "Portada"
       },
       {
         "description": "",
+        "id": "253a3e01-ef1b-4931-800b-37ab2ed48915",
         "image": "",
-        "name": "1071e408-9e81-4425-9a7b-aa6c39ac8c2d",
         "protected": "Plantilla templos",
         "sections": [
           {
             "filter": "{{name}}",
+            "id": "5eec7382-c916-4018-868b-3a99280d5f69",
             "order": [],
+            "orderColumna": "",
+            "orderFila": "",
+            "orderNotas": "",
+            "orderSubfila": "",
+            "orderTabla": "",
             "tags": [],
             "title": "Nuestras celebraciones",
             "type": "calendar"
           },
           {
             "geo": "{{geo}}",
+            "id": "648a63bf-10d3-4ea9-8488-644bd6f98755",
             "image": "",
             "name": "{{name}}}",
             "tags": [],
@@ -136,6 +247,7 @@
             "type": "map"
           },
           {
+            "id": "cf454ae9-0857-4f76-93a9-539a0e031791",
             "list": [],
             "tags": [],
             "title": "",
@@ -145,6 +257,7 @@
             "action": "Donar",
             "description": "",
             "goal": null,
+            "id": "aa0d0c96-10c4-4a21-9488-70ff873286de",
             "image": "",
             "name": "",
             "raised": null,
@@ -159,49 +272,42 @@
       },
       {
         "description": "",
+        "id": "9b4197c3-cc43-4ebb-8cae-f7928a8ccd86",
         "image": "",
-        "name": "2071e408-9e81-4425-9a7b-aa6c39ac8c20",
         "protected": "Plantilla eventos",
         "sections": [
           {
-            "filter": "{{name}}",
-            "order": [],
-            "tags": [],
-            "title": "Nuestras celebraciones",
-            "type": "calendar"
-          },
-          {
             "geo": "{{geo}}",
+            "id": "5cc0e861-d94b-49d6-aa76-babb49cbc7d0",
             "image": "",
-            "name": "{{name}}}",
+            "name": " {{location}}",
             "tags": [],
-            "title": "Descubre {{name}}",
+            "title": "¿Dónde es el evento?",
             "type": "map"
           },
           {
+            "html": "{{description}}",
+            "id": "52d2eba0-d51c-4205-b0db-850b6d903be8",
+            "tags": [],
+            "title": "",
+            "type": "text"
+          },
+          {
+            "id": "d97ac165-5c04-4fd8-b787-94a574d14ca1",
             "list": [],
             "tags": [],
             "title": "",
             "type": "gallery"
-          },
-          {
-            "action": "Donar",
-            "description": "",
-            "goal": null,
-            "image": "",
-            "name": "",
-            "raised": null,
-            "tags": [
-              "3d"
-            ],
-            "title": "",
-            "type": "fundraising"
           }
         ],
-        "title": "{{name}}"
+        "title": "{{title}}"
       }
     ],
     "nav": [],
+    "pageperevent": [
+      "special",
+      "catechism"
+    ],
     "pageperlocatoin": true
   },
   "site": {
@@ -214,13 +320,41 @@
     "title": ""
   },
   "theme": {
-    "accentColor": "#53bf37",
+    "accentColor": "#6d783e",
     "accentPrimary": "#0000ff",
     "bodyFont": "Montserrat",
+    "buttonStyle": "solid",
+    "footerStyle": "",
     "headingFont": "Merriweather",
     "icon": "",
-    "image": "",
-    "navStyle": "default",
-    "styles": []
+    "image": "https://images.unsplash.com/photo-1546374232-3ec12be8caa6?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Mjd8fG1hcnl8ZW58MHx8fHwxNzg3NjU2MTkzfDA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=DDP",
+    "navStyle": "minimal",
+    "preview": "",
+    "radius": "",
+    "shadow": "",
+    "styles": [
+      {
+        "cssClass": [
+          "text-decoration: underline;",
+          "color: rgb(var(--color-accent));"
+        ],
+        "id": "1f79dc3f-a589-4b46-a699-2516ca40025a",
+        "scroll": false,
+        "selector": [
+          "strong",
+          "h1"
+        ]
+      },
+      {
+        "cssClass": [
+          "opacity: 0;"
+        ],
+        "id": "859ff5d8-0a53-438b-ba12-6f0eacae3fec",
+        "scroll": true,
+        "selector": [
+          "ol"
+        ]
+      }
+    ]
   }
 }

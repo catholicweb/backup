@@ -1,11 +1,11 @@
-name: daily-backup
+name: hourly-backup
 
 # Fetch every site config from data.parroquia.app and commit any changes.
-# Runs daily on a schedule; can also be triggered manually.
+# Runs hourly on a schedule; can also be triggered manually.
 on:
   schedule:
-    # 03:17 UTC, daily.
-    - cron: "17 3 * * *"
+    # Every hour at :00.
+    - cron: "0 * * * *"
   workflow_dispatch:
 
 permissions:

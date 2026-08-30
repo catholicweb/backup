@@ -93,6 +93,34 @@ async function backup() {
     }
   }
 
+  // Backup auth.enc
+  const authUrl = `${BASE_URL}/auth.enc`;
+  const authPath = path.join(OUT_DIR, "auth.enc");
+  try {
+    const authRes = await fetch(authUrl);
+    if (authRes.ok) {
+      const authText = await authRes.text();
+      let authPrev = null;
+      try {
+        authPrev = await readFile(authPath, "utf8");
+      } catch {
+        // not present
+      }
+      await writeFile(authPath, authText);
+      if (authPrev === null) {
+        console.log("  added   auth.enc");
+      } else if (authPrev !== authText) {
+        console.log("  changed auth.enc");
+      } else {
+        console.log("  unchanged auth.enc");
+      }
+    } else {
+      console.warn(`  warn: GET ${authUrl} -> HTTP ${authRes.status}`);
+    }
+  } catch (err) {
+    console.warn(`  warn: auth.enc fetch failed: ${err.message}`);
+  }
+
   console.log(
     `\nDone: ${counts.added} added, ${counts.changed} changed, ` +
       `${counts.unchanged} unchanged${counts.failed ? `, ${counts.failed} failed` : ""}.`,

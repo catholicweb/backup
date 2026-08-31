@@ -33,9 +33,15 @@ function sortKeys(value) {
 }
 
 async function getJson(url, { fatal }) {
-  const res = await fetch(url);
+  const bustedUrl = `${url}${url.includes("?") ? "&" : "?"}t=${Date.now()}`;
+  const res = await fetch(bustedUrl, {
+    headers: {
+      "Cache-Control": "no-cache, no-store, must-revalidate",
+      "Pragma": "no-cache",
+    },
+  });
   if (!res.ok) {
-    const msg = `GET ${url} -> HTTP ${res.status} ${res.statusText}`;
+    const msg = `GET ${bustedUrl} -> HTTP ${res.status} ${res.statusText}`;
     if (fatal) throw new Error(msg);
     console.warn(`  warn: ${msg}`);
     return null;
@@ -43,7 +49,7 @@ async function getJson(url, { fatal }) {
   try {
     return await res.json();
   } catch {
-    const msg = `GET ${url} -> invalid JSON body`;
+    const msg = `GET ${bustedUrl} -> invalid JSON body`;
     if (fatal) throw new Error(msg);
     console.warn(`  warn: ${msg}`);
     return null;
@@ -97,9 +103,9 @@ async function backup() {
   const authUrl = `${BASE_URL}/auth.enc`;
   const authPath = path.join(OUT_DIR, "auth.enc");
   try {
-    const authRes = await fetch(authUrl);
-    if (authRes.ok) {
-      const authText = await authRes.text();
+    const authData = await getJson(authUrl, { fatal: false });
+    if (authData !== null) {
+      const authText = `${JSON.stringify(sortKeys(authData), null, 2)}\n`;
       let authPrev = null;
       try {
         authPrev = await readFile(authPath, "utf8");
@@ -115,7 +121,7 @@ async function backup() {
         console.log("  unchanged auth.enc");
       }
     } else {
-      console.warn(`  warn: GET ${authUrl} -> HTTP ${authRes.status}`);
+      console.warn(`  warn: GET ${authUrl} -> failed`);
     }
   } catch (err) {
     console.warn(`  warn: auth.enc fetch failed: ${err.message}`);

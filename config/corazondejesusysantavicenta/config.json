@@ -1,0 +1,488 @@
+{
+  "calendar": {
+    "events": {
+      "list": [
+        {
+          "celebrants": [],
+          "date": null,
+          "description": "",
+          "id": "evt-fe9c477b-7446-4bb6-9567-3ead93c12231",
+          "image": "",
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "su"
+          ],
+          "times": "10:00",
+          "type": "mass"
+        },
+        {
+          "celebrants": [],
+          "date": null,
+          "description": "",
+          "id": "evt-a48a7bc5-50f7-4c97-9326-0d23916e329a",
+          "image": "",
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "10:30",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-dce7483b-105b-4106-9b69-c41be8b348cf",
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "su"
+          ],
+          "times": "12:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-01a6ede6-c13b-4e29-95c3-f3ed060320cc",
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "su"
+          ],
+          "times": "13:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-8e60fa45-f4c4-47d0-a9c1-89546394f4db",
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "su",
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "19:30",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-0954799f-1025-4d01-ba30-09e9d97b4eba",
+          "location": "d9f0c76e-d1f9-4ddb-8c54-0cf068643c4a",
+          "rrule": [
+            "su"
+          ],
+          "times": "10:30",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-b913093e-baa8-4800-81a5-f9943f86c37a",
+          "location": "d9f0c76e-d1f9-4ddb-8c54-0cf068643c4a",
+          "rrule": [
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "11:30",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-5317c1bf-ca43-480c-8887-d8c920b62299",
+          "location": "d9f0c76e-d1f9-4ddb-8c54-0cf068643c4a",
+          "rrule": [
+            "su"
+          ],
+          "times": "12:00",
+          "type": "mass"
+        }
+      ],
+      "urls": []
+    }
+  },
+  "event-types": {
+    "list": [
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "Descanse en paz",
+          "duration": 45,
+          "image": "/media/undefined",
+          "location": "",
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": ""
+        },
+        "icon": "mdi:coffin",
+        "id": "funeral",
+        "label": "Funeral",
+        "name": "funeral",
+        "protected": "funeral"
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": 45,
+          "image": "",
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": "Eucaristía"
+        },
+        "icon": "game-icons:jeweled-chalice",
+        "id": "mass",
+        "label": "Eucaristía",
+        "name": "mass",
+        "protected": "eucaristía"
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": 45,
+          "image": "",
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "icon": "heroicons-solid:chat-bubble-bottom-center-text",
+        "id": "confessions",
+        "label": "Confesiones",
+        "name": "confessions",
+        "protected": "confesiones"
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": 45,
+          "image": "",
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": "Catequesis"
+        },
+        "icon": "heroicons-solid:users",
+        "id": "catechism",
+        "label": "Catequesis",
+        "name": "catechism",
+        "protected": "catequesis"
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": null,
+          "image": "",
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "icon": "ph:star-four",
+        "id": "special",
+        "label": "Especial",
+        "protected": "especial"
+      }
+    ]
+  },
+  "info": {
+    "autodiscover": "",
+    "bank": [
+      {
+        "account": "https://www.donoamiiglesia.es",
+        "id": "c2ea92a2-f4a9-4bc5-a90d-1a7842dc58bb",
+        "title": "Dono a mi Iglesia "
+      }
+    ],
+    "collaborators": [
+      {
+        "id": "bcdc7557-e0eb-4f32-9ba9-c4ddb4aa3ea9",
+        "image": "",
+        "name": "José Javier",
+        "phonenumber": "948 26 66 08",
+        "social": []
+      },
+      {
+        "id": "af3493b0-6671-438e-be9a-d091aee72571",
+        "image": "",
+        "name": "Andrés",
+        "phonenumber": "948 26 66 08",
+        "social": []
+      },
+      {
+        "id": "b9079a5e-7eac-4767-b796-2abc980c522a",
+        "image": "",
+        "name": "...",
+        "phonenumber": "",
+        "social": []
+      }
+    ],
+    "description": "Web de la Unidad de Atención Pastoral para las parroquias de Corazón de Jesús y Santa Vicenta María",
+    "places": [
+      {
+        "address": "Calle Serafín Olave, 21, 31007 Pamplona, Navarra",
+        "geo": "42.8060904, -1.6517644",
+        "id": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+        "images": [
+          "https://data.parroquia.app/corazondejesusysantavicenta/media-corazondejesus-5116d919.webp"
+        ],
+        "name": "Corazón de Jesús",
+        "tags": []
+      },
+      {
+        "address": "Avenida Sancho el Fuerte, 71, 31007 Pamplona, Navarra",
+        "geo": "42.8098218, -1.6566207",
+        "id": "d9f0c76e-d1f9-4ddb-8c54-0cf068643c4a",
+        "images": [
+          "https://data.parroquia.app/corazondejesusysantavicenta/media-parroquia-de-santa-vicenta-maria-pamplona-navarra-cc58472a.webp"
+        ],
+        "name": " Santa Vicenta María",
+        "tags": []
+      }
+    ],
+    "social": [
+      "upcorazonvicenta@gmail.com",
+      "https://www.facebook.com/parroquiacorazondejesus/",
+      "https://www.instagram.com/corazondejesuspamplona/",
+      "948 26 66 08"
+    ],
+    "title": "UP Corazón de Jesús y Santa Vicenta María"
+  },
+  "nerdy": {
+    "rawJson": ""
+  },
+  "pages": {
+    "languages": [
+      "Español:es",
+      "Euskara:eu",
+      "English:en"
+    ],
+    "list": [
+      {
+        "description": "",
+        "hideHero": false,
+        "id": "cf950b52-9b46-4da4-a4b9-2d9415b4d393",
+        "image": "",
+        "protected": "Portada",
+        "sections": [
+          {
+            "filter": "byday:empty",
+            "id": "b3a2bb8b-6014-4ff4-a7ba-a277b4197885",
+            "order": [
+              "title"
+            ],
+            "orderColumna": "empty",
+            "orderFila": "dates",
+            "orderNotas": "locations",
+            "orderSubfila": "times",
+            "orderTabla": "title",
+            "ordering": "title,dates,skip,times,locations",
+            "tags": [],
+            "title": "Próximos eventos",
+            "type": "calendar"
+          },
+          {
+            "filter": "mass",
+            "id": "ecfb8218-0ff3-4546-8e31-33f57fd9995e",
+            "orderColumna": "empty",
+            "orderFila": "times",
+            "orderNotas": "",
+            "orderSubfila": "locations",
+            "orderTabla": "weekday",
+            "ordering": "weekday,times,skip,locations,byday-weekday+byweek+notes",
+            "tags": [],
+            "title": "Horario Misas",
+            "type": "calendar"
+          },
+          {
+            "audio": true,
+            "id": "6a755e1a-7410-4221-a157-705fff6b69f4",
+            "images": true,
+            "readings": false,
+            "tags": [],
+            "title": "Evangelio de cada día",
+            "type": "gospel"
+          },
+          {
+            "id": "24922a34-8536-4681-872b-bb5a93ffa54b",
+            "links": [
+              "https://open.spotify.com/show/7LonKVvfQIsCp45TM58h7y?si=5974a35003ef4ecb",
+              "https://open.spotify.com/show/1sq2MYlTyXKwVvMDqpA3uF?si=f94300ed0c2d498d",
+              "https://youtube.com/playlist?list=PLco5FD9I9WmIbbQTBKMqaMq1kjwiZoO6B",
+              "https://open.spotify.com/show/1oX36lcEOra7ADQCUlE2LY?si=e177f860f0164661",
+              "https://open.spotify.com/show/6y1J3OXyuHGivMhIy7LB4Q?si=23fdbfd73b6645c7",
+              "https://open.spotify.com/show/2stzE1aIR8elv3tEIHNosr?si=f5f8c6b65d82421a",
+              "https://open.spotify.com/show/1zR5ODOgjx1lGObG2gJvox",
+              "https://youtube.com/playlist?list=PL2fBaIU3WZ23ahmPx34yYXDu3yrp-yASO",
+              "https://open.spotify.com/show/2z0RRDpp9rP6urEwdBrGpe?si=256c183f69e0457f",
+              "https://open.spotify.com/show/6FJFJ46Q4aPXIWWDKY9tYf?si=c17c97479bbb4fbe",
+              "https://open.spotify.com/show/1OUhu57FCAscICoEMwyONY?si=5f7ea6ad49394828",
+              "https://open.spotify.com/show/6mpihPJzRA61GEdomhzGqq?si=b59a6acf96104988",
+              "https://open.spotify.com/show/1XWvEFBoCvahdELmEXgSfL",
+              "https://sallebarne.eus"
+            ],
+            "tags": [
+              "horizontal"
+            ],
+            "title": "Profundiza en tu fe",
+            "type": "video-podcast"
+          },
+          {
+            "id": "8e96559d-3d3c-4aa6-9c3e-c097eccb5dcb",
+            "tags": [],
+            "title": "Nuestro equipo parroquial",
+            "type": "team"
+          },
+          {
+            "geo": "",
+            "id": "e4439fa1-3b8f-4037-8429-771bb61547fe",
+            "image": "",
+            "name": "",
+            "tags": [],
+            "title": "Ven a conocernos",
+            "type": "map"
+          },
+          {
+            "id": "56ffb5b4-ea6e-4071-bf50-44ded2b8621a",
+            "tags": [],
+            "title": "Audios del nuevo testamento",
+            "type": "video-gospel"
+          }
+        ],
+        "title": "Portada"
+      },
+      {
+        "description": "",
+        "id": "253a3e01-ef1b-4931-800b-37ab2ed48915",
+        "image": "",
+        "protected": "Plantilla templos",
+        "sections": [
+          {
+            "filter": "{name}",
+            "id": "5eec7382-c916-4018-868b-3a99280d5f69",
+            "order": [],
+            "orderColumna": "",
+            "orderFila": "times",
+            "orderNotas": "",
+            "orderSubfila": "byday",
+            "orderTabla": "title",
+            "ordering": "",
+            "tags": [],
+            "title": "Horarios",
+            "type": "calendar"
+          },
+          {
+            "geo": "{geo}",
+            "id": "648a63bf-10d3-4ea9-8488-644bd6f98755",
+            "image": "",
+            "name": "{name}",
+            "tags": [],
+            "title": "Ven a conocernos {name}",
+            "type": "map"
+          },
+          {
+            "id": "f7eda603-6311-46c4-95d3-413dc37b67a4",
+            "images": [],
+            "tags": [],
+            "title": "",
+            "type": "gallery"
+          }
+        ],
+        "title": "{name}"
+      },
+      {
+        "description": "",
+        "id": "9b4197c3-cc43-4ebb-8cae-f7928a8ccd86",
+        "image": "",
+        "protected": "Plantilla eventos",
+        "sections": [
+          {
+            "geo": "{{geo}}",
+            "id": "5cc0e861-d94b-49d6-aa76-babb49cbc7d0",
+            "image": "",
+            "name": " {{location}}",
+            "tags": [],
+            "title": "¿Dónde es el evento?",
+            "type": "map"
+          },
+          {
+            "html": "{{description}}",
+            "id": "52d2eba0-d51c-4205-b0db-850b6d903be8",
+            "tags": [],
+            "title": "",
+            "type": "text"
+          },
+          {
+            "id": "5fa6a2c6-56e0-48e9-92d4-de40aa74541e",
+            "images": [],
+            "tags": [],
+            "title": "",
+            "type": "gallery"
+          }
+        ],
+        "title": "{title}"
+      },
+      {
+        "description": "",
+        "id": "3d34b170-aaab-477b-bc35-d66fcb73b127",
+        "image": "",
+        "sections": [
+          {
+            "html": "# Iglesia Parroquial del Corazón de Jesús, Pamplona\n\nEscrito en [agosto de 2019agosto de 2025](https://www.zubiaurcarreno.com/iglesia-parroquial-del-corazon-jesus-pamplona/) por [Fco Javier Zubiaur Carreño](https://www.zubiaurcarreno.com/author/fco-javier-zubiaur/)\n\n[]()\n\n## Antecedentes históricos\n\nEl decreto canónico que la erigió fue firmado el 1 de marzo de 1979 por el titular de la archidiócesis de Pamplona don José María Cirarda Lachiondo. Su actividad parroquial se inició 17 días más tarde, de forma provisional y durante cinco años, en el primer piso de la Plaza Félix Huarte número 7. La primera piedra del actual templo parroquial se colocó el 23 de abril de 1983 y once meses más tarde, el 11 de marzo de 1984, fue consagrada la nueva iglesia sede definitiva de nuestra parroquia, que se edificó en una parcela de 750 m2. situada junto al Frontón de López del barrio de Iturrama, en la calle Serafín Olave 21.\n\nLa parroquia se segregaba de la del Corpus Christi, junto con las próximas de San Francisco de Asís y de Santa Vicenta María, a consecuencia del desarrollo urbanístico de la zona oeste de la ciudad y para la atención pastoral de unos 9.200 feligreses residentes en 2.300 viviendas situadas entre las calles Sancho el Fuerte y la Avenida de Navarra, comprendiendo las calles de Esquíroz, Iñigo Arista, Serafín Olave, Iturrama, Pedro I, Alfonso el Batallador y la Plaza Félix Huarte.\n\n[![](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/Proyecto_web-400x174.jpg \"Alzado de la iglesia y casa parroquial del Corazón de Jesús (Fuente: Diario de Navarra)\")](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/Proyecto_web.jpg)\n\nAlzado de la iglesia y casa parroquial del Corazón de Jesús (Fuente: Diario de Navarra)\n\nEl templo fue proyectado por el arquitecto Miguel Tomás Arrarás Urdániz, autor de la cercana iglesia de San Juan Bosco, en el barrio de Abejeras, inaugurada ese mismo año, con la que comparte características funcionales. La empresa constructora fue ACR y los aparejadores que intervinieron en la obra Martín Aranguren y Sebastián Zalguizuri.\n\nSu coste rondó los 50 millones de pesetas, de los que el Arzobispado aportó 10 millones del fondo ínter parroquial más 4 millones iniciales allegados por los feligreses. El Apostolado de la Oración, que había pretendido la construcción de un monumento al Corazón de Jesús, para cuyo fin había abierto una suscripción popular, entregó a la Parroquia 600.000 pesetas. Se sumó el coste de la venta del piso que había sido sede provisional de la Parroquia hasta entonces, siendo aportado el resto por las suscripciones de los feligreses.\n\nLas gestiones para obtener licencia de construcción del Ayuntamiento fueron arduas pero se impuso a ellas con su tesón característico nuestro primer párroco, don Agustín García Larragueta, que hubo de pleitear incluso para anular la cuota de urbanización exigida por el consistorio a la parroquia por el inicio de las obras, de 1.785.620 pesetas, obteniendo el respaldo del Tribunal Administrativo de Navarra que emitió sentencia favorable a su exención en abril de 1985.\n\nDesde un principio, feligreses y sacerdotes (formó equipo con don Agustín don Jesús Recalde Alzórriz) acordaron el ideario en el que aspiraba a basarse la comunidad parroquial entendida como comunidad de pequeñas comunidades penetrada por un clima acogedor que favoreciera la coparticipación responsable en la marcha de la parroquia; centrada en la idea de Jesús Resucitado, proyectada en una forma de vivir la fe con alegría ante la buena noticia de la salvación; y comunidad misionera solidaria con los que sufren conforme a los deseos de Jesús proclamados por su Palabra.\n\n[]()\n\n## El conjunto arquitectónico\n\n Está formado por el templo y la casa parroquial aneja. La iglesia tiene una superficie de 500 m2. Es de una planta en forma de abanico, de acuerdo a las normas litúrgicas postconciliares para favorecer la participación de los cristianos durante la Santa Misa, con ligera pendiente y capacidad para 500 personas distribuidas en bancos, más una pequeña capilla para uso diario que puede anexionarse al recinto parroquial más amplio en los días de mayor afluencia por medio de unas puertas corredizas, y en cuyo espacio se ubican tanto los confesionarios como la sacristía. En su día fue un detalle innovador el que se habilitasen dos pequeñas salas situadas a la entrada del templo y separadas de la nave central por cristaleras destinadas a las familias con niños pequeños. Las paredes combinan el enlucido pintado con el ladrillo cara vista marrón con que se edifica el conjunto, contrastando su rugosidad con el terrazo pulido del suelo. En el techo las instalaciones eléctricas quedan disimuladas por una armadura metálica a modo de artesonado cuyas aguas confluyen en una linterna de sección circular que aporta luz al altar situado bajo ella, y que por fuera culmina en una cruz. Asimismo el templo se ilumina desde el exterior a través de unas ventanas acristaladas con vidrieras.\n\nAnexionado a la iglesia se sitúa el edificio parroquial de cuatro plantas. En la planta baja se encuentran los tres despachos de los sacerdotes, en la primera y segunda las salas para sus reuniones con los feligreses, sesiones de catequesis y grupos diversos, y ya en la tercera la vivienda para los sacerdotes encargados del servicio religioso.\n\nLos accesos exteriores van protegidos con marquesina el del templo y pórtico el de la casa parroquial.\n\nIdentifican la Parroquia externamente, al este y al sur, dos cruces diseñadas por el feligrés Alfredo Díaz de Cerio, superpuesta la segunda de ellas a los rótulos que identifican el conjunto, en aluminio lacado.\n\n[]()\n\n## [![Conjuntoparroquial_web](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/Conjuntoparroquial_web.jpg)Ornamento exterior\n\nAl atractivo contraste volumétrico del templo con la casa parroquial, de los vanos que ritman los paramentos y de la pequeña cruz que remata la linterna, se unen las mencionadas cruces proyectadas por su autor en 1984 y ejecutadas dos años más tarde en lámina de acero corten (de la la fachada OE) y de aluminio (la S., que fue posterior a la primera), plegada, soldada y esmaltada en negro mate, con aire ligero e iluminación eléctrica trasera, de dimensiones 600 x 400 cm.\n\nAmbas son cruces latinas en las que alternan diferentes ritmos: alargamiento y contracción de los extremos, materia y hueco en el trazado, aligeramiento de las líneas horizontales frente a la ascendente verticalidad del eje longitudinal, y luz eléctrica posterior que en la noche anima los huecos, adelgaza los perfiles y ensalza el símbolo con un delicado misticismo, gracias al sugerente efecto “fotográfico” de presencia y sugerencia de la cruz, lo que confiere a este símbolo cristiano un valor significativo.\n\n[![](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/CruzCerio_web.jpg)\n\nSegún el artista, en su ejecución trató de aunar tradición con modernidad, con el fin de identificar el carácter de templo cristiano de un edificio que no exhibía sino una discreta adscripción al culto religioso. Después de la colocación de las cruces se añadió a la base de las mismas el rótulo, en mayúsculas, de PARROQUIA / DEL CORAZÓN DE JESÚS (en cuyo diseño no intervino Díaz de Cerio), elaborado por Luminosos Arga Digital. Fue una cruz pensada para un barrio moderno, en gestación, de matrimonios jóvenes, con cierta cultura, receptivos por tanto a un nuevo concepto de cruz sobre un fondo tradicional de ladrillo. Cruz comprensible por su diseño reconocido (horizontal + vertical) pero a la vez con un cierto aire de renovación, con una parte artística que recuerda a los movimientos geométricos fríos (el suprematismo del ruso Malevitch y el racionalismo arquitectónico en general), y a la personal labor del arquitecto navarro Víctor Eúsa, que le llevó a reflexionar ante dos de sus obras emblemáticas (el Seminario conciliar y la Iglesia de los Hnos. Paúles) acerca de las posibilidades expresivas de la cruz en unión al ladrillo y el valor reconocido a la arista en el juego volumétrico. El resultado es esa cruz de aire liviano, de ritmo musical y apariencia mutante, ya que se puede decir adopta dos apariencias -la de mañana y tarde, y la de la oscuridad- proyectándose en el muro gracias a la potente perspectiva de la alameda.\n\nEn la polifacética obra de Alfredo Díaz de Cerio, pintor, escultor y ceramista, además de poeta, el signo de la cruz es una de las iconografías que más le han atraído y que ha tratado con las más diversas técnicas y estilos, siendo en su pintura el concepto expresionista el más utilizado para fijar el gesto o el retorcimiento del cuerpo por el dolor del suplicio, si bien otras versiones resultan profundamente poéticas. Ya en 1968 realiza el que podría ser el primero de sus Crucificados, al que desde entonces se han sumado varias decenas, generalmente en pequeño formato, más interesante para fijar lo esencial –que para él era el espíritu- hasta principios del siglo XXI, en que pintó una serie de Cristos que levitaron sobre horizontes difusos. La cruz tuvo una presencia semejante en su creación literaria, de manera explícita –escribió un *Via Crucis* poético en 1969- o por medio de invocaciones a Dios que traducían su búsqueda del Absoluto.\n\n[]()\n\n## Imágenes de culto y decoración interior\n\n[![](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/Vidriera1_web.jpg)\n\nLas vidrieras del perímetro exterior de la iglesia y el mosaico del altar son obras que fueron encargadas por la Parroquia a Domingo Iturgáiz, artista dominico. En ellas, con un lenguaje tendente a la abstracción obtenido mediante la combinación intencionada de cristales polícromos unidos con cemento dentro de un bastidor de hierro, su autor plasmó una completa iconografía de los momentos álgidos de la Historia de la Salvación: la creación del mundo (agua, luz, cosmos), el pecado original (árbol, fruto, serpiente), la Encarnación (El Espíritu Santo fecunda a María), el Nacimiento de Jesús (cuna, estrella, símbolos de los magos), los símbolos que se corresponden con los diversos títulos de Cristo -Buen Pastor (cayado, redil…), Camino hacia el Padre (ruta ascendente hacia el Cielo), Agua Viva (surtidor), Luz del Mundo (llama que irradia resplandor), Vida (vid y sarmientos), Amor (corazón radiante)- así como la Muerte Redentora de Cristo (cruz), la Resurrección del Señor (“paso” de la muerte a una Vida Nueva), la Venida del Espíritu Santo (Pentecostés, irrupción de luz), y la Presencia Actual de Cristo entre nosotros por medio de la Sagrada Escritura (Biblia, lámparas de la Fe encendidas), Eucaristía (pan y vino, mesa y comensales) y, como culminación de toda la historia de la Salvación, el Reino de los Cielos (acogida paternal de Dios a sus hijos). La serie de vidrieras continúa en la Capilla: nudos que simbolizan la unión de Cristo con los hombres y de los hombres con Él, el cáliz con la Sagrada Forma que representa la Eucaristía, el cesto con panes alusivo a los milagros del Señor y al Pan de Vida Eterna implícito en la misma Eucaristía, el Crismón o anagrama de Jesucristo Principio y Fin del universo, la [![Vidriera2_web](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/Vidriera2_web.jpg)Cruz en forma de ostensorio, el pez coronado por la palabra griega ΙΧΘΥΣ (cinco letras que son las iniciales de *Jesús Cristo, Hijo de Dios, Salvador* pero que unidas significan también pez y por ello los cristianos perseguidos en la Antigüedad lo utilizaron como imagen para reconocerse entre si) y el cáliz con la Sagrada Forma antepuesto a una tienda de campaña, en alusión a las palabras de San Juan (1,14): *“Y la Palabra se hizo carne y acampó entre nosotros”*.\n\nLos entrepaños que dejan libres los grandes ventanales con vidriera de la iglesia se han empleado para distribuir las estaciones del *Via Crucis*, con la peculiar añadidura de una decimoquinta estación de Jesús Resucitado, emergente en toda su majestad del sepulcro a cuyos lados dos soldados romanos quedan espantados por el suceso. Son medio-relieves realizados por Talleres de Arte Granda, de Madrid, según la técnica del repujado sobre plancha de latón e imitando la talla sobre madera. Las obras de arte salidas de este taller abierto por el presbítero Félix Granda Buylla en 1891, que ha tenido continuidad hasta el presente, se caracterizan por la belleza de su dibujo, la ejecución cuidadosa y la profundidad de su pensamiento que se resume en dignidad (gravedad de actitudes sin gestos trágicos excesivos de las figuras), religiosidad (hablar y enseñar acerca de Cristo, en este caso de su Pasión), popularidad (que sea un arte entendido por todos) y simbolismo (de modo que el sentido de cada elemento significativo enlace con el espíritu del arte medieval).\n\n[![Icono_web](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/Icono_web-1.jpg)[![Ofrecimiento_web](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)](http://www.zubiaurcarreno.com/wp-content/uploads/1994/01/Ofrecimiento_web.jpg)Jesucristo Resucitado es la representación que preside las celebraciones desde el Altar Mayor, que el artista Iturgáiz inspiró en el icono de una religiosa católica egipcia del monasterio benedictino de Nuestra Señora del Calvario, del Monte de Los Olivos, en Jerusalén, hacia 1977. Su autor –el mismo de la vidrieras- utilizó la técnica del mosaico, que hunde sus raíces en los artes paleocristiano y bizantino, pero introduciendo algunos cambios intencionados. Es frontal, con sus llagas patentes y los brazos abiertos sobre una cruz de extremos potenzados que se superpone a una irradiación de su propia figura. Está vivo, con su corazón abierto y sangrante, símbolo de su entrega por la salvación de los hombres, pero en su caso la túnica roja del modelo se ha transformado en blanca para simbolizar a Cristo triunfante sobre la muerte, que se abre voluntariamente la herida del costado para mostrar el Corazón que da nombre a la Parroquia. Las tonalidades ocres predominantes del conjunto son avivadas por teselas encarnadas de vidrio de Murano para aparentar la sangre que fluye de su pecho alanceado y el nimbo dorado tras la cabeza. Fueron los paleocristianos quienes desarrollaron la costumbre de aplicar el mosaico –que los antiguos grecolatinos empleaban como pavimento- a los lienzos de pared para evitar pisar las imágenes religiosas en ellos representadas.\n\nJunto al mosaico, emblema de nuestra Parroquia, copreside el altar mayor la talla de la Virgen del Ofrecimiento, que presenta una peculiar manera de mostrar al Niño Jesús en ofrecimiento de su Madre a los hombres. Su Hijo abandona el regazo de su Madre con sus brazos abiertos en actitud de entrega preanunciando su futura redención del género humano por medio de su Encarnación y Pasión, en un movimiento desequilibrado propio del barroco. María aparece de pie sobre una peana, ligeramente inclinada hacia delante. Viste una sencilla túnica beige, en realidad el mismo color de la madera en que se labró la figura, con ligeros pliegues, con un manto azul abrochado al cuello y su cabeza cubierta con un velo que cae por detrás de su hombro derecho y tapa por delante parte del izquierdo, en tanto el Niño luce también una simple túnica pero velada en blanco. La talló para nuestra iglesia, en madera de pino ruso, en 1984, el artista navarro-valenciano José López Furió, a base de grandes planos sintéticos que estilizan su canon cuyo sereno clasicismo no se quiso alterar con una policromía efectista, por ello simplemente se meló su superficie con un ligero encerado y policromó con dos colores (azul y blanco) apenas levemente aplicados, tarea que el escultor encomendó al restaurador pamplonés Agustín Guillén López.\n\n[![Pila-bautismal_web](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/Pila-bautismal_web.jpg)[![](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)](https://www.zubiaurcarreno.com/wp-content/uploads/2019/08/Inmaculada_web.jpg)En el presbiterio se instaló una sencilla pila bautismal elaborada en piedra por autor popular con su copa de sección circular aristada al estilo del gótico rural procedente de la iglesia de San Esteban de Janáriz, ayuntamiento de Lizoáin, cerca de Aoiz, con su pedestal semiesférico sobre base cuadrada adornada con bolas en sus vértices (el fuste es reconstruido), de 100 x 76 cm., siguiendo la práctica de nuestra Diócesis de recuperar piezas patrimoniales que hayan quedado sin uso por la despoblación del territorio o sin una finalidad clara. En 2018 esta pila se trasladó a la entrada del templo, en un baptisterio realizado a propósito para significar, aún mejor, el ingreso en la fe a Jesucristo de los nuevos bautizados. Aquella práctica de la Diócesis explica también el que, en la pared lateral de la Capilla, se haya colgado una imagen del siglo XVI, de inspiración romanista, de la Virgen con el Niño, procedente de la iglesia de San Pedro de la Rúa, en Estella, cuyo autor se desconoce. El Niño, sentado sobre el brazo izquierdo de su madre, bendice con su mano derecha. A los pies de la Madre queda la luna asociada a su Inmaculada Concepción que se inspira en el *Apocalipsis* de San Juan (12,1) donde se lee: «Una gran señal apareció en el cielo, una mujer vestida de sol, con la luna bajo sus pies y una corona de 12 estrellas en la cabeza». La talla es de madera dorada, policromada y estofada para dar apariencia de brocado al ropaje de las figuras, cuya ampulosidad preanuncia el estilo barroco.\n\n[![Sagrario2_web](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/Sagrario2_web.jpg)[![Sagrariopuerta_web](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/Sagrariopuerta_web.jpg)Continuando en la Capilla, otra hermosa pieza del mobiliario litúrgico que destaca es el sagrario realizado por el decorador religioso Pedro José Villalba, de Madrid, en el primer tercio del siglo XX, en bronce de estilo neo-románico, con incrustaciones de marfil y de esmalte polícromo en su puerta, más columnas de mármol verde veteado, pues su estructura se asemeja a una portada de iglesia románica, con sus dos arquivoltas sobre columnillas de orden corintio de fustes lisos. La arquivolta exterior va decorada con triángulos entrelazados y su borde exterior es liso. La interior se ornamenta con motivos vegetales continuos, presentando en su borde un relieve en punta de diamante. La puerta del sagrario lleva una banda en relieve en punta de diamante, así como una orla exterior adornada con esmalte consistente en tallos vegetales entrelazados, con alternancia de dos tonos de azul y ocre, según la técnica del “cloisonné”, y diez capullos de bronce salteados.\n\nEl fondo de la puerta presenta flores y tallos en abigarrada disposición en torno a un medallón central con la figura del Buen Pastor que simboliza a Jesús. Esta decoración vegetal es abrazada en la parte inferior por unos lazos lisos, que dejan libre un espacio central del que emana una fuente, ante la que beben dos ciervos realizados en marfil incrustado en el bronce (la cierva a la derecha y el ciervo a la izquierda). El medallón central es de forma elíptica, bordeado por una cenefa de hojas, el cual enmarca una chapa metálica esmaltada donde se representa ante un paisaje de horizonte bajo, destacándose sobre el cielo, el Buen Pastor configurado como “moscóforo”: un hombre joven y hermoso que lleva sobre sus hombros un cordero, con el zurrón terciado al pecho y en la mano derecha un haz de espigas y de uvas, con una oveja a sus pies. Todo el conjunto está lleno de símbolos eucarísticos: la “Fuente de Agua Viva” a la que acuden los ciervos (los hombres) es Cristo; las espigas y uvas que porta el Buen Pastor son la misma sustancia de la Eucaristía, y Cristo, “Cordero Eucarístico” que se deja comer por todos, es, a la vez, el Pastor de todos los hombres.\n\nMide 47 cm. de altura por 38,5 cm. de anchura. Se halla encastrado en la pared de la Capilla lateral de la Iglesia. Fue donado en 1997, por las Damas Catequistas de la Obra Social y Cultural Sopeña (OSCUS) quienes, por razones urbanísticas, habían trasladado su residencia desde el barrio de San Juan al de Iturrama, teniendo que cerrar la capilla abierta al culto.\n\n[![InteriorCapilla_web](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif)](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/InteriorCapilla_web.jpg)La iconografía religiosa se completa, además de con la cruz procesional, con el crucifijo que habitualmente preside la Capilla del Santísimo. Son imágenes inspiradas en Cristo durante su agonía, con aspecto sufriente. Pero, en Navidad, tenemos la alegría de volver a besar los Niños Jesuses que celosamente guarda nuestra Parroquia, y el belén que con perspectivas difíciles, bellas figuras, manantial y efectos luminotécnicos, escenifica el nacimiento del Salvador.\n\n[]()\n\n## Los artistas de la iglesia\n\n[]()\n\n### **Alfredo Díaz de Cerio Martínez de Espronceda**\n\n(Mendavia, 1941-Pamplona, 2008). De formación autodidacta, el interés por la pintura se le despertó en 1962. Cuatro años más tarde emigró a Suiza para trabajar en una empresa química (1966-1967). En viajes puntuales por los países próximos, conoció la pintura de Vermeer de Delft, Van Gogh, Kandinsky, Kokoschka y la pintura alemana del momento. Conoció a la pintora Margarethe Liebau Kornemann, autora de tintas expresionistas. Pero será el padre benedictino Kunibert quien le organizó las primeras exposiciones en el Ayuntamiento de Brilon Stadt (1971). Kunibert, que le puso en contacto con la obra de Durero, fue el primero en advertir en él la fuerza de su mundo interior manifestado en dos direcciones: los versos y la potencia expresiva del color. A fines de 1974 volvió a España y durante dos años trabajó en Zaragoza para la empresa Muresa, especializada en revestimientos cerámicos. Fue ayudante del escultor Ángel Orensanz, que le interesó en la estructura, el hueco y la flexión de las formas escultóricas. En este momento realizó sus primeros modelados zoomórficos en barro. Se instaló definitivamente en Pamplona en 1976.\n\n[![](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif \"Alfredo Díaz de Cerio (Foto: Paco Ocaña)\")](http://www.zubiaurcarreno.com/wp-content/uploads/2016/08/Ocana2000_web.jpg)\n\nAlfredo Díaz de Cerio (Foto: Paco Ocaña)\n\nBuen conocedor del arte centroeuropeo, se puede decir que en Alemania se gestaron sus orientaciones estilísticas posteriores: postimpresionismo de tonos fuertes y cubo-surrealismo influenciado por Ernst y Klee, en la década 1970; surrealismo mediante la representación de formas orgánicas al modo visionario de Dalí y Tanguy, construcciones metafísicas a la italiana, expresionismo fuertemente abstracto con significado mistérico-religioso plasmado mediante una pintura en bajorrelieve a la que incluso añadirá metales, en los 80; realismo intenso, ya preludiado en su pintura metafísica anterior, pero ahora con una clara referencia en Antonio López, durante la década 1990. Mediante la arcilla buscó la unión con el entorno cósmico, recurriendo en su escultura de nuevo a las formas surrealistas y orgánicas. Su vitalidad creadora le llevó a realizar también tintas, acuarelas y dibujos, interesándose en la ilustración y el cartelismo. Publicó cinco libros de poesía y obtuvo numerosos reconocimientos en este campo, como los premios “Luis Rosales” y “Vicente Aleixandre”. Como pintor recibió sendas medallas de oro en Rheinfelden (II Exposición de Arte Español, 1972) y Basel (1972). Realizó más de cincuenta exposiciones individuales y otras tantas colectivas tanto en España como en Centroeuropa. Entre las primeras merecen ser destacadas las antológicas de 1994 en el Museo de Navarra y de 2007 en la Galería Uno2Tres, ambas en Pamplona.\n\n[]()\n\n### **Fray Domingo Iturgáiz Ciriza, O.P.**\n\n[![](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif \"Domingo Iturgáiz O. P. (Foto: Orden de Santo Domingo)\")](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/Iturgaiz_web.jpg)\n\nDomingo Iturgáiz O. P. (Foto: Orden de Santo Domingo)\n\n(Villava, Navarra, 1932-2015). Doctor en Arqueología Cristiana por el Instituto Pontificio del Vaticano, ha sido profesor de Historia del Arte Cristiano en la Facultad de Teología de Burgos, y, en su faceta artística, ha destacado en las artes del mosaico y del vitral empleando una iconografía cristiana. Su encuentro con el arquitecto dominico Francisco Coello de Portugal, autor del santuario leonés de la Virgen del Camino, para cuyo Seminario Mayor y Menor realizó un retablo-mosaico de 96 m2. le confirmó en su vocación artística, donde se apreciaban deudas con el Beato Angélico (dibujo, emotividad religiosa, composición…) conjugadas con inquietudes surgidas por influencia de José María de Labra, pintor de voluntad mural, tan sabedor del oficio como preocupado por la misión social del arte.\n\nEn la década de 1950 el padre dominico José Manuel de Aguilar, fundador del Movimiento de Arte Sacro, le interesó por las revistas de arte extranjeras. Carlos Muñoz de Pablos le acercó a la especialidad de la vidriera. Realizó su primera exposición en la galería madrileña Biosca, logrando un éxito rotundo de público y crítica. Escribieron sobre su obra los más prestigiosos críticos, que destacaron su esfuerzo por abrir nuevos cauces al mosaico clásico, dotándole de un vigor plástico afirmado en la dinámica composición y en un colorido sobrio conseguido con exóticos materiales (tubo de bronce, vidrio plano, desperdicios de cantería, mármol laminado), que dieron a sus mosaicos “un tono expresionista de raíz románica”.\n\nLos encargos de mosaicos se sucedieron en la década siguiente: Crucificados de la Parroquia de Nuestra Señora de la Fuencisla (Madrid) y de la Capilla del Centro de Espiritualidad de la Compañía de Jesús en Loyola, y Anunciación de la Capilla del Convento de la Anunciata de las Dominicas de Monte Mario (Roma). En los años 60 emprendió la realización de vidrieras de gran superficie, algunas de comprometida traza (Iglesias de Nuestra Señora del Rosario de El Salvador y la Episcopal de Venice en Florida). Trasladado su taller de Madrid a Villava, ejecutó vitrales para las parroquias pamplonesas de Santa Vicenta María, Corpus Christi, Corazón de Jesús, y para la de San Miguel Arcángel de Noain, y, fuera de la diócesis, para la Saint Dominic Church de Miami y Convento de Santo Domingo de Caleruega, Burgos.\n\nDesde 1995 intensificó su estudio del arte religioso, fruto del cual fueron sus publicaciones *Iconografía de Santo Domingo de Guzmán*, *Santo Domingo de Pamplona*, *El crismón románico en Navarra*, *Museografía e iconografía de Santo Domingo de Guzmán* o *El Angélico, pintor de Santo Domingo de Guzmán*.\n\nAl final de su vida renació su interés por el mosaico pero mediante el bodegón, paisaje y retrato que llevó a domicilios particulares, sirviéndose entonces ya no de teselas convencionales sino de cantos rodados por el mar, cuyas sorprendentes propiedades lumínicas y cromáticas, al asociarse en taracea dinámicamente compuestos o truncados, mostraban la sugerente expresión y extraordinaria vivacidad impresionista de que fue capaz. «La simbiosis de la piedra-materia con el espíritu-forma tiene para mí como resultado final la comunicación visual de una vida renovada», escribió en *Ars Sacra*.\n\n[]()\n\n### **José López Furió**\n\n[![](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif \"José López Furió (Foto: Fondo López Blasco)\")](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/LopezFurio_web.jpg)\n\nJosé López Furió (Foto: Fondo López Blasco)\n\n(Benimaclet, Valencia, 1930-Pamplona, 1999). Discípulo de su padre el imaginero José López Catalá, hijo de un hortelano que tras la Guerra Civil se hizo marmolista. Estudió Bellas Artes en la valenciana Academia de San Carlos. Sobre 1960 llegó a Alsasua como profesor de Dibujo del Instituto Laboral y en los siete años que permaneció en el lugar, antes de su traslado definitivo a Pamplona, talló las tres imágenes de su parroquia -el Corazón de Jesús, La Milagrosa y San José- que le servirían de carta de presentación. Tres sacerdotes con acusada sensibilidad, don Cipriano Lezáun, don Carmelo Velasco, entonces rector del Seminario, y don José María Imízcoz, influyeron para que recibiera los primeros encargos de la Diócesis. Su madurez artística pronto llegaría con el apoyo de otras personalidades, como don José María Zunzunegui, profesor del Seminario de Vitoria, y el industrial de Legazpia don Patricio Echeverría, realizando de esta manera incursiones profesionales en Guipúzcoa.\n\nA pesar de ser un artista de «fin de semana», ocupado en sus clases de Dibujo Técnico y Artístico en los Colegios El Redín y San Miguel de Aralar, y en su familia, sin embargo fue capaz de tallar hasta 300 estatuas, 200 de ellas para las iglesias navarras. Ello le obligaba a estudios biográficos previos de los Santos, para conocer su carácter y trasladar sus rasgos psicológicos a las manos de la efigie, *porque ellas dicen todo sobre* *una persona*, según sus palabras. Entre sus obras más apreciadas se encuentran la Virgen Milagrosa de Alsasua, la Piedad de la Hermandad de Caballeros Voluntarios de la Cruz de Pamplona, los pasos procesionales de Cáseda, el San José Obrero de las M.M. Josefinas del barrio pamplonés de La Magdalena, el San Francisco Javier del pabellón nuevo del Seminario Conciliar, el Sagrado Corazón de Jesús del Convento del mismo nombre de la calle Media Luna, el Salvador de Ibañeta, y la Inmaculada de los P.P. Reparadores de Puente la Reina. También realizó tallas para ocupar el vacío de imágenes desaparecidas (para el Monasterio de Leire y Santa María de Eunate) y reproducciones emotivas, como una del Santo Cristo de Javier, que se entregó al Santo Padre, Juan Pablo II, con motivo de su visita al santuario en 1982, y otras copias para iglesias de fuera de Navarra, incluso de España (Francia, Venezuela, Ecuador…). En su Valencia natal dejó algunas tallas de valía (Parroquias de San Antonio y San Vicente Mártir de Cullera).\n\nSus iconografías preferidas fueron la Virgen con el Niño y los Crucificados, pero no desechó otras figuras como el Salvador, la Inmaculada, la Sagrada Familia y los Santos, en particular San Francisco Javier, ni pasos procesionales, Vía Crucis, relieves o dioramas. Muchas de estas obras contaron con la asistencia de policromadores como la familia Guillén (Agustín y su hijo Roberto). En su concepto, la imagen religiosa debía transmitir una unción necesaria. Así se explican la pureza, la bondad y la espiritualidad que emanan de su estatuaria.\n\nDesde el punto de vista estilístico, López Furió fue un escultor neo-figurativo, porque sin renunciar a la esencia volumétrica del románico o del gótico, sin desechar el ritmo del barroco u olvidar esquemas compositivos de los grandes maestros, asumía la síntesis formal de los creadores modernos. *Dentro del clasicismo mi escultura está simplificada y estilizada, en todo caso busco innovar y no repetirme*, afirmaba. Su admiración se repartió por igual entre los escultores José Capuz, un valenciano parecido a él en su paso del barroquismo a la abstracción; el conquense Luis Marco Pérez, por haber llegado a un realismo exacerbado casi expresionista, tendencia que estuvo presente en su escultura profana con que inauguraría la pamplonesa Sala de Arte “Conde de Rodezno” en 1968; y el francés Auguste Rodin, uno de los padres de la escultura moderna.\n\n[]()\n\n## Fechas destacadas en la primera evolución de la Parroquia\n\n24 de abril de 1978. Nombramiento del Encargado de la futura Parroquia del Corazón de Jesús (don Agustín García Larragueta).\n\n1 de marzo de 1979. Decreto episcopal de creación de la Parroquia.\n\n1 de marzo de 1979. Nombramiento del primer párroco (don Agustín García Larragueta).\n\n5 de marzo de 1979. Primera “Comunicación parroquial a los feligreses”.\n\n11 de marzo de 1979. Comienzo de la vida de la Parroquia: Primera Misa en la iglesia provisional.\n\n18 de marzo de 1979. Primeros Bautizos en la Parroquia.\n\n25 de marzo de 1979. Primer “Diálogo Comunitario sobre el Estilo de la Parroquia”.\n\n11 de abril de 1979. Primera “Celebración Comunitaria del Sacramento de la Penitencia”.\n\n14 de abril de 1979. Primera Vigilia Pascual y primer piscolabis parroquial.\n\n24 de abril de 1979. Comienzo de la Catequesis de los chicos.\n\n14 de mayo de 1979. Primera “Encuesta sobre Estilo de la Parroquia”.\n\n22 de junio de 1979. Primera “Asamblea Parroquial”.\n\n1 de octubre de 1979. Comienza la preparación del “Grupo de Catequistas”.\n\n4 de octubre de 1979. Primera reunión de la Junta Parroquial de Administración.\n\n5 de octubre de 1979. Comienza el “Grupo de Liturgia”.\n\n3 de noviembre de 1979. Comienzan las reuniones de los padres de chicos de Catequesis.\n\nDiciembre de 1979. Primer número de la Hoja Parroquial *Nuestra Parroquia*.\n\n14 de octubre de 1980. Comienzan las “Reuniones Bíblicas de Adultos”.\n\n13 de diciembre de 1980. Comienzan los “Diálogos de Jóvenes”.\n\n29 de marzo de 1983. Comienza la construcción de la Iglesia Parroquial.\n\n23 de abril de 1983. “Primera piedra” de la Iglesia Parroquial.\n\n11 de marzo de 1984. Inauguración de la Iglesia Parroquial.\n\n8 de diciembre de 1984. Se instala en el altar la imagen de la “Virgen del Ofrecimiento”.\n\n29 de octubre de 1985. Comienza el primer grupo de “Catecumenado parroquial”.\n\n11 de abril de 1987. Comienza el Grupo Scout “Jairoi”.\n\n30 de setiembre de 1987. Comienza el Grupo “Oidajai”.\n\n11 de marzo de 1988. Bendición de la “Cruz” de la fachada.\n\n26 de octubre de 1991. Primera “Ordenación Sacerdotal” en la Parroquia (don José Javier Anaut Máinz).\n\n[![](//www.zubiaurcarreno.com/wp-content/plugins/a3-lazy-load/assets/images/lazy_placeholder.gif \"El autor (dcha.) con don Agustín García Larragueta en Villava, 2019\")](http://www.zubiaurcarreno.com/wp-content/uploads/2015/05/Agustin-con-Javier_web.jpg)\n\nEl autor (dcha.) con don Agustín García Larragueta en Villava, 2019\n\n[]()\n\n## Glosario\n\n[]()\n\n### Arquivolta\n\nCada uno de los arcos superpuestos en disposición abocinada que forman la portada de un templo –o de un sagrario en este caso- en los artes románico y gótico o en sus perduraciones posteriores.\n\n[]()\n\n### Arte barroco\n\nEstilo artístico caracterizado por la ornamentación recargada, lo decorativo, lo efectista, el uso ilusionista de los efectos ópticos, la relevancia de lo asombroso y el dramatismo, que se desarrolló, principalmente, en los siglos XVII y XVIII.\n\n[]()\n\n### Arte bizantino\n\nEl surgido en el Oriente europeo en torno a la ciudad de Bizancio (actual Constantinopla), fundada por el emperador Constantino en 330, como producto de la mezcla de los artes helenístico, romano y paleocristiano, sobre los que predominarán los gustos orientales, el cual influirá poderosamente en la cultura occidental medieval.\n\n[]()\n\n### Arte neo-románico\n\nPervivencia en los siglos XIX y primer tercio del XX del estilo arquitectónico de carácter cristiano que dominó Europa entre los siglos XI y parte del XIII, pero reinterpretado desde el presente, caracterizado por el empleo de arcos de medio punto, bóvedas de cañón y de arista, columnas exentas y contrafuertes desarrollados como elementos arquitectónicos básicos.\n\n[]()\n\n### Arte metafísico\n\nMovimiento artístico italiano de entre 1918 y 1921, creado por Giorgio de Chirico y Carlo Carrà, ligado especialmente a la pintura, que representó un mundo visionario ligado con el inconsciente, más allá de la realidad física.\n\n[]()\n\n### Arte paleocristiano\n\nEl cristiano primitivo hasta el siglo VI, que en Oriente tuvo continuación tras la escisión del Imperio Romano en el llamado arte bizantino.\n\n[]()\n\n### Canon\n\nModelo o prototipo que reúne las características que se consideran perfectas en su género, especialmente el referido a la figura humana que reúne las proporciones ideales.\n\n[]()\n\n### Capitel corintio\n\nTiene apariencia de campana invertida o cesta de la que rebosan las hojas de acanto (planta de hojas largas, rizadas y espinosas), cuyos tallos dan lugar a una especie de volutas o espirales (caulículos) en las cuatro esquinas.\n\n[]()\n\n### Cloisonné\n\nPalabra francesa para explicar la técnica decorativa, principalmente del cobre, por la que el esmalte vítreo se cuece entre los cantos levantados del metal, aunque este esmalte puede verse sustituido por piedras preciosas, vidrio u otros materiales que se incrustan en él, creando contornos definidos.\n\n[]()\n\n### Corten\n\nTipo de acero con alto contenido de cobre, cromo y níquel que hacen que adquiera un color rojizo anaranjado característico, y resulte resistente a la corrosión.\n\n[]()\n\n### Crismón\n\nSímbolo que contiene las dos primeras letras de la palabra «Cristo» en griego y en ocasiones las letras griegas Alfa y Omega relacionadas con la siguiente frase tomada del *Apocalipsis* de San Juan (22,13) y referida al Señor: «Yo soy el Alfa y la Omega, el Primero y el Último, el Principio y el Fin».\n\n[]()\n\n### Cruz potenzada\n\nLa que tiene pequeños travesaños perpendiculares a su eje en sus cuatro extremidades.\n\n[]()\n\n### Cubo-surrealismo\n\nDeterminada fase evolutiva en la que las experiencias del cubismo y del surrealismo se fundieron en un estilo muy peculiar mezcla de lo racional (lo geométrico) con lo subconsciente (irracional), con que se puede calificar determinados momentos evolutivos de la pintura de Picasso, Matta y otros creadores singularmente los dadaístas.\n\n[]()\n\n### Estofado\n\nTécnica empleada por los doradores consistente en raer con la punta del grafio (punzón a propósito) el color dado sobre el dorado de la madera, formando rayas o líneas para tratar de imitar la riqueza de los tejidos.\n\n[]()\n\n### Expresionismo\n\nEscuela y tendencia estética que, reaccionando contra el impresionismo, propugna la intensidad de la expresión sincera aun a costa del equilibrio formal.\n\n[]()\n\n### Expresionismo abstracto\n\nMovimiento pictórico contemporáneo dentro de la abstracción, en concreto, las tendencias informalistas y matéricas posteriores a la Segunda Guerra Mundial. Surgió en los años 1940 en Estados Unidos y se difundió, décadas después, por todo el mundo, ampliándose a la escultura.\n\n[]()\n\n### Icono\n\nObra de arte religioso del cristianismo oriental en el que se representa a Jesús, María, los santos, los ángeles o sucesos bíblicos, que generalmente está pintada sobre una tabla de madera, pero puede estar hecha de metal, esculpida en piedra, bordada, realizada en mosaico, repujado, etc., cuyas características principales son la planitud y el uso del color.\n\n[]()\n\n### Iconografía\n\nDescripción del tema o asunto representado en las imágenes artísticas, así como de su simbología y los atributos que identifican a los personajes representados.\n\n[]()\n\n### Impresionismo\n\nCorriente pictórica del siglo XIX que representa el motivo y su apariencia cromática según la impresión que la luz produce a la vista del ejecutor, y no de acuerdo con la supuesta realidad objetiva. Su principal representante fue el francés Claude Monet.\n\n[]()\n\n### Neo-figuración\n\nO pintura neofigurativa expresionista, es un movimiento artístico de la segunda mitad del siglo XX, caracterizado por una vuelta a la pintura figurativa frente a la abstracción, aunque los pintores tratan el tema de una manera informal y expresionista. Surge como reacción al arte abstracto tras la Segunda Guerra Mundial, en especial durante los años 1950 y 1960.\n\n[]()\n\n### Nimbo\n\nAureola en torno a la cabeza de las imágenes sagradas. En el Cristianismo simboliza la luz divina que alcanza el entendimiento del hombre, el cual la irradiará a su alrededor.\n\n[]()\n\n### Polícromo\n\nDe varios colores.\n\n[]()\n\n### Post-impresionismo\n\nTérmino que se aplica a los estilos pictóricos de finales del siglo XIX y principios del XX posteriores al impresionismo que continuaron utilizando colores vivos, pinceladas distinguibles y temas de la vida real, como los impresionistas, pero intentaron llevar más emoción y expresión a su pintura así como una visión más subjetiva del mundo. Entre sus representantes se hallan Cézanne, Van Gogh y Gauguin.\n\n[]()\n\n### Racionalismo arquitectónico\n\nCorriente nacida en Europa a raíz de las devastadoras consecuencias de la I Guerra Mundial, también por cansancio de la recargada ornamentación del Modernismo anterior, que centra su interés en una nueva estética basada en el uso de nuevos materiales de construcción (acero, hormigón, vidrio), siguiendo conceptos como estructura y función al servicio de la actividad humana, diseñando formas geométricas en ángulo recto bajo una idea dinámica del espacio arquitectónico.\n\n[]()\n\n### Repujado\n\nTécnica artesanal que consiste en trabajar planchas de metal, cuero u otros materiales maleables, para obtener una figura ornamental en relieve.\n\n[]()\n\n### Romanismo\n\nCorriente pictórica y escultórica del Manierismo europeo en la que se imitaba el estilo de los artistas italianos que trabajaron en Roma durante el Renacimiento pleno, principalmente Rafael y Miguel Ángel.\n\n[]()\n\n### Suprematismo\n\nMovimiento artístico de vanguardia enfocado a las formas geométricas fundamentales (en particular el cuadrado y el círculo), que se formó en Rusia en 1915-1916 liderado por Kazimir Malévich.\n\n[]()\n\n### Surrealismo\n\nMovimiento de origen literario y amplia difusión artística, cuyo primer manifiesto fue realizado por André Breton en 1924, el cual intenta sobrepasar lo real impulsando con automatismo psíquico lo imaginario y lo irracional.\n\n[]()\n\n### Taracea\n\nObra realizada con fragmentos de materiales diversos que se embuten en un conjunto formando una representación.\n\n[]()\n\n### Veladura\n\nTécnica consistente en aplicar sobre una superficie capas muy delgadas de pintura, de forma que se transparenten las capas inferiores bajo las superiores, mezclándose el efecto cromático de ambas.\n\n[]()\n\n## Bibliografía\n\nALIENDE RODRÍGUEZ, Jorge. *La escultura religiosa de José López Furió (1930-1999) en la ciudad de Pamplona*. Trabajo Fin de Grado de Historia. Pamplona, Universidad de Navarra, 2014. Texto inédito.\n\nIDEM. “La escultura de López Furió fuera de Navarra”, *Príncipe de Viana*, Año nº 76, Nº 262, 2015 (Ejemplar dedicado a: VIII Congreso General de Historia de Navarra: Comunicaciones. Historia Moderna. Historia Contemporánea. Historia del Arte y Patrimonio. Volumen II), págs. 929-940\n\nDOMEÑO MARTÍNEZ DE MORENTIN, Asunción. “Arte popular”, en GARCÍA GAÍNZA, M. C. *El arte en Navarra*. Pamplona, Diario de Navarra, 1994, tomo 2, pp. 626-631.\n\nEQUIZA, Jesús. “Urbanismo y parroquias en Pamplona y Comarca”, en *Vasconia: cuadernos de historia y geografía*, núm. 29, pp. 47-65. Donostia-San Sebastián, Eusko Ikaskuntza, 1999.\n\n[GARCÍA LARRAGUETA, Agustín]. *Nuestra Parroquia, Boletín de la Parroquia Corazón de Jesús de Pamplona*, núm. 84, junio de 1999.\n\nE informaciones facilitadas al autor el 26 de agosto de 2019.\n\nHALL, James. *Diccionario de temas y símbolos artísticos*. Madrid, Alianza Editorial, 2003. Dos tomos.\n\nVALLE, Eusebio. “Mosaicos de fr. Domingo Iturgaiz”. Localizador: [http://www.dominicoshispania.org/mosaicos-de-fr-domingo-iturgaiz/](http://www.dominicoshispania.org/mosaicos-de-fr-domingo-iturgaiz/) Actualización: 26/12/2003. Consulta: 15/052015.\n\nVARIOS AUTORES. *Guía de escultura urbana en Pamplona*. Pamplona, Ayuntamiento de Pamplona, 2009 (también en http://esculturas.pamplona.es)\n\nWIKIPEDIA. *Félix Granda*. Localizador: [http://es.wikipedia.org/wiki/Félix_Granda](http://es.wikipedia.org/wiki/F%8Elix_Granda). Actualización: 11/03/2015. Consulta: 15/05/2015.\n\n*Diario de Navarra* del 23 de marzo de 1983, p. 13 de Diario 2.\n\n*Navarra Hoy* del 12 de marzo de 1984, p. 5.\n\nY publicaciones del autor.\n\nCategoría: [Historia del Arte](https://www.zubiaurcarreno.com/category/historia-del-arte/) | Etiquetas: [Agustín García Larragueta](https://www.zubiaurcarreno.com/tag/agustin-garcia-larragueta/), [Agustín Guillén López](https://www.zubiaurcarreno.com/tag/agustin-guillen-lopez/), [Alfredo Díaz de Cerio](https://www.zubiaurcarreno.com/tag/alfredo-diaz-de-cerio/), [Arte contemporáneo navarro](https://www.zubiaurcarreno.com/tag/arte-contemporaneo-navarro/), [Domingo Iturgáiz Ciriza](https://www.zubiaurcarreno.com/tag/domingo-iturgaiz-ciriza/), [Félix Granda Buylla](https://www.zubiaurcarreno.com/tag/felix-granda-buylla/), [Jesús Recalde Alzórriz](https://www.zubiaurcarreno.com/tag/jesus-recalde-alzorriz/), [José López Furió](https://www.zubiaurcarreno.com/tag/jose-lopez-furio/), [Miguel Tomás Arrarás Urdániz](https://www.zubiaurcarreno.com/tag/miguel-tomas-arraras-urdaniz/), [Pedro José Villalba](https://www.zubiaurcarreno.com/tag/pedro-jose-villalba/), [Talleres de Arte Granda](https://www.zubiaurcarreno.com/tag/talleres-de-arte-granda/), [Virgen del Ofrecimiento](https://www.zubiaurcarreno.com/tag/virgen-del-ofrecimiento/).",
+            "id": "65b8ec2a-a812-4e9f-ac6b-2b168c3df3f7",
+            "tags": [],
+            "title": "",
+            "type": "text"
+          }
+        ],
+        "title": "Historia"
+      }
+    ],
+    "nav": [],
+    "pageperevent": [
+      "special",
+      "catechism"
+    ],
+    "pageperlocatoin": true
+  },
+  "theme": {
+    "accentColor": "#6d783e",
+    "accentPrimary": "#0000ff",
+    "bodyFont": "Montserrat",
+    "buttonStyle": "solid",
+    "footerStyle": "",
+    "headingFont": "Merriweather",
+    "icon": "https://data.parroquia.app/corazondejesusysantavicenta/media-logo-corazon-de-jesus-santa-vicenta-6bec122b.webp",
+    "image": "https://images.unsplash.com/photo-1546374232-3ec12be8caa6?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Mjd8fG1hcnl8ZW58MHx8fHwxNzg3NjU2MTkzfDA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=DDP",
+    "navStyle": "",
+    "preview": "",
+    "radius": "",
+    "shadow": "",
+    "styles": []
+  }
+}

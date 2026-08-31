@@ -8,11 +8,122 @@
           "description": "## Nos vamos de campamento!!\n\n  \n\nQue traer:\n\n1.  Botella de agua\n2.  Saco de dormir\n3.  Ganas de pasarlo bien\n\n  \n\n  \n\n[Portada](page:cf950b52-9b46-4da4-a4b9-2d9415b4d393)\n\n![](https://images.pexels.com/photos/26559606/pexels-photo-26559606.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Budget+Bizar&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fcloseup-of-stone-statue-of-holy-mary-26559606%2F)",
           "duration": null,
           "id": "evt-5dc155c5-d3e0-4a18-8cc4-9532d3ac3b1b",
-          "image": "",
-          "location": "",
+          "image": "https://images.unsplash.com/photo-1544464116-46970b73f7f2?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MTF8fGplc3VzfGVufDB8fHx8MTc4ODExNTM3MXww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Alessandro%20Bellone",
+          "location": "3a4371a6-1845-469e-9ede-841535950c2d",
           "rrule": "",
           "times": "",
           "title": "Nos vamos de campamento!",
+          "type": "special"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-9c5c5d73-d702-44c6-a266-4d773b5fb657",
+          "location": "3a4371a6-1845-469e-9ede-841535950c2d",
+          "rrule": [
+            "su"
+          ],
+          "times": "11:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-e6d18a95-fa18-4a57-869d-6a154d07fd6b",
+          "location": "3a4371a6-1845-469e-9ede-841535950c2d",
+          "rrule": [
+            "su"
+          ],
+          "times": "12:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-5fbbdab8-9e5b-4865-a8b1-36d21b18ea7e",
+          "location": "3a4371a6-1845-469e-9ede-841535950c2d",
+          "rrule": [
+            "su",
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "20:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-e8a57008-a7ac-4151-a24c-47d86426f250",
+          "location": "3a4371a6-1845-469e-9ede-841535950c2d",
+          "rrule": [
+            "su",
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "20:30",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-abd3a455-979a-48c8-bf0f-951e3de286b9",
+          "location": "4c98205d-979d-4c89-ae8f-fc7081800404",
+          "rrule": [
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr"
+          ],
+          "times": "07:15",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-13968838-e40d-4b28-88e1-6c840ce09834",
+          "location": "4c98205d-979d-4c89-ae8f-fc7081800404",
+          "rrule": [
+            "su"
+          ],
+          "times": "11:30",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-cea213db-0e7e-47fa-af7f-4651e83f0f34",
+          "location": "4c98205d-979d-4c89-ae8f-fc7081800404",
+          "rrule": [
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "19:00",
+          "type": "mass"
+        },
+        {
+          "celebrants": "",
+          "date": "2026-09-10",
+          "description": "## Súper campamento mega guay\n\n  \n\n  \n\nTraer\n\n1.  Saco de dormir\n2.  Ganas de pasarlo bien",
+          "duration": null,
+          "id": "evt-3f5df490-45f7-4d19-b138-8fac6ef3c752",
+          "image": "https://data.parroquia.app/test/media-1000002833-3dacc1ee.webp",
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "Campamento de verano",
           "type": "special"
         }
       ],
@@ -51,7 +162,7 @@
           "location": "",
           "rrule": [],
           "times": "",
-          "title": ""
+          "title": "Eucaristía"
         },
         "icon": "game-icons:jeweled-chalice",
         "id": "mass",
@@ -125,9 +236,26 @@
     ],
     "collaborators": [],
     "description": "",
-    "places": [],
+    "places": [
+      {
+        "address": "Avenida de Egüés, 54-A, 31620, Gorráiz, Navarra",
+        "geo": "42.8229819, -1.5785081",
+        "id": "3a4371a6-1845-469e-9ede-841535950c2d",
+        "images": [],
+        "name": " San Esteban",
+        "tags": []
+      },
+      {
+        "address": "Calle Garajonay, 11, 31621, Sarriguren, Navarra",
+        "geo": "42.812822, -1.5996135",
+        "id": "4c98205d-979d-4c89-ae8f-fc7081800404",
+        "images": [],
+        "name": " Santa Engracia",
+        "tags": []
+      }
+    ],
     "social": [],
-    "title": ""
+    "title": "Sitio de pruebas"
   },
   "nerdy": {
     "rawJson": ""
@@ -147,7 +275,7 @@
         "protected": "Portada",
         "sections": [
           {
-            "filter": "",
+            "filter": "!byday:empty&!mass",
             "id": "b3a2bb8b-6014-4ff4-a7ba-a277b4197885",
             "order": [
               "title"
@@ -157,6 +285,7 @@
             "orderNotas": "",
             "orderSubfila": "empty",
             "orderTabla": "empty",
+            "ordering": "title,dates,skip,times,locations",
             "tags": [],
             "title": "Nuestros eventos",
             "type": "calendar"
@@ -233,6 +362,7 @@
             "orderNotas": "",
             "orderSubfila": "",
             "orderTabla": "",
+            "ordering": "",
             "tags": [],
             "title": "Nuestras celebraciones",
             "type": "calendar"
@@ -241,41 +371,34 @@
             "geo": "{{geo}}",
             "id": "648a63bf-10d3-4ea9-8488-644bd6f98755",
             "image": "",
-            "name": "{{name}}}",
+            "name": "{{name}}",
             "tags": [],
             "title": "Descubre {{name}}",
             "type": "map"
           },
           {
-            "id": "0e1b7802-9bf6-4ae9-a831-f8a4991ef923",
+            "id": "193c0b81-4993-40fe-bba4-83af126469db",
             "images": [],
             "tags": [],
             "title": "",
             "type": "gallery"
-          },
-          {
-            "action": "Donar",
-            "description": "",
-            "goal": null,
-            "id": "aa0d0c96-10c4-4a21-9488-70ff873286de",
-            "image": "",
-            "name": "",
-            "raised": null,
-            "tags": [
-              "3d"
-            ],
-            "title": "",
-            "type": "fundraising"
           }
         ],
-        "title": "{{name}}"
+        "title": "{name}"
       },
       {
-        "description": "",
+        "description": "{subtitulo}",
         "id": "9b4197c3-cc43-4ebb-8cae-f7928a8ccd86",
         "image": "",
         "protected": "Plantilla eventos",
         "sections": [
+          {
+            "html": "{description}",
+            "id": "52d2eba0-d51c-4205-b0db-850b6d903be8",
+            "tags": [],
+            "title": "",
+            "type": "text"
+          },
           {
             "geo": "{{geo}}",
             "id": "5cc0e861-d94b-49d6-aa76-babb49cbc7d0",
@@ -286,21 +409,15 @@
             "type": "map"
           },
           {
-            "html": "{{description}}",
-            "id": "52d2eba0-d51c-4205-b0db-850b6d903be8",
-            "tags": [],
-            "title": "",
-            "type": "text"
-          },
-          {
-            "id": "5191d69a-56cc-4669-84ce-7b8247e8e5d2",
+            "id": "d97ac165-5c04-4fd8-b787-94a574d14ca1",
             "images": [],
+            "list": [],
             "tags": [],
             "title": "",
             "type": "gallery"
           }
         ],
-        "title": "{{title}}"
+        "title": "{title}"
       }
     ],
     "nav": [],
@@ -318,34 +435,11 @@
     "footerStyle": "",
     "headingFont": "Merriweather",
     "icon": "",
-    "image": "https://images.unsplash.com/photo-1546374232-3ec12be8caa6?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Mjd8fG1hcnl8ZW58MHx8fHwxNzg3NjU2MTkzfDA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=DDP",
-    "navStyle": "minimal",
+    "image": "https://images.unsplash.com/photo-1520629716099-d147346eb224?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MjR8fFBhcmlzaHxlbnwwfHx8fDE3ODgxNTY3OTJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Debby%20Hudson",
+    "navStyle": "",
     "preview": "",
     "radius": "",
     "shadow": "",
-    "styles": [
-      {
-        "cssClass": [
-          "text-decoration: underline;",
-          "color: rgb(var(--color-accent));"
-        ],
-        "id": "1f79dc3f-a589-4b46-a699-2516ca40025a",
-        "scroll": false,
-        "selector": [
-          "strong",
-          "h1"
-        ]
-      },
-      {
-        "cssClass": [
-          "opacity: 0;"
-        ],
-        "id": "859ff5d8-0a53-438b-ba12-6f0eacae3fec",
-        "scroll": true,
-        "selector": [
-          "ol"
-        ]
-      }
-    ]
+    "styles": []
   }
 }

@@ -222,8 +222,8 @@
             "type": "map"
           },
           {
-            "id": "3b3b561b-65f9-49e0-9c60-6831be073cf4",
-            "list": [],
+            "id": "386b6d6c-f469-4f20-a0aa-ced3a9d0de88",
+            "images": [],
             "tags": [],
             "title": "",
             "type": "gallery"
@@ -238,6 +238,7 @@
         "sections": [
           {
             "id": "91d0bfbc-e530-424a-aa64-d478ad364760",
+            "images": [],
             "list": [],
             "tags": [],
             "title": "",

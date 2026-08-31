@@ -303,6 +303,7 @@
           {
             "_block": "gallery",
             "id": "59e9c713-f58c-46b4-a7de-2941efcb84f0",
+            "images": [],
             "list": [
               "/media/ABRE-LOS-OJOS-STANDAR.webp",
               "/media/ChatGPT-Image-5-feb-2026-18_53_33.webp"
@@ -904,18 +905,14 @@
     "accentColor": "#ffa500",
     "accentPrimary": "",
     "bodyFont": "Quicksand",
-    "borderRadius": "1",
-    "borderWidth": "1.25",
     "buttonStyle": "",
     "footerStyle": "",
     "headingFont": "Story Script",
     "icon": "",
     "image": "",
     "navStyle": "default",
-    "preview": "",
     "radius": "",
     "shadow": "",
-    "shadowDepth": "1.50",
     "styles": [
       {
         "cssClass": "opacity: 0;",

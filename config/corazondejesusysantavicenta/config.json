@@ -110,6 +110,335 @@
           ],
           "times": "12:00",
           "type": "mass"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-d815dbad-7032-419a-a10c-4be0b5a73fbb",
+          "image": "https://data.parroquia.app/corazondejesusysantavicenta/media-jairoi-6e1300a9.webp",
+          "images": [
+            "https://data.parroquia.app/corazondejesusysantavicenta/media-jairoi-6e1300a9.webp"
+          ],
+          "location": "",
+          "rrule": [
+            "sa"
+          ],
+          "times": "",
+          "title": "Grupo Scout \"Jairoi\"",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "De 4º Primaria a 1º Eso",
+          "duration": null,
+          "id": "evt-bfa2a99d-15e7-4eb6-91d8-3bad7a85d424",
+          "image": "",
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "su"
+          ],
+          "times": "11:00",
+          "title": "Catequesis infancia y pre-adolescencia",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "A partir de 2º ESO",
+          "duration": null,
+          "except": [],
+          "id": "evt-441de461-9d99-4c99-a98b-a180c7d3d703",
+          "image": "",
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "th"
+          ],
+          "times": [
+            "19:50"
+          ],
+          "title": "Adolescencia - \"Edge\"",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Caminamos y crecemos juntos para profundizar en la fe. A partir de 17 años. Martes tarde-noche",
+          "duration": null,
+          "id": "evt-10faeac5-9a6f-4075-8f8b-35045feaa04c",
+          "image": "https://data.parroquia.app/corazondejesusysantavicenta/media-lifeteen-a59455b1.webp",
+          "images": [
+            "https://data.parroquia.app/corazondejesusysantavicenta/media-lifeteen-a59455b1.webp"
+          ],
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "tu"
+          ],
+          "times": "",
+          "title": "Life teen",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Itineario para formarse en la fe en la etapa universitaria y vivir juntos el seguimiento de Cristo",
+          "duration": null,
+          "id": "evt-7b2c42a4-95c7-4f4f-b4ee-685c3a07caf0",
+          "image": "",
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": "",
+          "times": "",
+          "title": "College life",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Grupos de fe para universitarios. Para compartir la cercanía con el Señor en la etapa de la universidad",
+          "duration": null,
+          "except": [],
+          "id": "evt-dc1bb098-b0d3-4c82-93ae-2935577d5ab2",
+          "image": "",
+          "images": [
+            "https://images.pexels.com/photos/7683615/pexels-photo-7683615.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=RDNE+Stock+project&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fgroup-of-people-standing-gray-railing-7683615%2F"
+          ],
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "th"
+          ],
+          "times": "21:00",
+          "title": "Universitarios",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Madurar la felicidad en pareja teniendo a Dios presente",
+          "duration": null,
+          "except": [],
+          "id": "evt-13dbbe6c-416f-4648-85b9-b7cd66c948b3",
+          "image": "",
+          "images": [
+            "https://images.unsplash.com/photo-1555993539-2a718234a290?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MTR8fGNhdGhvbGljJTIwRGF0aW5nfGVufDB8fHx8MTc4ODE4MjY2MXww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Spencer%20Davis"
+          ],
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [],
+          "times": "",
+          "title": "Novios",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Para profundizar y compartir en la vivencia de la vocación al matrimonio cristiano.",
+          "duration": null,
+          "id": "evt-49093014-4c6f-4473-8f39-059db6ad1a9f",
+          "image": "",
+          "images": [
+            "https://images.unsplash.com/photo-1756982477661-107a1c72c8fd?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8NXx8Y2F0aG9saWMlMjBGYW1pbHl8ZW58MHx8fHwxNzg4MTgzMTAyfDA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Seljan%20Salimova"
+          ],
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": "",
+          "times": "",
+          "title": "Comunidades de matrimonios",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Costura, taracea, pintura, policromía, ganchillo, punto noruego y ropero misionero. Diversos horarios según los talleres.",
+          "duration": null,
+          "except": [],
+          "id": "evt-d5bb91e8-1d37-445f-89d2-a26f32afe08a",
+          "image": "",
+          "images": [
+            "https://images.pexels.com/photos/27893063/pexels-photo-27893063.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=HONG+SON&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fa-sewing-machine-is-working-on-a-red-fabric-27893063%2F"
+          ],
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": "",
+          "times": "",
+          "title": "Talleres de actividades \"Koinonia\"",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Vivir la fe en un camino catecumenal. Reuniones semanales.",
+          "duration": null,
+          "except": [],
+          "id": "evt-0f5e14c1-dc41-41b2-9cea-c937a5d33980",
+          "image": "",
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": "",
+          "times": "",
+          "title": "Pequeñas comunidades de adultos",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Para crecer intelectual y espiritualmente. Un miércoles al mes a las 20:15h.",
+          "duration": null,
+          "except": [],
+          "id": "evt-4ee9e219-7d52-4717-a03a-33be10747f11",
+          "image": "",
+          "images": [
+            "https://images.pexels.com/photos/10498797/pexels-photo-10498797.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Micah+Eleazar&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fman-giving-a-lecture-10498797%2F"
+          ],
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "we",
+            "monthly"
+          ],
+          "times": "20:15",
+          "title": "Charlas de formación",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Para profundizar más en nuestra fe",
+          "duration": null,
+          "id": "evt-91cb4fc5-f7d0-4c4a-906e-9d81bf2081c5",
+          "image": "",
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "fr"
+          ],
+          "times": "18:00",
+          "title": "Grupo de formación de adultos",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Gran cuidado y servicio de la comunidad. Lunes y jueves por la mañana en Corazón de Jesús. Primer viernes y tercer jueves de mes en Sta. Vicenta María",
+          "duration": null,
+          "except": [],
+          "id": "evt-b54a433f-23f0-46c6-805e-978451b18e91",
+          "image": "",
+          "images": [
+            "https://images.unsplash.com/photo-1740657254989-42fe9c3b8cce?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MXx8Y2F0aG9saWMlMjBDbGVhbmluZ3xlbnwwfHx8fDE3ODgxODI3NDh8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=PuroClean%20of%20Fort%20Worth"
+          ],
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "mo",
+            "th"
+          ],
+          "times": "",
+          "title": "Grupo de limpieza",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Gran cuidado y servicio de la comunidad. Lunes y jueves por la mañana en Corazón de Jesús. Primer viernes y tercer jueves de mes en Sta. Vicenta María",
+          "duration": null,
+          "except": [],
+          "id": "evt-a4c172e0-bd5e-4d0c-bb79-85a0047e731a",
+          "image": "",
+          "images": [
+            "https://images.unsplash.com/photo-1740657254989-42fe9c3b8cce?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MXx8Y2F0aG9saWMlMjBDbGVhbmluZ3xlbnwwfHx8fDE3ODgxODI3NDh8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=PuroClean%20of%20Fort%20Worth"
+          ],
+          "location": "d9f0c76e-d1f9-4ddb-8c54-0cf068643c4a",
+          "rrule": [
+            "fr",
+            "week1"
+          ],
+          "times": "",
+          "title": "Grupo de limpieza",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Coral de adultos.\n\nTres coros juveniles (Misas de 12.00h. y 19.30h) y coro universitario (Misa de 13.30h.)",
+          "duration": null,
+          "except": [],
+          "id": "evt-834af778-d42b-4131-83f9-9247ed6ce9b0",
+          "image": "",
+          "images": [
+            "https://images.unsplash.com/photo-1720186576697-24c1496a07e1?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Mnx8Y2F0aG9saWMlMjBDaG9pcnxlbnwwfHx8fDE3ODgxODMxOTJ8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Green%20Liu"
+          ],
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": "Coros parroquiales",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Un rato a la semana para adorar a Cristo en la Eucaristía y meditar su Palabra.",
+          "duration": null,
+          "id": "evt-5bb4c6ec-b234-4985-92a2-1676df757d69",
+          "image": "",
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "fr"
+          ],
+          "times": "20:15",
+          "title": "Viernes para orar y adorar",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Vivir el mandamiento del amor en el servicio a los más necesitados. Acogida y atención a personas y familias.",
+          "duration": null,
+          "id": "evt-84cfbd62-c4d2-4304-b5ac-9bf55e252b0d",
+          "image": "",
+          "images": [
+            "https://images.pexels.com/photos/6646987/pexels-photo-6646987.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=RDNE+Stock+project&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fa-volunteer-scooping-soup-with-a-ladle-6646987%2F"
+          ],
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "su",
+            "week1"
+          ],
+          "times": "",
+          "title": "Recogida alimentos",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "Charlas de formación y un rato para compartir la amistad entre los mayores. Terceros miércoles de mes a las 17.30h.",
+          "duration": null,
+          "except": [],
+          "id": "evt-ca59284b-faf6-4c22-ba41-3da327745a04",
+          "image": "",
+          "images": [
+            "https://images.unsplash.com/photo-1746798160810-dea6d81d1213?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Nnx8Y2F0aG9saWMlMjBFbGRlcmx5fGVufDB8fHx8MTc4ODE4Mjk0N3ww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Peppe%20Occhipinti"
+          ],
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "we",
+            "week3"
+          ],
+          "times": "17:30",
+          "title": "Tarde de encuentro con nuestros mayores",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
+        },
+        {
+          "celebrants": "",
+          "date": "",
+          "description": "2º Primaria: Domingo 11:00 o martes a las 18:00\n\n3º Primaria: Domingo 11:00 o lunes a las 18:00",
+          "duration": null,
+          "except": [],
+          "id": "evt-65402070-1c81-4f49-aec3-0f1a6633bc71",
+          "image": "",
+          "location": "e6f8ddfe-5be6-48d3-b417-2104848faaa6",
+          "rrule": [
+            "mo",
+            "tu",
+            "su"
+          ],
+          "times": "",
+          "title": "Catequesis infancia y primera comunión",
+          "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
         }
       ],
       "urls": []
@@ -124,6 +453,7 @@
           "description": "Descanse en paz",
           "duration": 45,
           "image": "/media/undefined",
+          "images": [],
           "location": "",
           "rrule": [
             "never"
@@ -144,6 +474,7 @@
           "description": "",
           "duration": 45,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -162,6 +493,7 @@
           "description": "",
           "duration": 45,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -180,10 +512,11 @@
           "description": "",
           "duration": 45,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
-          "title": "Catequesis"
+          "title": ""
         },
         "icon": "heroicons-solid:users",
         "id": "catechism",
@@ -198,6 +531,7 @@
           "description": "",
           "duration": null,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -207,6 +541,23 @@
         "id": "special",
         "label": "Especial",
         "protected": "especial"
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": 45,
+          "image": "",
+          "images": [],
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "icon": "heroicons-solid:user-group",
+        "id": "e4c6e1da-d183-473c-8a0d-316420fe9490",
+        "label": "Grupos"
       }
     ]
   },
@@ -287,7 +638,7 @@
         "description": "",
         "hideHero": false,
         "id": "cf950b52-9b46-4da4-a4b9-2d9415b4d393",
-        "image": "",
+        "image": "https://data.parroquia.app/corazondejesusysantavicenta/media-corazondejesus-5116d919.webp",
         "protected": "Portada",
         "sections": [
           {
@@ -320,6 +671,14 @@
             "type": "calendar"
           },
           {
+            "filter": "mass",
+            "id": "db64023a-cc0f-48fa-a40e-57658178d202",
+            "ordering": "weekday,times,skip,locations,byday-weekday+byweek+notes",
+            "tags": [],
+            "title": "Grupos",
+            "type": "calendar"
+          },
+          {
             "audio": true,
             "id": "6a755e1a-7410-4221-a157-705fff6b69f4",
             "images": true,
@@ -347,7 +706,8 @@
               "https://sallebarne.eus"
             ],
             "tags": [
-              "horizontal"
+              "horizontal",
+              "dark"
             ],
             "title": "Profundiza en tu fe",
             "type": "video-podcast"
@@ -374,7 +734,7 @@
             "type": "video-gospel"
           }
         ],
-        "title": "Portada"
+        "title": "UP Corazón de Jesús y Santa Vicenta María"
       },
       {
         "description": "",
@@ -422,27 +782,27 @@
         "protected": "Plantilla eventos",
         "sections": [
           {
-            "geo": "{{geo}}",
-            "id": "5cc0e861-d94b-49d6-aa76-babb49cbc7d0",
-            "image": "",
-            "name": " {{location}}",
-            "tags": [],
-            "title": "¿Dónde es el evento?",
-            "type": "map"
-          },
-          {
             "html": "{{description}}",
             "id": "52d2eba0-d51c-4205-b0db-850b6d903be8",
             "tags": [],
-            "title": "",
+            "title": " ",
             "type": "text"
           },
           {
             "id": "5fa6a2c6-56e0-48e9-92d4-de40aa74541e",
             "images": [],
             "tags": [],
-            "title": "",
+            "title": " ",
             "type": "gallery"
+          },
+          {
+            "geo": "{{geo}}",
+            "id": "5cc0e861-d94b-49d6-aa76-babb49cbc7d0",
+            "image": "",
+            "name": " {{location}}",
+            "tags": [],
+            "title": "Ubicación",
+            "type": "map"
           }
         ],
         "title": "{title}"
@@ -466,7 +826,8 @@
     "nav": [],
     "pageperevent": [
       "special",
-      "catechism"
+      "catechism",
+      "e4c6e1da-d183-473c-8a0d-316420fe9490"
     ],
     "pageperlocatoin": true
   },

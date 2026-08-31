@@ -808,6 +808,18 @@
           ],
           "title": "",
           "type": "59bd1c60-8644-45b0-9f36-93ae90d4bd6d"
+        },
+        {
+          "date": "2026-08-31",
+          "description": [],
+          "duration": null,
+          "id": "evt-deca50bb-47b4-4993-aec3-80f75084431b",
+          "images": "",
+          "location": "8673e580-852a-432f-b55d-e5f71ba04b55",
+          "rrule": "",
+          "times": "18:00",
+          "title": "Amparo Arbilla Gerendiain",
+          "type": "funeral"
         }
       ],
       "urls": [
@@ -830,6 +842,9 @@
           "description": "Descanse en paz",
           "duration": 45,
           "image": "https://data.parroquia.app/47herri/3-estela-lekunberri.webp",
+          "images": [
+            "https://data.parroquia.app/47herri/3-estela-lekunberri.webp"
+          ],
           "location": "",
           "rrule": [
             "never"
@@ -850,6 +865,9 @@
           "description": "",
           "duration": 45,
           "image": "https://data.parroquia.app/47herri/mass.webp",
+          "images": [
+            "https://data.parroquia.app/47herri/mass.webp"
+          ],
           "location": "",
           "rrule": [],
           "times": "",
@@ -868,6 +886,7 @@
           "description": "",
           "duration": 45,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -886,6 +905,7 @@
           "description": "",
           "duration": 45,
           "image": "https://images.unsplash.com/photo-1569845177077-2a37322a60c7?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8N3x8Y2F0aG9saWMlMjBDYXRlY2lzbXxlbnwwfHx8fDE3ODgxNTU1MjF8MA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Anuja%20Tilj",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -904,6 +924,7 @@
           "description": "",
           "duration": null,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -921,6 +942,9 @@
           "description": "",
           "duration": 60,
           "image": "",
+          "images": [
+            "https://images.unsplash.com/photo-1574786790595-94c66b8740fd?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MXx8Y2F0aG9saWMlMjBBZG9yYXRpb258ZW58MHx8fHwxNzg4MTgwMTg2fDA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Jacob%20Bentzinger"
+          ],
           "location": "",
           "rrule": [],
           "times": "",

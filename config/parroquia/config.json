@@ -55,6 +55,7 @@
           "duration": 45,
           "id": "9531bd93-fccf-4964-98c2-4e4715e87cc0",
           "image": "/media/undefined",
+          "images": [],
           "location": "",
           "rrule": [
             "never"
@@ -76,6 +77,7 @@
           "duration": 45,
           "id": "26fb2c2f-5c6e-4dc5-be40-1a3ed051f409",
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -95,6 +97,7 @@
           "duration": 45,
           "id": "52217e5e-2eb5-45d8-8a91-9f6e7a12dc1c",
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -114,6 +117,7 @@
           "duration": 45,
           "id": "e5dd3f3e-f10c-47d0-bf70-edd5ff7c5686",
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -201,6 +205,7 @@
             "orderNotas": "",
             "orderSubfila": "",
             "orderTabla": "",
+            "ordering": "",
             "tags": [],
             "title": "Nuestras celebraciones",
             "type": "calendar"

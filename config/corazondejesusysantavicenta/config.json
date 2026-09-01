@@ -642,7 +642,7 @@
         "protected": "Portada",
         "sections": [
           {
-            "filter": "byday:empty",
+            "filter": "!dates:empty&byday:empty",
             "id": "b3a2bb8b-6014-4ff4-a7ba-a277b4197885",
             "order": [
               "title"
@@ -671,19 +671,30 @@
             "type": "calendar"
           },
           {
-            "filter": "mass",
-            "id": "db64023a-cc0f-48fa-a40e-57658178d202",
-            "ordering": "weekday,times,skip,locations,byday-weekday+byweek+notes",
+            "eventsToShow": [
+              "e4c6e1da-d183-473c-8a0d-316420fe9490",
+              "catechism"
+            ],
+            "filters": [],
+            "id": "c9f20704-8efd-49dc-bd62-4432f0103832",
             "tags": [],
-            "title": "Grupos",
-            "type": "calendar"
+            "title": "Grupos parroquiales",
+            "type": "eventCards"
+          },
+          {
+            "id": "8e96559d-3d3c-4aa6-9c3e-c097eccb5dcb",
+            "tags": [],
+            "title": "Nuestro equipo parroquial",
+            "type": "team"
           },
           {
             "audio": true,
             "id": "6a755e1a-7410-4221-a157-705fff6b69f4",
             "images": true,
             "readings": false,
-            "tags": [],
+            "tags": [
+              "dark"
+            ],
             "title": "Evangelio de cada día",
             "type": "gospel"
           },
@@ -706,17 +717,16 @@
               "https://sallebarne.eus"
             ],
             "tags": [
-              "horizontal",
-              "dark"
+              "horizontal"
             ],
             "title": "Profundiza en tu fe",
             "type": "video-podcast"
           },
           {
-            "id": "8e96559d-3d3c-4aa6-9c3e-c097eccb5dcb",
+            "id": "56ffb5b4-ea6e-4071-bf50-44ded2b8621a",
             "tags": [],
-            "title": "Nuestro equipo parroquial",
-            "type": "team"
+            "title": "Audios del nuevo testamento",
+            "type": "video-gospel"
           },
           {
             "geo": "",
@@ -726,12 +736,6 @@
             "tags": [],
             "title": "Ven a conocernos",
             "type": "map"
-          },
-          {
-            "id": "56ffb5b4-ea6e-4071-bf50-44ded2b8621a",
-            "tags": [],
-            "title": "Audios del nuevo testamento",
-            "type": "video-gospel"
           }
         ],
         "title": "UP Corazón de Jesús y Santa Vicenta María"

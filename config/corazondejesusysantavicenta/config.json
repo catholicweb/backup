@@ -732,22 +732,6 @@
         "protected": "Portada",
         "sections": [
           {
-            "filter": "{title}",
-            "id": "b3a2bb8b-6014-4ff4-a7ba-a277b4197885",
-            "order": [
-              "title"
-            ],
-            "orderColumna": "empty",
-            "orderFila": "dates",
-            "orderNotas": "locations",
-            "orderSubfila": "times",
-            "orderTabla": "title",
-            "ordering": "",
-            "tags": [],
-            "title": "Próximos eventos",
-            "type": "calendar"
-          },
-          {
             "filter": "",
             "id": "ecfb8218-0ff3-4546-8e31-33f57fd9995e",
             "orderColumna": "empty",
@@ -788,7 +772,9 @@
             ],
             "filters": [],
             "id": "c9f20704-8efd-49dc-bd62-4432f0103832",
-            "tags": [],
+            "tags": [
+              "3d"
+            ],
             "title": "Grupos parroquiales",
             "type": "eventCards"
           },

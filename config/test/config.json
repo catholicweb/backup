@@ -75,6 +75,7 @@
           "date": null,
           "description": "",
           "id": "evt-abd3a455-979a-48c8-bf0f-951e3de286b9",
+          "images": [],
           "location": "4c98205d-979d-4c89-ae8f-fc7081800404",
           "rrule": [
             "mo",
@@ -139,6 +140,7 @@
           "description": "Descanse en paz",
           "duration": 45,
           "image": "/media/undefined",
+          "images": [],
           "location": "",
           "rrule": [
             "never"
@@ -159,6 +161,7 @@
           "description": "",
           "duration": 45,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -177,6 +180,7 @@
           "description": "",
           "duration": 45,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -195,6 +199,7 @@
           "description": "",
           "duration": 45,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -213,6 +218,7 @@
           "description": "",
           "duration": null,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -291,15 +297,6 @@
             "type": "calendar"
           },
           {
-            "audio": true,
-            "id": "6a755e1a-7410-4221-a157-705fff6b69f4",
-            "images": true,
-            "readings": false,
-            "tags": [],
-            "title": "Evangelio de cada día",
-            "type": "gospel"
-          },
-          {
             "id": "24922a34-8536-4681-872b-bb5a93ffa54b",
             "links": [
               "https://open.spotify.com/show/7LonKVvfQIsCp45TM58h7y?si=5974a35003ef4ecb",
@@ -324,6 +321,15 @@
             "type": "video-podcast"
           },
           {
+            "audio": true,
+            "id": "6a755e1a-7410-4221-a157-705fff6b69f4",
+            "images": true,
+            "readings": false,
+            "tags": [],
+            "title": "Evangelio de cada día",
+            "type": "gospel"
+          },
+          {
             "id": "8e96559d-3d3c-4aa6-9c3e-c097eccb5dcb",
             "tags": [],
             "title": "Nuestro equipo parroquial",
@@ -343,6 +349,13 @@
             "tags": [],
             "title": "Audios del nuevo testamento",
             "type": "video-gospel"
+          },
+          {
+            "html": "",
+            "id": "0a8ceff8-c23f-454c-9738-e0b29aed5017",
+            "tags": [],
+            "title": "",
+            "type": "text"
           }
         ],
         "title": "Portada"

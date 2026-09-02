@@ -682,6 +682,17 @@
             "type": "eventCards"
           },
           {
+            "filter": "",
+            "id": "22ad85c7-ee2c-43a2-b2a6-a14cacfe2064",
+            "tags": [
+              "horizontal",
+              "dense",
+              "small"
+            ],
+            "title": "Instagram",
+            "type": "video-instagram"
+          },
+          {
             "id": "8e96559d-3d3c-4aa6-9c3e-c097eccb5dcb",
             "tags": [],
             "title": "Nuestro equipo parroquial",

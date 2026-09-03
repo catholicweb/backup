@@ -1,0 +1,350 @@
+{
+  "calendar": {
+    "events": {
+      "list": [
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-a2a34cd3-42d4-4244-9a1a-0e36c614e086",
+          "images": [],
+          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "rrule": [
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr"
+          ],
+          "times": "20:00",
+          "title": "",
+          "type": "mass"
+        }
+      ],
+      "urls": []
+    }
+  },
+  "event-types": {
+    "list": [
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "Descanse en paz",
+          "duration": 45,
+          "image": "/media/undefined",
+          "images": [],
+          "location": "",
+          "rrule": [
+            "never"
+          ],
+          "times": "",
+          "title": ""
+        },
+        "icon": "mdi:coffin",
+        "id": "funeral",
+        "label": "Funeral",
+        "name": "funeral",
+        "protected": "funeral"
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": 45,
+          "image": "",
+          "images": [
+            "https://images.unsplash.com/photo-1520629716099-d147346eb224?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8MTF8fGNhdGhvbGljJTIwQnJlYWR8ZW58MHx8fHwxNzg4NDQ4NzU0fDA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Debby%20Hudson"
+          ],
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": "Meza"
+        },
+        "icon": "game-icons:jeweled-chalice",
+        "id": "mass",
+        "label": "Eucaristía",
+        "name": "mass",
+        "protected": "eucaristía"
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": 45,
+          "image": "",
+          "images": [],
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "icon": "heroicons-solid:chat-bubble-bottom-center-text",
+        "id": "confessions",
+        "label": "Confesiones",
+        "name": "confessions",
+        "protected": "confesiones"
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": 45,
+          "image": "",
+          "images": [],
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": "Catequesis"
+        },
+        "icon": "heroicons-solid:users",
+        "id": "catechism",
+        "label": "Catequesis",
+        "name": "catechism",
+        "protected": "catequesis"
+      },
+      {
+        "defaults": {
+          "celebrants": [],
+          "date": "",
+          "description": "",
+          "duration": null,
+          "image": "",
+          "images": [],
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "icon": "ph:star-four",
+        "id": "special",
+        "label": "Especial",
+        "protected": "especial"
+      }
+    ]
+  },
+  "info": {
+    "autodiscover": "",
+    "bank": [
+      {
+        "account": "https://www.donoamiiglesia.es",
+        "id": "c2ea92a2-f4a9-4bc5-a90d-1a7842dc58bb",
+        "title": "Dono a mi Iglesia "
+      }
+    ],
+    "collaborators": [],
+    "description": "",
+    "places": [
+      {
+        "address": "Calle Parroquia, 2, 31740, Santesteban, Navarra",
+        "geo": "43.131644, -1.669646",
+        "id": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+        "images": [],
+        "name": " San Pedro",
+        "tags": []
+      }
+    ],
+    "social": [],
+    "title": "Bidasoa"
+  },
+  "nerdy": {
+    "rawJson": ""
+  },
+  "pages": {
+    "languages": [
+      "Español:es",
+      "Euskara:eu",
+      "English:en"
+    ],
+    "list": [
+      {
+        "description": "",
+        "hideHero": false,
+        "id": "cf950b52-9b46-4da4-a4b9-2d9415b4d393",
+        "image": "",
+        "protected": "Portada",
+        "sections": [
+          {
+            "filter": "",
+            "id": "b3a2bb8b-6014-4ff4-a7ba-a277b4197885",
+            "order": [
+              "title"
+            ],
+            "orderColumna": "dates",
+            "orderFila": "title",
+            "orderNotas": "",
+            "orderSubfila": "empty",
+            "orderTabla": "empty",
+            "ordering": "",
+            "tags": [],
+            "title": "Nuestros eventos",
+            "type": "calendar"
+          },
+          {
+            "audio": true,
+            "id": "6a755e1a-7410-4221-a157-705fff6b69f4",
+            "images": true,
+            "readings": false,
+            "tags": [],
+            "title": "Evangelio de cada día",
+            "type": "gospel"
+          },
+          {
+            "id": "24922a34-8536-4681-872b-bb5a93ffa54b",
+            "links": [
+              "https://open.spotify.com/show/7LonKVvfQIsCp45TM58h7y?si=5974a35003ef4ecb",
+              "https://open.spotify.com/show/1sq2MYlTyXKwVvMDqpA3uF?si=f94300ed0c2d498d",
+              "https://youtube.com/playlist?list=PLco5FD9I9WmIbbQTBKMqaMq1kjwiZoO6B",
+              "https://open.spotify.com/show/1oX36lcEOra7ADQCUlE2LY?si=e177f860f0164661",
+              "https://open.spotify.com/show/6y1J3OXyuHGivMhIy7LB4Q?si=23fdbfd73b6645c7",
+              "https://open.spotify.com/show/2stzE1aIR8elv3tEIHNosr?si=f5f8c6b65d82421a",
+              "https://open.spotify.com/show/1zR5ODOgjx1lGObG2gJvox",
+              "https://youtube.com/playlist?list=PL2fBaIU3WZ23ahmPx34yYXDu3yrp-yASO",
+              "https://open.spotify.com/show/2z0RRDpp9rP6urEwdBrGpe?si=256c183f69e0457f",
+              "https://open.spotify.com/show/6FJFJ46Q4aPXIWWDKY9tYf?si=c17c97479bbb4fbe",
+              "https://open.spotify.com/show/1OUhu57FCAscICoEMwyONY?si=5f7ea6ad49394828",
+              "https://open.spotify.com/show/6mpihPJzRA61GEdomhzGqq?si=b59a6acf96104988",
+              "https://open.spotify.com/show/1XWvEFBoCvahdELmEXgSfL",
+              "https://sallebarne.eus"
+            ],
+            "tags": [
+              "masonry"
+            ],
+            "title": "Profundiza en tú fe",
+            "type": "video-podcast"
+          },
+          {
+            "id": "8e96559d-3d3c-4aa6-9c3e-c097eccb5dcb",
+            "tags": [],
+            "title": "Nuestro equipo parroquial",
+            "type": "team"
+          },
+          {
+            "geo": "",
+            "id": "e4439fa1-3b8f-4037-8429-771bb61547fe",
+            "image": "",
+            "name": "",
+            "tags": [],
+            "title": "Ven a conocernos",
+            "type": "map"
+          },
+          {
+            "id": "56ffb5b4-ea6e-4071-bf50-44ded2b8621a",
+            "tags": [],
+            "title": "Audios del nuevo testamento",
+            "type": "video-gospel"
+          }
+        ],
+        "title": "Portada"
+      },
+      {
+        "description": "",
+        "id": "253a3e01-ef1b-4931-800b-37ab2ed48915",
+        "image": "",
+        "protected": "Plantilla templos",
+        "sections": [
+          {
+            "filter": "{{name}}",
+            "id": "5eec7382-c916-4018-868b-3a99280d5f69",
+            "order": [],
+            "orderColumna": "",
+            "orderFila": "",
+            "orderNotas": "",
+            "orderSubfila": "",
+            "orderTabla": "",
+            "ordering": "",
+            "tags": [],
+            "title": "Nuestras celebraciones",
+            "type": "calendar"
+          },
+          {
+            "geo": "{{geo}}",
+            "id": "648a63bf-10d3-4ea9-8488-644bd6f98755",
+            "image": "",
+            "name": "{{name}}}",
+            "tags": [],
+            "title": "Descubre {{name}}",
+            "type": "map"
+          },
+          {
+            "id": "0e1b7802-9bf6-4ae9-a831-f8a4991ef923",
+            "images": [],
+            "tags": [],
+            "title": "",
+            "type": "gallery"
+          },
+          {
+            "action": "Donar",
+            "description": "",
+            "goal": null,
+            "id": "aa0d0c96-10c4-4a21-9488-70ff873286de",
+            "image": "",
+            "name": "",
+            "raised": null,
+            "tags": [
+              "3d"
+            ],
+            "title": "",
+            "type": "fundraising"
+          }
+        ],
+        "title": "{{name}}"
+      },
+      {
+        "description": "",
+        "id": "9b4197c3-cc43-4ebb-8cae-f7928a8ccd86",
+        "image": "",
+        "protected": "Plantilla eventos",
+        "sections": [
+          {
+            "geo": "{{geo}}",
+            "id": "5cc0e861-d94b-49d6-aa76-babb49cbc7d0",
+            "image": "",
+            "name": " {{location}}",
+            "tags": [],
+            "title": "¿Dónde es el evento?",
+            "type": "map"
+          },
+          {
+            "html": "{{description}}",
+            "id": "52d2eba0-d51c-4205-b0db-850b6d903be8",
+            "tags": [],
+            "title": "",
+            "type": "text"
+          },
+          {
+            "id": "5191d69a-56cc-4669-84ce-7b8247e8e5d2",
+            "images": [],
+            "tags": [],
+            "title": "",
+            "type": "gallery"
+          }
+        ],
+        "title": "{{title}}"
+      }
+    ],
+    "nav": [],
+    "pageperevent": [
+      "special",
+      "catechism"
+    ],
+    "pageperlocatoin": true
+  },
+  "theme": {
+    "accentColor": "#6d783e",
+    "accentPrimary": "#0000ff",
+    "bodyFont": "Montserrat",
+    "buttonStyle": "solid",
+    "footerStyle": "",
+    "headingFont": "Merriweather",
+    "icon": "",
+    "image": "https://images.unsplash.com/photo-1546374232-3ec12be8caa6?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Mjd8fG1hcnl8ZW58MHx8fHwxNzg3NjU2MTkzfDA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=DDP",
+    "navStyle": "minimal",
+    "preview": "",
+    "radius": "",
+    "shadow": "",
+    "styles": []
+  }
+}

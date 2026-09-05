@@ -650,14 +650,14 @@
         "title": "Dono a mi Iglesia "
       },
       {
-        "account": "",
+        "account": "05496",
         "id": "16d165d4-1625-4b7d-81ea-6314021f3fc2",
-        "title": "05496 - Bizum Corazón de Jesús"
+        "title": "Bizum Corazón de Jesús"
       },
       {
-        "account": "",
+        "account": "04029",
         "id": "19af55a8-1c0a-4562-85d4-673d8bde44d2",
-        "title": "04029 - Santa Vicenta María"
+        "title": "Bizum Santa Vicenta María"
       }
     ],
     "collaborators": [
@@ -683,7 +683,7 @@
         "social": []
       }
     ],
-    "description": "Web de la Unidad de Atención Pastoral para las parroquias de Corazón de Jesús y Santa Vicenta María",
+    "description": "Unidad de Atención Pastoral de las parroquias de Corazón de Jesús y Santa Vicenta María",
     "places": [
       {
         "address": "Calle Serafín Olave, 21, 31007 Pamplona, Navarra",

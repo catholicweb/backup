@@ -33,7 +33,7 @@
     "description": "",
     "places": [],
     "social": [],
-    "title": ""
+    "title": "Llamados"
   },
   "nerdy": {
     "rawJson": ""
@@ -903,16 +903,19 @@
   },
   "theme": {
     "accentColor": "#ffa500",
+    "accentHue": 56,
     "accentPrimary": "",
     "bodyFont": "Quicksand",
     "buttonStyle": "",
+    "fontPair": "",
     "footerStyle": "",
     "headingFont": "Story Script",
     "icon": "",
     "image": "",
     "navStyle": "default",
-    "radius": "",
+    "radius": 1,
     "shadow": "",
+    "spacingDensity": 1,
     "styles": [
       {
         "cssClass": "opacity: 0;",

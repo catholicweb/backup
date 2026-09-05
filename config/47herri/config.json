@@ -2493,16 +2493,19 @@
   },
   "theme": {
     "accentColor": "#008e4a",
+    "accentHue": 159,
     "accentPrimary": "#ffffff",
     "bodyFont": "Open Sans",
     "buttonStyle": "",
+    "fontPair": "Basque Smile|Open Sans",
     "footerStyle": "",
     "headingFont": "Basque Smile",
     "icon": "https://data.parroquia.app/47herri/android-chrome-512x512.webp",
     "image": "https://data.parroquia.app/47herri/hero-bg.webp",
     "navStyle": "47herri",
     "preview": "",
-    "radius": "",
+    "radius": 0.9,
+    "spacingDensity": 0.9,
     "styles": []
   }
 }

@@ -941,17 +941,20 @@
   },
   "theme": {
     "accentColor": "#f40101",
+    "accentHue": 28,
     "accentPrimary": "#0000ff",
     "bodyFont": "Montserrat",
     "buttonStyle": "solid",
+    "fontPair": "",
     "footerStyle": "",
     "headingFont": "Merriweather",
     "icon": "https://data.parroquia.app/corazondejesusysantavicenta/media-logo-corazon-de-jesus-santa-vicenta-6bec122b.webp",
     "image": "https://data.parroquia.app/corazondejesusysantavicenta/media-unnamed-9ebbccdb.webp",
     "navStyle": "",
     "preview": "",
-    "radius": "",
+    "radius": 1,
     "shadow": "",
+    "spacingDensity": 1,
     "styles": []
   }
 }

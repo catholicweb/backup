@@ -334,9 +334,11 @@
   },
   "theme": {
     "accentColor": "#6d783e",
+    "accentHue": "",
     "accentPrimary": "#0000ff",
     "bodyFont": "Montserrat",
     "buttonStyle": "solid",
+    "fontPair": "",
     "footerStyle": "",
     "headingFont": "Merriweather",
     "icon": "",
@@ -345,6 +347,7 @@
     "preview": "",
     "radius": "",
     "shadow": "",
+    "spacingDensity": 1,
     "styles": []
   }
 }

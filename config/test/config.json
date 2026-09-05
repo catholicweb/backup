@@ -442,11 +442,11 @@
   },
   "theme": {
     "accentColor": "#6d783e",
-    "accentHue": 283,
+    "accentHue": 37,
     "accentPrimary": "#0000ff",
     "bodyFont": "Montserrat",
     "buttonStyle": "solid",
-    "fontPair": "Playfair Display|Source Sans 3",
+    "fontPair": "Dancing Script|Karla",
     "footerStyle": "",
     "headerFooterStyle": "",
     "headingFont": "Merriweather",
@@ -456,11 +456,12 @@
     "motionIntensity": 2,
     "navStyle": "",
     "preview": "",
-    "radius": 1.4,
+    "radius": 0.9,
     "shadow": "",
-    "spacingDensity": 1.05,
+    "spacingDensity": 1,
     "styles": [],
     "surfaceStyle": "soft",
+    "typeScale": 2.9,
     "vibe": "{ \"accentHue\": 160, \"fontPair\": \"Montserrat|Open Sans\", \"typeScale\": \"default\", \"radius\": 0.9, \"spacingDensity\": 1.05, \"motionIntensity\": 8, \"imageTreatment\": \"natural\", \"headerFooterStyle\": \"hero-split|wave\", \"surfaceStyle\": \"soft\" }",
     "vispacingDensity": 1
   }

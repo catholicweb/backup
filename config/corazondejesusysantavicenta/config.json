@@ -732,14 +732,14 @@
         "protected": "Portada",
         "sections": [
           {
-            "filter": "",
+            "filter": "mass",
             "id": "ecfb8218-0ff3-4546-8e31-33f57fd9995e",
             "orderColumna": "empty",
             "orderFila": "times",
             "orderNotas": "",
             "orderSubfila": "locations",
             "orderTabla": "weekday",
-            "ordering": "",
+            "ordering": "weekday,times,skip,locations,byday-weekday+byweek+notes",
             "tags": [],
             "title": "Horario Misas",
             "type": "calendar"
@@ -945,7 +945,7 @@
     "accentPrimary": "#0000ff",
     "bodyFont": "Montserrat",
     "buttonStyle": "solid",
-    "fontPair": "",
+    "fontPair": "Merriweather|Montserrat",
     "footerStyle": "",
     "headingFont": "Merriweather",
     "icon": "https://data.parroquia.app/corazondejesusysantavicenta/media-logo-corazon-de-jesus-santa-vicenta-6bec122b.webp",

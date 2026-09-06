@@ -144,6 +144,14 @@
         "images": [],
         "name": " San Pedro",
         "tags": []
+      },
+      {
+        "address": "Plaza Santa Catalina 1, Legasa",
+        "geo": "43.1297975, -1.6448358",
+        "id": "4af479f0-8157-4399-b6ea-b19621520c5a",
+        "images": [],
+        "name": "Kattalin eliza",
+        "tags": []
       }
     ],
     "social": [],
@@ -154,7 +162,7 @@
   },
   "pages": {
     "languages": [
-      "Español:es",
+      "Castellano:es",
       "Euskara:eu",
       "English:en"
     ],
@@ -334,7 +342,7 @@
   },
   "theme": {
     "accentColor": "#6d783e",
-    "accentHue": "",
+    "accentHue": 213,
     "accentPrimary": "#0000ff",
     "bodyFont": "Montserrat",
     "buttonStyle": "solid",

@@ -126,6 +126,127 @@
           "times": "",
           "title": "Campamento de verano",
           "type": "special"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-5e59dd0d-bba4-4ee4-8dc3-5ab7c8afe7bf",
+          "location": "773c5bed-ccf6-4309-b785-b5e619dbe92f",
+          "rrule": [
+            "su"
+          ],
+          "times": "10:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-b4669a28-59e2-4416-86f9-587fe7dd95d6",
+          "location": "773c5bed-ccf6-4309-b785-b5e619dbe92f",
+          "rrule": [
+            "su",
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "12:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-1b831153-bad0-48b0-9c0c-7035b9f3f83a",
+          "location": "773c5bed-ccf6-4309-b785-b5e619dbe92f",
+          "rrule": [
+            "su"
+          ],
+          "times": "13:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-b08b2010-f130-4f66-a064-80d75b6d1b0e",
+          "location": "773c5bed-ccf6-4309-b785-b5e619dbe92f",
+          "rrule": [
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "19:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-bbeebeba-514d-4277-a771-b3d55c908982",
+          "location": "4d5bb90f-c059-4d7f-9035-cf8889faa9ba",
+          "rrule": [
+            "su"
+          ],
+          "times": "09:30",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-c2fdbb7b-7577-4d6f-9da8-51f0f2031c1f",
+          "location": "4d5bb90f-c059-4d7f-9035-cf8889faa9ba",
+          "rrule": [
+            "su",
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "11:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-05d191f9-a908-4538-b1d2-7af79723c9ae",
+          "location": "4d5bb90f-c059-4d7f-9035-cf8889faa9ba",
+          "rrule": [
+            "su"
+          ],
+          "times": "12:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-6afb6145-c5c4-439c-b873-d03318cdb18c",
+          "location": "4d5bb90f-c059-4d7f-9035-cf8889faa9ba",
+          "rrule": [
+            "mo",
+            "tu",
+            "we",
+            "th",
+            "fr",
+            "sa"
+          ],
+          "times": "19:00",
+          "type": "mass"
+        },
+        {
+          "date": null,
+          "description": "",
+          "id": "evt-b944be4e-78db-49df-8b31-b42618d2ee61",
+          "location": "4d5bb90f-c059-4d7f-9035-cf8889faa9ba",
+          "rrule": [
+            "su"
+          ],
+          "times": "20:00",
+          "type": "mass"
         }
       ],
       "urls": []

@@ -215,99 +215,147 @@
         "tags": []
       },
       {
-        "address": "Plaza Santa Catalina 1, Legasa",
-        "geo": "43.1297975, -1.6448358",
-        "id": "4af479f0-8157-4399-b6ea-b19621520c5a",
+        "address": " 31760",
+        "geo": "43.233558, -1.637321",
+        "id": "6603f74e-d9a6-4a2e-8b39-54e4e61adb24",
         "images": [
-          "https://data.parroquia.app/bidasoa/media-legasa-e65808b2.webp"
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Etxalar.jpg/250px-Etxalar.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Errota_Etxalarren.jpg/250px-Errota_Etxalarren.jpg?photographer=Uranzu",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bidasoa_Tximista_erreka_Etxalar_2_20170917_182715.jpg/250px-Bidasoa_Tximista_erreka_Etxalar_2_20170917_182715.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Bidasoa_Tximista_erreka_Etxalar_3_20170917_182639.jpg/250px-Bidasoa_Tximista_erreka_Etxalar_3_20170917_182639.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Karmen_Etxalarkoa_ibilbidea_02.jpg/250px-Karmen_Etxalarkoa_ibilbidea_02.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Karmen_Etxalarkoa_ibilbidea_03.jpg/250px-Karmen_Etxalarkoa_ibilbidea_03.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Karmen_Etxalarkoa_ibilbidea_01.jpg/250px-Karmen_Etxalarkoa_ibilbidea_01.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Karmen_Etxalarkoa_ibilbidea_04.jpg/250px-Karmen_Etxalarkoa_ibilbidea_04.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Karmen_Etxalarkoa_ibilbidea_05.jpg/250px-Karmen_Etxalarkoa_ibilbidea_05.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Karmen_Etxalarkoa_ibilbidea_06.jpg/250px-Karmen_Etxalarkoa_ibilbidea_06.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Karmen_Etxalarkoa_ibilbidea_07.jpg/250px-Karmen_Etxalarkoa_ibilbidea_07.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Karmen_Etxalarkoa_ibilbidea_08.jpg/250px-Karmen_Etxalarkoa_ibilbidea_08.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Karmen_Etxalarkoa_ibilbidea_09.jpg/250px-Karmen_Etxalarkoa_ibilbidea_09.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eusebio_Etxalarkoa_sortetxea.jpg/250px-Eusebio_Etxalarkoa_sortetxea.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Teodoro_Arburua_sortetxea_1.jpg/250px-Teodoro_Arburua_sortetxea_1.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Teodoro_Arburua_sortetxea_2.jpg/250px-Teodoro_Arburua_sortetxea_2.jpg"
         ],
-        "name": "Legasa",
-        "tags": []
-      },
-      {
-        "address": "",
-        "geo": "",
-        "id": "9465b483-b4e4-47db-9763-9156ded3c05f",
-        "images": [],
-        "name": "Eratsun",
-        "tags": []
-      },
-      {
-        "address": "C. Asunción, 8, 31749 Ezkurra, Navarra",
-        "geo": "",
-        "id": "c8c4a8fd-8c19-4b00-8749-ed08fbb9e55a",
-        "images": [],
-        "name": "Ezkurra",
-        "tags": []
-      },
-      {
-        "address": "",
-        "geo": "",
-        "id": "11f541f4-a832-41d6-941c-1c98a12d4de5",
-        "images": [],
-        "name": "Zubieta",
-        "tags": []
-      },
-      {
-        "address": "",
-        "geo": "",
-        "id": "f5bcdd16-ad62-4d67-b3df-b196a4a4310c",
-        "images": [],
-        "name": "Ituren",
-        "tags": []
-      },
-      {
-        "address": "",
-        "geo": "",
-        "id": "6b355a99-5008-49f7-89fb-0fc81efa978f",
-        "images": [],
-        "name": "Elgorriaga",
-        "tags": []
-      },
-      {
-        "address": "",
-        "geo": "",
-        "id": "c5f3475a-e34d-429e-8ba6-06fd258269d3",
-        "images": [],
-        "name": "Narbarte",
-        "tags": []
-      },
-      {
-        "address": "",
-        "geo": "",
-        "id": "35495c42-68a2-4e77-b17e-39bc5ec0f877",
-        "images": [],
-        "name": "Sunbilla",
-        "tags": []
-      },
-      {
-        "address": "",
-        "geo": "",
-        "id": "43316873-fce5-4323-a281-66a2cfd4e3a2",
-        "images": [],
         "name": "Etxalar",
         "tags": []
       },
       {
         "address": "",
-        "geo": "",
-        "id": "78e8d180-01d4-4249-8ad3-555fa6f6d2fa",
-        "images": [],
-        "name": "Donamaría",
+        "geo": "43.0851129, -1.8248002",
+        "id": "2499be73-1f3a-47df-ab8d-3278f5bf7a52",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ezkurrako_Udala_1.jpg/250px-Ezkurrako_Udala_1.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ezkurrako_Udala_2.jpg/250px-Ezkurrako_Udala_2.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ezkurrako_Udala_4.jpg/250px-Ezkurrako_Udala_4.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ezkurrako_Udala_3.jpg/250px-Ezkurrako_Udala_3.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ezcurra_bus.JPG/250px-Ezcurra_bus.JPG"
+        ],
+        "name": "Ezkurra",
+        "tags": []
+      },
+      {
+        "address": "",
+        "geo": "43.1249707, -1.742525",
+        "id": "0e9230e6-312e-4b73-b4e5-72a8b4678b75",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Zubieta_%281%29.jpg/250px-Zubieta_%281%29.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Puskak_biltzen_Zubietan.jpg/250px-Puskak_biltzen_Zubietan.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Zubietako_joaldunak_iturendarren_bila.jpg/250px-Zubietako_joaldunak_iturendarren_bila.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rayos_De_Sol_%28152979863%29.jpeg/250px-Rayos_De_Sol_%28152979863%29.jpeg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Diente_De_Leon_%28152863059%29.jpeg/250px-Diente_De_Leon_%28152863059%29.jpeg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mirada_Furtiva_%28152841733%29.jpeg/250px-Mirada_Furtiva_%28152841733%29.jpeg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Kokotxea.jpg/250px-Kokotxea.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Zubietako_zubiko_garbitokia.jpg/250px-Zubietako_zubiko_garbitokia.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Kisulbea_Zubietan.jpg/250px-Kisulbea_Zubietan.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Zubietako_zubiko_iturria.jpg/250px-Zubietako_zubiko_iturria.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Goikoetxea_2025._urtean.jpg/250px-Goikoetxea_2025._urtean.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Aingeru_edo_Ibarreneko_iturria.jpg/250px-Aingeru_edo_Ibarreneko_iturria.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Aingeru_edo_Ibarreneko_iturria_%2890873%29.jpg/250px-Aingeru_edo_Ibarreneko_iturria_%2890873%29.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Su_baxua_Goikoetxeako_sukaldean.jpg/250px-Su_baxua_Goikoetxeako_sukaldean.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Zubiko_kisulabe_handia.jpg/250px-Zubiko_kisulabe_handia.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Zubiko_kisulabe_txikia.jpg/250px-Zubiko_kisulabe_txikia.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Joaldunen_prozesioa_20250128_143909.jpg/250px-Joaldunen_prozesioa_20250128_143909.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bandera_pirata_inauterietan_20250128_141223.jpg/250px-Bandera_pirata_inauterietan_20250128_141223.jpg?photographer=Birasuegi",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Ttuntturroa_Zubietako_Kokotxean.jpg/250px-Ttuntturroa_Zubietako_Kokotxean.jpg?photographer=Birasuegi"
+        ],
+        "name": "Zubieta",
+        "tags": []
+      },
+      {
+        "address": " 31745",
+        "geo": "43.1288633, -1.7073185",
+        "id": "7dab3334-53c4-49c8-80cf-3f8eaa5c07d1",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Marizeneko_zubia.jpg/250px-Marizeneko_zubia.jpg?photographer=Txapisotegi%26amp%3Baction%3Dedit%26amp%3Bredlink%3D1",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ituren._.jpg/250px-Ituren._.jpg?photographer=Txapisotegi%26amp%3Baction%3Dedit%26amp%3Bredlink%3D1",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ituren_-_Ituren_-_Tagzania_-_1781524897999.jpg/250px-Ituren_-_Ituren_-_Tagzania_-_1781524897999.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ituren_-_Ituren_-_Tagzania_-_1781524898356.jpg/250px-Ituren_-_Ituren_-_Tagzania_-_1781524898356.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ituren_-_Ituren_-_Tagzania_-_1781524898678.jpg/250px-Ituren_-_Ituren_-_Tagzania_-_1781524898678.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Ituren_-_Ituren_-_Tagzania_-_1781524898948.jpg/250px-Ituren_-_Ituren_-_Tagzania_-_1781524898948.jpg"
+        ],
+        "name": "Ituren",
+        "tags": []
+      },
+      {
+        "address": "",
+        "geo": "43.0832607, -1.796793",
+        "id": "006081ce-a00c-4554-98cb-7bd40d0c13d4",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Eratsungo_Udala_1.jpg/250px-Eratsungo_Udala_1.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eratsungo_Udala_2.jpg/250px-Eratsungo_Udala_2.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Eratsungo_Udala_4.jpg/250px-Eratsungo_Udala_4.jpg?photographer=Lector_d_Wiki"
+        ],
+        "name": "Eratsun",
+        "tags": []
+      },
+      {
+        "address": "",
+        "geo": "43.1122222, -1.6727059",
+        "id": "b4308ff5-ef9b-48a5-a668-db4780edaa2c",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Donamaria%2C_Malerreka_03.jpg/250px-Donamaria%2C_Malerreka_03.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Donamaria%2C_Malerreka_02.jpg/250px-Donamaria%2C_Malerreka_02.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Donamaria%2C_Malerreka_01.jpg/250px-Donamaria%2C_Malerreka_01.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Donamaria%2C_Malerreka_05.jpg/250px-Donamaria%2C_Malerreka_05.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Donamaria%2C_Malerreka_04.jpg/250px-Donamaria%2C_Malerreka_04.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Donamaria%2C_Malerreka_06.jpg/250px-Donamaria%2C_Malerreka_06.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Donamariako_Udala_1.jpg/250px-Donamariako_Udala_1.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Donamariako_Udala_2.jpg/250px-Donamariako_Udala_2.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Donamaria_-_Donamaria_-_Tagzania_-_1780227970894.jpg/250px-Donamaria_-_Donamaria_-_Tagzania_-_1780227970894.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Donamaria_-_Donamaria_-_Tagzania_-_1780227971023.jpg/250px-Donamaria_-_Donamaria_-_Tagzania_-_1780227971023.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Donamaria_-_Donamaria_-_Tagzania_-_1780227971190.jpg/250px-Donamaria_-_Donamaria_-_Tagzania_-_1780227971190.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Donamaria_-_Donamaria_-_Tagzania_-_1780227971421.jpg/250px-Donamaria_-_Donamaria_-_Tagzania_-_1780227971421.jpg"
+        ],
+        "name": "Donamaria",
+        "tags": []
+      },
+      {
+        "address": " 31744",
+        "geo": "43.1384243, -1.687207",
+        "id": "07e3751c-2c15-45a8-8fb6-c7cd0f9fb3f5",
+        "images": [
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Elgorriko_Udala_1.jpg/250px-Elgorriko_Udala_1.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Elgorriko_Udala_2.jpg/250px-Elgorriko_Udala_2.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Elgorriko_Udala_3.jpg/250px-Elgorriko_Udala_3.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Elgorriko_Udala_4.jpg/250px-Elgorriko_Udala_4.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Elgorriko_Udala_6.jpg/250px-Elgorriko_Udala_6.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Elgorriko_Udala_5.jpg/250px-Elgorriko_Udala_5.jpg?photographer=Lector_d_Wiki"
+        ],
+        "name": "Elgorriaga",
         "tags": []
       },
       {
         "address": ", Bertizarana 31793",
         "geo": "43.1333377, -1.6277938",
-        "id": "b35af0e1-f18f-4d9e-87e5-f8a0094405c4",
+        "id": "026c5627-8a62-4c1e-8623-9f085750d007",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/2/2a/Donamaria%2C_Malerreka_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Theklan",
-          "https://upload.wikimedia.org/wikipedia/commons/3/38/Bertizaranako_Udala_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Lector_d_Wiki",
-          "https://upload.wikimedia.org/wikipedia/commons/a/a9/Bertizaranako_Udala_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Lector_d_Wiki",
-          "https://upload.wikimedia.org/wikipedia/commons/8/81/Bertizaranako_Udala_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Lector_d_Wiki",
-          "https://upload.wikimedia.org/wikipedia/commons/d/d3/Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167483698.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/d/d0/Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167483961.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/e/eb/Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167484227.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Donamaria%2C_Malerreka_09.jpg/250px-Donamaria%2C_Malerreka_09.jpg?photographer=Theklan",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Bertizaranako_Udala_1.jpg/250px-Bertizaranako_Udala_1.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bertizaranako_Udala_2.jpg/250px-Bertizaranako_Udala_2.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Bertizaranako_Udala_3.jpg/250px-Bertizaranako_Udala_3.jpg?photographer=Lector_d_Wiki",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167483698.jpg/250px-Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167483698.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167483961.jpg/250px-Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167483961.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167484227.jpg/250px-Narbarte_%28Bertizarana%29_-_Narbarte_-_Tagzania_-_1785167484227.jpg"
         ],
         "name": "Narbarte",
         "tags": []
@@ -315,47 +363,54 @@
       {
         "address": " 31791",
         "geo": "43.1640996, -1.6710173",
-        "id": "59809a9f-d3bd-44ec-8ebd-e5a76e6d92aa",
+        "id": "3b2959a8-4e0e-476b-afb7-5ee040dc951f",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/3/36/Sunbilla_udaletxeko_bertsoa_eta_zubia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Ksarasola",
-          "https://upload.wikimedia.org/wikipedia/commons/7/74/Sunbilla_udaletxea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Ksarasola",
-          "https://upload.wikimedia.org/wikipedia/commons/5/59/Bidasoa_Sunbilan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Ksarasola",
-          "https://upload.wikimedia.org/wikipedia/commons/a/a2/Sunbilla_2026_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/a/ac/Sunbilla_2026_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sunbilla_2026_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/e/ed/Sunbilla_20260124_174929.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/5/57/Sunbilla_2026_01_%28azulejua%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Luistxo",
-          "https://upload.wikimedia.org/wikipedia/commons/3/33/Sunbilla_-_Sunbilla_-_Tagzania_-_1785663937897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sunbilla_-_Sunbilla_-_Tagzania_-_1785663938567.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/3/36/Sunbilla_-_Sunbilla_-_Tagzania_-_1785663939186.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/0/04/Sunbilla_-_Sunbilla_-_Tagzania_-_1785663939773.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sunbilla_udaletxeko_bertsoa_eta_zubia.jpg/250px-Sunbilla_udaletxeko_bertsoa_eta_zubia.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sunbilla_udaletxea.jpg/250px-Sunbilla_udaletxea.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bidasoa_Sunbilan.jpg/250px-Bidasoa_Sunbilan.jpg?photographer=Ksarasola",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sunbilla_2026_01.jpg/250px-Sunbilla_2026_01.jpg?photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Sunbilla_2026_03.jpg/250px-Sunbilla_2026_03.jpg?photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Sunbilla_2026_02.jpg/250px-Sunbilla_2026_02.jpg?photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Sunbilla_20260124_174929.jpg/250px-Sunbilla_20260124_174929.jpg?photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sunbilla_2026_01_%28azulejua%29.jpg/250px-Sunbilla_2026_01_%28azulejua%29.jpg?photographer=Luistxo",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sunbilla_-_Sunbilla_-_Tagzania_-_1785663937897.jpg/250px-Sunbilla_-_Sunbilla_-_Tagzania_-_1785663937897.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Sunbilla_-_Sunbilla_-_Tagzania_-_1785663938567.jpg/250px-Sunbilla_-_Sunbilla_-_Tagzania_-_1785663938567.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Sunbilla_-_Sunbilla_-_Tagzania_-_1785663939186.jpg/250px-Sunbilla_-_Sunbilla_-_Tagzania_-_1785663939186.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Sunbilla_-_Sunbilla_-_Tagzania_-_1785663939773.jpg/250px-Sunbilla_-_Sunbilla_-_Tagzania_-_1785663939773.jpg"
         ],
         "name": "Sunbilla",
         "tags": []
       },
       {
-        "address": " 31760",
-        "geo": "43.233558, -1.637321",
-        "id": "73ed687e-fc0d-4f3c-9329-07a414399be9",
+        "address": " 31740",
+        "geo": "43.1314091, -1.6690844",
+        "id": "27cb795e-8b34-4559-9731-88ccd3e34104",
         "images": [
-          "https://upload.wikimedia.org/wikipedia/commons/c/c2/Etxalar.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/a/a3/Errota_Etxalarren.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Uranzu",
-          "https://upload.wikimedia.org/wikipedia/commons/3/34/Bidasoa_Tximista_erreka_Etxalar_2_20170917_182715.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Ksarasola",
-          "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bidasoa_Tximista_erreka_Etxalar_3_20170917_182639.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original&photographer=Ksarasola",
-          "https://upload.wikimedia.org/wikipedia/commons/5/50/Karmen_Etxalarkoa_ibilbidea_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/9/9f/Karmen_Etxalarkoa_ibilbidea_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/b/b0/Karmen_Etxalarkoa_ibilbidea_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/4/4a/Karmen_Etxalarkoa_ibilbidea_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/c/cc/Karmen_Etxalarkoa_ibilbidea_05.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/a/a5/Karmen_Etxalarkoa_ibilbidea_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/2/29/Karmen_Etxalarkoa_ibilbidea_07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/f/ff/Karmen_Etxalarkoa_ibilbidea_08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/5/5d/Karmen_Etxalarkoa_ibilbidea_09.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/c/c6/Eusebio_Etxalarkoa_sortetxea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/3/31/Teodoro_Arburua_sortetxea_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-          "https://upload.wikimedia.org/wikipedia/commons/3/3b/Teodoro_Arburua_sortetxea_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/EZKILA-DORREA_-_San_Pedro_eliza.jpg/250px-EZKILA-DORREA_-_San_Pedro_eliza.jpg?photographer=Makeip",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Petribeltxenea_%281558%29_etxe-aurrea_-_Karrika_Nagusia.jpg/250px-Petribeltxenea_%281558%29_etxe-aurrea_-_Karrika_Nagusia.jpg?photographer=Makeip",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Armarria_%281%29_-_Petribeltxenearen_%281558%29_etxe-aurrea-_Karrika_Nagusia.jpg/250px-Armarria_%281%29_-_Petribeltxenearen_%281558%29_etxe-aurrea-_Karrika_Nagusia.jpg?photographer=Makeip",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Armarria_%282%29_-_Petribeltxenearen_%281558%29_etxe-aurrea-_Karrika_Nagusia.jpg/250px-Armarria_%282%29_-_Petribeltxenearen_%281558%29_etxe-aurrea-_Karrika_Nagusia.jpg?photographer=Makeip",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Oteitzanea_%281631%29_etxea.jpg/250px-Oteitzanea_%281631%29_etxea.jpg?photographer=Makeip",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oteitzanea_%281631%29_sarrera-atea.jpg/250px-Oteitzanea_%281631%29_sarrera-atea.jpg?photographer=Makeip",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Urte_berri_berri_abestia_-_Doneztebe_%28Nafarroa%29.flac/250px-Urte_berri_berri_abestia_-_Doneztebe_%28Nafarroa%29.flac?photographer=Makeip",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Doneztebe-_Erraldoiak.jpg/250px-Doneztebe-_Erraldoiak.jpg?photographer=Makeip",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Doneztebe-_Erraldoiak_eta_dantzariak.jpg/250px-Doneztebe-_Erraldoiak_eta_dantzariak.jpg?photographer=Makeip",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_01.jpg/250px-Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_01.jpg?photographer=GiorgioGaleotti",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_02.jpg/250px-Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_02.jpg?photographer=GiorgioGaleotti",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_03.jpg/250px-Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_03.jpg?photographer=GiorgioGaleotti",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_04.jpg/250px-Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_04.jpg?photographer=GiorgioGaleotti",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_05.jpg/250px-Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_05.jpg?photographer=GiorgioGaleotti",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_07.jpg/250px-Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_07.jpg?photographer=GiorgioGaleotti",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/The_Ezpelura_River_meets_the_Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024.jpg/250px-The_Ezpelura_River_meets_the_Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024.jpg?photographer=GiorgioGaleotti",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ezpelura_River_-_Santesteban%2C_Spain_-_July_17%2C_2024.jpg/250px-Ezpelura_River_-_Santesteban%2C_Spain_-_July_17%2C_2024.jpg?photographer=GiorgioGaleotti",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Intzakardi_kalea.jpg/250px-Intzakardi_kalea.jpg?photographer=Txapisotegi%26amp%3Baction%3Dedit%26amp%3Bredlink%3D1",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Santesteban_Iglesia_de_San_Pedro.jpg/250px-Santesteban_Iglesia_de_San_Pedro.jpg?photographer=Txo",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Doneztebe_%28Nafarroa_Garaia%29_-_Doneztebe-Santesteban_-_Tagzania_-_1786551493682.jpg/250px-Doneztebe_%28Nafarroa_Garaia%29_-_Doneztebe-Santesteban_-_Tagzania_-_1786551493682.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Doneztebe_%28Nafarroa_Garaia%29_-_Doneztebe-Santesteban_-_Tagzania_-_1786551493996.jpg/250px-Doneztebe_%28Nafarroa_Garaia%29_-_Doneztebe-Santesteban_-_Tagzania_-_1786551493996.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Doneztebe_%28Nafarroa_Garaia%29_-_Doneztebe-Santesteban_-_Tagzania_-_1786551494234.jpg/250px-Doneztebe_%28Nafarroa_Garaia%29_-_Doneztebe-Santesteban_-_Tagzania_-_1786551494234.jpg",
+          "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Doneztebe_%28Nafarroa_Garaia%29_-_Doneztebe-Santesteban_-_Tagzania_-_1786551494457.jpg/250px-Doneztebe_%28Nafarroa_Garaia%29_-_Doneztebe-Santesteban_-_Tagzania_-_1786551494457.jpg"
         ],
-        "name": "Etxalar",
+        "name": "Doneztebe / Santesteban",
         "tags": []
       }
     ],
@@ -473,12 +528,12 @@
             "type": "calendar"
           },
           {
-            "geo": "{{geo}}",
+            "geo": "{geo}",
             "id": "648a63bf-10d3-4ea9-8488-644bd6f98755",
             "image": "",
-            "name": "{{name}}}",
+            "name": "{name}",
             "tags": [],
-            "title": "Descubre {{name}}",
+            "title": "Descubre {name}",
             "type": "map"
           },
           {
@@ -487,23 +542,9 @@
             "tags": [],
             "title": "",
             "type": "gallery"
-          },
-          {
-            "action": "Donar",
-            "description": "",
-            "goal": null,
-            "id": "aa0d0c96-10c4-4a21-9488-70ff873286de",
-            "image": "",
-            "name": "",
-            "raised": null,
-            "tags": [
-              "3d"
-            ],
-            "title": "",
-            "type": "fundraising"
           }
         ],
-        "title": "{{name}}"
+        "title": "{name}"
       },
       {
         "description": "",
@@ -512,16 +553,16 @@
         "protected": "Plantilla eventos",
         "sections": [
           {
-            "geo": "{{geo}}",
+            "geo": "{geo}",
             "id": "5cc0e861-d94b-49d6-aa76-babb49cbc7d0",
             "image": "",
-            "name": " {{location}}",
+            "name": "{location}",
             "tags": [],
             "title": "¿Dónde es el evento?",
             "type": "map"
           },
           {
-            "html": "{{description}}",
+            "html": "{description}",
             "id": "52d2eba0-d51c-4205-b0db-850b6d903be8",
             "tags": [],
             "title": "",
@@ -535,7 +576,7 @@
             "type": "gallery"
           }
         ],
-        "title": "{{title}}"
+        "title": "{title}"
       }
     ],
     "nav": [],
@@ -556,7 +597,6 @@
     "headingFont": "Merriweather",
     "icon": "",
     "image": "https://images.unsplash.com/photo-1546374232-3ec12be8caa6?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Mjd8fG1hcnl8ZW58MHx8fHwxNzg3NjU2MTkzfDA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=DDP",
-    "navStyle": "minimal",
     "preview": "",
     "radius": "",
     "shadow": "",

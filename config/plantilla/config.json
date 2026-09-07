@@ -28,6 +28,7 @@
           "description": "Descanse en paz",
           "duration": 45,
           "image": "/media/undefined",
+          "images": [],
           "location": "",
           "rrule": [
             "never"
@@ -48,6 +49,7 @@
           "description": "",
           "duration": 45,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -66,6 +68,7 @@
           "description": "",
           "duration": 45,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -84,6 +87,7 @@
           "description": "",
           "duration": 45,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -102,6 +106,7 @@
           "description": "",
           "duration": null,
           "image": "",
+          "images": [],
           "location": "",
           "rrule": [],
           "times": "",
@@ -157,6 +162,7 @@
             "orderNotas": "",
             "orderSubfila": "empty",
             "orderTabla": "empty",
+            "ordering": "",
             "tags": [],
             "title": "Nuestros eventos",
             "type": "calendar"
@@ -233,6 +239,7 @@
             "orderNotas": "",
             "orderSubfila": "",
             "orderTabla": "",
+            "ordering": "",
             "tags": [],
             "title": "Nuestras celebraciones",
             "type": "calendar"
@@ -312,40 +319,18 @@
   },
   "theme": {
     "accentColor": "#6d783e",
+    "accentHue": 121,
     "accentPrimary": "#0000ff",
     "bodyFont": "Montserrat",
     "buttonStyle": "solid",
+    "fontPair": "",
     "footerStyle": "",
     "headingFont": "Merriweather",
     "icon": "",
     "image": "https://images.unsplash.com/photo-1546374232-3ec12be8caa6?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8Mjd8fG1hcnl8ZW58MHx8fHwxNzg3NjU2MTkzfDA&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=DDP",
-    "navStyle": "minimal",
     "preview": "",
     "radius": "",
     "shadow": "",
-    "styles": [
-      {
-        "cssClass": [
-          "text-decoration: underline;",
-          "color: rgb(var(--color-accent));"
-        ],
-        "id": "1f79dc3f-a589-4b46-a699-2516ca40025a",
-        "scroll": false,
-        "selector": [
-          "strong",
-          "h1"
-        ]
-      },
-      {
-        "cssClass": [
-          "opacity: 0;"
-        ],
-        "id": "859ff5d8-0a53-438b-ba12-6f0eacae3fec",
-        "scroll": true,
-        "selector": [
-          "ol"
-        ]
-      }
-    ]
+    "spacingDensity": 1
   }
 }

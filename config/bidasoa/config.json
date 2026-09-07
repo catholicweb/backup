@@ -15,7 +15,61 @@
             "th",
             "fr"
           ],
+          "times": "19:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-fed190b8-f2af-46a3-88cc-1a244e00c3ee",
+          "images": "",
+          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "rrule": [
+            "sa"
+          ],
           "times": "20:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-0df2982d-5667-4555-8b08-75b95f50fd7a",
+          "images": "",
+          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "rrule": [
+            "su"
+          ],
+          "times": "12:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-cbe1731e-62f7-43ee-8887-bedab916454b",
+          "images": "",
+          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "rrule": "",
+          "times": "",
+          "title": "Adultos",
+          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-8277f606-fdf9-44e0-a611-2f40b93a4eb6",
+          "images": "",
+          "location": "78e8d180-01d4-4249-8ad3-555fa6f6d2fa",
+          "rrule": [
+            "mo"
+          ],
+          "times": "08:00",
           "title": "",
           "type": "mass"
         }
@@ -122,6 +176,21 @@
         "id": "special",
         "label": "Especial",
         "protected": "especial"
+      },
+      {
+        "defaults": {
+          "date": "",
+          "description": "",
+          "duration": null,
+          "images": [],
+          "location": "",
+          "rrule": [],
+          "times": "",
+          "title": ""
+        },
+        "icon": "heroicons-solid:user-group",
+        "id": "b03fd1b0-b491-47fd-84ae-8ab81805009c",
+        "label": "Grupos"
       }
     ]
   },
@@ -142,15 +211,89 @@
         "geo": "43.131644, -1.669646",
         "id": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
         "images": [],
-        "name": " San Pedro",
+        "name": "Santesteban",
         "tags": []
       },
       {
         "address": "Plaza Santa Catalina 1, Legasa",
         "geo": "43.1297975, -1.6448358",
         "id": "4af479f0-8157-4399-b6ea-b19621520c5a",
+        "images": [
+          "https://data.parroquia.app/bidasoa/media-legasa-e65808b2.webp"
+        ],
+        "name": "Legasa",
+        "tags": []
+      },
+      {
+        "address": "",
+        "geo": "",
+        "id": "9465b483-b4e4-47db-9763-9156ded3c05f",
         "images": [],
-        "name": "Kattalin eliza",
+        "name": "Eratsun",
+        "tags": []
+      },
+      {
+        "address": "C. Asunción, 8, 31749 Ezkurra, Navarra",
+        "geo": "",
+        "id": "c8c4a8fd-8c19-4b00-8749-ed08fbb9e55a",
+        "images": [],
+        "name": "Ezkurra",
+        "tags": []
+      },
+      {
+        "address": "",
+        "geo": "",
+        "id": "11f541f4-a832-41d6-941c-1c98a12d4de5",
+        "images": [],
+        "name": "Zubieta",
+        "tags": []
+      },
+      {
+        "address": "",
+        "geo": "",
+        "id": "f5bcdd16-ad62-4d67-b3df-b196a4a4310c",
+        "images": [],
+        "name": "Ituren",
+        "tags": []
+      },
+      {
+        "address": "",
+        "geo": "",
+        "id": "6b355a99-5008-49f7-89fb-0fc81efa978f",
+        "images": [],
+        "name": "Elgorriaga",
+        "tags": []
+      },
+      {
+        "address": "",
+        "geo": "",
+        "id": "c5f3475a-e34d-429e-8ba6-06fd258269d3",
+        "images": [],
+        "name": "Narbarte",
+        "tags": []
+      },
+      {
+        "address": "",
+        "geo": "",
+        "id": "35495c42-68a2-4e77-b17e-39bc5ec0f877",
+        "images": [],
+        "name": "Sunbilla",
+        "tags": []
+      },
+      {
+        "address": "",
+        "geo": "",
+        "id": "43316873-fce5-4323-a281-66a2cfd4e3a2",
+        "images": [],
+        "name": "Etxalar",
+        "tags": []
+      },
+      {
+        "address": "",
+        "geo": "",
+        "id": "78e8d180-01d4-4249-8ad3-555fa6f6d2fa",
+        "images": [],
+        "name": "Donamaría",
         "tags": []
       }
     ],

@@ -451,6 +451,20 @@
             "type": "calendar"
           },
           {
+            "eventsToShow": [
+              "b03fd1b0-b491-47fd-84ae-8ab81805009c",
+              "special",
+              "catechism"
+            ],
+            "filters": [],
+            "id": "d82e6ab4-6ecf-4aa2-af64-4629000a97c2",
+            "tags": [
+              "masonry"
+            ],
+            "title": "Grupos parroquiales",
+            "type": "eventCards"
+          },
+          {
             "audio": true,
             "id": "6a755e1a-7410-4221-a157-705fff6b69f4",
             "images": true,
@@ -462,20 +476,9 @@
           {
             "id": "24922a34-8536-4681-872b-bb5a93ffa54b",
             "links": [
+              "https://sallebarne.eus",
               "https://open.spotify.com/show/7LonKVvfQIsCp45TM58h7y?si=5974a35003ef4ecb",
-              "https://open.spotify.com/show/1sq2MYlTyXKwVvMDqpA3uF?si=f94300ed0c2d498d",
-              "https://youtube.com/playlist?list=PLco5FD9I9WmIbbQTBKMqaMq1kjwiZoO6B",
-              "https://open.spotify.com/show/1oX36lcEOra7ADQCUlE2LY?si=e177f860f0164661",
-              "https://open.spotify.com/show/6y1J3OXyuHGivMhIy7LB4Q?si=23fdbfd73b6645c7",
-              "https://open.spotify.com/show/2stzE1aIR8elv3tEIHNosr?si=f5f8c6b65d82421a",
-              "https://open.spotify.com/show/1zR5ODOgjx1lGObG2gJvox",
-              "https://youtube.com/playlist?list=PL2fBaIU3WZ23ahmPx34yYXDu3yrp-yASO",
-              "https://open.spotify.com/show/2z0RRDpp9rP6urEwdBrGpe?si=256c183f69e0457f",
-              "https://open.spotify.com/show/6FJFJ46Q4aPXIWWDKY9tYf?si=c17c97479bbb4fbe",
-              "https://open.spotify.com/show/1OUhu57FCAscICoEMwyONY?si=5f7ea6ad49394828",
-              "https://open.spotify.com/show/6mpihPJzRA61GEdomhzGqq?si=b59a6acf96104988",
-              "https://open.spotify.com/show/1XWvEFBoCvahdELmEXgSfL",
-              "https://sallebarne.eus"
+              "https://youtube.com/playlist?list=PL2fBaIU3WZ23ahmPx34yYXDu3yrp-yASO"
             ],
             "tags": [
               "masonry"

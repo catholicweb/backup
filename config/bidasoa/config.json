@@ -65,13 +65,368 @@
           "duration": null,
           "id": "evt-8277f606-fdf9-44e0-a611-2f40b93a4eb6",
           "images": "",
-          "location": "78e8d180-01d4-4249-8ad3-555fa6f6d2fa",
+          "location": "b4308ff5-ef9b-48a5-a668-db4780edaa2c",
           "rrule": [
-            "mo"
+            "mo,tu,we,th,fr",
+            "sa"
           ],
           "times": "08:00",
           "title": "",
           "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-9fd835e6-ef90-4501-85e4-2763750ebc05",
+          "images": "",
+          "location": "006081ce-a00c-4554-98cb-7bd40d0c13d4",
+          "rrule": [
+            "th"
+          ],
+          "times": "10:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-05715e02-8de1-4b3c-b35a-2b7133c359e8",
+          "images": "",
+          "location": "006081ce-a00c-4554-98cb-7bd40d0c13d4",
+          "rrule": [
+            "sa"
+          ],
+          "times": "18:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-0d3f787a-3f77-457e-a724-c91a8d73cf0e",
+          "images": "",
+          "location": "2499be73-1f3a-47df-ab8d-3278f5bf7a52",
+          "rrule": [
+            "sa"
+          ],
+          "times": "17:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-755b93ed-fc89-4e5a-8c67-e2e5786aa178",
+          "images": "",
+          "location": "0e9230e6-312e-4b73-b4e5-72a8b4678b75",
+          "rrule": [
+            "su"
+          ],
+          "times": "10:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-bbacd3e8-7e63-4291-8790-f4fcea21520d",
+          "images": "",
+          "location": "7dab3334-53c4-49c8-80cf-3f8eaa5c07d1",
+          "rrule": [
+            "su"
+          ],
+          "times": "11:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-b6769c48-5103-4fcc-80af-1a42c391da1a",
+          "images": "",
+          "location": "7dab3334-53c4-49c8-80cf-3f8eaa5c07d1",
+          "rrule": [
+            "tu"
+          ],
+          "times": "18:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-676a8156-03bd-43fd-a650-ab12d5fbbecc",
+          "images": "",
+          "location": "07e3751c-2c15-45a8-8fb6-c7cd0f9fb3f5",
+          "rrule": [
+            "su"
+          ],
+          "times": "12:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-34491e37-d73f-47e5-b993-a684a4523e25",
+          "images": "",
+          "location": "026c5627-8a62-4c1e-8623-9f085750d007",
+          "rrule": [
+            "su"
+          ],
+          "times": "11:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-e0d6bab0-b747-4166-b506-5cb80dea07a7",
+          "images": "",
+          "location": "3b2959a8-4e0e-476b-afb7-5ee040dc951f",
+          "rrule": [
+            "mo"
+          ],
+          "times": "18:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-c5c23ae0-a9b6-4916-bce0-1e6e460c42f3",
+          "images": "",
+          "location": "3b2959a8-4e0e-476b-afb7-5ee040dc951f",
+          "rrule": [
+            "su"
+          ],
+          "times": "10:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-5980fd1e-1bd0-49f6-82ea-c182909c2dbd",
+          "images": "",
+          "location": "6603f74e-d9a6-4a2e-8b39-54e4e61adb24",
+          "rrule": [
+            "su"
+          ],
+          "times": "12:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-b467edec-94db-4c63-9581-29ee2eea8efb",
+          "images": "",
+          "location": "b4308ff5-ef9b-48a5-a668-db4780edaa2c",
+          "rrule": [
+            "su"
+          ],
+          "times": "09:00",
+          "title": "",
+          "type": "mass"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-c734f597-8a91-47bc-b45a-0eec57fd1628",
+          "images": "",
+          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "rrule": [
+            "fr"
+          ],
+          "times": "20:00",
+          "title": "Confirmación",
+          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-f2dec312-cebb-4e22-be72-04d8975d2680",
+          "images": [
+            "https://images.pexels.com/photos/639172/pexels-photo-639172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Oliver+Mussiett&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Ffocused-male-lecturer-reading-report-on-tribune-with-microphone-639172%2F"
+          ],
+          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "rrule": [
+            "sa"
+          ],
+          "times": "",
+          "title": "Escuela de teología",
+          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-96255a0b-9cab-4d8e-939e-1649722d188a",
+          "images": [
+            "https://images.pexels.com/photos/36634161/pexels-photo-36634161.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=atelierbyvineeth+.+.+.&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fopen-prayer-book-in-irish-church-interior-36634161%2F"
+          ],
+          "location": "",
+          "rrule": [
+            "sa"
+          ],
+          "times": "",
+          "title": "Liturgia",
+          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-5aae2cbe-af8d-4e3d-8e3d-6fbbb2017c76",
+          "images": [
+            "https://images.pexels.com/photos/20208219/pexels-photo-20208219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=paul+otero+garcia&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fnewlywed-couple-holding-couple-20208219%2F"
+          ],
+          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "rrule": "",
+          "times": "",
+          "title": "Pre-matrimonial",
+          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-14177149-b6d0-4d11-9282-d4fe4324cebf",
+          "images": [
+            "https://images.unsplash.com/photo-1544015066-b2c47a7d3305?ixid=M3wxMDIyOTU1fDB8MXxzZWFyY2h8N3x8Y2F0aG9saWMlMjBFbGRlcmx5fGVufDB8fHx8MTc4ODk1MDY5MXww&ixlib=rb-4.1.0&w=1600&q=80&fit=crop&auto=format&photographer=Daniele%20Levis%20Pelusi"
+          ],
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "Visitas a nuestros mayores",
+          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-96e07bd6-5de5-47b7-9b52-a359dc00ab38",
+          "images": [
+            "https://images.pexels.com/photos/36857527/pexels-photo-36857527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Mico+Medel&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fcolorful-religious-street-market-stall-products-36857527%2F"
+          ],
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "Mercadillo",
+          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-2d99b7e8-bbc7-48da-8d37-5c924c3c2a74",
+          "images": "",
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "Comunión",
+          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-f8da0f8e-7cb5-46f5-ae0d-922bd19afd6e",
+          "images": "",
+          "location": "3b2959a8-4e0e-476b-afb7-5ee040dc951f",
+          "rrule": [
+            "we"
+          ],
+          "times": "17:00",
+          "title": "Comunión",
+          "type": "catechism"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-2e947573-34fe-4d40-9477-a750cef23be3",
+          "images": "",
+          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "rrule": [
+            "we"
+          ],
+          "times": "",
+          "title": "Comunión",
+          "type": "catechism"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-d622ad4a-d509-4294-bc03-c69178cf2ede",
+          "images": "",
+          "location": "7dab3334-53c4-49c8-80cf-3f8eaa5c07d1",
+          "rrule": [
+            "tu"
+          ],
+          "times": "17:00",
+          "title": "Comunión",
+          "type": "catechism"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-1af2df99-2adf-48d7-aca0-cc27817a27a1",
+          "images": "",
+          "location": "0e9230e6-312e-4b73-b4e5-72a8b4678b75",
+          "rrule": [
+            "su"
+          ],
+          "times": "",
+          "title": "Comunión",
+          "type": "catechism"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-101f01be-20ac-40cf-bfa5-9ba6a6e6661d",
+          "images": "",
+          "location": "2499be73-1f3a-47df-ab8d-3278f5bf7a52",
+          "rrule": [
+            "su"
+          ],
+          "times": "",
+          "title": "Comunión",
+          "type": "catechism"
         }
       ],
       "urls": []
@@ -392,7 +747,6 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Armarria_%282%29_-_Petribeltxenearen_%281558%29_etxe-aurrea-_Karrika_Nagusia.jpg/250px-Armarria_%282%29_-_Petribeltxenearen_%281558%29_etxe-aurrea-_Karrika_Nagusia.jpg?photographer=Makeip",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Oteitzanea_%281631%29_etxea.jpg/250px-Oteitzanea_%281631%29_etxea.jpg?photographer=Makeip",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Oteitzanea_%281631%29_sarrera-atea.jpg/250px-Oteitzanea_%281631%29_sarrera-atea.jpg?photographer=Makeip",
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Urte_berri_berri_abestia_-_Doneztebe_%28Nafarroa%29.flac/250px-Urte_berri_berri_abestia_-_Doneztebe_%28Nafarroa%29.flac?photographer=Makeip",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Doneztebe-_Erraldoiak.jpg/250px-Doneztebe-_Erraldoiak.jpg?photographer=Makeip",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Doneztebe-_Erraldoiak_eta_dantzariak.jpg/250px-Doneztebe-_Erraldoiak_eta_dantzariak.jpg?photographer=Makeip",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_01.jpg/250px-Ezkurra_River_-_Santesteban%2C_Spain_-_July_17%2C_2024_01.jpg?photographer=GiorgioGaleotti",
@@ -435,7 +789,7 @@
         "protected": "Portada",
         "sections": [
           {
-            "filter": "",
+            "filter": "mass",
             "id": "b3a2bb8b-6014-4ff4-a7ba-a277b4197885",
             "order": [
               "title"
@@ -445,7 +799,7 @@
             "orderNotas": "",
             "orderSubfila": "empty",
             "orderTabla": "empty",
-            "ordering": "",
+            "ordering": "weekday,times,skip,locations,byday-weekday+byweek+notes",
             "tags": [],
             "title": "Nuestros eventos",
             "type": "calendar"
@@ -458,11 +812,20 @@
             ],
             "filters": [],
             "id": "d82e6ab4-6ecf-4aa2-af64-4629000a97c2",
-            "tags": [
-              "masonry"
-            ],
+            "tags": [],
             "title": "Grupos parroquiales",
             "type": "eventCards"
+          },
+          {
+            "filters": [
+              "geo"
+            ],
+            "id": "5123e48b-c6d1-446e-ab5c-c6d2dac7cada",
+            "tags": [
+              "vertical"
+            ],
+            "title": "Nuestros pueblos",
+            "type": "town"
           },
           {
             "audio": true,
@@ -585,7 +948,6 @@
     "nav": [],
     "pageperevent": [
       "special",
-      "catechism",
       "b03fd1b0-b491-47fd-84ae-8ab81805009c"
     ],
     "pageperlocatoin": true

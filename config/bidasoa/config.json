@@ -558,7 +558,22 @@
         "title": "Dono a mi Iglesia "
       }
     ],
-    "collaborators": [],
+    "collaborators": [
+      {
+        "id": "1f0760c9-acd5-4664-8e4a-9690269f0288",
+        "image": "",
+        "name": "Juan Zabala",
+        "phonenumber": "",
+        "social": []
+      },
+      {
+        "id": "7c510085-0f49-4ca6-a133-e73058df7abc",
+        "image": "",
+        "name": "Miguel Arrieta ",
+        "phonenumber": "",
+        "social": []
+      }
+    ],
     "description": "",
     "places": [
       {
@@ -805,6 +820,14 @@
             "type": "calendar"
           },
           {
+            "filter": "!byday:empty&!mass",
+            "id": "47583831-554d-4d1a-a18c-84295333c00b",
+            "ordering": "title,dates,skip,times,locations",
+            "tags": [],
+            "title": "Otros eventos periódicos",
+            "type": "calendar"
+          },
+          {
             "eventsToShow": [
               "b03fd1b0-b491-47fd-84ae-8ab81805009c",
               "special"
@@ -840,10 +863,14 @@
             "links": [
               "https://sallebarne.eus",
               "https://open.spotify.com/show/7LonKVvfQIsCp45TM58h7y?si=5974a35003ef4ecb",
-              "https://youtube.com/playlist?list=PL2fBaIU3WZ23ahmPx34yYXDu3yrp-yASO"
+              "https://youtube.com/playlist?list=PL2fBaIU3WZ23ahmPx34yYXDu3yrp-yASO",
+              "https://open.spotify.com/show/1zR5ODOgjx1lGObG2gJvox",
+              "https://open.spotify.com/show/2z0RRDpp9rP6urEwdBrGpe?si=256c183f69e0457f",
+              "https://open.spotify.com/show/6FJFJ46Q4aPXIWWDKY9tYf?si=c17c97479bbb4fbe",
+              "https://open.spotify.com/show/1XWvEFBoCvahdELmEXgSfL"
             ],
             "tags": [
-              "masonry"
+              "horizontal"
             ],
             "title": "Profundiza en tú fe",
             "type": "video-podcast"
@@ -866,11 +893,11 @@
           {
             "id": "56ffb5b4-ea6e-4071-bf50-44ded2b8621a",
             "tags": [],
-            "title": "Audios del nuevo testamento",
+            "title": "Itun berria",
             "type": "video-gospel"
           }
         ],
-        "title": "Portada"
+        "title": "Bidasoa"
       },
       {
         "description": "",

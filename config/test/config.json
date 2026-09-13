@@ -247,6 +247,44 @@
           ],
           "times": "20:00",
           "type": "mass"
+        },
+        {
+          "date": "2026-09-20",
+          "description": [],
+          "duration": null,
+          "id": "evt-ac4f1139-bebf-4c77-9f52-9d0bbfbc171a",
+          "images": "",
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "",
+          "type": ""
+        },
+        {
+          "date": "",
+          "description": "Que guay!",
+          "duration": null,
+          "id": "evt-b51026e5-d460-4e08-8b95-536b73ae3127",
+          "images": "",
+          "location": [
+            "Roma"
+          ],
+          "rrule": "",
+          "times": "",
+          "title": "",
+          "type": "catechism"
+        },
+        {
+          "date": "",
+          "description": [],
+          "duration": null,
+          "id": "evt-d4a1b07e-0ff3-4dd5-afdd-d4df6e4fd301",
+          "images": "",
+          "location": "",
+          "rrule": "",
+          "times": "",
+          "title": "",
+          "type": "mass"
         }
       ],
       "urls": []
@@ -363,24 +401,7 @@
     ],
     "collaborators": [],
     "description": "",
-    "places": [
-      {
-        "address": "Avenida de Egüés, 54-A, 31620, Gorráiz, Navarra",
-        "geo": "42.8229819, -1.5785081",
-        "id": "3a4371a6-1845-469e-9ede-841535950c2d",
-        "images": [],
-        "name": " San Esteban",
-        "tags": []
-      },
-      {
-        "address": "Calle Garajonay, 11, 31621, Sarriguren, Navarra",
-        "geo": "42.812822, -1.5996135",
-        "id": "4c98205d-979d-4c89-ae8f-fc7081800404",
-        "images": [],
-        "name": " Santa Engracia",
-        "tags": []
-      }
-    ],
+    "places": [],
     "social": [],
     "title": "Sitio de pruebas"
   },

@@ -77,13 +77,7 @@
           "id": "evt-abd3a455-979a-48c8-bf0f-951e3de286b9",
           "images": [],
           "location": "4c98205d-979d-4c89-ae8f-fc7081800404",
-          "rrule": [
-            "mo",
-            "tu",
-            "we",
-            "th",
-            "fr"
-          ],
+          "rrule": [],
           "times": "07:15",
           "type": "mass"
         },
@@ -197,16 +191,9 @@
           "date": null,
           "description": "",
           "id": "evt-c2fdbb7b-7577-4d6f-9da8-51f0f2031c1f",
+          "images": [],
           "location": "4d5bb90f-c059-4d7f-9035-cf8889faa9ba",
-          "rrule": [
-            "su",
-            "mo",
-            "tu",
-            "we",
-            "th",
-            "fr",
-            "sa"
-          ],
+          "rrule": [],
           "times": "11:00",
           "type": "mass"
         },

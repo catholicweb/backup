@@ -386,7 +386,15 @@
         "title": "Dono a mi Iglesia "
       }
     ],
-    "collaborators": [],
+    "collaborators": [
+      {
+        "id": "1aea87fb-a3e3-4fba-ac4a-46a1acfcaf44",
+        "image": "",
+        "name": "",
+        "phonenumber": "",
+        "social": []
+      }
+    ],
     "description": "",
     "places": [],
     "social": [],

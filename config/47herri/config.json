@@ -820,6 +820,31 @@
           "times": "18:00",
           "title": "Amparo Arbilla Gerendiain",
           "type": "funeral"
+        },
+        {
+          "date": "2026-09-22",
+          "description": [],
+          "duration": null,
+          "id": "evt-f4504ea3-a073-4d5c-9742-864f49847957",
+          "images": "",
+          "location": "c7767cb6-8dc4-487c-b0df-781653b1b165",
+          "rrule": "",
+          "times": "17:00",
+          "title": "Benita Iturria Matxikote",
+          "type": "funeral"
+        },
+        {
+          "date": "2026-09-22",
+          "description": [],
+          "duration": null,
+          "except": [],
+          "id": "evt-39c19863-8a2f-4b23-9e6f-f11a3acfe989",
+          "images": "",
+          "location": "c7767cb6-8dc4-487c-b0df-781653b1b165",
+          "rrule": "",
+          "times": "17:00",
+          "title": "Benita Iturria Matxikote",
+          "type": "funeral"
         }
       ],
       "urls": [

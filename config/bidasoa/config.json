@@ -7,7 +7,7 @@
           "description": "",
           "id": "evt-a2a34cd3-42d4-4244-9a1a-0e36c614e086",
           "images": [],
-          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
           "rrule": [
             "mo",
             "tu",
@@ -25,7 +25,7 @@
           "duration": null,
           "id": "evt-fed190b8-f2af-46a3-88cc-1a244e00c3ee",
           "images": "",
-          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
           "rrule": [
             "sa"
           ],
@@ -39,7 +39,7 @@
           "duration": null,
           "id": "evt-0df2982d-5667-4555-8b08-75b95f50fd7a",
           "images": "",
-          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
           "rrule": [
             "su"
           ],
@@ -53,7 +53,10 @@
           "duration": null,
           "id": "evt-cbe1731e-62f7-43ee-8887-bedab916454b",
           "images": "",
-          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "location": [
+            "27cb795e-8b34-4559-9731-88ccd3e34104",
+            "3b2959a8-4e0e-476b-afb7-5ee040dc951f"
+          ],
           "rrule": "",
           "times": "",
           "title": "Adultos",
@@ -67,8 +70,7 @@
           "images": "",
           "location": "b4308ff5-ef9b-48a5-a668-db4780edaa2c",
           "rrule": [
-            "mo,tu,we,th,fr",
-            "sa"
+            "mo,tu,we,th,fr"
           ],
           "times": "08:00",
           "title": "",
@@ -184,7 +186,9 @@
           "except": [],
           "id": "evt-34491e37-d73f-47e5-b993-a684a4523e25",
           "images": "",
-          "location": "026c5627-8a62-4c1e-8623-9f085750d007",
+          "location": [
+            "Narbarte/Legasa"
+          ],
           "rrule": [
             "su"
           ],
@@ -258,7 +262,7 @@
           "duration": null,
           "id": "evt-c734f597-8a91-47bc-b45a-0eec57fd1628",
           "images": "",
-          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
           "rrule": [
             "fr"
           ],
@@ -274,7 +278,7 @@
           "images": [
             "https://images.pexels.com/photos/639172/pexels-photo-639172.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Oliver+Mussiett&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Ffocused-male-lecturer-reading-report-on-tribune-with-microphone-639172%2F"
           ],
-          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
           "rrule": [
             "sa"
           ],
@@ -295,7 +299,7 @@
             "sa"
           ],
           "times": "",
-          "title": "Liturgia",
+          "title": "Grupo de liturgia",
           "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         },
         {
@@ -306,7 +310,7 @@
           "images": [
             "https://images.pexels.com/photos/20208219/pexels-photo-20208219.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=paul+otero+garcia&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fnewlywed-couple-holding-couple-20208219%2F"
           ],
-          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
+          "location": "27cb795e-8b34-4559-9731-88ccd3e34104",
           "rrule": "",
           "times": "",
           "title": "Pre-matrimonial",
@@ -335,10 +339,12 @@
           "images": [
             "https://images.pexels.com/photos/36857527/pexels-photo-36857527.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940&photographer=Mico+Medel&url=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fcolorful-religious-street-market-stall-products-36857527%2F"
           ],
-          "location": "",
+          "location": [
+            "27cb795e-8b34-4559-9731-88ccd3e34104"
+          ],
           "rrule": "",
           "times": "",
-          "title": "Mercadillo",
+          "title": "Mercadillo solidario",
           "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         },
         {
@@ -347,86 +353,57 @@
           "duration": null,
           "id": "evt-2d99b7e8-bbc7-48da-8d37-5c924c3c2a74",
           "images": "",
-          "location": "",
+          "location": [
+            "0e9230e6-312e-4b73-b4e5-72a8b4678b75",
+            "2499be73-1f3a-47df-ab8d-3278f5bf7a52",
+            "3b2959a8-4e0e-476b-afb7-5ee040dc951f",
+            "7dab3334-53c4-49c8-80cf-3f8eaa5c07d1",
+            "27cb795e-8b34-4559-9731-88ccd3e34104"
+          ],
           "rrule": "",
           "times": "",
-          "title": "Comunión",
+          "title": "Catequesis primera comunión",
           "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         },
         {
           "date": "",
           "description": [],
           "duration": null,
-          "except": [],
-          "id": "evt-f8da0f8e-7cb5-46f5-ae0d-922bd19afd6e",
+          "id": "evt-f726f06f-39ff-400e-a693-c7b546ef452e",
           "images": "",
-          "location": "3b2959a8-4e0e-476b-afb7-5ee040dc951f",
-          "rrule": [
-            "we"
+          "location": [
+            "27cb795e-8b34-4559-9731-88ccd3e34104"
           ],
-          "times": "17:00",
-          "title": "Comunión",
-          "type": "catechism"
-        },
-        {
-          "date": "",
-          "description": [],
-          "duration": null,
-          "except": [],
-          "id": "evt-2e947573-34fe-4d40-9477-a750cef23be3",
-          "images": "",
-          "location": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
-          "rrule": [
-            "we"
-          ],
+          "rrule": "",
           "times": "",
-          "title": "Comunión",
-          "type": "catechism"
+          "title": "Formación para catequistas",
+          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         },
         {
           "date": "",
           "description": [],
           "duration": null,
-          "except": [],
-          "id": "evt-d622ad4a-d509-4294-bc03-c69178cf2ede",
+          "id": "evt-7f56ed8b-494b-47cd-a3c3-1eddc5d70745",
           "images": "",
-          "location": "7dab3334-53c4-49c8-80cf-3f8eaa5c07d1",
-          "rrule": [
-            "tu"
-          ],
-          "times": "17:00",
-          "title": "Comunión",
-          "type": "catechism"
-        },
-        {
-          "date": "",
-          "description": [],
-          "duration": null,
-          "except": [],
-          "id": "evt-1af2df99-2adf-48d7-aca0-cc27817a27a1",
-          "images": "",
-          "location": "0e9230e6-312e-4b73-b4e5-72a8b4678b75",
-          "rrule": [
-            "su"
-          ],
+          "location": "",
+          "rrule": "",
           "times": "",
-          "title": "Comunión",
-          "type": "catechism"
+          "title": "Viajes parroquiales",
+          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         },
         {
           "date": "",
           "description": [],
           "duration": null,
-          "except": [],
-          "id": "evt-101f01be-20ac-40cf-bfa5-9ba6a6e6661d",
-          "images": "",
-          "location": "2499be73-1f3a-47df-ab8d-3278f5bf7a52",
-          "rrule": [
-            "su"
+          "id": "evt-4d86394d-dbf8-47c3-8ce2-b43353bf3b1d",
+          "images": [
+            "https://data.parroquia.app/bidasoa/media-caritas-2d7510f6.webp"
           ],
+          "location": "",
+          "rrule": "",
           "times": "",
-          "title": "Comunión",
-          "type": "catechism"
+          "title": "Cáritas",
+          "type": "b03fd1b0-b491-47fd-84ae-8ab81805009c"
         }
       ],
       "urls": []
@@ -577,14 +554,6 @@
     "description": "",
     "places": [
       {
-        "address": "Calle Parroquia, 2, 31740, Santesteban, Navarra",
-        "geo": "43.131644, -1.669646",
-        "id": "bd7beeef-f765-4137-8c9a-8491f5d5535c",
-        "images": [],
-        "name": "Santesteban",
-        "tags": []
-      },
-      {
         "address": " 31760",
         "geo": "43.233558, -1.637321",
         "id": "6603f74e-d9a6-4a2e-8b39-54e4e61adb24",
@@ -696,7 +665,7 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Donamaria_-_Donamaria_-_Tagzania_-_1780227971190.jpg/250px-Donamaria_-_Donamaria_-_Tagzania_-_1780227971190.jpg",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Donamaria_-_Donamaria_-_Tagzania_-_1780227971421.jpg/250px-Donamaria_-_Donamaria_-_Tagzania_-_1780227971421.jpg"
         ],
-        "name": "Donamaria",
+        "name": "Carmelitas Donamaria",
         "tags": []
       },
       {
@@ -711,7 +680,7 @@
           "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Elgorriko_Udala_6.jpg/250px-Elgorriko_Udala_6.jpg?photographer=Lector_d_Wiki",
           "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Elgorriko_Udala_5.jpg/250px-Elgorriko_Udala_5.jpg?photographer=Lector_d_Wiki"
         ],
-        "name": "Elgorriaga",
+        "name": "Elgorri",
         "tags": []
       },
       {
@@ -752,7 +721,7 @@
         "tags": []
       },
       {
-        "address": " 31740",
+        "address": "Calle Parroquia, 2, 31740, Santesteban, Navarra",
         "geo": "43.1314091, -1.6690844",
         "id": "27cb795e-8b34-4559-9731-88ccd3e34104",
         "images": [
@@ -816,7 +785,7 @@
             "orderTabla": "empty",
             "ordering": "weekday,times,skip,locations,byday-weekday+byweek+notes",
             "tags": [],
-            "title": "Nuestros eventos",
+            "title": "Meza ordutegia",
             "type": "calendar"
           },
           {
@@ -848,7 +817,7 @@
             "type": "town"
           },
           {
-            "audio": true,
+            "audio": false,
             "id": "6a755e1a-7410-4221-a157-705fff6b69f4",
             "images": true,
             "readings": false,
@@ -865,11 +834,11 @@
               "https://open.spotify.com/show/1zR5ODOgjx1lGObG2gJvox",
               "https://open.spotify.com/show/2z0RRDpp9rP6urEwdBrGpe?si=256c183f69e0457f",
               "https://open.spotify.com/show/6FJFJ46Q4aPXIWWDKY9tYf?si=c17c97479bbb4fbe",
-              "https://open.spotify.com/show/1XWvEFBoCvahdELmEXgSfL"
+              "https://open.spotify.com/show/1XWvEFBoCvahdELmEXgSfL",
+              "https://www.youtube.com/watch?v=ESNa1vdHcYY",
+              "https://www.youtube.com/watch?v=03pYP2Nmreo"
             ],
-            "tags": [
-              "horizontal"
-            ],
+            "tags": [],
             "title": "Profundiza en tú fe",
             "type": "video-podcast"
           },
@@ -893,6 +862,17 @@
             "tags": [],
             "title": "Itun berria",
             "type": "video-gospel"
+          },
+          {
+            "id": "0c2325e7-51e5-4efb-929c-8189475df6a0",
+            "links": [
+              "https://www.vatican.va/content/vatican/es.html",
+              "https://iglesianavarra.org/",
+              "https://vocacion.iglesianavarra.org/"
+            ],
+            "tags": [],
+            "title": "No te pierdas",
+            "type": "links"
           }
         ],
         "title": "Bidasoa"

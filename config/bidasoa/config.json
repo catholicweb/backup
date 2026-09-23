@@ -409,6 +409,9 @@
       "urls": []
     }
   },
+  "dev": {
+    "siteurl": "bidasoa.parrokia.eus"
+  },
   "event-types": {
     "list": [
       {

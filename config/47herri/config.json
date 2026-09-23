@@ -832,6 +832,18 @@
           "times": "17:00",
           "title": "Benita Iturria Matxikote",
           "type": "funeral"
+        },
+        {
+          "date": "2026-09-23",
+          "description": [],
+          "duration": null,
+          "id": "evt-b0890e8b-cc5e-4124-add1-bb8db703373c",
+          "images": "",
+          "location": "befe17d4-2024-4618-8ff6-180cb5bdfe6b",
+          "rrule": "",
+          "times": "18:00",
+          "title": "Miguel Tomás Auza Balda ",
+          "type": "funeral"
         }
       ],
       "urls": [

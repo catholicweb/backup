@@ -792,14 +792,6 @@
             "type": "calendar"
           },
           {
-            "filter": "!byday:empty&!mass",
-            "id": "47583831-554d-4d1a-a18c-84295333c00b",
-            "ordering": "title,dates,skip,times,locations",
-            "tags": [],
-            "title": "Otros eventos periódicos",
-            "type": "calendar"
-          },
-          {
             "eventsToShow": [
               "b03fd1b0-b491-47fd-84ae-8ab81805009c",
               "special"
@@ -807,7 +799,7 @@
             "filters": [],
             "id": "d82e6ab4-6ecf-4aa2-af64-4629000a97c2",
             "tags": [],
-            "title": "Grupos parroquiales",
+            "title": "Gure taldeak",
             "type": "eventCards"
           },
           {
@@ -825,7 +817,7 @@
             "images": true,
             "readings": false,
             "tags": [],
-            "title": "Evangelio de cada día",
+            "title": "Eguneroko ebangelioa",
             "type": "gospel"
           },
           {
@@ -878,7 +870,7 @@
             "type": "links"
           }
         ],
-        "title": "Bidasoa"
+        "title": "Bidasoko parrokiak"
       },
       {
         "description": "",
@@ -970,6 +962,11 @@
     "headingFont": "Merriweather",
     "icon": "",
     "image": "https://data.parroquia.app/bidasoa/media-mendaur-cb9e475b.webp",
+    "navStyle": [
+      "transparent",
+      "heroBg",
+      "scheme:dark"
+    ],
     "preview": "",
     "radius": 0.9,
     "shadow": "",

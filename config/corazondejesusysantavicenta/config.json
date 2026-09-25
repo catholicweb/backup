@@ -441,18 +441,6 @@
           "type": "e4c6e1da-d183-473c-8a0d-316420fe9490"
         },
         {
-          "date": "",
-          "description": [],
-          "duration": null,
-          "id": "evt-eabc3d3d-0052-4cd5-91c5-bd14c56cdd29",
-          "images": "",
-          "location": "",
-          "rrule": "",
-          "times": "",
-          "title": "",
-          "type": "funeral"
-        },
-        {
           "date": "2026-09-06",
           "description": [],
           "duration": null,
@@ -507,18 +495,6 @@
           "times": "",
           "title": "Peregrinación parroquial a Lourdes",
           "type": "special"
-        },
-        {
-          "date": "",
-          "description": [],
-          "duration": null,
-          "id": "evt-91ea76cb-160d-4d5e-9c9b-81351017db44",
-          "images": "",
-          "location": "",
-          "rrule": "",
-          "times": "",
-          "title": "",
-          "type": "funeral"
         }
       ],
       "urls": []
@@ -861,7 +837,7 @@
             "orderNotas": "",
             "orderSubfila": "byday",
             "orderTabla": "title",
-            "ordering": "",
+            "ordering": "byday,times,skip,title,notes",
             "tags": [],
             "title": "Horarios",
             "type": "calendar"

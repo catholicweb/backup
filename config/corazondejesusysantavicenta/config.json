@@ -837,7 +837,7 @@
             "orderNotas": "",
             "orderSubfila": "byday",
             "orderTabla": "title",
-            "ordering": "byday,times,skip,title,notes",
+            "ordering": "title,weekday,skip,times,byday-weekday+byweek+notes",
             "tags": [],
             "title": "Horarios",
             "type": "calendar"

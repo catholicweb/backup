@@ -844,6 +844,19 @@
           "times": "18:00",
           "title": "Miguel Tomás Auza Balda ",
           "type": "funeral"
+        },
+        {
+          "date": "2026-10-01",
+          "description": [],
+          "id": "evt-6e4bf9c4-8b5a-4c57-bf3a-a1ffa94521dc",
+          "images": "",
+          "location": [
+            "6914c0d4-1751-4afc-beb1-530b85b4d03b"
+          ],
+          "rrule": "",
+          "times": "19:30",
+          "title": "Manuel Javier Arotzarena",
+          "type": "funeral"
         }
       ],
       "urls": [
